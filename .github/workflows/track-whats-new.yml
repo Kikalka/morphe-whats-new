@@ -2,7 +2,7 @@ name: Track Morphe what's new
 
 on:
   schedule:
-    - cron: "0 22 * * *"   # daily at 22:00 UTC (midnight in Belgium in summer)
+    - cron: "0 6,16 * *  *"   # daily at 06:00 and 16:00 UTC
   workflow_dispatch:        # lets you run it manually from the Actions tab
 
 permissions:
@@ -12,21 +12,66 @@ jobs:
   track:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - name: Download and pretty-print the JSON
-        run: curl -fsSL https://morphe-patches.software/data/whats-new.json | jq . > whats-new.json
+      - name: Download the JSON
+        run: curl -fsSL https://morphe-patches.software/data/whats-new.json -o /tmp/whats-new.json
 
-      - name: Commit if something changed
+      - name: Work out what is new
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add whats-new.json
-          if git diff --cached --quiet; then
-            echo "No changes"
+          python3 - <<'EOF'
+          import json, os
+          from collections import defaultdict
+
+          data = json.load(open("/tmp/whats-new.json"))
+          latest_date = data[0]["date"] if data else ""
+
+          # Every (app, bundle, patch) currently listed on the site
+          current = set()
+          for day in data:
+              for bundle, b in day.get("bundles", {}).items():
+                  for app, a in b.get("apps", {}).items():
+                      for patch in a.get("patches", []):
+                          current.add((app, bundle, patch))
+
+          first_run = not os.path.exists("seen.json")
+          seen = set() if first_run else {tuple(x) for x in json.load(open("seen.json"))}
+          seen_apps = {app for app, _, _ in seen}
+          new = sorted(current - seen)
+
+          msg = ""
+          if first_run:
+              msg = f"Started tracking Morphe patches ({len(current)} patches)\n"
+          elif new:
+              grouped = defaultdict(list)
+              for app, bundle, patch in new:
+                  grouped[(app, bundle)].append(patch)
+              new_apps = {app for app, _ in grouped if app not in seen_apps}
+              subject = f"Morphe: {len(new)} new patches"
+              if new_apps:
+                  subject += f", {len(new_apps)} new apps"
+              subject += f" ({latest_date})"
+              lines = [subject, ""]
+              for (app, bundle), patches in sorted(grouped.items(), key=lambda kv: (kv[0][0] in seen_apps, kv[0])):
+                  tag = "NEW APP: " if app not in seen_apps else ""
+                  lines.append(f"{tag}{app} ({bundle})")
+                  lines += [f"  - {p}" for p in patches]
+                  lines.append("")
+              msg = "\n".join(lines)
+
+          if msg:
+              json.dump(sorted(seen | current), open("seen.json", "w"), indent=0)
+          open("/tmp/commit-msg.txt", "w").write(msg)
+          EOF
+
+      - name: Commit if something is new
+        run: |
+          if [ ! -s /tmp/commit-msg.txt ]; then
+            echo "Nothing new"
             exit 0
           fi
-          DATE=$(jq -r '.[0].date' whats-new.json)
-          BUNDLES=$(jq -r '.[0].bundles | keys | join(", ")' whats-new.json)
-          git commit -m "What's new $DATE: $BUNDLES"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen.json
+          git commit -F /tmp/commit-msg.txt
           git push
