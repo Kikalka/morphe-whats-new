@@ -2,10 +2,51 @@
   {
     "date": "October 1, 2026",
     "bundles": {
+      "Hxreborn": {
+        "apps": {
+          "com.adithya.memoneet": {
+            "patches": [
+              "GmsCore support",
+              "Unlock premium"
+            ],
+            "isNew": true
+          },
+          "com.nieruo.healthapp": {
+            "patches": [
+              "Max intimacy level",
+              "Remove app protection",
+              "Remove usage limits",
+              "Unlimited cat coins",
+              "Unlock premium"
+            ],
+            "isNew": true
+          }
+        }
+      },
+      "Bugg4": {
+        "apps": {
+          "com.insigniadpfgmailcom.oplmonitor": {
+            "patches": [
+              "Remove license check",
+              "Change installer source",
+              "Remove ads",
+              "Remove internet permission",
+              "Spoof app version"
+            ],
+            "isNew": true
+          }
+        },
+        "isNew": true
+      },
       "HushGram": {
         "apps": {
           "com.instagram.android": {
             "patches": [
+              "Hide group buttons on the share sheet",
+              "Hide the Repost button",
+              "Remove the empty space at the bottom",
+              "Show if a profile follows you",
+              "Story ring size",
               "Open developer options",
               "Pure black dark mode",
               "Start on x86 devices",
@@ -18,10 +59,71 @@
           }
         }
       },
+      "ComoEstaisAmigos": {
+        "apps": {
+          "com.glu.android.zombsniper": {
+            "patches": [
+              "Render at 720p"
+            ]
+          }
+        }
+      },
+      "Hushfeed": {
+        "apps": {
+          "com.zhiliaoapp.musically": {
+            "patches": [
+              "Hide profile shortcuts",
+              "Change app name"
+            ]
+          }
+        }
+      },
+      "Epxec": {
+        "apps": {
+          "net.daylio": {
+            "patches": [
+              "Enable Premium"
+            ]
+          }
+        }
+      },
+      "Steam Link GalaxyXR": {
+        "apps": {
+          "com.valvesoftware.steamlinkvr": {
+            "patches": [
+              "Background blue-noise dithering (experimental)",
+              "Foveal blue-noise dithering (experimental)",
+              "Full-FOV foveal canvas (experimental)"
+            ]
+          }
+        }
+      },
+      "Plyrs1": {
+        "apps": {
+          "com.google.android.projection.gearhead": {
+            "patches": [
+              "Allow sideloaded apps"
+            ],
+            "isNew": true
+          }
+        }
+      },
+      "Santodan": {
+        "apps": {
+          "com.alticelabs.meo.androidtv": {
+            "patches": [
+              "MEO - Side-by-side installation",
+              "MEO - Spoof supported device"
+            ],
+            "isNew": true
+          }
+        }
+      },
       "Hushfacebook": {
         "apps": {
           "com.facebook.katana": {
             "patches": [
+              "Hide the Feeds header",
               "Keep post dates",
               "Tab bar at the bottom",
               "Hide Meta AI questions under posts"
@@ -29,19 +131,33 @@
           }
         }
       },
-      "Bugg4": {
+      "LOCKhart07": {
         "apps": {
-          "com.insigniadpfgmailcom.oplmonitor": {
+          "com.wb.headsup": {
             "patches": [
-              "Change installer source",
-              "Remove ads",
-              "Remove internet permission",
-              "Spoof app version"
-            ],
-            "isNew": true
+              "Round length"
+            ]
           }
-        },
-        "isNew": true
+        }
+      },
+      "Brave": {
+        "apps": {
+          "com.brave.browser": {
+            "patches": [
+              "Brave NTP four-column tiles"
+            ]
+          },
+          "com.brave.browser_beta": {
+            "patches": [
+              "Brave NTP four-column tiles"
+            ]
+          },
+          "com.brave.browser_nightly": {
+            "patches": [
+              "Brave NTP four-column tiles"
+            ]
+          }
+        }
       },
       "Satwik-Miyyapuram": {
         "apps": {
@@ -68,15 +184,6 @@
           }
         },
         "isNew": true
-      },
-      "Hushfeed": {
-        "apps": {
-          "com.zhiliaoapp.musically": {
-            "patches": [
-              "Change app name"
-            ]
-          }
-        }
       }
     }
   },
@@ -2910,86 +3017,6 @@
           "com.zhiliaoapp.musically": {
             "patches": [
               "Display Refresh Rate Governor"
-            ]
-          },
-          "com.brave.browser": {
-            "patches": [
-              "Clean New Tab Page",
-              "Clean Share URL",
-              "Sensor Privacy Guard"
-            ]
-          }
-        }
-      },
-      "Heval": {
-        "apps": {
-          "easynotes.notes.notepad.notebook.privatenotes.note": {
-            "patches": [
-              "Disable ads",
-              "Enable Premium"
-            ],
-            "isNew": true
-          },
-          "net.dinglisch.android.taskerm": {
-            "patches": [
-              "Enable Full Version"
-            ],
-            "isNew": true
-          },
-          "org.kman.AquaMail": {
-            "patches": [
-              "Enable Premium"
-            ],
-            "isNew": true
-          },
-          "me.kavishdevar.librepods": {
-            "patches": [
-              "Enable Premium"
-            ],
-            "isNew": true
-          },
-          "com.monefy.app.lite": {
-            "patches": [
-              "Enable Premium"
-            ],
-            "isNew": true
-          },
-          "eu.faircode.email": {
-            "patches": [
-              "Enable Pro"
-            ],
-            "isNew": true
-          },
-          "com.wunderground.android.weather": {
-            "patches": [
-              "Remove ads"
-            ],
-            "isNew": true
-          }
-        }
-      },
-      "Zeldris": {
-        "apps": {
-          "com.zing.zalo": {
-            "patches": [
-              "Remove media backup age limit",
-              "Suppress outbound typing status"
-            ]
-          }
-        }
-      },
-      "Hxreborn": {
-        "apps": {
-          "ringtonemaker.musiccutter.customringtones.freeringtonemaker": {
-            "patches": [
-              "Remove rating prompts",
-              "Unlock premium"
-            ],
-            "isNew": true
-          },
-          "ch.protonmail.android": {
-            "patches": [
-              "Custom accent color"
             ]
           }
         }
