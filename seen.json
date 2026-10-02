@@ -320,6 +320,46 @@
 "Separate Chrome Morphe installation"
 ],
 [
+"com.angel.klikk",
+"Media",
+"Anonymous user"
+],
+[
+"com.angel.klikk",
+"Media",
+"Bypass device check"
+],
+[
+"com.angel.klikk",
+"Media",
+"Free content"
+],
+[
+"com.angel.klikk",
+"Media",
+"VPN active"
+],
+[
+"com.angel.klikk.tv",
+"Media",
+"Bypass device check"
+],
+[
+"com.angel.klikk.tv",
+"Media",
+"Disable update"
+],
+[
+"com.angel.klikk.tv",
+"Media",
+"Fake user"
+],
+[
+"com.angel.klikk.tv",
+"Media",
+"Free content"
+],
+[
 "com.anghami",
 "Nady",
 "Disable audio ads"
@@ -468,6 +508,16 @@
 "com.bandcamp.android",
 "Nai64 Extra",
 "Unlock Playback Speed"
+],
+[
+"com.banglalink.toffee",
+"Media",
+"Splash ad"
+],
+[
+"com.banglalink.toffee",
+"Media",
+"VPN active"
 ],
 [
 "com.bongo.bongobd",
@@ -1185,6 +1235,36 @@
 "Disable In-Built Browser"
 ],
 [
+"com.facebook.lite",
+"ToThangGTVT",
+"Hide sponsored posts"
+],
+[
+"com.facebook.lite",
+"ToThangGTVT",
+"Install beside Meta's apps"
+],
+[
+"com.facebook.lite",
+"ToThangGTVT",
+"Morphe settings"
+],
+[
+"com.facebook.lite",
+"ToThangGTVT",
+"Use system font"
+],
+[
+"com.facebook.lite",
+"ToThangGTVT",
+"Use system font in feed"
+],
+[
+"com.facebook.lite",
+"ToThangGTVT",
+"Video download and auto next reel"
+],
+[
 "com.facebook.orca",
 "HushMessenger",
 "Allow chat bubbles"
@@ -1757,6 +1837,11 @@
 [
 "com.google.android.apps.photos",
 "Akash Sriram",
+"Enable Photos Library Toolkit"
+],
+[
+"com.google.android.apps.photos",
+"Akash Sriram",
 "Fix memory style font loading"
 ],
 [
@@ -1838,6 +1923,26 @@
 "com.google.android.projection.gearhead",
 "Plyrs1",
 "Allow sideloaded apps"
+],
+[
+"com.gotipath.deeptotv",
+"Media",
+"Ad campaign"
+],
+[
+"com.gotipath.deeptotv",
+"Media",
+"Content access"
+],
+[
+"com.gotipath.deeptotvapp",
+"Media",
+"Ad campaign"
+],
+[
+"com.gotipath.deeptotvapp",
+"Media",
+"Content access"
 ],
 [
 "com.greenstone.pocketwhip",
@@ -1973,6 +2078,11 @@
 "com.instagram.android",
 "HushGram",
 "Clean up Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Copy comment"
 ],
 [
 "com.instagram.android",
@@ -2323,6 +2433,11 @@
 "com.kiloo.subwaysurf",
 "Legendsciber",
 "Subway Surfers Free IAP"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Restore deleted posts"
 ],
 [
 "com.letterboxd.letterboxd",
@@ -2778,6 +2893,11 @@
 "com.samsung.android.homemode",
 "Giaaaacomo",
 "Enable phone support"
+],
+[
+"com.sauzask.nicoid",
+"Chikuwadon",
+"nicoid Re"
 ],
 [
 "com.sbs.ondemand.android",
@@ -3671,6 +3791,66 @@
 ],
 [
 "org.telegram.messenger.web",
+"HushTelegram",
+"Disable analytics"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Disable call debug upload"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Disable update checks"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide Premium, gifts and Stars"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide Stories"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide ads"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide promotional banners"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide recommendations"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide sponsored proxy channel"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"HushTelegram settings"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Open links externally"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Strip link tracking"
+],
+[
+"org.telegram.messenger.web",
 "newuser7171",
 "Anti-delete messages"
 ],
@@ -3983,6 +4163,11 @@
 "tv.twitch.android.app",
 "Canic",
 "Show stream latency"
+],
+[
+"tv.twitch.android.app",
+"Kizu",
+"Twitch Enhancement"
 ],
 [
 "tv.twitch.android.app",
