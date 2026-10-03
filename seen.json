@@ -180,6 +180,86 @@
 "Unlock premium"
 ],
 [
+"com.adobe.scan.android",
+"Aidan",
+"Remove Ads and Tracking"
+],
+[
+"com.adobe.scan.android",
+"Aidan",
+"Remove Login"
+],
+[
+"com.adobe.scan.android",
+"Aidan",
+"Remove Useless/Promotional Items"
+],
+[
+"com.adobe.scan.android",
+"Aidan",
+"Unlock Premium"
+],
+[
+"com.adobe.scan.android",
+"Aidan",
+"Use System Font"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Add Copy Tracking Number Option"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Bypass Native Signature Check"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Custom Google Maps API Key"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Full AMOLED Theme"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Hide Broken Tracking Map"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"OpenStreetMap Drop-in Replacement"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Remove Ads and Tracking"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Remove AfterShip Account Page Links"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Remove Feedback"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Remove Login"
+],
+[
+"com.aftership.AfterShip",
+"Aidan",
+"Remove Shipment Sync"
+],
+[
 "com.airofit.elite",
 "Nickcomua",
 "Experimental Pro 2 compatibility adapter (Elite 1.9.0)"
@@ -445,6 +525,11 @@
 "Unlock playback limits"
 ],
 [
+"com.antoinehabert.truthordaregame",
+"Mubelotix",
+"Activates premium features"
+],
+[
 "com.appsomniacs.mmc",
 "Satwik-Miyyapuram",
 "Remove ad SDK auto-start"
@@ -463,6 +548,26 @@
 "com.appums.music_pitcher_radio",
 "MightyMich",
 "Unlock Pro Features"
+],
+[
+"com.ashtoncofer.Buzz",
+"Aidan",
+"Enable Developer Settings"
+],
+[
+"com.ashtoncofer.Buzz",
+"Aidan",
+"Remove Tracking and Analytics"
+],
+[
+"com.ashtoncofer.Buzz",
+"Aidan",
+"Replace Emoji Font with iOS"
+],
+[
+"com.ashtoncofer.Buzz",
+"Aidan",
+"Replace Emoji Font with iOS Asset"
 ],
 [
 "com.atlogis.atlomaps",
@@ -635,6 +740,11 @@
 "Enable offline mode"
 ],
 [
+"com.citynav.jakdojade.pl.android",
+"Mubelotix",
+"Activates premium features"
+],
+[
 "com.cv.docscanner",
 "byehi98",
 "Doc Scanner Premium"
@@ -798,6 +908,21 @@
 "com.dv.adm",
 "Oyasumi",
 "Increase connection limits"
+],
+[
+"com.eab.se",
+"Aidan",
+"Remove Tracking and Telemetry"
+],
+[
+"com.eab.se",
+"Aidan",
+"Remove Web Telemetry"
+],
+[
+"com.easybrain.sudoku.android",
+"Mubelotix",
+"Disable ads"
 ],
 [
 "com.facebook.katana",
@@ -998,6 +1123,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Download any video"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Force dark mode"
 ],
 [
 "com.facebook.katana",
@@ -1357,6 +1487,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hide joined community chats"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide read receipts"
 ],
 [
@@ -1408,6 +1543,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Send photos at original quality"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Slide chats in and out"
 ],
 [
 "com.facebook.orca",
@@ -1955,6 +2095,11 @@
 "Unlock premium"
 ],
 [
+"com.gustavcaves.notizenwidget",
+"Epxec",
+"Enable Premium"
+],
+[
 "com.habitrpg.android.habitica",
 "Plyrs1",
 "Disable Google Services"
@@ -2137,6 +2282,21 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide highlights"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide suggested accounts in Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide suggested people on profiles"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide suggested posts"
 ],
 [
@@ -2167,7 +2327,22 @@
 [
 "com.instagram.android",
 "HushGram",
+"Keep Reels auto scroll on"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Keep a seek bar on Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Keep the reel speed"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Loop a story"
 ],
 [
 "com.instagram.android",
@@ -2217,6 +2392,16 @@
 [
 "com.instagram.android",
 "HushGram",
+"Save comment photo"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Show a story's exact time"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Show if a profile follows you"
 ],
 [
@@ -2232,7 +2417,17 @@
 [
 "com.instagram.android",
 "HushGram",
+"Stop Reels scrolling"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Stop Story auto-advance"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Stop swipe to create"
 ],
 [
 "com.instagram.android",
@@ -2248,6 +2443,11 @@
 "com.instagram.android",
 "HushGram",
 "Turn off double tap to like"
+],
+[
+"com.instagram.android",
+"HushGram",
+"View DM photos and videos anonymously"
 ],
 [
 "com.instagram.android",
@@ -2272,7 +2472,17 @@
 [
 "com.instagram.barcelona",
 "HushThreads",
+"Block background-return feed refresh"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
 "Disable analytics"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Disable video autoplay"
 ],
 [
 "com.instagram.barcelona",
@@ -2282,7 +2492,17 @@
 [
 "com.instagram.barcelona",
 "HushThreads",
+"Hide suggested users"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
 "HushThreads settings"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Open links in browser"
 ],
 [
 "com.instagram.barcelona",
@@ -2298,6 +2518,16 @@
 "com.instagram.barcelona",
 "HushThreads",
 "Sanitize sharing links"
+],
+[
+"com.instagram.barcelona",
+"Zeldris",
+"Open links externally"
+],
+[
+"com.instructure.candroid",
+"Aidan",
+"Remove Tracking and Analytics"
 ],
 [
 "com.jaindarshan.panchangtithi",
@@ -2800,6 +3030,11 @@
 "Lifetime Premium"
 ],
 [
+"com.picolo.android",
+"Mubelotix",
+"Activates premium features"
+],
+[
 "com.pikpok.dr2.play",
 "byehi98",
 "AD Instant Rewards"
@@ -2818,6 +3053,56 @@
 "com.pikpok.dr2.play",
 "byehi98",
 "IAP Grant Trigger"
+],
+[
+"com.pinterest",
+"Mubelotix",
+"Remove GMA ads"
+],
+[
+"com.pinterest",
+"Mubelotix",
+"Remove promoted content"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Disable AppsFlyer tracking"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Disable Google Engage"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Disable email confirmation dialog"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Hide Search nav button"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Morphe settings entry"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Morphe settings screen (label)"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Morphe settings screen (manifest)"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Neutralize advertising ID"
 ],
 [
 "com.playrix.gardenscapes",
@@ -2881,8 +3166,48 @@
 ],
 [
 "com.reddit.frontpage",
+"Mubelotix",
+"Reroute API calls"
+],
+[
+"com.reddit.frontpage",
 "Santodan",
 "Reddit - Show flairs in home feed (Experimental)"
+],
+[
+"com.rockstreamer.iscreen",
+"Media",
+"Free TVOD content"
+],
+[
+"com.rockstreamer.iscreen",
+"Media",
+"Free premium content"
+],
+[
+"com.rockstreamer.iscreen",
+"Media",
+"Temp user"
+],
+[
+"com.rockstreamer.iscreentv",
+"Media",
+"Disable update"
+],
+[
+"com.rockstreamer.iscreentv",
+"Media",
+"Free TVOD content"
+],
+[
+"com.rockstreamer.iscreentv",
+"Media",
+"Free premium content"
+],
+[
+"com.rockstreamer.iscreentv",
+"Media",
+"Temp user"
 ],
 [
 "com.sal.privacykit",
@@ -2992,7 +3317,22 @@
 [
 "com.sezzle.sezzlemobile",
 "Aidan",
+"Configure Shortcuts"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
 "Disable CodePush OTA Bundles"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
+"Enable App Debugging"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
+"Hide Sezzle Mobile"
 ],
 [
 "com.sezzle.sezzlemobile",
@@ -3007,12 +3347,57 @@
 [
 "com.sezzle.sezzlemobile",
 "Aidan",
+"Remove Promos & Giveaways"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
 "Remove Rewards"
 ],
 [
 "com.sezzle.sezzlemobile",
 "Aidan",
+"Replace AI Discover with Products"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
 "Replace Shop with Home"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
+"Suppress In-App Updates and Rating Prompts"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
+"Suppress Updates and Integrity Checks"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
+"Unlock Custom App Icons"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
+"Unlock Developer Settings"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
+"Unlock Receipt Scanner"
+],
+[
+"com.sidelineswap.android",
+"Aidan",
+"Block Tracking and Telemetry"
+],
+[
+"com.sidelineswap.android",
+"Aidan",
+"Change Brand Color"
 ],
 [
 "com.sina.weibo",
@@ -3230,6 +3615,41 @@
 "Travian Tools setup"
 ],
 [
+"com.tripledot.blackjack",
+"Aidan",
+"Add Custom Chip Store"
+],
+[
+"com.tripledot.blackjack",
+"Aidan",
+"Custom Chip Store Binary Hook"
+],
+[
+"com.tripledot.blackjack",
+"Aidan",
+"Remove Ads"
+],
+[
+"com.tripledot.blackjack",
+"Aidan",
+"Remove Internet Permissions"
+],
+[
+"com.tripledot.blackjack",
+"Aidan",
+"Remove Notifications"
+],
+[
+"com.tripledot.blackjack",
+"Aidan",
+"Remove Tracking and Analytics"
+],
+[
+"com.tripledot.blackjack",
+"Aidan",
+"Skip to Next Level"
+],
+[
 "com.troublefreepool.poolmath",
 "Dowjames",
 "Unlock premium"
@@ -3347,12 +3767,22 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Block suggested video notifications"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Change app name"
 ],
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Comment send fix"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Feed text sizes"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -3403,6 +3833,11 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Stay on the video in full screen"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Stop saving search history"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -3565,6 +4000,221 @@
 "Hide FYP unpersonalized slop videos"
 ],
 [
+"com.zhiliaoapp.musically",
+"non7043",
+"Always show publish date"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Comment sort controls"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Copy comments without username"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Custom offline videos limit"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Diagnostic tools"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Disable login requirement"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Disable long-press quick share"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Disable long-press repost"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Disable screen capture detection"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Downloads"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Enable Live search"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Enable non-personalized search"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Enable voice comments"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Feature Gate Lab"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Feed filter"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Feed tab navigation"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Fix Google login"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Foldable split comment view"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Force show Auto scroll"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide AI content"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide CAPTCHA popups"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide FYP unpersonalized slop videos"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide feed LIVE button"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide feed follow button"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide feed save button"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide feed search button"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide floating promotions"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide quick comment reactions"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hide suggested accounts"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Hold-and-slide 2x lock"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Open external links directly"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Playback speed"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Region spoof"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Remember clear display"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Resume videos after scrolling"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Sanitize sharing links"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Settings"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Share sheet modification"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Show seekbar"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Show seekbar thumbnail"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Stop video looping"
+],
+[
+"com.zhiliaoapp.musically",
+"non7043",
+"Translate comments"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Configurable native backup interval"
+],
+[
 "com.zing.zalo",
 "Zeldris",
 "Enable Google Drive photo backup"
@@ -3608,6 +4258,11 @@
 "eu.livesport.FlashScore_com",
 "Heval",
 "Disable ads"
+],
+[
+"fr.cityway.android.creaastuce",
+"Mubelotix",
+"Offline Validation Fix"
 ],
 [
 "idm.internet.download.manager",
@@ -3670,6 +4325,16 @@
 "Unlock Premium of Video to MP3"
 ],
 [
+"net.aasuited.tarotscore",
+"Mubelotix",
+"Remove ads"
+],
+[
+"net.aasuited.universalscoretracker",
+"Mubelotix",
+"Remove ads"
+],
+[
 "net.daylio",
 "Epxec",
 "Enable Premium"
@@ -3683,6 +4348,11 @@
 "net.quetta.browser",
 "Brave",
 "Force highest refresh rate"
+],
+[
+"net.zedge.android",
+"Heval",
+"Disable ads"
 ],
 [
 "nl.dumpert",
@@ -3802,7 +4472,27 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Disable chat swipe actions"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Disable draft link previews"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Disable pull to next channel"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Disable update checks"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Gallery camera on tap"
 ],
 [
 "org.telegram.messenger.web",
@@ -3822,6 +4512,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Hide popular apps"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Hide promotional banners"
 ],
 [
@@ -3837,6 +4532,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Holiday look all year"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "HushTelegram settings"
 ],
 [
@@ -3847,7 +4547,27 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Quiet contacts nag"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Repair Firebase push registration"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Strip link tracking"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Use registered Maps API key"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Use registered Telegram API credentials"
 ],
 [
 "org.telegram.messenger.web",
