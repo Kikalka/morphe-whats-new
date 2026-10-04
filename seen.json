@@ -75,6 +75,11 @@
 "Disable video ads"
 ],
 [
+"calendar.agenda.calendarplanner.agendaplanner",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
 "ch.protonvpn.android",
 "Hxreborn",
 "AMOLED dark theme"
@@ -178,6 +183,11 @@
 "com.adithya.memoneet",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.adobe.lrmobile",
+"MightyMich",
+"Unlock Lightroom Premium"
 ],
 [
 "com.adobe.scan.android",
@@ -625,6 +635,106 @@
 "VPN active"
 ],
 [
+"com.block.juggle",
+"ImNoammm",
+"Animation theme"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Block ads"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Block online access"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Block themes"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Colour theme"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Debug log"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Disable impossible levels"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Disable revive"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Disable screen shake"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Drag speed"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Extra effects"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Fake best score"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Faster game over"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Fresh Classic games"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Hide percent-of-players popups"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Login days"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Menu theme"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Remove startup credits"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"Tidy settings menu"
+],
+[
+"com.block.juggle",
+"ImNoammm",
+"iOS generation algorithm"
+],
+[
 "com.bongo.bongobd",
 "Media",
 "Free content"
@@ -677,6 +787,11 @@
 [
 "com.brave.browser",
 "Kveld9",
+"Disable Tab Auto-Minimization"
+],
+[
+"com.brave.browser",
+"Kveld9",
 "Suppress In-App Promos & Surveys"
 ],
 [
@@ -725,6 +840,81 @@
 "Enable Pro"
 ],
 [
+"com.chenupt.money",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
+"com.chess",
+"ImNoammm",
+"AMOLED black"
+],
+[
+"com.chess",
+"ImNoammm",
+"Accent color"
+],
+[
+"com.chess",
+"ImNoammm",
+"Arcade animations"
+],
+[
+"com.chess",
+"ImNoammm",
+"Arrows in games"
+],
+[
+"com.chess",
+"ImNoammm",
+"Board colors"
+],
+[
+"com.chess",
+"ImNoammm",
+"Customize Home screen"
+],
+[
+"com.chess",
+"ImNoammm",
+"Customize bottom bar"
+],
+[
+"com.chess",
+"ImNoammm",
+"Hide Premium-only content"
+],
+[
+"com.chess",
+"ImNoammm",
+"Limits as toasts"
+],
+[
+"com.chess",
+"ImNoammm",
+"No ads"
+],
+[
+"com.chess",
+"ImNoammm",
+"No rating prompts"
+],
+[
+"com.chess",
+"ImNoammm",
+"Noam's Patches settings"
+],
+[
+"com.chess",
+"ImNoammm",
+"Review on Lichess"
+],
+[
+"com.chess",
+"ImNoammm",
+"Time controls under a minute"
+],
+[
 "com.chess",
 "Prathxm",
 "Unlimited Play Coach"
@@ -743,6 +933,11 @@
 "com.citynav.jakdojade.pl.android",
 "Mubelotix",
 "Activates premium features"
+],
+[
+"com.clover.daysmatter",
+"MightyMich",
+"Unlock Pro Features"
 ],
 [
 "com.cv.docscanner",
@@ -1997,12 +2192,22 @@
 [
 "com.google.android.apps.photos",
 "Akash Sriram",
+"Local creation downloader"
+],
+[
+"com.google.android.apps.photos",
+"Akash Sriram",
 "Model Readiness Gates"
 ],
 [
 "com.google.android.apps.photos",
 "Akash Sriram",
 "Spoof features"
+],
+[
+"com.google.android.calendar",
+"Dudek",
+"Google Calendar authentication via MicroG-RE"
 ],
 [
 "com.google.android.calendar",
@@ -2026,6 +2231,111 @@
 ],
 [
 "com.google.android.inputmethod.latin",
+"ImNoammm",
+"Access Points menu style"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Block Google IPC"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Change emoji size"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Clipboard Custom Character Limit"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Close Proactive Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Disable Google Play services"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Enable Inline Autofill Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Enable cursor trackpad mode"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Fix signature self-check"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"GIF providers"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Key Shape Selection"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Keyboard stays left-to-right"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"No-Google settings"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Offline translation"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Offline voice typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Package rename"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Quick Insert"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Remove Google components"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Remove network access"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Runtime feature toggles"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Top Toolbar Item Count"
+],
+[
+"com.google.android.inputmethod.latin",
 "Kveld9",
 "Core Integrity"
 ],
@@ -2038,6 +2348,11 @@
 "com.google.android.inputmethod.latin",
 "Kveld9",
 "Feature Flags"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"Gboard Enhancements"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -2128,6 +2443,11 @@
 "com.hevy",
 "Kveld9",
 "Resource Slimmer"
+],
+[
+"com.huanxiu.HXAweme",
+"MightyMich",
+"Unlock SVIP Features"
 ],
 [
 "com.insigniadpfgmailcom.oplmonitor",
@@ -2318,6 +2638,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide the Repost button"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide the notes row"
 ],
 [
 "com.instagram.android",
@@ -2808,6 +3133,11 @@
 "com.mxtech.videoplayer.ad",
 "FTL",
 "Smart Enhance Slider"
+],
+[
+"com.mxtech.videoplayer.pro",
+"MightyMich",
+"Unlock MX Player Pro"
 ],
 [
 "com.myntra.android",
@@ -3480,6 +3810,11 @@
 "Unlock premium"
 ],
 [
+"com.spaceship.screen.textcopy",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
 "com.streamdev.aiostreamer",
 "AIS",
 "Bypass TV PRO check on site browsing"
@@ -3606,8 +3941,18 @@
 ],
 [
 "com.teejay.trebedit",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
+"com.teejay.trebedit",
 "Shuhaibnc",
 "Unlock TrebEdit Premium"
+],
+[
+"com.teslacoilsw.launcher",
+"MightyMich",
+"Unlock Nova Launcher Prime"
 ],
 [
 "com.textra",
@@ -3710,6 +4055,11 @@
 "Unlock GoCut Pro"
 ],
 [
+"com.videoplayer.arcplayer",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
 "com.vng.g6.a.zombie",
 "byehi98",
 "All items owned"
@@ -3733,6 +4083,11 @@
 "com.vpn.free.hotspot.secure.vpnify",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.wakeup.howear",
+"MightyMich",
+"Unlock VIP Features"
 ],
 [
 "com.wave.aphelion",
@@ -3768,6 +4123,11 @@
 "com.xunijun.app.gp",
 "Testiwy268",
 "Dualspace Premium Unlock"
+],
+[
+"com.yaunquan.guitartuna",
+"MightyMich",
+"Unlock Premium Features"
 ],
 [
 "com.yodo1.crossyroad",
@@ -3958,6 +4318,16 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Disable Watch History Recording"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Enable Profile Banner"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Feed Interface Declutter"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -4360,6 +4730,16 @@
 "Unlock Premium of Video to MP3"
 ],
 [
+"mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
+"mymusic.offlinemusicplayer.mp3player.playmusic",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
 "net.aasuited.tarotscore",
 "Mubelotix",
 "Remove ads"
@@ -4400,6 +4780,16 @@
 "Block Ad Server"
 ],
 [
+"org.mozilla.fenix",
+"FTL",
+"Old style 3 dot menu"
+],
+[
+"org.mozilla.fenix",
+"FTL",
+"Remember tab scroll position"
+],
+[
 "org.parcello",
 "V4n1X",
 "Disable ads"
@@ -4418,6 +4808,16 @@
 "org.swiftapps.swiftbackup",
 "byehi98",
 "Swift Backup Web Login"
+],
+[
+"org.telegram.messenger",
+"MightyMich",
+"Unlock Telegram Premium"
+],
+[
+"org.telegram.messenger",
+"Stylus",
+"Force system font (Telegram)"
 ],
 [
 "org.telegram.messenger",
@@ -4512,6 +4912,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Disable double-tap reactions"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Disable draft link previews"
 ],
 [
@@ -4592,7 +4997,17 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Show user and chat IDs"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Strip link tracking"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Use normal paste"
 ],
 [
 "org.telegram.messenger.web",
@@ -4745,6 +5160,16 @@
 "Local Premium"
 ],
 [
+"pl.mobimax.cameraopus",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
+"pl.mobimax.photex",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
 "premom.eh.com.ehpremomapp",
 "Dowjames",
 "Unlock premium"
@@ -4788,6 +5213,11 @@
 "ringtone.maker.mp3.cutter.audio",
 "Jeff-tek",
 "Unlock all features"
+],
+[
+"ringtonemaker.musiccutter.customringtones.freeringtonemake",
+"MightyMich",
+"Unlock Premium Features"
 ],
 [
 "ru.iiec.cxxdroid",
@@ -4860,6 +5290,16 @@
 "Unlock subscription features"
 ],
 [
+"ru.zdevs.zarchiver",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
+"todolist.scheduleplanner.dailyplanner.todo.reminders",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
 "tv.twitch.android.app",
 "Bakwudo",
 "Auto claim channel points"
@@ -4926,6 +5366,56 @@
 ],
 [
 "tv.twitch.android.app",
+"Ryykitty",
+"Auto-claim bonus channel points"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"BTTV and 7TV emotes"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"Block client-requested ads"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"Block stream ads"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"Hide Turbo promotions"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"Hide feed and display ads"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"Hide subscription discount banners"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"Inspect Twitch APK"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"Playback diagnostics"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"Reload stream"
+],
+[
+"tv.twitch.android.app",
 "aRandomHooman",
 "Fix notifications"
 ],
@@ -4978,6 +5468,11 @@
 "vn.com.misa.sothuchi",
 "Tkiethuynh",
 "Unlock premium"
+],
+[
+"voicechanger.voiceeffects.soundeffects.voiceavatar",
+"MightyMich",
+"Unlock Premium Features"
 ],
 [
 "xyz.rtrvr.pillo",
