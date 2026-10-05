@@ -21,7 +21,7 @@ jobs:
           curl -fsSL https://morphe-patches.software/data/bundles.json -o /tmp/bundles.json || echo '{}' > /tmp/bundles.json
 
       - name: Work out what is new and build the feed
-        run: python3 .github/scripts/track_whats_new.py
+        run: python3 .github/workflows/track_whats_new.py
 
       - name: Commit if something is new
         run: |
