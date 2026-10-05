@@ -2,7 +2,7 @@ name: Track Morphe what's new
 
 on:
   schedule:
-    - cron: "0 10,22 * * *"   # 10:00 and 22:00 UTC
+    - cron: "0 10,22 * * *" # 10:00 and 22:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -15,118 +15,13 @@ jobs:
       - uses: actions/checkout@v7
 
       - name: Download the JSON
-        run: curl -fsSL https://morphe-patches.software/data/whats-new.json -o /tmp/whats-new.json
+        run: |
+          curl -fsSL https://morphe-patches.software/data/whats-new.json -o /tmp/whats-new.json
+          # app names + icons; if this fails the email just falls back to package ids
+          curl -fsSL https://morphe-patches.software/data/bundles.json -o /tmp/bundles.json || echo '{}' > /tmp/bundles.json
 
       - name: Work out what is new and build the feed
-        run: |
-          python3 - <<'EOF'
-          import json, os, html
-          from collections import OrderedDict
-          from datetime import datetime, timezone
-          from email.utils import format_datetime
-
-          SITE = "https://morphe-patches.software/#whats-new"
-          data = json.load(open("/tmp/whats-new.json"))
-          latest_date = data[0]["date"] if data else ""
-
-          # Everything currently listed, with the newest date it appears under
-          current, info = set(), {}
-          for di, day in enumerate(data):
-              for bi, (bundle, b) in enumerate(day.get("bundles", {}).items()):
-                  for ai, (app, a) in enumerate(b.get("apps", {}).items()):
-                      for patch in a.get("patches", []):
-                          key = (app, bundle, patch)
-                          current.add(key)
-                          if key not in info:
-                              info[key] = {"date": day["date"], "pos": (di, bi, ai),
-                                           "bundle_new": b.get("isNew", False),
-                                           "app_new": a.get("isNew", False)}
-
-          first_run = not os.path.exists("seen.json")
-          seen = set() if first_run else {tuple(x) for x in json.load(open("seen.json"))}
-          seen_apps = {app for app, _, _ in seen}
-          new = sorted(current - seen)
-
-          msg, item = "", None
-          if first_run:
-              msg = f"Started tracking Morphe patches ({len(current)} patches)\n"
-          elif new:
-              # date -> bundle -> app -> [patches], keeping the site's order (newest day first)
-              tree = OrderedDict()
-              for k in sorted(new, key=lambda k: (info[k]["pos"], k[2].lower())):
-                  app, bundle, patch = k
-                  tree.setdefault(info[k]["date"], OrderedDict()) \
-                      .setdefault(bundle, OrderedDict()) \
-                      .setdefault(app, []).append(patch)
-              new_apps = {app for app, _, _ in new if app not in seen_apps}
-              subject = f"Morphe: {len(new)} new patches"
-              if new_apps:
-                  subject += f", {len(new_apps)} new apps"
-              subject += f" ({latest_date})"
-
-              # ---------- HTML email ----------
-              e = html.escape
-              FONT = "font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;"
-              badge = ('<span style="display:inline-block;margin-left:8px;padding:2px 8px;'
-                       'border-radius:999px;background:#dbe7ff;color:#1d4ed8;font-size:11px;'
-                       'font-weight:700;letter-spacing:.5px;vertical-align:middle;">NEW</span>')
-              chip = ('<span style="display:inline-block;margin:0 6px 6px 0;padding:6px 12px;'
-                      'border-radius:999px;background:#eef1f5;color:#1f2328;font-size:13px;'
-                      'line-height:1.2;">{}</span>')
-              parts = [f'<div style="{FONT}max-width:640px;color:#1f2328;">']
-              for date, bundles in tree.items():
-                  parts.append(f'<div style="margin:18px 0 8px;font-size:13px;color:#6e7781;">{e(date)}</div>')
-                  for bundle, apps in bundles.items():
-                      bnew = any(info[(a, bundle, p)]["bundle_new"] for a, ps in apps.items() for p in ps)
-                      parts.append('<div style="border:1px solid #d0d7de;border-radius:14px;'
-                                   'padding:14px 16px 10px;margin:0 0 12px;background:#ffffff;">')
-                      parts.append(f'<div style="font-size:17px;font-weight:600;margin-bottom:4px;">'
-                                   f'{e(bundle)}{badge if bnew else ""}</div>')
-                      for app, patches in apps.items():
-                          anew = app not in seen_apps or any(info[(app, bundle, p)]["app_new"] for p in patches)
-                          parts.append(f'<div style="margin:12px 0 8px;font-size:15px;font-weight:500;">'
-                                       f'{e(app)}{badge if anew else ""}</div>')
-                          parts.append('<div>' + "".join(chip.format(e(p)) for p in patches) + '</div>')
-                      parts.append('</div>')
-              parts.append(f'<div style="margin:16px 0;font-size:13px;"><a href="{SITE}" '
-                           f'style="color:#1d4ed8;">Open What\'s New on the Morphe site</a></div></div>')
-              body_html = "".join(parts)
-
-              # ---------- plain-text commit message ----------
-              lines = [subject, ""]
-              for date, bundles in tree.items():
-                  for bundle, apps in bundles.items():
-                      for app, patches in apps.items():
-                          tag = "NEW APP: " if app not in seen_apps else ""
-                          lines.append(f"{tag}{app} ({bundle})")
-                          lines += [f"  - {p}" for p in patches]
-                          lines.append("")
-              msg = "\n".join(lines)
-
-              now = datetime.now(timezone.utc)
-              item = {"title": subject, "html": body_html,
-                      "pubDate": format_datetime(now), "guid": now.strftime("%Y%m%d%H%M%S")}
-
-          if msg:
-              json.dump(sorted(seen | current), open("seen.json", "w"), indent=0)
-          open("/tmp/commit-msg.txt", "w").write(msg)
-
-          # ---------- RSS feed (newest 20 items) ----------
-          items = json.load(open("feed_items.json")) if os.path.exists("feed_items.json") else []
-          if item:
-              items = [item] + items[:19]
-              json.dump(items, open("feed_items.json", "w"), indent=1)
-          x = html.escape
-          rss = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0"><channel>',
-                 '<title>Morphe what\'s new</title>', f'<link>{x(SITE)}</link>',
-                 '<description>New Morphe patches and apps</description>']
-          for it in items:
-              rss.append(f'<item><title>{x(it["title"])}</title><link>{x(SITE)}</link>'
-                         f'<guid isPermaLink="false">{it["guid"]}</guid><pubDate>{it["pubDate"]}</pubDate>'
-                         f'<description><![CDATA[{it["html"].replace("]]>", "]]&gt;")}]]></description></item>')
-          rss.append('</channel></rss>')
-          open("feed.xml", "w").write("\n".join(rss))
-          EOF
+        run: python3 .github/scripts/track_whats_new.py
 
       - name: Commit if something is new
         run: |
