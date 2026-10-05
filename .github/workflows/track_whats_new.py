@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 
 SITE = "https://morphe-patches.software/#whats-new"
-SHOW_APP_NEW_BADGE = False  # the site only badges new *bundles*; set True to also badge new apps
+SHOW_APP_NEW_BADGE = True  # the site only badges new *bundles*; set True to also badge new apps
 
 e = html.escape
 
