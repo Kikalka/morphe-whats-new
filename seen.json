@@ -471,6 +471,91 @@
 ],
 [
 "com.anghami",
+"Kero309x",
+"Allow Screenshots"
+],
+[
+"com.anghami",
+"Kero309x",
+"Block Audio Ads"
+],
+[
+"com.anghami",
+"Kero309x",
+"Block Promotional Popups"
+],
+[
+"com.anghami",
+"Kero309x",
+"Disable Analytics & Crash Logging"
+],
+[
+"com.anghami",
+"Kero309x",
+"Disable Forced Shuffle"
+],
+[
+"com.anghami",
+"Kero309x",
+"Disable In-App Rating"
+],
+[
+"com.anghami",
+"Kero309x",
+"Expand Download Limits"
+],
+[
+"com.anghami",
+"Kero309x",
+"Hide Gold Upsell"
+],
+[
+"com.anghami",
+"Kero309x",
+"Hide Premium Feature Buttons"
+],
+[
+"com.anghami",
+"Kero309x",
+"Hide Shuffle Badges"
+],
+[
+"com.anghami",
+"Kero309x",
+"Hide Upgrade Banners"
+],
+[
+"com.anghami",
+"Kero309x",
+"Remove Sponsored Content"
+],
+[
+"com.anghami",
+"Kero309x",
+"Show Profile Plus Badge"
+],
+[
+"com.anghami",
+"Kero309x",
+"Spoof App Signature"
+],
+[
+"com.anghami",
+"Kero309x",
+"Unlimited Track Skips"
+],
+[
+"com.anghami",
+"Kero309x",
+"Unlock Full Lyrics"
+],
+[
+"com.anghami",
+"Kero309x",
+"Unlock Plus Experience"
+],
+[
+"com.anghami",
 "Nady",
 "Disable audio ads"
 ],
@@ -498,6 +583,16 @@
 "com.anghami",
 "Nady",
 "Hide upsell feature buttons"
+],
+[
+"com.anghami",
+"Nady",
+"LRCLIB lyrics fallback"
+],
+[
+"com.anghami",
+"Nady",
+"Lyrics options on play long-press"
 ],
 [
 "com.anghami",
@@ -865,6 +960,16 @@
 "Custom NTP wallpaper"
 ],
 [
+"com.busuu.android.enc",
+"Kim20598",
+"AMOLED (baked in)"
+],
+[
+"com.busuu.android.enc",
+"Kim20598",
+"Enable Premium"
+],
+[
 "com.camerasideas.trimmer",
 "Heval",
 "Enable Pro"
@@ -1008,6 +1113,16 @@
 "com.dnddream.HeadBasketball",
 "byehi98",
 "Unlimited Points"
+],
+[
+"com.dnddream.headsoccer.android",
+"byehi98",
+"Free Ad Rewards"
+],
+[
+"com.dnddream.headsoccer.android",
+"byehi98",
+"Free Store"
 ],
 [
 "com.doovera.eujianbrowser",
@@ -1820,6 +1935,16 @@
 "Hungry Shark Installer Source Fix"
 ],
 [
+"com.fingersoft.hillclimb",
+"Legendsciber",
+"Hill Climb Racing Free Store"
+],
+[
+"com.fingersoft.hillclimb",
+"Legendsciber",
+"Hill Climb Racing Instant Rewarded Video Rewards"
+],
+[
 "com.flightconnections",
 "Duy",
 "Remove ads"
@@ -2435,6 +2560,16 @@
 "Allow sideloaded apps"
 ],
 [
+"com.google.android.youtube.tv",
+"Ysamjo TV",
+"Cobalt-Start-URL \u00e4ndern"
+],
+[
+"com.google.android.youtube.tv",
+"Ysamjo TV",
+"Werbe-Blocker-Userscript einspritzen"
+],
+[
 "com.gotipath.deeptotv",
 "Media",
 "Ad campaign"
@@ -2463,6 +2598,16 @@
 "com.greenstone.pocketwhip",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
+"Hide live room notice"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
+"Unlock SVIP"
 ],
 [
 "com.gustavcaves.notizenwidget",
@@ -2865,6 +3010,11 @@
 "Save Instants"
 ],
 [
+"com.instagram.android",
+"Wagg13Patch",
+"Story mention indicator"
+],
+[
 "com.instagram.barcelona",
 "HushThreads",
 "Block background-return feed refresh"
@@ -2902,6 +3052,11 @@
 [
 "com.instagram.barcelona",
 "HushThreads",
+"Pure black dark mode"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
 "Remove the advertising ID"
 ],
 [
@@ -2918,6 +3073,11 @@
 "com.instagram.barcelona",
 "Zeldris",
 "Open links externally"
+],
+[
+"com.instagram.moonshot",
+"Wagg13Patch",
+"Instants Mod"
 ],
 [
 "com.instructure.candroid",
@@ -3050,6 +3210,36 @@
 "Remove ads"
 ],
 [
+"com.keepa.mobile",
+"Hxreborn",
+"Clone app"
+],
+[
+"com.keepa.mobile",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.keepa.mobile",
+"Hxreborn",
+"Multiple accounts"
+],
+[
+"com.keepa.mobile",
+"Hxreborn",
+"Remove app protection"
+],
+[
+"com.keepa.mobile",
+"Hxreborn",
+"Show offer counts"
+],
+[
+"com.keepa.mobile",
+"Hxreborn",
+"Unlock price increase tracking"
+],
+[
 "com.kiloo.subwaysurf",
 "Legendsciber",
 "Subway Surfers Currency Hack"
@@ -3078,6 +3268,51 @@
 "com.lemon.lvoverseas",
 "Riky",
 "CapCut network tunnel"
+],
+[
+"com.letterboxd.letterboxd",
+"Kim20598",
+"Appearance"
+],
+[
+"com.letterboxd.letterboxd",
+"Kim20598",
+"Brighter Watched-by stars"
+],
+[
+"com.letterboxd.letterboxd",
+"Kim20598",
+"Custom poster (local)"
+],
+[
+"com.letterboxd.letterboxd",
+"Kim20598",
+"Denser poster grid"
+],
+[
+"com.letterboxd.letterboxd",
+"Kim20598",
+"Force Patron (local)"
+],
+[
+"com.letterboxd.letterboxd",
+"Kim20598",
+"Hide ads"
+],
+[
+"com.letterboxd.letterboxd",
+"Kim20598",
+"Material You theme"
+],
+[
+"com.letterboxd.letterboxd",
+"Kim20598",
+"Mod settings"
+],
+[
+"com.letterboxd.letterboxd",
+"Kim20598",
+"Theme (baked in)"
 ],
 [
 "com.letterboxd.letterboxd",
@@ -3188,6 +3423,16 @@
 "com.mi.earphone",
 "Kveld9",
 "Surgical OEM Unlock"
+],
+[
+"com.mightygamesgroup.shootyskies",
+"byehi98",
+"Shooty Skies Ad-Free (Ads blocked + instant rewards)"
+],
+[
+"com.mightygamesgroup.shootyskies",
+"byehi98",
+"Shooty Skies Free store"
 ],
 [
 "com.miruronative",
@@ -3476,6 +3721,106 @@
 ],
 [
 "com.pinterest",
+"HushPinterest",
+"Disable analytics"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Disable update nag"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Download pins"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Filter pin menu"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide AI-labeled pins"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide ads"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide advertising ID"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide comments"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide header buttons"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide navigation buttons"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide save toasts"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide search history"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide shopping and product pins"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"HushPinterest settings"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"No screenshot share menu"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Open links in your browser"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Original-quality images"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Quiet email reminders"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Strip link tracking"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"System share sheet"
+],
+[
+"com.pinterest",
 "Mubelotix",
 "Remove GMA ads"
 ],
@@ -3498,6 +3843,21 @@
 "com.pinterest",
 "Oyasumi",
 "Disable email confirmation dialog"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Disable in-app share sheet"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Download pin from long press"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Force original image download"
 ],
 [
 "com.pinterest",
@@ -3652,6 +4012,11 @@
 [
 "com.rubygames.slingdrift",
 "Legendsciber",
+"Sling Drift Instant Rewards"
+],
+[
+"com.rubygames.slingdrift",
+"Legendsciber",
 "Sling Drift Unlimited Money"
 ],
 [
@@ -3793,6 +4158,11 @@
 "com.sezzle.sezzlemobile",
 "Aidan",
 "Remove Ads and Tracking"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
+"Remove Ads and Tracking from JS Bundle"
 ],
 [
 "com.sezzle.sezzlemobile",
@@ -3990,6 +4360,11 @@
 "Block launch upsell"
 ],
 [
+"com.swiftsoft.anixartd",
+"Error404rt",
+"Remove ads"
+],
+[
 "com.tapblaze.coffeebusiness",
 "Dudek",
 "Coffee startup support"
@@ -4068,6 +4443,11 @@
 "com.thinkdirty.thinkdirtyapp",
 "Dowjames",
 "Unlock premium"
+],
+[
+"com.tinder",
+"Wagg13Patch",
+"Tinder Remove Ads"
 ],
 [
 "com.tinder",
@@ -4760,6 +5140,11 @@
 "Remove tracking"
 ],
 [
+"de.rtli.tvnow",
+"Ysamjo TRL+",
+"RTL+ Werbung deaktivieren (Yospace DAI)"
+],
+[
 "dev.vodik7.atvtools",
 "Hxreborn",
 "Unlock premium"
@@ -4783,6 +5168,16 @@
 "in.amazon.mShop.android.shopping",
 "Debakar",
 "Sort by number of ratings"
+],
+[
+"io.gh.reisxd.tizentube.cobalt",
+"Ysamjo TV",
+"MOD-Kennzeichnung f\u00fcr Icon und Banner"
+],
+[
+"io.gh.reisxd.tizentube.cobalt",
+"Ysamjo TV",
+"Werbe-Blocker-Userscript einspritzen"
 ],
 [
 "io.github.xororz.localdream",
