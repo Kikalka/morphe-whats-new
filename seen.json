@@ -110,6 +110,11 @@
 "Unlock Premium Features"
 ],
 [
+"callfilter.app",
+"MightyMich",
+"Unlock Premium (Experimental)"
+],
+[
 "ch.protonvpn.android",
 "Hxreborn",
 "AMOLED dark theme"
@@ -437,6 +442,11 @@
 [
 "com.amazon.mShop.android.shopping",
 "Debakar",
+"Install alongside original"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Debakar",
 "Sort by number of ratings"
 ],
 [
@@ -587,6 +597,11 @@
 [
 "com.anghami",
 "Nady",
+"AMOLED black background"
+],
+[
+"com.anghami",
+"Nady",
 "Disable audio ads"
 ],
 [
@@ -722,6 +737,11 @@
 [
 "com.ashtoncofer.Buzz",
 "Aidan",
+"Remove Ads"
+],
+[
+"com.ashtoncofer.Buzz",
+"Aidan",
 "Remove Tracking and Analytics"
 ],
 [
@@ -788,6 +808,11 @@
 "com.banglalink.toffee",
 "Media",
 "VPN active"
+],
+[
+"com.bigwinepot.nwdn.international",
+"MightyMich",
+"Unlock Premium (Experimental)"
 ],
 [
 "com.block.juggle",
@@ -1125,6 +1150,11 @@
 "Enable Pro"
 ],
 [
+"com.direlight.grimvalor",
+"byehi98",
+"Full game unlock"
+],
+[
 "com.djezzy.internet",
 "Oyasumi",
 "Force Walk & Win steps to 10000"
@@ -1243,6 +1273,11 @@
 "com.doovera.eujianbrowser",
 "Plyrs1",
 "Suppress WebView Exam Events"
+],
+[
+"com.dubox.drive",
+"Hxreborn",
+"Clone app"
 ],
 [
 "com.dubox.drive",
@@ -1707,6 +1742,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Picture-in-picture"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Restore screens on re-signed builds"
 ],
 [
@@ -1718,6 +1758,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Sanitize sharing links"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Show View profile on Marketplace sellers"
 ],
 [
 "com.facebook.katana",
@@ -1752,7 +1797,22 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Turn off HDR brightness"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Turn off double tap to like"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Turn off haptics"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Turn off screen transitions"
 ],
 [
 "com.facebook.katana",
@@ -2000,6 +2060,11 @@
 "Hill Climb Racing Instant Rewarded Video Rewards"
 ],
 [
+"com.fingersoft.hillclimb",
+"Legendsciber",
+"Hill Climb Racing Unlimited Second Chance"
+],
+[
 "com.flightconnections",
 "Duy",
 "Remove ads"
@@ -2007,7 +2072,17 @@
 [
 "com.flipkart.android",
 "Debakar",
+"Install alongside original"
+],
+[
+"com.flipkart.android",
+"Debakar",
 "Sort by number of ratings"
+],
+[
+"com.flyersoft.moonreader",
+"Heval",
+"Disable ads"
 ],
 [
 "com.formulaone.production",
@@ -2257,6 +2332,11 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Hide AI"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Hide ads"
 ],
 [
@@ -2378,6 +2458,11 @@
 "com.google.android.apps.maps",
 "RhubarbShoelaces",
 "Custom Cartographic Region"
+],
+[
+"com.google.android.apps.maps",
+"RhubarbShoelaces",
+"Hybrid Theme (Dark Menus, Light Map)"
 ],
 [
 "com.google.android.apps.photos",
@@ -2593,6 +2678,16 @@
 "com.google.android.inputmethod.latin",
 "Kveld9",
 "Disable Background Sync"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"Disable Cloud Backup"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"Disable Play Services Integration"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -3437,6 +3532,11 @@
 [
 "com.meesho.supply",
 "Debakar",
+"Install alongside original"
+],
+[
+"com.meesho.supply",
+"Debakar",
 "Sort by number of ratings"
 ],
 [
@@ -3538,6 +3638,11 @@
 "com.mxtech.videoplayer.pro",
 "MightyMich",
 "Unlock MX Player Pro"
+],
+[
+"com.myntra.android",
+"Debakar",
+"Install alongside original"
 ],
 [
 "com.myntra.android",
@@ -3682,6 +3787,11 @@
 [
 "com.nuvio.tv",
 "Santodan",
+"NuvioTV - Keep airing series in Upcoming"
+],
+[
+"com.nuvio.tv",
+"Santodan",
 "NuvioTV - Merge tracking progress"
 ],
 [
@@ -3748,6 +3858,11 @@
 "com.peacocktv.peacockandroid",
 "De-Vanced",
 "Hide ads"
+],
+[
+"com.performance.meshview",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.pertaminiku",
@@ -4300,6 +4415,11 @@
 "Change Brand Color"
 ],
 [
+"com.sidheinteractive.sif.DR",
+"byehi98",
+"Ad Removal & Instant Boost Rewards"
+],
+[
 "com.sina.weibo",
 "Bestweb",
 "Bypass signature check"
@@ -4353,6 +4473,16 @@
 "com.soccer.score.star",
 "Legendsciber",
 "Soccer Star VIP Unlock"
+],
+[
+"com.sofascore.results",
+"MightyMich",
+"Bypass Login Requirements"
+],
+[
+"com.sofascore.results",
+"MightyMich",
+"Unlock Premium & Remove Ads"
 ],
 [
 "com.soulbreakers.mymoveset",
@@ -4655,6 +4785,11 @@
 "Unlock VIP Features"
 ],
 [
+"com.walmart.android",
+"R2bEEaton",
+"Route My List"
+],
+[
 "com.wave.aphelion",
 "Legendsciber",
 "Aphelion Ad-Free Hint Unlock"
@@ -4847,12 +4982,22 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Direct Message Declutter"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Disable Double Tap to Like"
 ],
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Disable Feed Long-Press Actions"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Disable HDR Video Playback"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -4902,7 +5047,17 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Fix Spotify Login"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Force Auto-Scroll"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Friends Feed Strict Mutuals"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -4947,6 +5102,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Popups & Prompts Suppressor"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Resume Video After Scroll"
 ],
 [
@@ -4958,6 +5118,11 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Stop Video Looping"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"System Font"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -5182,12 +5347,27 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"Bypass Zalo Drive Contacts permission gate"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Configurable native backup interval"
 ],
 [
 "com.zing.zalo",
 "Zeldris",
 "Enable Google Drive photo backup"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Enable avatar saving"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Enable profile cover saving"
 ],
 [
 "com.zing.zalo",
@@ -5218,6 +5398,11 @@
 "de.pixelhouse",
 "0x0day-0wl",
 "Remove tracking"
+],
+[
+"de.prosiebensat1digital.seventv",
+"Hxreborn",
+"Hide ads"
 ],
 [
 "de.rtli.tvnow",
@@ -5252,6 +5437,11 @@
 [
 "in.amazon.mShop.android.shopping",
 "Debakar",
+"Install alongside original"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Debakar",
 "Sort by number of ratings"
 ],
 [
@@ -5268,6 +5458,21 @@
 "io.github.xororz.localdream",
 "JPTT",
 "Batch upscale"
+],
+[
+"io.raindrop.raindropio",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"io.raindrop.raindropio",
+"Hxreborn",
+"Hide upgrade promotions"
+],
+[
+"io.raindrop.raindropio",
+"Hxreborn",
+"Unlock pro"
 ],
 [
 "io.yuka.android",
@@ -5363,6 +5568,26 @@
 "np.com.nepalipatro",
 "Franticg33k",
 "Block Ad Server"
+],
+[
+"org.cris.aikyam",
+"VipinVIP",
+"Bypass USB-debugging detection"
+],
+[
+"org.cris.aikyam",
+"VipinVIP",
+"Bypass rjsniffer ADB check"
+],
+[
+"org.cris.aikyam",
+"VipinVIP",
+"Bypass signature verification"
+],
+[
+"org.cris.aikyam",
+"VipinVIP",
+"Disable native security SDK"
 ],
 [
 "org.mozilla.fenix",
@@ -5603,6 +5828,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Use registered Telegram API credentials"
+],
+[
+"org.telegram.messenger.web",
+"Stylus",
+"Force system font (Telegram)"
 ],
 [
 "org.telegram.messenger.web",
