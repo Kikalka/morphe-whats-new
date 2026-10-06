@@ -30,6 +30,36 @@
 "Fix screen freeze"
 ],
 [
+"app.revanced.android.apps.maps",
+"Bartlomiejfornalczyk",
+"Allow Morphe YouTube Music mini player"
+],
+[
+"app.revanced.android.apps.maps",
+"Bartlomiejfornalczyk",
+"Allow Morphe YouTube Music package visibility"
+],
+[
+"app.revanced.android.apps.maps",
+"Bartlomiejfornalczyk",
+"Change package name"
+],
+[
+"app.revanced.android.apps.maps",
+"Bartlomiejfornalczyk",
+"MicroG manifest support"
+],
+[
+"app.revanced.android.apps.maps",
+"Bartlomiejfornalczyk",
+"MicroG support"
+],
+[
+"app.revanced.android.apps.maps",
+"Bartlomiejfornalczyk",
+"Restore map data"
+],
+[
 "app.sweepy.sweepy",
 "JaredCat",
 "Unlock Premium"
@@ -1422,6 +1452,16 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Allow screenshots"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Block Instant Games ads"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Block ad telemetry"
 ],
 [
@@ -1438,6 +1478,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Block promotional notifications"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Block screenshot detection"
 ],
 [
 "com.facebook.katana",
@@ -1577,6 +1622,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Hide tabs"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Hide the Feeds header"
 ],
 [
@@ -1598,6 +1648,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Hold a reel for 2x"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Hold back analytics uploads"
 ],
 [
 "com.facebook.katana",
@@ -2147,6 +2202,16 @@
 [
 "com.google.android.apps.maps",
 "Bartlomiejfornalczyk",
+"MicroG manifest support"
+],
+[
+"com.google.android.apps.maps",
+"Bartlomiejfornalczyk",
+"MicroG support"
+],
+[
+"com.google.android.apps.maps",
+"Bartlomiejfornalczyk",
 "Restore map data"
 ],
 [
@@ -2383,6 +2448,11 @@
 "com.google.android.apps.photos",
 "Akash Sriram",
 "Spoof features"
+],
+[
+"com.google.android.apps.youtube.music",
+"Bartlomiejfornalczyk",
+"Allow external media browser connections"
 ],
 [
 "com.google.android.calendar",
@@ -3905,6 +3975,11 @@
 "Disable ads"
 ],
 [
+"com.podcast.podcasts",
+"Heval",
+"Disable ads"
+],
+[
 "com.prothomalo",
 "Media",
 "Content access"
@@ -4208,6 +4283,11 @@
 "com.sezzle.sezzlemobile",
 "Aidan",
 "Unlock Receipt Scanner"
+],
+[
+"com.shazam.android",
+"Heval",
+"Disable telemetry"
 ],
 [
 "com.sidelineswap.android",
@@ -5155,6 +5235,11 @@
 "Disable ads"
 ],
 [
+"fm.castbox.audiobook.radio.podcast",
+"Heval",
+"Disable ads"
+],
+[
 "fr.cityway.android.creaastuce",
 "Mubelotix",
 "Offline Validation Fix"
@@ -5788,6 +5873,11 @@
 "ru.rutube.app",
 "Virzak",
 "Unlock subscription features"
+],
+[
+"ru.vk.store",
+"RuStore privacy",
+"Block remote network policy"
 ],
 [
 "ru.zdevs.zarchiver",
