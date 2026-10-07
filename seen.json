@@ -310,6 +310,11 @@
 "Experimental Pro 2 compatibility adapter (Elite 1.9.0)"
 ],
 [
+"com.aj.renamer",
+"SailHighSea",
+"Remove ads"
+],
+[
 "com.algeria.selfcare.app.android",
 "RabehX",
 "Disable Frida Detection"
@@ -402,6 +407,11 @@
 [
 "com.allformatplayer.streamvideoplayer",
 "Hxreborn",
+"Allow offline use"
+],
+[
+"com.allformatplayer.streamvideoplayer",
+"Hxreborn",
 "Disable tracking"
 ],
 [
@@ -448,6 +458,11 @@
 "com.amazon.mShop.android.shopping",
 "Debakar",
 "Sort by number of ratings"
+],
+[
+"com.amazon.spiderpork",
+"Blazko381",
+"Luna Low Latency Codecs"
 ],
 [
 "com.android.chrome",
@@ -1487,6 +1502,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Accent color"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Allow screenshots"
 ],
 [
@@ -1527,6 +1547,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Comment sheet options"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Default comment order"
 ],
 [
@@ -1538,6 +1563,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Disable Audience Network"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Disable Play Store updates"
 ],
 [
 "com.facebook.katana",
@@ -1567,6 +1597,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Following feed on Home"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Force dark mode"
 ],
 [
@@ -1582,12 +1617,22 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Hide Meta AI comment summaries"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Hide Meta AI in search"
 ],
 [
 "com.facebook.katana",
 "Hushfacebook",
 "Hide Meta AI questions under posts"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Hide Meta upsells"
 ],
 [
 "com.facebook.katana",
@@ -1667,6 +1712,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Hide tab badges"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Hide tabs"
 ],
 [
@@ -1727,6 +1777,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Keep the progress bar"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Keep the reel speed"
 ],
 [
@@ -1777,6 +1832,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Send chat photos and videos at original quality"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Show View profile on Marketplace sellers"
 ],
 [
@@ -1813,6 +1873,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Turn off HDR brightness"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Turn off auto-translation"
 ],
 [
 "com.facebook.katana",
@@ -1888,6 +1953,16 @@
 "com.facebook.orca",
 "HushMessenger",
 "Allow screenshots"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Clone install under another package name"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Custom new-message sound"
 ],
 [
 "com.facebook.orca",
@@ -1997,6 +2072,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Keep a message log"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Keep unsent messages"
 ],
 [
@@ -2017,6 +2097,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Restore old emoji drawer"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Restore screens on re-signed builds"
 ],
 [
@@ -2032,12 +2117,37 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Send videos without re-encoding"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Slide chats in and out"
 ],
 [
 "com.facebook.orca",
 "HushMessenger",
+"Spoof package version"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Stop analytics uploads"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Unlock app icons"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Use system emoji"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Use the phone's camera app"
 ],
 [
 "com.facebook.orca",
@@ -2352,6 +2462,11 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Account sheet cleanup"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Better offline maps"
 ],
 [
@@ -2393,6 +2508,11 @@
 "com.google.android.apps.maps",
 "Bearinmind",
 "Hide ads"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
+"Hide ads and clutter"
 ],
 [
 "com.google.android.apps.maps",
@@ -2478,6 +2598,11 @@
 "com.google.android.apps.maps",
 "Bearinmind",
 "Remove sign-in promo"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
+"Remove sign-in prompts"
 ],
 [
 "com.google.android.apps.maps",
@@ -2840,6 +2965,11 @@
 "Unlock premium"
 ],
 [
+"com.gregacucnik.fishingpoints",
+"Heval",
+"Enable Premium"
+],
+[
 "com.guochao.faceshow",
 "Wagg13Patch",
 "Hide live room notice"
@@ -2893,6 +3023,16 @@
 "com.huanxiu.HXAweme",
 "MightyMich",
 "Unlock SVIP Features"
+],
+[
+"com.indymobileapp.document.scanner",
+"SailHighSea",
+"Local auto backup"
+],
+[
+"com.indymobileapp.document.scanner",
+"SailHighSea",
+"Remove ads"
 ],
 [
 "com.insigniadpfgmailcom.oplmonitor",
@@ -3242,6 +3382,16 @@
 [
 "com.instagram.android",
 "Piko",
+"Hide save buttons"
+],
+[
+"com.instagram.android",
+"Piko",
+"Hide share button"
+],
+[
+"com.instagram.android",
+"Piko",
 "Inbox lock"
 ],
 [
@@ -3262,7 +3412,17 @@
 [
 "com.instagram.barcelona",
 "HushThreads",
+"Change version code"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
 "Disable analytics"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Disable screenshot detection"
 ],
 [
 "com.instagram.barcelona",
@@ -3287,12 +3447,22 @@
 [
 "com.instagram.barcelona",
 "HushThreads",
+"Max image quality"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
 "Open links in browser"
 ],
 [
 "com.instagram.barcelona",
 "HushThreads",
 "Pure black dark mode"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Remove share targets"
 ],
 [
 "com.instagram.barcelona",
@@ -3313,6 +3483,11 @@
 "com.instagram.barcelona",
 "HushThreads",
 "Save photos and videos"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Trust user-added certificates"
 ],
 [
 "com.instagram.barcelona",
@@ -3570,6 +3745,61 @@
 "Material You themed icon"
 ],
 [
+"com.linkedin.android",
+"Heyymichii",
+"Block tracking"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Disable double-tap like"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Download media"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Feed filters"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Hide Premium upsells"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Hide ads"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Hide promoted jobs"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Hide suggested posts"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Messaging"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Open links directly"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Sanitize share links"
+],
+[
 "com.liori.echogram",
 "Hxreborn",
 "Unlock premium"
@@ -3618,6 +3848,11 @@
 "com.meesho.supply",
 "Debakar",
 "Sort by number of ratings"
+],
+[
+"com.melodis.midomiMusicIdentifier.freemium",
+"Heval",
+"Disable ads"
 ],
 [
 "com.mi.earphone",
@@ -3695,6 +3930,11 @@
 "Fix scoped-storage file sharing"
 ],
 [
+"com.musixmatch.android.lyrify",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.mxtech.videoplayer.ad",
 "FTL",
 "Disable signature verification"
@@ -3728,6 +3968,41 @@
 "com.myntra.android",
 "Debakar",
 "Sort by number of ratings"
+],
+[
+"com.navercorp.game.android.community",
+"Snowyegret23",
+"Auto claim TongPow"
+],
+[
+"com.navercorp.game.android.community",
+"Snowyegret23",
+"CDN playback"
+],
+[
+"com.navercorp.game.android.community",
+"Snowyegret23",
+"Change package name"
+],
+[
+"com.navercorp.game.android.community",
+"Snowyegret23",
+"Chat customization"
+],
+[
+"com.navercorp.game.android.community",
+"Snowyegret23",
+"Custom app branding"
+],
+[
+"com.navercorp.game.android.community",
+"Snowyegret23",
+"Home without promotions"
+],
+[
+"com.navercorp.game.android.community",
+"Snowyegret23",
+"Playback without ads"
 ],
 [
 "com.newleaf.app.android.victor",
@@ -3930,6 +4205,11 @@
 "Unlock premium"
 ],
 [
+"com.onesports.score",
+"Heval",
+"Enable Premium"
+],
+[
 "com.paradyme.solarsmash",
 "Legendsciber",
 "Solar Smash All Packages Purchased"
@@ -4052,6 +4332,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Hide topic suggestions"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "HushPinterest settings"
 ],
 [
@@ -4073,6 +4358,16 @@
 "com.pinterest",
 "HushPinterest",
 "Quiet email reminders"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Remove ad tracking permissions"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Spoof signature for Google sign-in"
 ],
 [
 "com.pinterest",
@@ -4211,6 +4506,16 @@
 ],
 [
 "com.rawcam.app",
+"Heval",
+"Disable license check"
+],
+[
+"com.rawcam.app",
+"Heval",
+"Enable Premium"
+],
+[
+"com.rawcam.app",
 "Wagg13Patch",
 "Unlock Premium"
 ],
@@ -4243,6 +4548,31 @@
 "com.reddit.frontpage",
 "Santodan",
 "Reddit - Show flairs in home feed (Experimental)"
+],
+[
+"com.release.arylive",
+"Hammadhassan94",
+"Bypass PairIP license check"
+],
+[
+"com.release.arylive",
+"Hammadhassan94",
+"Custom branding"
+],
+[
+"com.release.arylive",
+"Hammadhassan94",
+"Hide ads"
+],
+[
+"com.resultadosfutbol.mobile",
+"Heval",
+"Disable ads"
+],
+[
+"com.resultadosfutbol.mobile",
+"Heval",
+"Disable license check"
 ],
 [
 "com.rockstreamer.iscreen",
@@ -4493,6 +4823,11 @@
 "com.shazam.android",
 "Heval",
 "Disable telemetry"
+],
+[
+"com.shervinkoushan.anyTracker",
+"Hxreborn",
+"Unlock Platinum"
 ],
 [
 "com.sidelineswap.android",
@@ -4870,6 +5205,21 @@
 "Unlock premium"
 ],
 [
+"com.waccliu.taiwanrail",
+"Pigfoot",
+"Change package name"
+],
+[
+"com.waccliu.taiwanrail",
+"Pigfoot",
+"RailsGo bus update without video"
+],
+[
+"com.waccliu.taiwanrail",
+"Pigfoot",
+"RailsGo sideload startup compatibility"
+],
+[
 "com.wakeup.howear",
 "MightyMich",
 "Unlock VIP Features"
@@ -4967,6 +5317,16 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Copy bio and IDs"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Custom launcher icon"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Feed text sizes"
 ],
 [
@@ -4997,6 +5357,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Lift text length limits"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Look like the store app"
 ],
 [
@@ -5012,7 +5377,27 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Play SDR instead of HDR"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Remove avatar rings"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Repost diagnostics"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Show exact counts"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Show follow status"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -5465,6 +5850,16 @@
 "Suppress outbound seen status"
 ],
 [
+"com.ztnstudio.notepad",
+"Heval",
+"Disable ads"
+],
+[
+"com.ztnstudio.notepad",
+"Heval",
+"Enable Premium"
+],
+[
 "de.klassikradio.app",
 "Hxreborn",
 "Unlock premium"
@@ -5548,6 +5943,11 @@
 "io.github.xororz.localdream",
 "JPTT",
 "Batch upscale"
+],
+[
+"io.lightray.photone",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "io.raindrop.raindropio",
@@ -5655,9 +6055,19 @@
 "dumpert-premium"
 ],
 [
+"nl.nlziet",
+"DigitalPals",
+"NLZIET native picture-in-picture"
+],
+[
 "np.com.nepalipatro",
 "Franticg33k",
 "Block Ad Server"
+],
+[
+"one.cricket.app",
+"Heval",
+"Disable ads"
 ],
 [
 "org.cris.aikyam",
@@ -5797,6 +6207,21 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"AMOLED black"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Add Repeat to the message menu"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Allow chat blur on slower phones"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Disable analytics"
 ],
 [
@@ -5822,12 +6247,22 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Disable pull to archive"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Disable pull to next channel"
 ],
 [
 "org.telegram.messenger.web",
 "HushTelegram",
 "Disable update checks"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Exact numbers"
 ],
 [
 "org.telegram.messenger.web",
@@ -5847,7 +6282,17 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Hide Telegram Features and Invite Friends"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Hide ads"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide blocked users in groups"
 ],
 [
 "org.telegram.messenger.web",
@@ -5857,7 +6302,27 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Hide folder tab counters"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide gallery camera tile"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Hide greeting stickers"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide keyboard on scroll"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide phone number"
 ],
 [
 "org.telegram.messenger.web",
@@ -5877,7 +6342,22 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Hide sender names when forwarding"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Hide sponsored proxy channel"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide time on stickers"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide translate bar"
 ],
 [
 "org.telegram.messenger.web",
@@ -5892,7 +6372,27 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Ignore mentions in muted chats"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Keep videos muted on volume keys"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Message times with seconds"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Open links externally"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Play voice messages one at a time"
 ],
 [
 "org.telegram.messenger.web",
@@ -5907,12 +6407,42 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Reveal spoilers"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Show user and chat IDs"
 ],
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Silence people outside your contacts"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Start the camera on the rear lens"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Strip link tracking"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Swipe back on profiles"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Turn off haptic feedback"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Turn off reaction effects"
 ],
 [
 "org.telegram.messenger.web",
@@ -5933,6 +6463,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Use system font"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Voice messages in the music player"
 ],
 [
 "org.telegram.messenger.web",
