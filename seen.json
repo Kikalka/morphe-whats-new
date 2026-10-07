@@ -1547,6 +1547,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Download any photo"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Download any reel"
 ],
 [
@@ -1608,6 +1613,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Hide posts by words"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Hide read receipts"
 ],
 [
 "com.facebook.katana",
@@ -1678,6 +1688,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Hide the Reels tab dot"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Hide typing indicator"
 ],
 [
 "com.facebook.katana",
@@ -2260,6 +2275,46 @@
 "Use third-party gallery on lock screen"
 ],
 [
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"10x Viewfinder Quick Zoom"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"Camera Looks Backport"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"Permanent Portrait Mode Fix"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"Pixel 10 Photo Saving Fix"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"Pixel Camera Clone (Non-Root)"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"Pixel Camera Creator Suite"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"Pro Manual Controls"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"Viewfinder Quick Access Controls"
+],
+[
 "com.google.android.apps.maps",
 "Bartlomiejfornalczyk",
 "Allow Morphe YouTube Music mini player"
@@ -2718,6 +2773,26 @@
 "com.google.android.inputmethod.latin",
 "Kveld9",
 "Zero Bottom Inset"
+],
+[
+"com.google.android.inputmethod.latin",
+"Pixel Board",
+"AI Writing Tools"
+],
+[
+"com.google.android.inputmethod.latin",
+"Pixel Board",
+"Add Gboard Signature Bypass"
+],
+[
+"com.google.android.inputmethod.latin",
+"Pixel Board",
+"Advanced Voice Typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"Pixel Board",
+"Package Rename"
 ],
 [
 "com.google.android.projection.gearhead",
@@ -3233,6 +3308,11 @@
 "com.instagram.barcelona",
 "HushThreads",
 "Sanitize sharing links"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Save photos and videos"
 ],
 [
 "com.instagram.barcelona",
@@ -4043,6 +4123,16 @@
 "com.pinterest",
 "Oyasumi",
 "Force original image download"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Hide \"Ideas you might love\" section"
+],
+[
+"com.pinterest",
+"Oyasumi",
+"Hide Create nav button"
 ],
 [
 "com.pinterest",
@@ -5762,6 +5852,16 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Hide contacts on Telegram"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide greeting stickers"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Hide popular apps"
 ],
 [
@@ -5828,6 +5928,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Use registered Telegram API credentials"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Use system font"
 ],
 [
 "org.telegram.messenger.web",
