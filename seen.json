@@ -115,6 +115,11 @@
 "Unlock Premium (Experimental)"
 ],
 [
+"ch.protonmail.android",
+"Hxreborn",
+"Material 3 switches"
+],
+[
 "ch.protonvpn.android",
 "Hxreborn",
 "AMOLED dark theme"
@@ -133,6 +138,11 @@
 "ch.protonvpn.android",
 "Hxreborn",
 "Hide upgrade promotions"
+],
+[
+"ch.protonvpn.android",
+"Hxreborn",
+"Material 3 switches"
 ],
 [
 "ch.protonvpn.android",
@@ -997,6 +1007,11 @@
 [
 "com.brave.browser",
 "Kveld9",
+"Disable Content Capture"
+],
+[
+"com.brave.browser",
+"Kveld9",
 "Disable Tab Auto-Minimization"
 ],
 [
@@ -1183,6 +1198,11 @@
 "com.direlight.grimvalor",
 "byehi98",
 "Full game unlock"
+],
+[
+"com.disney.disneyplus",
+"PyFlat",
+"Hold to speed up"
 ],
 [
 "com.djezzy.internet",
@@ -1418,6 +1438,11 @@
 "com.facebook.katana",
 "AndrewLiang25",
 "[Reels] Hide interest prompts"
+],
+[
+"com.facebook.katana",
+"AndrewLiang25",
+"[Reels] Picture-in-picture"
 ],
 [
 "com.facebook.katana",
@@ -2766,6 +2791,11 @@
 ],
 [
 "com.google.android.inputmethod.latin",
+"Flexboard",
+"Crash reporter (debug)"
+],
+[
+"com.google.android.inputmethod.latin",
 "Gboard",
 "Custom Theme"
 ],
@@ -3040,6 +3070,11 @@
 "Unlock premium"
 ],
 [
+"com.hdqwalls.hdqwalls1",
+"SailHighSea",
+"Remove ads"
+],
+[
 "com.hevy",
 "Kveld9",
 "Battery & Background Sync Optimizer"
@@ -3053,6 +3088,11 @@
 "com.hevy",
 "Kveld9",
 "Resource Slimmer"
+],
+[
+"com.hitrolab.audioeditor",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.huanxiu.HXAweme",
@@ -3257,6 +3297,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Emoji style"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Full resolution photos"
 ],
 [
@@ -3343,6 +3388,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide the Share button"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide the Threads button"
 ],
 [
 "com.instagram.android",
@@ -3448,6 +3498,11 @@
 "com.instagram.android",
 "HushGram",
 "Save profile picture"
+],
+[
+"com.instagram.android",
+"HushGram",
+"See who a story mentions"
 ],
 [
 "com.instagram.android",
@@ -4295,6 +4350,11 @@
 "Network Security Hardening"
 ],
 [
+"com.nokoprint",
+"Kveld9",
+"Skip Welcome Dialog"
+],
+[
 "com.nostalgiatv",
 "Franticg33k",
 "Remove License Activity"
@@ -4612,6 +4672,11 @@
 [
 "com.pinterest",
 "Oyasumi",
+"Hide \"More ideas for this board\" section"
+],
+[
+"com.pinterest",
+"Oyasumi",
 "Hide Create nav button"
 ],
 [
@@ -4837,7 +4902,32 @@
 [
 "com.samsung.android.homemode",
 "Giaaaacomo",
+"Customize orientation"
+],
+[
+"com.samsung.android.homemode",
+"Giaaaacomo",
+"Customize screen saver"
+],
+[
+"com.samsung.android.homemode",
+"Giaaaacomo",
+"Enable media controls"
+],
+[
+"com.samsung.android.homemode",
+"Giaaaacomo",
 "Enable phone support"
+],
+[
+"com.samsung.android.homemode",
+"Giaaaacomo",
+"Use Open-Meteo weather"
+],
+[
+"com.samsung.android.homemode",
+"Giaaaacomo",
+"Use phone charging as dock"
 ],
 [
 "com.sauzask.nicoid",
@@ -5497,6 +5587,21 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Always upload in HD"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"App lock"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Block popups"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Block suggested video notifications"
 ],
 [
@@ -5552,6 +5657,16 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Keep pulled sounds"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"LIVE controls"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Lift text length limits"
 ],
 [
@@ -5567,12 +5682,27 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Network proxy"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Network request report"
 ],
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Picture-in-picture"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Play SDR instead of HDR"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Prefer H.264 playback"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -5583,6 +5713,16 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Repost diagnostics"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Run beside the store app"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Show engagement rate"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -5602,12 +5742,42 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Stop recording watch history"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Stop saving search history"
 ],
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Stop search autoplay"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Story controls"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Swipe-left controls"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Trust user certificates"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Turn off haptics"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Turn off screen transitions"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -5628,6 +5798,11 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Bypass Screen Capture Detection"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Camera & Microphone Indicator"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -5702,7 +5877,17 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Enable Live Search"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Enable Profile Banner"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Feed Content Filter"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -5762,6 +5947,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Hide Suggested Accounts"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Hide Suggested Searches"
 ],
 [
@@ -5772,7 +5962,17 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Non-Personalized Search"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Popups & Prompts Suppressor"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Remember Clear Display"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -5782,7 +5982,17 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Show Author Region"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Show Seekbar"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Skip Content Warnings"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -5793,6 +6003,16 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "System Font"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Video Fit"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Voice & Speech Engine De-bloat"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -6100,6 +6320,11 @@
 "RTL+ Werbung deaktivieren (Yospace DAI)"
 ],
 [
+"de.swr.avp.ard",
+"PyFlat",
+"Hold to speed up"
+],
+[
 "dev.vodik7.atvtools",
 "Hxreborn",
 "Unlock premium"
@@ -6203,6 +6428,11 @@
 "jp.naver.line.android",
 "AndrewLiang25",
 "[General] Hide Agent i buttons"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
+"[General] Trust user-installed CAs"
 ],
 [
 "jp.pxv.android",
@@ -6840,6 +7070,11 @@
 "Unlock Premium Features"
 ],
 [
+"pl.neptis.yanosik.mobi.android",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "premom.eh.com.ehpremomapp",
 "Dowjames",
 "Unlock premium"
@@ -6873,6 +7108,11 @@
 "proton.android.pass",
 "Hxreborn",
 "Hide upgrade promotions"
+],
+[
+"proton.android.pass",
+"Hxreborn",
+"Material 3 switches"
 ],
 [
 "ringtone.maker.mp3.cutter.audio",
