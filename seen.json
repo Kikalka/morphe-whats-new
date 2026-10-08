@@ -981,6 +981,21 @@
 ],
 [
 "com.brave.browser",
+"Heval",
+"Disable ads"
+],
+[
+"com.brave.browser",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.brave.browser",
+"Heval",
+"Hide promotional prompts"
+],
+[
+"com.brave.browser",
 "Kveld9",
 "Disable Tab Auto-Minimization"
 ],
@@ -1542,6 +1557,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Clean up Facebook's chat list"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Clean up Reels"
 ],
 [
@@ -1668,6 +1688,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Hide reel interest prompts"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Hide seen posts"
 ],
 [
 "com.facebook.katana",
@@ -2282,6 +2307,11 @@
 [
 "com.global.foodpanda.android",
 "Proxma",
+"Remove ads"
+],
+[
+"com.global.foodpanda.android",
+"Proxma",
 "Unlock premium (foodpanda)"
 ],
 [
@@ -2463,6 +2493,11 @@
 "com.google.android.apps.maps",
 "Bearinmind",
 "Account sheet cleanup"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
+"Add microG support"
 ],
 [
 "com.google.android.apps.maps",
@@ -3127,12 +3162,52 @@
 [
 "com.instagram.android",
 "HushGram",
+"Allow screenshots"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Ask before a call"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Ask before a like"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Ask before a refresh"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Change the like animation"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Change version code"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Clean up Reels"
 ],
 [
 "com.instagram.android",
 "HushGram",
+"Clear the media cache"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Copy comment"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Data saver"
 ],
 [
 "com.instagram.android",
@@ -3143,6 +3218,16 @@
 "com.instagram.android",
 "HushGram",
 "Disable analytics"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Don't report screenshots"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Don't save recent searches"
 ],
 [
 "com.instagram.android",
@@ -3167,6 +3252,26 @@
 [
 "com.instagram.android",
 "HushGram",
+"Download voice messages"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Full resolution photos"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Group Instagram's notifications"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide Instants"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide Meta AI"
 ],
 [
@@ -3178,6 +3283,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide ads"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide comments"
 ],
 [
 "com.instagram.android",
@@ -3212,6 +3322,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide that you're typing"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide the Explore grid"
 ],
 [
@@ -3223,6 +3338,16 @@
 "com.instagram.android",
 "HushGram",
 "Hide the Repost button"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide the Share button"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide the home feed"
 ],
 [
 "com.instagram.android",
@@ -3247,7 +3372,17 @@
 [
 "com.instagram.android",
 "HushGram",
+"Keep in chat"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Keep the reel speed"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Lock your messages"
 ],
 [
 "com.instagram.android",
@@ -3268,6 +3403,11 @@
 "com.instagram.android",
 "HushGram",
 "Pure black dark mode"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Read messages without the seen receipt"
 ],
 [
 "com.instagram.android",
@@ -3307,12 +3447,27 @@
 [
 "com.instagram.android",
 "HushGram",
+"Save profile picture"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Show a post's exact time"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Show a story's exact time"
 ],
 [
 "com.instagram.android",
 "HushGram",
 "Show if a profile follows you"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Spoof location"
 ],
 [
 "com.instagram.android",
@@ -3342,6 +3497,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Stop swiping between tabs"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Story ring size"
 ],
 [
@@ -3352,12 +3512,22 @@
 [
 "com.instagram.android",
 "HushGram",
+"Turn off HDR brightness boosts"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Turn off double tap to like"
 ],
 [
 "com.instagram.android",
 "HushGram",
 "View DM photos and videos anonymously"
+],
+[
+"com.instagram.android",
+"HushGram",
+"View live anonymously"
 ],
 [
 "com.instagram.android",
@@ -4142,6 +4312,11 @@
 [
 "com.nuvio.tv",
 "Santodan",
+"NuvioTV - Finale dates in library and collections"
+],
+[
+"com.nuvio.tv",
+"Santodan",
 "NuvioTV - Keep airing series in Upcoming"
 ],
 [
@@ -4208,6 +4383,16 @@
 "com.onesports.score",
 "Heval",
 "Enable Premium"
+],
+[
+"com.outfit7.movingeye.swampattack",
+"byehi98",
+"Free Store"
+],
+[
+"com.outfit7.movingeye.swampattack",
+"byehi98",
+"Remove Ads"
 ],
 [
 "com.paradyme.solarsmash",
@@ -4633,6 +4818,16 @@
 "com.rubygames.slingdrift",
 "Legendsciber",
 "Sling Drift VIP Unlock"
+],
+[
+"com.safar.fyi",
+"Proxma",
+"Bypass license verification"
+],
+[
+"com.safar.fyi",
+"Proxma",
+"Remove ads"
 ],
 [
 "com.sal.privacykit",
@@ -5847,6 +6042,16 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"Hide Media Box"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Hide chat list ads"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Suppress outbound seen status"
 ],
 [
@@ -5908,6 +6113,11 @@
 "fm.castbox.audiobook.radio.podcast",
 "Heval",
 "Disable ads"
+],
+[
+"fm.castbox.audiobook.radio.podcast",
+"SailHighSea",
+"Remove ads"
 ],
 [
 "fr.cityway.android.creaastuce",
@@ -5983,6 +6193,11 @@
 "jp.naver.line.android",
 "AndrewLiang25",
 "[Chat] Hide tips under messages"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
+"[General] Andrew's Patch Setting"
 ],
 [
 "jp.naver.line.android",
