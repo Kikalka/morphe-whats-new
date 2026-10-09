@@ -1020,6 +1020,11 @@
 "Suppress In-App Promos & Surveys"
 ],
 [
+"com.brave.browser",
+"Kveld9",
+"Tab Group Close Selection"
+],
+[
 "com.brave.browser_beta",
 "Brave",
 "Brave AMOLED theme"
@@ -1068,6 +1073,11 @@
 "com.busuu.android.enc",
 "Kim20598",
 "Enable Premium"
+],
+[
+"com.camerasideas.instashot",
+"MightyMich",
+"Unlock Premium "
 ],
 [
 "com.camerasideas.trimmer",
@@ -4387,12 +4397,27 @@
 [
 "com.nuvio.tv",
 "Santodan",
+"NuvioTV - Preload streams in Continue Watching"
+],
+[
+"com.nuvio.tv",
+"Santodan",
+"NuvioTV - Preload streams on detail page"
+],
+[
+"com.nuvio.tv",
+"Santodan",
 "NuvioTV - Remaining episodes in Continue Watching"
 ],
 [
 "com.nuvio.tv",
 "Santodan",
 "NuvioTV - Side-by-side installation"
+],
+[
+"com.nuvio.tv",
+"Santodan",
+"NuvioTV - Upcoming movie dates in library and collections"
 ],
 [
 "com.nytimes.crossword",
@@ -4672,6 +4697,11 @@
 [
 "com.pinterest",
 "Oyasumi",
+"Hide \"Ideas you might love\" section (DIAGNOSTIC BUILD)"
+],
+[
+"com.pinterest",
+"Oyasumi",
 "Hide \"More ideas for this board\" section"
 ],
 [
@@ -4748,6 +4778,11 @@
 "com.prothomalo.chorki",
 "Media",
 "Login required"
+],
+[
+"com.quvideo.vivacut",
+"MightyMich",
+"Unlock Premium"
 ],
 [
 "com.rammigsoftware.bluecoins",
@@ -4970,6 +5005,11 @@
 "SBS playback compatibility check"
 ],
 [
+"com.scaleup.photofx",
+"MightyMich",
+"Unlock Premium "
+],
+[
 "com.scannerradio",
 "Jacobs",
 "Branding"
@@ -5113,6 +5153,16 @@
 "com.shervinkoushan.anyTracker",
 "Hxreborn",
 "Unlock Platinum"
+],
+[
+"com.sidelineswap.android",
+"Aidan",
+"AMOLED Theme"
+],
+[
+"com.sidelineswap.android",
+"Aidan",
+"AMOLED Theme Resources"
 ],
 [
 "com.sidelineswap.android",
@@ -5352,6 +5402,16 @@
 [
 "com.teslacoilsw.launcher",
 "MightyMich",
+"Enable Prime (Experimental)"
+],
+[
+"com.teslacoilsw.launcher",
+"MightyMich",
+"Remove Internet permission (Nova)"
+],
+[
+"com.teslacoilsw.launcher",
+"MightyMich",
 "Unlock Nova Launcher Prime"
 ],
 [
@@ -5425,6 +5485,11 @@
 "Unlock premium"
 ],
 [
+"com.truecaller",
+"Oyasumi",
+"Return an empty contact list"
+],
+[
 "com.tubitv",
 "Android TV",
 "Block analytics & tracking"
@@ -5433,6 +5498,36 @@
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Background blue-noise dithering (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller grip haptics through Shizuku (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller pose extrapolation (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller tracking from the controller HAL through Shizuku (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller tracking from the controller HAL through Shizuku, 2.0.20 - 2.0.22 (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller velocity frame (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller velocity frame, 2.0.20 - 2.0.22 (experimental)"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -5737,6 +5832,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Skip first-launch setup"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Stay on the video in full screen"
 ],
 [
@@ -6003,6 +6103,11 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "System Font"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"TikTok Privacy Permissions Stripper"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -6445,6 +6550,21 @@
 "Unlock premium"
 ],
 [
+"me.pou.app",
+"MightyMich",
+"Unlimited Coins (Experimental)"
+],
+[
+"me.pou.app",
+"MightyMich",
+"Unlock Everything (Experimental)"
+],
+[
+"mobi.charmer.magovideo",
+"MightyMich",
+"Unlock Premium (Experimental)"
+],
+[
 "mobi.charmer.magovideo",
 "MightyMich",
 "Unlock Premium Features"
@@ -6667,6 +6787,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Ask before sending a sticker"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Disable analytics"
 ],
 [
@@ -6818,6 +6943,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Ignore mentions in muted chats"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Keep deleted messages"
 ],
 [
 "org.telegram.messenger.web",
@@ -7048,6 +7178,11 @@
 "photo.editor.photoeditor.photoeditorpro",
 "Hxreborn",
 "Hide share options"
+],
+[
+"photo.editor.polarr",
+"MightyMich",
+"Unlock Premium (Experimental)"
 ],
 [
 "pl.mapa_turystyczna.app",
@@ -7288,6 +7423,11 @@
 "tv.twitch.android.app",
 "Ryykitty",
 "BTTV and 7TV emotes"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"BTTV, FFZ and 7TV emotes"
 ],
 [
 "tv.twitch.android.app",
