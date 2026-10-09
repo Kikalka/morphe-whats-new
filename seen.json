@@ -185,6 +185,11 @@
 "Unlock split tunneling"
 ],
 [
+"ch.protonvpn.android",
+"Rahaaatul",
+"Unlock VPN Plus"
+],
+[
 "com.JindoBlu.OfflineGames",
 "ggYasin",
 "Fast Offline Games startup"
@@ -2137,6 +2142,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Keep emoji search on emoji"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Keep unsent messages"
 ],
 [
@@ -2533,6 +2543,11 @@
 "com.google.android.apps.maps",
 "Bearinmind",
 "Add microG support"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
+"Any media app"
 ],
 [
 "com.google.android.apps.maps",
@@ -3108,6 +3123,21 @@
 "com.huanxiu.HXAweme",
 "MightyMich",
 "Unlock SVIP Features"
+],
+[
+"com.hyperdotstudios.swampattack2",
+"byehi98",
+"Swamp Attack 2: Remove Ads"
+],
+[
+"com.hyperdotstudios.swampattack2",
+"byehi98",
+"Swamp Attack 2: Unlimited Currency Engine"
+],
+[
+"com.hyperdotstudios.swampattack2",
+"byehi98",
+"Swamp Attack 2: Unlimited Currency Trigger"
 ],
 [
 "com.indymobileapp.document.scanner",
@@ -4477,6 +4507,11 @@
 [
 "com.outfit7.movingeye.swampattack",
 "byehi98",
+"Instant Rewards"
+],
+[
+"com.outfit7.movingeye.swampattack",
+"byehi98",
 "Remove Ads"
 ],
 [
@@ -5108,6 +5143,11 @@
 "com.sezzle.sezzlemobile",
 "Aidan",
 "Remove Rewards"
+],
+[
+"com.sezzle.sezzlemobile",
+"Aidan",
+"Remove Sezzle Subscriptions"
 ],
 [
 "com.sezzle.sezzlemobile",
@@ -6038,6 +6078,11 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Hide Profile Photo Follow Button"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Hide Promotional Content"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -7197,12 +7242,32 @@
 [
 "pl.mobimax.cameraopus",
 "MightyMich",
+"Unlock Premium (Experimental)"
+],
+[
+"pl.mobimax.cameraopus",
+"MightyMich",
 "Unlock Premium Features"
+],
+[
+"pl.mobimax.cameraopus",
+"MightyMich",
+"Wear Engine Scope Fix (Experimental)"
+],
+[
+"pl.mobimax.photex",
+"MightyMich",
+"Unlock Premium (Experimental)"
 ],
 [
 "pl.mobimax.photex",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"pl.mobimax.photex",
+"MightyMich",
+"Wear Engine Scope Fix (Experimental)"
 ],
 [
 "pl.neptis.yanosik.mobi.android",
