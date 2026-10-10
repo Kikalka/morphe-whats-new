@@ -1215,6 +1215,116 @@
 "Full game unlock"
 ],
 [
+"com.discord",
+"VenusIsJaded",
+"CopyBios"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Custom voice messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Dashless"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Disable advertising identifiers"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Disable analytics"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Disable crash reporting"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Disable install attribution"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Disable telemetry and touch logging"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"FavouriteAnything"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"File size on picker"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"FreeNitro"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Hidden Channels"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"JumpToTop"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"No typing"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"NoDelete"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Pastelize"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"PlatformIndicators"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Quest Completer"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"QuickDelete"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Read All"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"ReviewDB"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Venus settings"
+],
+[
 "com.disney.disneyplus",
 "PyFlat",
 "Hold to speed up"
@@ -3065,6 +3175,61 @@
 "Enable Premium"
 ],
 [
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"Local Premium"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"OpenStreetMap Drop-in Replacement"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"OpenStreetMap Preview Assets"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"OpenStreetMap Resource Strings"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"Remove Lists"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"Remove Lists Resource"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"Remove Shop"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"Remove Tracking and Analytics"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"Unlock Cache Filter and Sorting Tools"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"Unlock Experimental Features"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"Unlock Templates"
+],
+[
 "com.guochao.faceshow",
 "Wagg13Patch",
 "Hide live room notice"
@@ -3452,6 +3617,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Glass tab bar"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Group Instagram's notifications"
 ],
 [
@@ -3488,6 +3658,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide highlights"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide suggested accounts in DMs"
 ],
 [
 "com.instagram.android",
@@ -3647,6 +3822,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Saved on your profile"
+],
+[
+"com.instagram.android",
+"HushGram",
 "See who a story mentions"
 ],
 [
@@ -3688,6 +3868,11 @@
 "com.instagram.android",
 "HushGram",
 "Stop Story auto-advance"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Stop background wake-ups"
 ],
 [
 "com.instagram.android",
@@ -3808,6 +3993,11 @@
 "com.instagram.barcelona",
 "HushThreads",
 "Hide suggested users"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Hide the Instagram button"
 ],
 [
 "com.instagram.barcelona",
@@ -4676,6 +4866,21 @@
 ],
 [
 "com.pinterest",
+"Browzomje",
+"Download images in highest available quality"
+],
+[
+"com.pinterest",
+"Browzomje",
+"Filter pin menu actions"
+],
+[
+"com.pinterest",
+"Browzomje",
+"Show pin image information"
+],
+[
+"com.pinterest",
 "HushPinterest",
 "Disable analytics"
 ],
@@ -4683,6 +4888,11 @@
 "com.pinterest",
 "HushPinterest",
 "Disable update nag"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Download board"
 ],
 [
 "com.pinterest",
@@ -4742,12 +4952,22 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Hide survey prompts"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Hide topic suggestions"
 ],
 [
 "com.pinterest",
 "HushPinterest",
 "HushPinterest settings"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Long-press download"
 ],
 [
 "com.pinterest",
@@ -5405,6 +5625,21 @@
 "Unlock Premium Features"
 ],
 [
+"com.spookyhousestudios.progressbar95",
+"byehi98",
+"Free Store"
+],
+[
+"com.spookyhousestudios.progressbar95",
+"byehi98",
+"License Fix"
+],
+[
+"com.spookyhousestudios.progressbar95",
+"byehi98",
+"No Ads + Free Rewards"
+],
+[
 "com.streamdev.aiostreamer",
 "AIS",
 "Bypass TV PRO check on site browsing"
@@ -5633,6 +5868,11 @@
 "com.truecaller",
 "Oyasumi",
 "Return an empty contact list"
+],
+[
+"com.truecaller",
+"Oyasumi",
+"Stop call history sync"
 ],
 [
 "com.tubitv",
@@ -5978,6 +6218,11 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Skip first-launch setup"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Skip passkey sign-in"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -7158,6 +7403,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Swipe back on profiles"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Turn off beta debug logs"
 ],
 [
 "org.telegram.messenger.web",
