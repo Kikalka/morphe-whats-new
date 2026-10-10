@@ -1902,6 +1902,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Share sheet items"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Show View profile on Marketplace sellers"
 ],
 [
@@ -3127,7 +3132,17 @@
 [
 "com.hyperdotstudios.swampattack2",
 "byehi98",
+"Swamp Attack 2: Instant Rewarded Ads"
+],
+[
+"com.hyperdotstudios.swampattack2",
+"byehi98",
 "Swamp Attack 2: Remove Ads"
+],
+[
+"com.hyperdotstudios.swampattack2",
+"byehi98",
+"Swamp Attack 2: Unlimited Currency"
 ],
 [
 "com.hyperdotstudios.swampattack2",
@@ -3138,6 +3153,96 @@
 "com.hyperdotstudios.swampattack2",
 "byehi98",
 "Swamp Attack 2: Unlimited Currency Trigger"
+],
+[
+"com.imangi.templerun2",
+"Legendsciber",
+"Temple Run 2 Free IAP"
+],
+[
+"com.imangi.templerun2",
+"Legendsciber",
+"Temple Run 2 Instant Rewards"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"AMOLED dark theme"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Disable analytics"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Disable update check"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Hide Voice Club tab"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Hide ads"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Hide invite prompts"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Prevent screenshot detection"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Raise media sending limit"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Remove chat protection"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Remove contact selection limit"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Remove forwarding restrictions"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Remove screenshot restriction"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Remove story video limit"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Show full profile photos"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Spoof signature"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.indymobileapp.document.scanner",
@@ -7598,5 +7703,20 @@
 "xyz.rtrvr.pillo",
 "Kondratjev",
 "MicroG support"
+],
+[
+"xyz.rtrvr.pillo",
+"Santodan",
+"Pillo - Import weight history from JSON"
+],
+[
+"xyz.rtrvr.pillo",
+"Santodan",
+"Pillo - Local backup and restore"
+],
+[
+"xyz.rtrvr.pillo",
+"Santodan",
+"Pillo - Weight change summaries"
 ]
 ]
