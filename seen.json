@@ -190,6 +190,26 @@
 "Unlock VPN Plus"
 ],
 [
+"co.steezy.app",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"co.steezy.app",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"co.steezy.app",
+"Hxreborn",
+"Hide upgrade promotions"
+],
+[
+"co.steezy.app",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.JindoBlu.OfflineGames",
 "ggYasin",
 "Fast Offline Games startup"
@@ -418,6 +438,16 @@
 "com.alightcreative.motion",
 "Anxy",
 "Unlock all pro features"
+],
+[
+"com.allformatplayer.streamvideoplayer",
+"FTL",
+"Hide bottom bar"
+],
+[
+"com.allformatplayer.streamvideoplayer",
+"FTL",
+"Skip splash screen"
 ],
 [
 "com.allformatplayer.streamvideoplayer",
@@ -786,6 +816,11 @@
 ],
 [
 "com.atlogis.atlomaps",
+"Hxreborn",
+"Unlock premium"
+],
+[
+"com.azeravn.bulletjournal",
 "Hxreborn",
 "Unlock premium"
 ],
@@ -2077,6 +2112,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Unlock app icons"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Use the phone's emoji"
 ],
 [
@@ -3260,6 +3300,16 @@
 "Self-Hosted Server Support"
 ],
 [
+"com.halalfire.medicneet",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.halalfire.medicneet",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.hapibits.soundlift",
 "Hxreborn",
 "Unlock premium"
@@ -3532,6 +3582,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Blur the bars around Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Change the like animation"
 ],
 [
@@ -3548,6 +3603,11 @@
 "com.instagram.android",
 "HushGram",
 "Clear the media cache"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Control taps and volume on Reels"
 ],
 [
 "com.instagram.android",
@@ -3727,6 +3787,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide your active status"
+],
+[
+"com.instagram.android",
+"HushGram",
 "HushGram settings"
 ],
 [
@@ -3768,6 +3833,11 @@
 "com.instagram.android",
 "HushGram",
 "Open links in external browser"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Profile posts as a list"
 ],
 [
 "com.instagram.android",
@@ -3838,6 +3908,11 @@
 "com.instagram.android",
 "HushGram",
 "Show a story's exact time"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Show hidden like counts"
 ],
 [
 "com.instagram.android",
@@ -4502,6 +4577,11 @@
 [
 "com.mxtech.videoplayer.ad",
 "FTL",
+"Kill Signature Verification"
+],
+[
+"com.mxtech.videoplayer.ad",
+"FTL",
 "Replace FFmpeg codec"
 ],
 [
@@ -4518,6 +4598,16 @@
 "com.mxtech.videoplayer.pro",
 "MightyMich",
 "Unlock MX Player Pro"
+],
+[
+"com.mygate.user",
+"aapam",
+"Block Flutter Ads"
+],
+[
+"com.mygate.user",
+"aapam",
+"Unlock Premium Plan"
 ],
 [
 "com.myntra.android",
@@ -4722,6 +4812,11 @@
 [
 "com.nuvio.tv",
 "Santodan",
+"NuvioTV - Preload streams for next episode"
+],
+[
+"com.nuvio.tv",
+"Santodan",
 "NuvioTV - Preload streams in Continue Watching"
 ],
 [
@@ -4903,6 +4998,11 @@
 "com.pinterest",
 "HushPinterest",
 "Filter pin menu"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Fix push notifications"
 ],
 [
 "com.pinterest",
@@ -5640,6 +5740,16 @@
 "No Ads + Free Rewards"
 ],
 [
+"com.sqcom.shangqing",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.sqcom.shangqing",
+"Hxreborn",
+"Hide ads"
+],
+[
 "com.streamdev.aiostreamer",
 "AIS",
 "Bypass TV PRO check on site browsing"
@@ -5703,6 +5813,11 @@
 "com.streema.simpleradio",
 "Heval",
 "Enable Premium"
+],
+[
+"com.stresscodes.wallp",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.superchinese",
@@ -6138,6 +6253,11 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Keep pulled sounds"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Keep the app language"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -6940,6 +7060,11 @@
 "Pixiv Enhanced Viewer & Instant Zoom"
 ],
 [
+"kallossoft.videotophoto",
+"FTL",
+"Unlock Pro"
+],
+[
 "me.jodoin.aiplantdoctor",
 "Foxxo",
 "Unlock premium"
@@ -6953,6 +7078,16 @@
 "me.pou.app",
 "MightyMich",
 "Unlock Everything (Experimental)"
+],
+[
+"me.proton.android.lumo",
+"Hxreborn",
+"Material 3 switches"
+],
+[
+"me.proton.android.lumo",
+"Hxreborn",
+"Remove tap highlight"
 ],
 [
 "mobi.charmer.magovideo",
@@ -7187,6 +7322,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Change sticker size"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Disable analytics"
 ],
 [
@@ -7242,6 +7382,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Hide Send as button"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Hide Stories"
 ],
 [
@@ -7258,6 +7403,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Hide blocked users in groups"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide channel bar buttons"
 ],
 [
 "org.telegram.messenger.web",
@@ -7283,6 +7433,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Hide keyboard on scroll"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide messages by keyword"
 ],
 [
 "org.telegram.messenger.web",
@@ -7328,6 +7483,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Holiday look all year"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"HushTelegram icon and name"
 ],
 [
 "org.telegram.messenger.web",
@@ -7403,6 +7563,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Swipe back on profiles"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Translate with an outside service"
 ],
 [
 "org.telegram.messenger.web",
@@ -7908,6 +8073,81 @@
 "video.editor.videoeditor.musicvideoeditor",
 "Shuhaibnc",
 "Unlock OviCut Pro"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Clean 3 Dot Menu"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Disable Rate Dialog"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Extra File Info"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Hide Bottom Bar"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Hide Cast Button"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Hide Cast FF FB In Player"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Hide Home Tiles"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Hide Recent Videos"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Hide Widgets Menu Item"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Mod Settings"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Player Side Cleaned"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Remove Tutorial"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Skip Splash Screen"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Unlock Pro"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Volume Booster"
 ],
 [
 "videoeditor.videomaker.videoeditorforyoutube",
