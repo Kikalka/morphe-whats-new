@@ -1,5 +1,15 @@
 [
 [
+"app.expert.player",
+"Heval",
+"Disable ads"
+],
+[
+"app.expert.player",
+"Heval",
+"Enable Premium"
+],
+[
 "app.lawnchair.nightly",
 "Latanvillegas",
 "Pure black and white color options"
@@ -190,6 +200,81 @@
 "Unlock VPN Plus"
 ],
 [
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"5.1-channel audio bridge (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Audio bridge payload (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Frame-synced render dispatch (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Galaxy XR controller models (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Galaxy XR launch compatibility (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Galaxy XR launcher icon (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Galaxy XR refresh profile (72 Hz, 4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Galaxy XR set (4XVR 2.0.22/20022)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"HDR pipeline payload (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Meta platform decoupling (4XVR, experimental)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Render dispatch payload (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Startup and UI continuity helper (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Subtitle suite (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Subtitle suite payload (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"libplacebo HDR pipeline (4XVR)"
+],
+[
 "co.steezy.app",
 "Hxreborn",
 "Disable tracking"
@@ -253,6 +338,26 @@
 "com.adithya.memoneet",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.adobe.lrmobile",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.adobe.lrmobile",
+"Kveld9 Extra",
+"Lightroom Background Sync"
+],
+[
+"com.adobe.lrmobile",
+"Kveld9 Extra",
+"Lightroom Junk Cleaner"
+],
+[
+"com.adobe.lrmobile",
+"Kveld9 Extra",
+"Unlock Premium Features"
 ],
 [
 "com.adobe.lrmobile",
@@ -340,6 +445,16 @@
 "Remove Shipment Sync"
 ],
 [
+"com.aidetector.app",
+"GitGitro",
+"Bypass license check"
+],
+[
+"com.aidetector.app",
+"GitGitro",
+"Unlocks pro"
+],
+[
 "com.airofit.elite",
 "Nickcomua",
 "Experimental Pro 2 compatibility adapter (Elite 1.9.0)"
@@ -348,6 +463,11 @@
 "com.aj.renamer",
 "SailHighSea",
 "Remove ads"
+],
+[
+"com.alarmclock.xtreme.free",
+"Heval",
+"Disable ads"
 ],
 [
 "com.algeria.selfcare.app.android",
@@ -475,6 +595,46 @@
 "Resume videos opened from other apps"
 ],
 [
+"com.alltrails.alltrails",
+"Bearinmind",
+"2D / 3D compass"
+],
+[
+"com.alltrails.alltrails",
+"Bearinmind",
+"Better filters"
+],
+[
+"com.alltrails.alltrails",
+"Bearinmind",
+"Better tracking"
+],
+[
+"com.alltrails.alltrails",
+"Bearinmind",
+"Black icon"
+],
+[
+"com.alltrails.alltrails",
+"Bearinmind",
+"Change package name"
+],
+[
+"com.alltrails.alltrails",
+"Bearinmind",
+"Experimental screen"
+],
+[
+"com.alltrails.alltrails",
+"Bearinmind",
+"Remember filters"
+],
+[
+"com.alltrails.alltrails",
+"Bearinmind",
+"Theme"
+],
+[
 "com.alokmandavgane.hinducalendar",
 "Hxreborn",
 "Disable tracking"
@@ -543,6 +703,11 @@
 "com.angel.klikk",
 "Media",
 "Free content"
+],
+[
+"com.angel.klikk",
+"Media",
+"Hide VPN"
 ],
 [
 "com.angel.klikk",
@@ -770,6 +935,21 @@
 "Activates premium features"
 ],
 [
+"com.appgenix.bizcal",
+"Heval",
+"Disable ads"
+],
+[
+"com.appgenix.bizcal",
+"o0b",
+"Disable telemetry"
+],
+[
+"com.appgenix.bizcal",
+"o0b",
+"Unlock Pro"
+],
+[
 "com.appsomniacs.mmc",
 "Satwik-Miyyapuram",
 "Remove ad SDK auto-start"
@@ -863,6 +1043,11 @@
 "com.bandcamp.android",
 "Nai64 Extra",
 "Unlock Playback Speed"
+],
+[
+"com.banglalink.toffee",
+"Media",
+"Hide VPN"
 ],
 [
 "com.banglalink.toffee",
@@ -983,6 +1168,11 @@
 "com.bongo.bongobd",
 "Media",
 "Free content"
+],
+[
+"com.bongo.bongobdandroidtv",
+"Media",
+"Disable update"
 ],
 [
 "com.bongo.bongobdandroidtv",
@@ -1302,12 +1492,32 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Force system emojis"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Force system font"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "FreeNitro"
 ],
 [
 "com.discord",
 "VenusIsJaded",
 "Hidden Channels"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Hide Quests promotion"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Hide gift button"
 ],
 [
 "com.discord",
@@ -1553,6 +1763,11 @@
 "com.easybrain.sudoku.android",
 "Mubelotix",
 "Disable ads"
+],
+[
+"com.eisterhues_media_2",
+"TorbenStriegel",
+"Unlock Premium"
 ],
 [
 "com.facebook.katana",
@@ -1808,6 +2023,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Force dark mode"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Frame step"
 ],
 [
 "com.facebook.katana",
@@ -2390,6 +2610,41 @@
 "Unlock premium"
 ],
 [
+"com.featherweightgames.fx",
+"Fynnaly",
+"Ads path tracer"
+],
+[
+"com.featherweightgames.fx",
+"Fynnaly",
+"Disable tamper guard"
+],
+[
+"com.featherweightgames.fx",
+"Fynnaly",
+"Force GMS rewarded available"
+],
+[
+"com.featherweightgames.fx",
+"Fynnaly",
+"Play offline (guest)"
+],
+[
+"com.featherweightgames.fx",
+"Fynnaly",
+"Skip AdMob rewarded ads"
+],
+[
+"com.featherweightgames.fx",
+"Fynnaly",
+"Skip decagon rewarded ads"
+],
+[
+"com.featherweightgames.fx",
+"Fynnaly",
+"Skip rewarded ads"
+],
+[
 "com.fgol.HungrySharkEvolution",
 "Legendsciber",
 "Hungry Shark Currency Hack"
@@ -2431,6 +2686,11 @@
 ],
 [
 "com.flyersoft.moonreader",
+"Heval",
+"Disable ads"
+],
+[
+"com.foobnix.pdf.reader",
 "Heval",
 "Disable ads"
 ],
@@ -2862,6 +3122,16 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Speed cameras"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
+"Speeding chime"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Trim account menu"
 ],
 [
@@ -3096,6 +3366,26 @@
 ],
 [
 "com.google.android.inputmethod.latin",
+"JacksonJones2003 Immersive",
+"Emoji Key On Right"
+],
+[
+"com.google.android.inputmethod.latin",
+"JacksonJones2003 Immersive",
+"Glass Panel"
+],
+[
+"com.google.android.inputmethod.latin",
+"JacksonJones2003 Immersive",
+"Immersive Keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"JacksonJones2003 Immersive",
+"Translucent Bottom Bar"
+],
+[
+"com.google.android.inputmethod.latin",
 "Kveld9",
 "Core Integrity"
 ],
@@ -3182,6 +3472,11 @@
 [
 "com.gotipath.deeptotv",
 "Media",
+"Access content"
+],
+[
+"com.gotipath.deeptotv",
+"Media",
 "Ad campaign"
 ],
 [
@@ -3190,6 +3485,16 @@
 "Content access"
 ],
 [
+"com.gotipath.deeptotv",
+"Media",
+"Hide ads"
+],
+[
+"com.gotipath.deeptotvapp",
+"Media",
+"Access content"
+],
+[
 "com.gotipath.deeptotvapp",
 "Media",
 "Ad campaign"
@@ -3198,6 +3503,11 @@
 "com.gotipath.deeptotvapp",
 "Media",
 "Content access"
+],
+[
+"com.gotipath.deeptotvapp",
+"Media",
+"Hide ads"
 ],
 [
 "com.greenstone.pocketwhip",
@@ -3562,6 +3872,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Accent color"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Allow screenshots"
 ],
 [
@@ -3578,6 +3893,11 @@
 "com.instagram.android",
 "HushGram",
 "Ask before a refresh"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Back leaves Home"
 ],
 [
 "com.instagram.android",
@@ -3672,7 +3992,17 @@
 [
 "com.instagram.android",
 "HushGram",
+"Find the reel you came from"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Full resolution photos"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Full screen Reels and Home"
 ],
 [
 "com.instagram.android",
@@ -3693,6 +4023,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide Meta AI"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide Notes on profile pictures"
 ],
 [
 "com.instagram.android",
@@ -3718,6 +4053,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide highlights"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide paid partnership Reels"
 ],
 [
 "com.instagram.android",
@@ -3792,7 +4132,17 @@
 [
 "com.instagram.android",
 "HushGram",
+"HushGram launch screen"
+],
+[
+"com.instagram.android",
+"HushGram",
 "HushGram settings"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Install next to Instagram"
 ],
 [
 "com.instagram.android",
@@ -3818,6 +4168,11 @@
 "com.instagram.android",
 "HushGram",
 "Lock your messages"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Long press to zoom"
 ],
 [
 "com.instagram.android",
@@ -3932,7 +4287,17 @@
 [
 "com.instagram.android",
 "HushGram",
+"Start feed videos with sound"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Start on x86 devices"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Start stories with sound"
 ],
 [
 "com.instagram.android",
@@ -3982,6 +4347,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Upload stories at full quality"
+],
+[
+"com.instagram.android",
+"HushGram",
 "View DM photos and videos anonymously"
 ],
 [
@@ -3993,6 +4363,31 @@
 "com.instagram.android",
 "HushGram",
 "View stories anonymously"
+],
+[
+"com.instagram.android",
+"Kveld9 Extra",
+"AR Effects Slimmer"
+],
+[
+"com.instagram.android",
+"Kveld9 Extra",
+"Block Crash & Diagnostics"
+],
+[
+"com.instagram.android",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.instagram.android",
+"Kveld9 Extra",
+"Breakpad Crash Reporter Slimmer"
+],
+[
+"com.instagram.android",
+"Kveld9 Extra",
+"MLKit Vision Slimmer"
 ],
 [
 "com.instagram.android",
@@ -4063,6 +4458,11 @@
 "com.instagram.barcelona",
 "HushThreads",
 "Hide ads"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Hide ghost post bubbles"
 ],
 [
 "com.instagram.barcelona",
@@ -4140,6 +4540,16 @@
 "Remove Tracking and Analytics"
 ],
 [
+"com.isarinteractive.skat.android.ad",
+"TorbenStriegel",
+"Remove Ads"
+],
+[
+"com.isarinteractive.skat.android.ad",
+"TorbenStriegel",
+"Remove Play Store redirect"
+],
+[
 "com.jaindarshan.panchangtithi",
 "Adish08",
 "Premium unlock"
@@ -4153,6 +4563,26 @@
 "com.jazz.jazzworld",
 "Proxma",
 "Remove daily check-in ads"
+],
+[
+"com.jcdecaux.vls.nantes",
+"Yann-Soliman",
+"Naolib v\u00e9lo : carte avec microG"
+],
+[
+"com.jcdecaux.vls.nantes",
+"Yann-Soliman",
+"Naolib v\u00e9lo : conserver les parkings"
+],
+[
+"com.jcdecaux.vls.nantes",
+"Yann-Soliman",
+"Naolib v\u00e9lo : d\u00e9verrouiller les v\u00e9los \u00e0 distance"
+],
+[
+"com.jcdecaux.vls.nantes",
+"Yann-Soliman",
+"Naolib v\u00e9lo : ouvrir les parkings \u00e0 distance"
 ],
 [
 "com.jetappfactory.jetaudio",
@@ -4228,6 +4658,11 @@
 "com.joshua.jptt",
 "JPTT",
 "Wrap recent searches"
+],
+[
+"com.kabbik.app",
+"Media",
+"Bypass PairIP"
 ],
 [
 "com.kabbik.app",
@@ -4313,6 +4748,36 @@
 "com.ledblinker",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Bypass Effects Region Restriction"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Locale Slimmer"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Native Bloat Slimmer"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Screen Density Slimmer"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Unlock Premium"
 ],
 [
 "com.lemon.lvoverseas",
@@ -4465,6 +4930,41 @@
 "Dead Trigger Free Store"
 ],
 [
+"com.mautilus.servus",
+"Sudashiii",
+"Block forced updates"
+],
+[
+"com.mautilus.servus",
+"Sudashiii",
+"Disable review prompts"
+],
+[
+"com.mautilus.servus",
+"Sudashiii",
+"Disable tracking"
+],
+[
+"com.mautilus.servus",
+"Sudashiii",
+"Disable video ads"
+],
+[
+"com.mautilus.servus",
+"Sudashiii",
+"Reject cookie banner"
+],
+[
+"com.maxgames.aow2",
+"Legendsciber",
+"Age Of War 2 Remove Ads"
+],
+[
+"com.maxgames.aow2",
+"Legendsciber",
+"Age Of War 2 Store Modes Unlock"
+],
+[
 "com.maxgames.stickwarlegacy",
 "AFFiNE",
 "Remove Google Play requirement"
@@ -4488,6 +4988,11 @@
 "com.melodis.midomiMusicIdentifier.freemium",
 "Heval",
 "Disable ads"
+],
+[
+"com.meteoblue.droid",
+"o0b",
+"Unlock Premium"
 ],
 [
 "com.mi.earphone",
@@ -4545,6 +5050,76 @@
 "Surgical OEM Unlock"
 ],
 [
+"com.microsoft.office.officehubrow",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.microsoft.office.officehubrow",
+"Kveld9 Extra",
+"Bypass Code Transparency"
+],
+[
+"com.microsoft.office.officehubrow",
+"Kveld9 Extra",
+"Copilot Companion Native Slimmer"
+],
+[
+"com.microsoft.office.officehubrow",
+"Kveld9 Extra",
+"Copilot DPI Slimmer"
+],
+[
+"com.microsoft.office.officehubrow",
+"Kveld9 Extra",
+"Copilot Junk Cleaner"
+],
+[
+"com.microsoft.office.officehubrow",
+"Kveld9 Extra",
+"Disable Login Requirement"
+],
+[
+"com.microsoft.office.powerpoint",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.microsoft.office.powerpoint",
+"Kveld9 Extra",
+"Bypass Code Transparency"
+],
+[
+"com.microsoft.office.powerpoint",
+"Kveld9 Extra",
+"Disable Login Requirement"
+],
+[
+"com.microsoft.office.powerpoint",
+"Kveld9 Extra",
+"PowerPoint Companion Native Slimmer"
+],
+[
+"com.microsoft.office.powerpoint",
+"Kveld9 Extra",
+"PowerPoint DPI Slimmer"
+],
+[
+"com.microsoft.office.powerpoint",
+"Kveld9 Extra",
+"PowerPoint Locale Slimmer"
+],
+[
+"com.microsoft.office.powerpoint",
+"Kveld9 Extra",
+"Remove Shared User ID"
+],
+[
+"com.microsoft.office.powerpoint",
+"Kveld9 Extra",
+"Unlock 365 Family"
+],
+[
 "com.mightygamesgroup.shootyskies",
 "byehi98",
 "Shooty Skies Ad-Free (Ads blocked + instant rewards)"
@@ -4563,6 +5138,36 @@
 "com.mixplorer",
 "Ak800i",
 "Fix scoped-storage file sharing"
+],
+[
+"com.mojang.minecraftpe",
+"Hajs110208",
+"Add documents provider"
+],
+[
+"com.mojang.minecraftpe",
+"Hajs110208",
+"Add mtbinloader2 lib"
+],
+[
+"com.mojang.minecraftpe",
+"Hajs110208",
+"Change Package Name"
+],
+[
+"com.mojang.minecraftpe",
+"Hajs110208",
+"Remove music"
+],
+[
+"com.mtv.sai",
+"TorbenStriegel",
+"Remove Play Store redirect"
+],
+[
+"com.mtv.sai",
+"TorbenStriegel",
+"Unlock Premium"
 ],
 [
 "com.musixmatch.android.lyrify",
@@ -4890,6 +5495,11 @@
 "Enable Premium"
 ],
 [
+"com.otp.octopilauncher",
+"o0b",
+"Unlock Pro"
+],
+[
 "com.outfit7.movingeye.swampattack",
 "byehi98",
 "Free Store"
@@ -5205,6 +5815,11 @@
 "Neutralize advertising ID"
 ],
 [
+"com.pittvandewitt.wavelet",
+"o0b",
+"Unlock Pro"
+],
+[
 "com.playrix.gardenscapes",
 "Dudek",
 "Repair negative stars once"
@@ -5222,12 +5837,47 @@
 [
 "com.prothomalo",
 "Media",
+"Access content"
+],
+[
+"com.prothomalo",
+"Media",
+"Bypass PairIP"
+],
+[
+"com.prothomalo",
+"Media",
+"Bypass login"
+],
+[
+"com.prothomalo",
+"Media",
 "Content access"
 ],
 [
 "com.prothomalo",
 "Media",
+"Disable Update"
+],
+[
+"com.prothomalo",
+"Media",
 "Login required"
+],
+[
+"com.prothomalo.chorki",
+"Media",
+"Access content"
+],
+[
+"com.prothomalo.chorki",
+"Media",
+"Bypass PairIP"
+],
+[
+"com.prothomalo.chorki",
+"Media",
+"Bypass login"
 ],
 [
 "com.prothomalo.chorki",
@@ -5380,6 +6030,16 @@
 "Sling Drift VIP Unlock"
 ],
 [
+"com.sadpuppy.lemmings",
+"byehi98",
+"Lemmings: Free Store"
+],
+[
+"com.sadpuppy.lemmings",
+"byehi98",
+"Lemmings: VIP Unlock"
+],
+[
 "com.safar.fyi",
 "Proxma",
 "Bypass license verification"
@@ -5393,6 +6053,21 @@
 "com.sal.privacykit",
 "Rahaaatul",
 "Unlock Premium"
+],
+[
+"com.samruston.hurry",
+"o0b",
+"Disable Firebase analytics and remote config"
+],
+[
+"com.samruston.hurry",
+"o0b",
+"Disable Pairip integrity and license checks"
+],
+[
+"com.samruston.hurry",
+"o0b",
+"Unlock pro features"
 ],
 [
 "com.samsung.android.homemode",
@@ -5493,6 +6168,11 @@
 "com.scannerradio",
 "Jacobs",
 "Telemetry Kill"
+],
+[
+"com.scores365",
+"0xtalos",
+"MicroG integration"
 ],
 [
 "com.scores365",
@@ -5710,6 +6390,11 @@
 "Unlock Premium & Remove Ads"
 ],
 [
+"com.softissimo.reverso.context",
+"GitGitro",
+"Unlock Reverso Context Premium"
+],
+[
 "com.soulbreakers.mymoveset",
 "Hxreborn",
 "Disable tracking"
@@ -5895,6 +6580,11 @@
 "Unlock TrebEdit Premium"
 ],
 [
+"com.tencent.qqmusic",
+"JacksonJones2003 QQMusic",
+"English translation"
+],
+[
 "com.teslacoilsw.launcher",
 "MightyMich",
 "Enable Prime (Experimental)"
@@ -5908,6 +6598,26 @@
 "com.teslacoilsw.launcher",
 "MightyMich",
 "Unlock Nova Launcher Prime"
+],
+[
+"com.teslacoilsw.launcher",
+"o0b",
+"Disable Bugsnag"
+],
+[
+"com.teslacoilsw.launcher",
+"o0b",
+"Disable Sesame integrations"
+],
+[
+"com.teslacoilsw.launcher",
+"o0b",
+"Disable Sesame search results"
+],
+[
+"com.teslacoilsw.launcher",
+"o0b",
+"Unlock Prime"
 ],
 [
 "com.textra",
@@ -5928,6 +6638,41 @@
 "com.tinder",
 "Wagg13Patch",
 "Tinder Unlimited Rewind"
+],
+[
+"com.tranzmate",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.tranzmate",
+"Kveld9 Extra",
+"Fix Google Maps"
+],
+[
+"com.tranzmate",
+"Kveld9 Extra",
+"Locale Slimmer"
+],
+[
+"com.tranzmate",
+"Kveld9 Extra",
+"Remove Ads"
+],
+[
+"com.tranzmate",
+"Kveld9 Extra",
+"Screen Density Slimmer"
+],
+[
+"com.tranzmate",
+"Kveld9 Extra",
+"Suppress Paywalls"
+],
+[
+"com.tranzmate",
+"Kveld9 Extra",
+"Unlock Moovit+"
 ],
 [
 "com.traviangames.travianlegendsmobile",
@@ -5995,6 +6740,106 @@
 "Block analytics & tracking"
 ],
 [
+"com.twitter.android",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Block Update Screen"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Control Video Auto Scroll"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Customize UI"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Drawer Items"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Hide Banner"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Hide Discover More"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Hide Elements"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Hide Live Threads"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Hide Nudge Button"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Hide Promote Button"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Hide Recommendation Items"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Hide Recommended Users"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"No Shortened URL"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Pause Search Suggestions"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Remove Ads"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Remove Premium Upsell"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Share Links"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Show Sensitive Media"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"X MLKit Vision Slimmer"
+],
+[
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Background blue-noise dithering (experimental)"
@@ -6060,6 +6905,21 @@
 "Unlock Premium Features"
 ],
 [
+"com.viewlift.hoichoi",
+"Media",
+"Anonymous user"
+],
+[
+"com.viewlift.hoichoi",
+"Media",
+"Free content"
+],
+[
+"com.viewlift.hoichoi",
+"Media",
+"Strip PairIP"
+],
+[
 "com.vng.g6.a.zombie",
 "byehi98",
 "All items owned"
@@ -6121,6 +6981,71 @@
 ],
 [
 "com.waze",
+"Bearinmind",
+"Alert distances"
+],
+[
+"com.waze",
+"Bearinmind",
+"All moods"
+],
+[
+"com.waze",
+"Bearinmind",
+"Bigger speedometer"
+],
+[
+"com.waze",
+"Bearinmind",
+"Full black"
+],
+[
+"com.waze",
+"Bearinmind",
+"Hide ads"
+],
+[
+"com.waze",
+"Bearinmind",
+"Map skin"
+],
+[
+"com.waze",
+"Bearinmind",
+"Navigation distances"
+],
+[
+"com.waze",
+"Bearinmind",
+"No AI reporting"
+],
+[
+"com.waze",
+"Bearinmind",
+"No Google Assistant"
+],
+[
+"com.waze",
+"Bearinmind",
+"Report speed limit"
+],
+[
+"com.waze",
+"Bearinmind",
+"Speed camera sound at any speed"
+],
+[
+"com.waze",
+"Bearinmind",
+"Speed cameras everywhere"
+],
+[
+"com.waze",
+"Bearinmind",
+"Speed limit sign"
+],
+[
+"com.waze",
 "CasketPizza",
 "Use Android system TTS for navigation"
 ],
@@ -6128,6 +7053,81 @@
 "com.waze",
 "Dowjames",
 "Android Auto police alert distance"
+],
+[
+"com.waze",
+"Forsigh",
+"Allow high refresh rate"
+],
+[
+"com.waze",
+"Forsigh",
+"Auto zoom"
+],
+[
+"com.waze",
+"Forsigh",
+"Average-speed camera alerts"
+],
+[
+"com.waze",
+"Forsigh",
+"Brief voice guidance"
+],
+[
+"com.waze",
+"Forsigh",
+"Config overrides"
+],
+[
+"com.waze",
+"Forsigh",
+"Enable police & enforcement alerts"
+],
+[
+"com.waze",
+"Forsigh",
+"Extended police & hazard alert distances"
+],
+[
+"com.waze",
+"Forsigh",
+"Lane guidance"
+],
+[
+"com.waze",
+"Forsigh",
+"Radar sound at any speed"
+],
+[
+"com.waze",
+"Forsigh",
+"Remove ads"
+],
+[
+"com.waze",
+"Forsigh",
+"Show all cameras & road hazards"
+],
+[
+"com.waze",
+"Forsigh",
+"Speed limit sign always shown"
+],
+[
+"com.waze",
+"Forsigh",
+"Speed-limit decrease warnings"
+],
+[
+"com.waze",
+"Forsigh",
+"Speedometer always on"
+],
+[
+"com.waze",
+"Forsigh",
+"Wire Morphe YouTube Music into Waze"
 ],
 [
 "com.wb.headsup",
@@ -6153,6 +7153,11 @@
 "com.yodo1.crossyroad",
 "byehi98",
 "Free store"
+],
+[
+"com.ytheekshana.apkextractor",
+"GitGitro",
+"Remove ads"
 ],
 [
 "com.yunyi.smartcamera",
@@ -6622,6 +7627,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Telemetry Manifest Purge"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "TikTok Privacy Permissions Stripper"
 ],
 [
@@ -6910,8 +7920,28 @@
 "Unlock premium"
 ],
 [
+"de.lineas.lit.ntv.android",
+"TorbenStriegel",
+"Unlock ntv Plus"
+],
+[
+"de.mash.android.calendar",
+"o0b",
+"Your Calendar Widget: Remove ads"
+],
+[
+"de.mash.android.calendar",
+"o0b",
+"Your Calendar Widget: Unlock Pro"
+],
+[
 "de.motain.iliga",
 "Heval",
+"Disable ads"
+],
+[
+"de.motain.iliga",
+"TorbenStriegel",
 "Disable ads"
 ],
 [
@@ -6945,6 +7975,21 @@
 "Hold to speed up"
 ],
 [
+"de.wetteronline.wetterapp",
+"TorbenStriegel",
+"Enable Premium"
+],
+[
+"dev.goodwy.gallery",
+"GitGitro",
+"Unlock premium"
+],
+[
+"dev.goodwy.rphone",
+"GitGitro",
+"Unlock premium"
+],
+[
 "dev.vodik7.atvtools",
 "Hxreborn",
 "Unlock premium"
@@ -6968,6 +8013,31 @@
 "fr.cityway.android.creaastuce",
 "Mubelotix",
 "Offline Validation Fix"
+],
+[
+"fr.keepcool.memberapp",
+"Yann-Soliman",
+"Keep Cool : afficher les disponibilit\u00e9s"
+],
+[
+"fr.keepcool.memberapp",
+"Yann-Soliman",
+"Keep Cool : autoriser le + dans les adresses e-mail"
+],
+[
+"fr.leboncoin",
+"Yann-Soliman",
+"Leboncoin : conserver les filtres de recherche"
+],
+[
+"fr.leboncoin",
+"Yann-Soliman",
+"Leboncoin : limiter le suivi"
+],
+[
+"fr.leboncoin",
+"Yann-Soliman",
+"Leboncoin : supprimer les publicit\u00e9s"
 ],
 [
 "idm.internet.download.manager",
@@ -7062,7 +8132,17 @@
 [
 "kallossoft.videotophoto",
 "FTL",
+"Skip splash delay"
+],
+[
+"kallossoft.videotophoto",
+"FTL",
 "Unlock Pro"
+],
+[
+"kallossoft.videotophoto",
+"FTL",
+"Unlock Pro and skip onboarding"
 ],
 [
 "me.jodoin.aiplantdoctor",
@@ -7167,6 +8247,11 @@
 [
 "org.cris.aikyam",
 "VipinVIP",
+"Allow screenshots"
+],
+[
+"org.cris.aikyam",
+"VipinVIP",
 "Bypass USB-debugging detection"
 ],
 [
@@ -7185,9 +8270,34 @@
 "Disable native security SDK"
 ],
 [
+"org.cris.aikyam",
+"VipinVIP",
+"Hide screenshot detection"
+],
+[
+"org.mozilla.fenix",
+"FTL",
+"Close duplicate tabs"
+],
+[
+"org.mozilla.fenix",
+"FTL",
+"Hide fullscreen toast"
+],
+[
+"org.mozilla.fenix",
+"FTL",
+"New tab next to current tab"
+],
+[
 "org.mozilla.fenix",
 "FTL",
 "Old style 3 dot menu"
+],
+[
+"org.mozilla.fenix",
+"FTL",
+"Old style 3 dot menu And Extension Pinning"
 ],
 [
 "org.mozilla.fenix",
@@ -7322,6 +8432,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Black and white launch logo"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Change sticker size"
 ],
 [
@@ -7372,7 +8487,22 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Faster downloads"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Folders by chat type"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Gallery camera on tap"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Hide Contacts tab"
 ],
 [
 "org.telegram.messenger.web",
@@ -7542,6 +8672,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Save downloaded files"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Show user and chat IDs"
 ],
 [
@@ -7583,6 +8718,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Turn off reaction effects"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"UnifiedPush notifications"
 ],
 [
 "org.telegram.messenger.web",
@@ -7793,6 +8933,26 @@
 "pl.neptis.yanosik.mobi.android",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"RikoDEV",
+"Bypass Android Auto certificate checks"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"RikoDEV",
+"Remove Yanosik ads"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"RikoDEV",
+"Remove Yanosik radio"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"RikoDEV",
+"Unlock Yanosik PRO"
 ],
 [
 "premom.eh.com.ehpremomapp",
@@ -8188,6 +9348,21 @@
 "voicechanger.voiceeffects.soundeffects.voiceavatar",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"wibuku.app.wibuku",
+"Fynnaly",
+"Google sign-in via MicroG-RE"
+],
+[
+"wibuku.app.wibuku",
+"Fynnaly",
+"Login tracer"
+],
+[
+"wibuku.app.wibuku",
+"Fynnaly",
+"Premium"
 ],
 [
 "xyz.rtrvr.pillo",
