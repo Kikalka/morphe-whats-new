@@ -130,6 +130,36 @@
 "Unlock Premium Features"
 ],
 [
+"calendar.agenda.schedule.event.advance.calendar.planner",
+"FTL",
+"Boost splash screen"
+],
+[
+"calendar.agenda.schedule.event.advance.calendar.planner",
+"FTL",
+"Disable caller features"
+],
+[
+"calendar.agenda.schedule.event.advance.calendar.planner",
+"FTL",
+"Disable rate us prompts"
+],
+[
+"calendar.agenda.schedule.event.advance.calendar.planner",
+"FTL",
+"Remove battery optimization prompt"
+],
+[
+"calendar.agenda.schedule.event.advance.calendar.planner",
+"FTL",
+"Skip initial setup pages"
+],
+[
+"calendar.agenda.schedule.event.advance.calendar.planner",
+"FTL",
+"Stop hiding navigation keys"
+],
+[
 "callfilter.app",
 "MightyMich",
 "Unlock Premium (Experimental)"
@@ -262,7 +292,22 @@
 [
 "cn.vr4p.oculus4xvrplayerov",
 "Steam Link GalaxyXR",
+"Meta platform decoupling (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
 "Meta platform decoupling (4XVR, experimental)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Popup refresh on resume (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"Steam Link GalaxyXR",
+"Premium unlock (4XVR, experimental)"
 ],
 [
 "cn.vr4p.oculus4xvrplayerov",
@@ -465,6 +510,36 @@
 "Remove Shipment Sync"
 ],
 [
+"com.agendaplanner.taskmangereventmangercalendar",
+"FTL",
+"Boost splash"
+],
+[
+"com.agendaplanner.taskmangereventmangercalendar",
+"FTL",
+"Disable caller related features"
+],
+[
+"com.agendaplanner.taskmangereventmangercalendar",
+"FTL",
+"Skip consent form"
+],
+[
+"com.agendaplanner.taskmangereventmangercalendar",
+"FTL",
+"Skip initial setup pages"
+],
+[
+"com.agendaplanner.taskmangereventmangercalendar",
+"FTL",
+"Stop hiding navigation keys"
+],
+[
+"com.agendaplanner.taskmangereventmangercalendar",
+"FTL",
+"Unlock purchased state"
+],
+[
 "com.aidetector.app",
 "GitGitro",
 "Bypass license check"
@@ -615,6 +690,11 @@
 "Resume videos opened from other apps"
 ],
 [
+"com.allformatplayer.streamvideoplayer",
+"Hxreborn",
+"Skip splash delay"
+],
+[
 "com.alltrails.alltrails",
 "Bearinmind",
 "2D / 3D compass"
@@ -688,6 +768,11 @@
 "com.amazon.spiderpork",
 "Blazko381",
 "Luna Low Latency Codecs"
+],
+[
+"com.andatsoft.myapk.fwa",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.android.chrome",
@@ -953,6 +1038,11 @@
 "com.antoinehabert.truthordaregame",
 "Mubelotix",
 "Activates premium features"
+],
+[
+"com.apkpure.aegon",
+"Tachibana-Shin",
+"Disable ads"
 ],
 [
 "com.appgenix.bizcal",
@@ -1257,12 +1347,87 @@
 [
 "com.brave.browser",
 "Kveld9",
+"Better Tab Closing"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Block Motion Sensors"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Block Popups & Rating Requests"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Block Tracking"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Clean Shared Links"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Clean Start Page"
+],
+[
+"com.brave.browser",
+"Kveld9",
 "Disable Content Capture"
 ],
 [
 "com.brave.browser",
 "Kveld9",
 "Disable Tab Auto-Minimization"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Faster Startup"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Hide Battery Status"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Keep Tabs Open"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Remove Extra Languages"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Remove Unused Parts"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Silence Promo Notifications"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Skip Welcome Screens"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Stop Background Sync"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Stop Text Sharing with System"
 ],
 [
 "com.brave.browser",
@@ -1548,6 +1713,11 @@
 "com.discord",
 "VenusIsJaded",
 "Hide Quests promotion"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Hide call button"
 ],
 [
 "com.discord",
@@ -2442,6 +2612,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Bold and italic text"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Clone install under another package name"
 ],
 [
@@ -2472,12 +2647,27 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hide Mark as read"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide Meta AI"
 ],
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hide Notifications tab"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide People You May Know"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Hide People tab"
 ],
 [
 "com.facebook.orca",
@@ -2628,6 +2818,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Spoof package version"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Stop MQTT logging"
 ],
 [
 "com.facebook.orca",
@@ -3077,6 +3272,11 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Flock cameras"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Hide AI"
 ],
 [
@@ -3212,6 +3412,11 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Waze alerts"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Your profile toast"
 ],
 [
@@ -3303,6 +3508,66 @@
 "com.google.android.apps.youtube.music",
 "Bartlomiejfornalczyk",
 "Allow external media browser connections"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"App name"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Disable DRC audio"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Disable QUIC protocol"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Extension"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Hide ads"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Hide stitched ads (SSAI)"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Install as clone"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Remove viewer discretion dialog"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"SponsorBlock"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Spoof app version"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Spoof osName (Android Automotive)"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
+"Spoof package name in User-Agent"
 ],
 [
 "com.google.android.calendar",
@@ -3462,6 +3727,16 @@
 [
 "com.google.android.inputmethod.latin",
 "Kveld9",
+"Block App Hijacking"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"Block Trackers"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
 "Core Integrity"
 ],
 [
@@ -3492,7 +3767,47 @@
 [
 "com.google.android.inputmethod.latin",
 "Kveld9",
+"Install a Copy"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"Keyboard Settings"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"No Cloud Backup"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"No Play Services"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
 "Offline Only"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"Remove Extra Files"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"Remove Permissions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"Stop Background Sync"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
+"Stop Remote Updates"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -3717,12 +4032,32 @@
 [
 "com.hevy",
 "Kveld9",
+"Block Trackers"
+],
+[
+"com.hevy",
+"Kveld9",
+"Remove Extra Files"
+],
+[
+"com.hevy",
+"Kveld9",
 "Resource Slimmer"
+],
+[
+"com.hevy",
+"Kveld9",
+"Stop Background Sync"
 ],
 [
 "com.hitrolab.audioeditor",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.huami.watch.hmwatchmanager",
+"Tachibana-Shin",
+"Disable telemetry"
 ],
 [
 "com.huanxiu.HXAweme",
@@ -5097,6 +5432,11 @@
 [
 "com.mi.earphone",
 "Kveld9",
+"Block Trackers"
+],
+[
+"com.mi.earphone",
+"Kveld9",
 "Device Privacy Guard"
 ],
 [
@@ -5108,6 +5448,11 @@
 "com.mi.earphone",
 "Kveld9",
 "Guest OTA Unlock"
+],
+[
+"com.mi.earphone",
+"Kveld9",
+"Hide Device ID"
 ],
 [
 "com.mi.earphone",
@@ -5127,12 +5472,52 @@
 [
 "com.mi.earphone",
 "Kveld9",
+"Run on Rooted Devices"
+],
+[
+"com.mi.earphone",
+"Kveld9",
+"Safer Connections"
+],
+[
+"com.mi.earphone",
+"Kveld9",
+"Show All Models"
+],
+[
+"com.mi.earphone",
+"Kveld9",
+"Skip Popups & Tutorials"
+],
+[
+"com.mi.earphone",
+"Kveld9",
 "Sound Features Unlock"
 ],
 [
 "com.mi.earphone",
 "Kveld9",
+"Stop Background Activity"
+],
+[
+"com.mi.earphone",
+"Kveld9",
 "Surgical OEM Unlock"
+],
+[
+"com.mi.earphone",
+"Kveld9",
+"Unlock Sound Features"
+],
+[
+"com.mi.earphone",
+"Kveld9",
+"Unlock for Other Phones"
+],
+[
+"com.mi.earphone",
+"Kveld9",
+"Update Without Account"
 ],
 [
 "com.microsoft.office.officehubrow",
@@ -5238,6 +5623,11 @@
 "com.mojang.minecraftpe",
 "Hajs110208",
 "Change Package Name"
+],
+[
+"com.mojang.minecraftpe",
+"Hajs110208",
+"Change app branding"
 ],
 [
 "com.mojang.minecraftpe",
@@ -5452,7 +5842,17 @@
 [
 "com.nokoprint",
 "Kveld9",
+"Block Ads"
+],
+[
+"com.nokoprint",
+"Kveld9",
 "Block Telemetry & Trackers"
+],
+[
+"com.nokoprint",
+"Kveld9",
+"Block Trackers"
 ],
 [
 "com.nokoprint",
@@ -5467,7 +5867,32 @@
 [
 "com.nokoprint",
 "Kveld9",
+"Remove Ad Files"
+],
+[
+"com.nokoprint",
+"Kveld9",
+"Remove Extra Stores"
+],
+[
+"com.nokoprint",
+"Kveld9",
+"Safer Connections"
+],
+[
+"com.nokoprint",
+"Kveld9",
 "Skip Welcome Dialog"
+],
+[
+"com.nokoprint",
+"Kveld9",
+"Skip Welcome Screen"
+],
+[
+"com.nokoprint",
+"Kveld9",
+"Stop Background Sync"
 ],
 [
 "com.nostalgiatv",
@@ -5483,6 +5908,11 @@
 "com.nouxi.bisbi",
 "Wagg13Patch",
 "Enable Premium"
+],
+[
+"com.nuvio.tv",
+"Santodan",
+"NuvioTV - Android TV launcher channels"
 ],
 [
 "com.nuvio.tv",
@@ -5910,6 +6340,11 @@
 "Repair negative stars once"
 ],
 [
+"com.plexapp.android",
+"UnkyBadTouch",
+"Premium unlock"
+],
+[
 "com.pocketcolorwheel.PCW",
 "Heval",
 "Disable ads"
@@ -5973,6 +6408,11 @@
 "com.prothomalo.chorki",
 "Media",
 "Login required"
+],
+[
+"com.psiphon3.subscription",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.quvideo.vivacut",
@@ -6088,6 +6528,11 @@
 "com.rockstreamer.iscreentv",
 "Media",
 "Temp user"
+],
+[
+"com.rp.hypertrophy",
+"braiNtropy",
+"Unlock Premium"
 ],
 [
 "com.rubygames.slingdrift",
@@ -6830,6 +7275,216 @@
 "Block analytics & tracking"
 ],
 [
+"com.tumblr",
+"HushTumblr",
+"Dark background color"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Disable analytics"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Disable update prompts"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Filter activity notifications"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Fix push notifications"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide Blaze prompts"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide Tumblr TV"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide Watch it rows"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide ads"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide advertising ID"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide hashtags"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide note counts"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide photo posts"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide posts with these words"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide reblogs"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide suggested blogs"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide suggested communities"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide text posts"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the Communities tab"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the Explore tab"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the Follow button"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the Notifications tab"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the Save button"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the ad-free banner"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the comment button"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the diamond and TumblrMart"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the like button"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the reblog button"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide the share button"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide unread dots"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide video posts"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"HushTumblr settings"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Mute posts locally"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Remove ad tracking permissions"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Reorder the bottom bar"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Reveal allowed mature content"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Show mutual markers"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Show post timestamps"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Skip review prompts"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Spoof signature for Google sign-in"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Turn off screenshot sharing"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Visible image descriptions"
+],
+[
 "com.twitter.android",
 "Kveld9 Extra",
 "Block Telemetry & Trackers"
@@ -6952,7 +7607,22 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Background blue-noise dithering"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Background blue-noise dithering (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller angular world to local"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller grip haptics through Shizuku"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -6962,7 +7632,17 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Controller pose extrapolation"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Controller pose extrapolation (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller tracking from the controller HAL through Shizuku"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -6977,12 +7657,27 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Controller velocity frame"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Controller velocity frame (experimental)"
 ],
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Controller velocity frame, 2.0.20 - 2.0.22 (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Device identity (2.0.23/5002363)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Foveal blue-noise dithering"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -6997,12 +7692,22 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"GXR face and tongue bridge"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Galaxy XR recommended set (2.0.20/5001812)"
 ],
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Galaxy XR recommended set (2.0.21/5001968)"
+],
+[
+"com.valvesoftware.steamlinkvr.x_23",
+"Steam Link GalaxyXR",
+"Controller angular world to local"
 ],
 [
 "com.videoedit.gocut",
@@ -7107,6 +7812,11 @@
 [
 "com.waze",
 "Bearinmind",
+"Change app name"
+],
+[
+"com.waze",
+"Bearinmind",
 "Full black"
 ],
 [
@@ -7142,6 +7852,11 @@
 [
 "com.waze",
 "Bearinmind",
+"Share alerts with Maps"
+],
+[
+"com.waze",
+"Bearinmind",
 "Speed camera sound at any speed"
 ],
 [
@@ -7153,6 +7868,11 @@
 "com.waze",
 "Bearinmind",
 "Speed limit sign"
+],
+[
+"com.waze",
+"Bearinmind",
+"Stay awake in the background"
 ],
 [
 "com.waze",
@@ -7248,6 +7968,11 @@
 "com.windium.proxman",
 "Tkiethuynh",
 "Unlock Premium"
+],
+[
+"com.wowsoftware.hidemyandroid",
+"Arsylk",
+"Unlock premium"
 ],
 [
 "com.xunijun.app.gp",
@@ -7432,6 +8157,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Profile background"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Remove avatar rings"
 ],
 [
@@ -7443,6 +8173,11 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Run beside the store app"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Show commenter handle and region"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -8120,6 +8855,11 @@
 "Disable ads"
 ],
 [
+"flar2.devcheck",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "fm.castbox.audiobook.radio.podcast",
 "Heval",
 "Disable ads"
@@ -8128,6 +8868,11 @@
 "fm.castbox.audiobook.radio.podcast",
 "SailHighSea",
 "Remove ads"
+],
+[
+"fork.risin42.nagramx",
+"Shini-Cell",
+"Custom branding"
 ],
 [
 "fr.cityway.android.creaastuce",
@@ -8245,6 +8990,11 @@
 "[General] Trust user-installed CAs"
 ],
 [
+"jp.naver.line.android",
+"Jaydenluuuu-Sys",
+"[General] Custom font"
+],
+[
 "jp.pxv.android",
 "Fripe070",
 "Pixiv Enhanced Viewer & Instant Zoom"
@@ -8263,6 +9013,11 @@
 "kallossoft.videotophoto",
 "FTL",
 "Unlock Pro and skip onboarding"
+],
+[
+"me.bluemail.mail",
+"Heval",
+"Disable ads"
 ],
 [
 "me.jodoin.aiplantdoctor",
@@ -8338,6 +9093,21 @@
 "net.quetta.browser",
 "Brave",
 "Force highest refresh rate"
+],
+[
+"net.smartwod.timer",
+"Heval",
+"Disable ads"
+],
+[
+"net.smartwod.timer",
+"Heval",
+"Enable Premium"
+],
+[
+"net.wowsoftware.hidemyemulator",
+"Arsylk",
+"Unlock premium"
 ],
 [
 "net.zedge.android",
@@ -8425,9 +9195,19 @@
 "Remember tab scroll position"
 ],
 [
+"org.mozilla.fenix",
+"FTL",
+"Tab scroll button"
+],
+[
 "org.parcello",
 "V4n1X",
 "Disable ads"
+],
+[
+"org.swiftapps.swiftbackup",
+"byehi98",
+"Swift Backup Local Cloud Metadata"
 ],
 [
 "org.swiftapps.swiftbackup",
@@ -9483,6 +10263,16 @@
 "wibuku.app.wibuku",
 "Fynnaly",
 "Premium"
+],
+[
+"xyz.quaver.pupil",
+"Rikunode",
+"Disable automatic update checks"
+],
+[
+"xyz.quaver.pupil",
+"Rikunode",
+"Disable gallery left swipe"
 ],
 [
 "xyz.rtrvr.pillo",
