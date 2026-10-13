@@ -550,6 +550,11 @@
 "Unlocks pro"
 ],
 [
+"com.aige.hipaint",
+"GoldRift",
+"Unlock Subscription"
+],
+[
 "com.airofit.elite",
 "Nickcomua",
 "Experimental Pro 2 compatibility adapter (Elite 1.9.0)"
@@ -1642,6 +1647,16 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Complete Quests automatically"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Copy profile bios"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "CopyBios"
 ],
 [
@@ -1682,12 +1697,27 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Double-tap to reply"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Favourite any image or video"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "FavouriteAnything"
 ],
 [
 "com.discord",
 "VenusIsJaded",
 "File size on picker"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Fix unknown mentions"
 ],
 [
 "com.discord",
@@ -1727,7 +1757,37 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Hide the Quests banner"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Hide the call button"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Hide the gift button"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Hide typing indicator"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Jump to first message"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "JumpToTop"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Keep deleted messages"
 ],
 [
 "com.discord",
@@ -1743,6 +1803,11 @@
 "com.discord",
 "VenusIsJaded",
 "NoDelete"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Pastel name colors"
 ],
 [
 "com.discord",
@@ -1772,7 +1837,77 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Read all button"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "ReviewDB"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Send Nitro stickers and emojis as links"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Send audio as voice messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Send long messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Show device indicators"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Show file sizes when attaching"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Show hidden channels"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Skip delete confirmation"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Spaces in channel names"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Translate messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Use your phone's emojis"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Use your phone's font"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"User and server reviews"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Venus button on profile bar"
 ],
 [
 "com.discord",
@@ -3552,6 +3687,11 @@
 [
 "com.google.android.apps.youtube.vr.oculus",
 "Commit-Regrets",
+"QUIC (HTTP/3)"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
 "Remove viewer discretion dialog"
 ],
 [
@@ -3856,6 +3996,16 @@
 ],
 [
 "com.google.android.youtube.tv",
+"Ysamjo",
+"Cobalt-Start-URL \u00e4ndern"
+],
+[
+"com.google.android.youtube.tv",
+"Ysamjo",
+"Werbe-Blocker-Userscript einspritzen"
+],
+[
+"com.google.android.youtube.tv",
 "Ysamjo TV",
 "Cobalt-Start-URL \u00e4ndern"
 ],
@@ -3918,6 +4068,11 @@
 "com.gregacucnik.fishingpoints",
 "Heval",
 "Enable Premium"
+],
+[
+"com.groundspeak.geocaching.intro",
+"Aidan",
+"Enable Developer Tools and Feature Flags"
 ],
 [
 "com.groundspeak.geocaching.intro",
@@ -5925,6 +6080,31 @@
 "Unlock Premium"
 ],
 [
+"com.notdoppler.crashofcars",
+"byehi98",
+"Crash of Cars Anti-hacking Check"
+],
+[
+"com.notdoppler.crashofcars",
+"byehi98",
+"Crash of Cars Free IAP"
+],
+[
+"com.notdoppler.crashofcars",
+"byehi98",
+"Crash of Cars Instant Ad Rewards"
+],
+[
+"com.notdoppler.crashofcars",
+"byehi98",
+"Crash of Cars No Ads"
+],
+[
+"com.notdoppler.crashofcars",
+"byehi98",
+"Crash of Cars Sideload / APK Expansion Bypass"
+],
+[
 "com.nouxi.bisbi",
 "Wagg13Patch",
 "Enable Premium"
@@ -6048,6 +6228,11 @@
 "com.outfit7.movingeye.swampattack",
 "byehi98",
 "Remove Ads"
+],
+[
+"com.paget96.batteryguru",
+"Rahaaatul",
+"Unlock Premium"
 ],
 [
 "com.paradyme.solarsmash",
@@ -6885,6 +7070,11 @@
 "Change Brand Color"
 ],
 [
+"com.sidelineswap.android",
+"Aidan",
+"Remove Invite Friends"
+],
+[
 "com.sidheinteractive.sif.DR",
 "byehi98",
 "Ad Removal & Instant Boost Rewards"
@@ -7547,6 +7737,16 @@
 [
 "com.twitter.android",
 "Kveld9 Extra",
+"Custom Deep Links"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Custom Fonts"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
 "Customize UI"
 ],
 [
@@ -7632,6 +7832,11 @@
 [
 "com.twitter.android",
 "Kveld9 Extra",
+"Round Off Numbers"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
 "Share Links"
 ],
 [
@@ -7647,6 +7852,11 @@
 [
 "com.twitter.android",
 "Kveld9 Extra",
+"X Background Slimmer"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
 "X MLKit Vision Slimmer"
 ],
 [
@@ -7658,6 +7868,11 @@
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Background blue-noise dithering (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Codecs Support"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -7748,6 +7963,11 @@
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Galaxy XR recommended set (2.0.21/5001968)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Network Optimizations"
 ],
 [
 "com.valvesoftware.steamlinkvr.x_23",
@@ -7932,6 +8152,11 @@
 [
 "com.waze",
 "Forsigh",
+"Add your own media apps as Waze audio partners"
+],
+[
+"com.waze",
+"Forsigh",
 "Allow high refresh rate"
 ],
 [
@@ -7972,6 +8197,16 @@
 [
 "com.waze",
 "Forsigh",
+"Map theme"
+],
+[
+"com.waze",
+"Forsigh",
+"OLED dark mode"
+],
+[
+"com.waze",
+"Forsigh",
 "Radar sound at any speed"
 ],
 [
@@ -7998,6 +8233,11 @@
 "com.waze",
 "Forsigh",
 "Speedometer always on"
+],
+[
+"com.waze",
+"Forsigh",
+"Unlock driver moods"
 ],
 [
 "com.waze",
@@ -8896,6 +9136,11 @@
 ],
 [
 "de.rtli.tvnow",
+"Ysamjo",
+"RTL+ Werbung deaktivieren (Yospace DAI)"
+],
+[
+"de.rtli.tvnow",
 "Ysamjo TRL+",
 "RTL+ Werbung deaktivieren (Yospace DAI)"
 ],
@@ -8996,6 +9241,16 @@
 ],
 [
 "io.gh.reisxd.tizentube.cobalt",
+"Ysamjo",
+"MOD-Kennzeichnung f\u00fcr Icon und Banner"
+],
+[
+"io.gh.reisxd.tizentube.cobalt",
+"Ysamjo",
+"Werbe-Blocker-Userscript einspritzen"
+],
+[
+"io.gh.reisxd.tizentube.cobalt",
 "Ysamjo TV",
 "MOD-Kennzeichnung f\u00fcr Icon und Banner"
 ],
@@ -9003,6 +9258,11 @@
 "io.gh.reisxd.tizentube.cobalt",
 "Ysamjo TV",
 "Werbe-Blocker-Userscript einspritzen"
+],
+[
+"io.github.sds100.keymapper",
+"Legendsciber",
+"Premium"
 ],
 [
 "io.github.xororz.localdream",
@@ -9068,6 +9328,221 @@
 "jp.naver.line.android",
 "Jaydenluuuu-Sys",
 "[General] Custom font"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal \u306e\u30d1\u30c3\u30c1\u9069\u7528\u72b6\u6cc1"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal \u306e\u30d1\u30c3\u30c1\u9069\u7528\u78ba\u8a8d"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal \u306e\u521d\u671f\u5316"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal \u306e\u57fa\u76e4"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal \u8a2d\u5b9a\u306e\u6587\u5b57\u5217"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal \u8a2d\u5b9a\u306e\u8ffd\u52a0"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal \u8a2d\u5b9a\u753b\u9762\u306e\u767b\u9332"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"MicroG-RE \u3067\u30c8\u30fc\u30af\u3092\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u3059\u308b"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"MicroG-RE \u3067\u30c8\u30fc\u30af\u3092\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u3059\u308b\uff08manifest\uff09"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Smart Channel \u306e\u5e83\u544a"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30a2\u30d7\u30ea\u3092\u9589\u3058\u3066\u3044\u3066\u3082\u901a\u77e5\u3092\u53d7\u3051\u53d6\u308b"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30a6\u30a9\u30ec\u30c3\u30c8\u4e0a\u90e8\u306e Agent i"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30c1\u30e3\u30c3\u30c8\u5165\u529b\u6b04\u306e Agent i"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30c1\u30e3\u30c3\u30c8\u60c5\u5831\u306e Agent i"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30c8\u30fc\u30af\u306e \uff0b \u30e1\u30cb\u30e5\u30fc"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30c8\u30fc\u30af\u4e00\u89a7\u306e\u691c\u7d22\u6b04\u306e Agent i"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30c8\u30fc\u30af\u4e00\u89a7\u4e0a\u90e8\u306e\u30a2\u30a4\u30b3\u30f3"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30db\u30fc\u30e0\u306e\u304a\u3059\u3059\u3081\u67a0"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30db\u30fc\u30e0\u306e\u6295\u7a3f\u30ab\u30fc\u30c9"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30db\u30fc\u30e0\u306e\u6700\u8fd1\u306e\u5c65\u6b74"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30db\u30fc\u30e0\u306e\u7279\u96c6\u67a0"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30db\u30fc\u30e0\u306e\u8a71\u984c\u67a0"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30db\u30fc\u30e0\u306e\u8aad\u307f\u8fbc\u307f\u8868\u793a"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30db\u30fc\u30e0\u4e0a\u90e8\u306e Agent i"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30db\u30fc\u30e0\u5185\u306e\u5e83\u544a"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30e1\u30c3\u30bb\u30fc\u30b8\u9577\u62bc\u3057\u30e1\u30cb\u30e5\u30fc\u306e LINE AI"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30ea\u30f3\u30af\u3092\u5916\u90e8\u30d6\u30e9\u30a6\u30b6\u3067\u958b\u304f"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u4e0b\u90e8\u30bf\u30d6"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u5199\u771f\u30fb\u52d5\u753b\u8868\u793a\u753b\u9762\u306e LINE AI"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u624b\u52d5\u65e2\u8aad\u306e\u53d7\u3051\u6e21\u3057"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u624b\u52d5\u65e2\u8aad\u306e\u547c\u3073\u51fa\u3057\u5143"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u624b\u52d5\u65e2\u8aad\u306e\u9001\u4fe1\u8a31\u53ef"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u8aad\u3080"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u8aad\u3080\u306e\u6587\u5b57\u5217"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u8aad\u3080\u306e\u65e2\u8aad\u505c\u6b62"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u8aad\u3080\u306e\u672a\u8aad\u7dad\u6301"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u8aad\u3080\u306e\u95b2\u89a7\u30bb\u30c3\u30b7\u30e7\u30f3"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u8a2d\u5b9a\u306e Premium"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u8a2d\u5b9a\u753b\u9762\u306e Agent i"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u9001\u4fe1\u53d6\u6d88\u306e Premium \u6848\u5185"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u901a\u5e38\u30c1\u30e3\u30c3\u30c8\u306e\u81ea\u52d5\u65e2\u8aad"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u901a\u77e5\u304b\u3089\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u958b\u304f"
 ],
 [
 "jp.pxv.android",
@@ -9238,6 +9713,11 @@
 "org.cris.aikyam",
 "VipinVIP",
 "Hide screenshot detection"
+],
+[
+"org.fossify.calendar",
+"Pengusto",
+"Readable Calendar descriptions"
 ],
 [
 "org.mozilla.fenix",
@@ -9903,6 +10383,66 @@
 "pl.mobimax.photex",
 "MightyMich",
 "Wear Engine Scope Fix (Experimental)"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"Disable startup ad campaigns"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"Disable telemetry"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"Disable voice ads"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"Hide banner ads"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"Less tracking"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"Local PRO"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"No banner ads"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"No startup ads"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"No voice ads"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"Override local PRO checks"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"Suppress Premium promotions"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"Cfels",
+"Vibe settings & less PRO spam"
 ],
 [
 "pl.neptis.yanosik.mobi.android",
