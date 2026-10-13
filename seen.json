@@ -3517,6 +3517,11 @@
 [
 "com.google.android.apps.youtube.vr.oculus",
 "Commit-Regrets",
+"Default video quality"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
 "Disable DRC audio"
 ],
 [
@@ -4113,6 +4118,11 @@
 "com.imo.android.imoim",
 "Hxreborn",
 "Disable update check"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"GmsCore support"
 ],
 [
 "com.imo.android.imoim",
@@ -5165,6 +5175,11 @@
 "Restore deleted posts"
 ],
 [
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Spoof client"
+],
+[
 "com.ledblinker",
 "Hxreborn",
 "Unlock premium"
@@ -5178,6 +5193,11 @@
 "com.lemon.lvoverseas",
 "Kveld9 Extra",
 "Bypass Effects Region Restriction"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Bypass GeoBlock Region Restriction"
 ],
 [
 "com.lemon.lvoverseas",
@@ -6102,6 +6122,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"AMOLED black"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Disable analytics"
 ],
 [
@@ -6143,6 +6168,11 @@
 "com.pinterest",
 "HushPinterest",
 "Hide advertising ID"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide closeup buttons"
 ],
 [
 "com.pinterest",
@@ -6968,6 +6998,21 @@
 "com.sqcom.shangqing",
 "Hxreborn",
 "Hide ads"
+],
+[
+"com.storywise.storywise",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.storywise.storywise",
+"Hxreborn",
+"Remove forced update"
+],
+[
+"com.storywise.storywise",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.streamdev.aiostreamer",
@@ -8357,6 +8402,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Feed Ads & Content Filter"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Feed Content Filter"
 ],
 [
@@ -8378,6 +8428,11 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Force Auto-Scroll"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Friends & Suggestions Filter"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -8432,12 +8487,27 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"History Recording Governor"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Login Compatibility Fix"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Navigation & Header Declutter"
 ],
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Non-Personalized Search"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Playback & Display Governor"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -8453,6 +8523,11 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Resume Video After Scroll"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Search Experience"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -10208,6 +10283,11 @@
 "video.player.videoplayer",
 "FTL",
 "Volume Booster"
+],
+[
+"videoeditor.videomaker.videoeditorforyoutube",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "videoeditor.videomaker.videoeditorforyoutube",
