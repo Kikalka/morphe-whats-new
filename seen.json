@@ -245,6 +245,16 @@
 "Unlock VPN Plus"
 ],
 [
+"ch.protonvpn.android.reproducible",
+"Rahaaatul",
+"Show Free Countries Only"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Rahaaatul",
+"Unlock VPN Plus"
+],
+[
 "cn.vr4p.oculus4xvrplayerov",
 "Steam Link GalaxyXR",
 "5.1-channel audio bridge (4XVR)"
@@ -433,6 +443,11 @@
 "com.adobe.scan.android",
 "Aidan",
 "Remove Ads and Tracking"
+],
+[
+"com.adobe.scan.android",
+"Aidan",
+"Remove Attribution"
 ],
 [
 "com.adobe.scan.android",
@@ -3372,6 +3387,11 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Avoid Flock cameras"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Better offline maps"
 ],
 [
@@ -4178,6 +4198,16 @@
 "com.hdqwalls.hdqwalls1",
 "SailHighSea",
 "Remove ads"
+],
+[
+"com.hevy",
+"Heval",
+"Block telemetry & trackers"
+],
+[
+"com.hevy",
+"Heval",
+"Unlock Pro"
 ],
 [
 "com.hevy",
@@ -5270,6 +5300,61 @@
 "Remove tab banner ads"
 ],
 [
+"com.kakao.talk",
+"Heval",
+"Disable ads"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Disable community tab"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Disable friend feed tab"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Ghost read"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Ghost typing"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Remove 300+ unread limit"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Remove 99+ unread limit"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Remove shop tab"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Show messages restricted to mobile"
+],
+[
+"com.kakao.talk",
+"Heval",
+"Strip image metadata"
+],
+[
 "com.kakarod.bighunter",
 "Chiggi",
 "Bypass license check"
@@ -5955,6 +6040,11 @@
 "Telemetry Kill"
 ],
 [
+"com.newstargames.newstarsoccer",
+"Legendsciber",
+"New Star Soccer Free IAP"
+],
+[
 "com.nieruo.healthapp",
 "Hxreborn",
 "Max intimacy level"
@@ -6228,6 +6318,11 @@
 "com.outfit7.movingeye.swampattack",
 "byehi98",
 "Remove Ads"
+],
+[
+"com.ovelin.guitartuna",
+"MightyMich",
+"Unlock Premium Features"
 ],
 [
 "com.paget96.batteryguru",
@@ -6921,6 +7016,26 @@
 ],
 [
 "com.scores365",
+"Heval",
+"Disable update prompts"
+],
+[
+"com.scores365",
+"Heval",
+"Enable Premium"
+],
+[
+"com.scores365",
+"Heval",
+"GmsCore support"
+],
+[
+"com.scores365",
+"Heval",
+"Spoof signature"
+],
+[
+"com.scores365",
 "non7043",
 "Block update screen"
 ],
@@ -7133,6 +7248,16 @@
 "com.soccer.score.star",
 "Legendsciber",
 "Soccer Star VIP Unlock"
+],
+[
+"com.sofascore.results",
+"Heval",
+"GmsCore support"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Spoof signature"
 ],
 [
 "com.sofascore.results",
@@ -7371,6 +7496,11 @@
 ],
 [
 "com.teslacoilsw.launcher",
+"MightyMich",
+"Unlock Prime"
+],
+[
+"com.teslacoilsw.launcher",
 "o0b",
 "Disable Bugsnag"
 ],
@@ -7493,6 +7623,51 @@
 "com.troublefreepool.poolmath",
 "Dowjames",
 "Unlock premium"
+],
+[
+"com.truecaller",
+"Heval",
+"Disable ads"
+],
+[
+"com.truecaller",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.truecaller",
+"Heval",
+"Disable update prompts"
+],
+[
+"com.truecaller",
+"Heval",
+"Enable Premium"
+],
+[
+"com.truecaller",
+"Heval",
+"GmsCore support"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide Assistant tab"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide Scam feed"
+],
+[
+"com.truecaller",
+"Heval",
+"Spoof signature"
+],
+[
+"com.truecaller",
+"Heval",
+"Use SMS for verification codes"
 ],
 [
 "com.truecaller",
@@ -8182,6 +8357,11 @@
 [
 "com.waze",
 "Forsigh",
+"Disable Play Store updates"
+],
+[
+"com.waze",
+"Forsigh",
 "Enable police & enforcement alerts"
 ],
 [
@@ -8198,6 +8378,11 @@
 "com.waze",
 "Forsigh",
 "Map theme"
+],
+[
+"com.waze",
+"Forsigh",
+"Morphe YouTube Music as a Waze audio partner"
 ],
 [
 "com.waze",
@@ -9170,9 +9355,64 @@
 "Unlock premium"
 ],
 [
+"easy.launcher",
+"Heval",
+"Disable ads"
+],
+[
+"easy.launcher",
+"Heval",
+"Disable default launcher reminder"
+],
+[
+"easy.launcher",
+"Heval",
+"Disable promotions"
+],
+[
+"easy.launcher",
+"Heval",
+"Disable rating prompts"
+],
+[
+"easy.launcher",
+"Heval",
+"Disable telemetry"
+],
+[
+"easy.launcher",
+"Heval",
+"Hide sponsored content"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Block marketing popups"
+],
+[
 "eu.livesport.FlashScore_com",
 "Heval",
 "Disable ads"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Disable rating prompts"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Disable telemetry"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Disable update prompts"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Hide betting content"
 ],
 [
 "flar2.devcheck",
@@ -9238,6 +9478,16 @@
 "in.amazon.mShop.android.shopping",
 "Debakar",
 "Sort by number of ratings"
+],
+[
+"in.cricketexchange.app.cricketexchange",
+"Heval",
+"Disable ads"
+],
+[
+"in.cricketexchange.app.cricketexchange",
+"Heval",
+"Enable Premium"
 ],
 [
 "io.gh.reisxd.tizentube.cobalt",
@@ -9323,6 +9573,91 @@
 "jp.naver.line.android",
 "AndrewLiang25",
 "[General] Trust user-installed CAs"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Disable Agent i"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Disable VOOM"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Disable ads"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Fix push notifications"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Hide AI friends button"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Hide LINE TODAY tab"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Hide Shopping tab"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Hide VOOM tab"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Hide Wallet tab"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Hide calendar button"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Hide community button"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Hide new badges"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Keep chats unread"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Keep unsent messages"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Open links in external browser"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Read notifications without receipt"
+],
+[
+"jp.naver.line.android",
+"Heval",
+"Read without receipt"
 ],
 [
 "jp.naver.line.android",
@@ -9493,6 +9828,11 @@
 "jp.naver.line.android",
 "Uta-a",
 "\u624b\u52d5\u65e2\u8aad\u306e\u9001\u4fe1\u8a31\u53ef"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u65e2\u8aad\u306a\u3057\u95b2\u89a7\u4e2d\u306e\u9001\u4fe1\u3067\u65e2\u8aad\u306b\u3059\u308b"
 ],
 [
 "jp.naver.line.android",
