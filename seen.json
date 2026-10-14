@@ -165,9 +165,24 @@
 "Unlock Premium (Experimental)"
 ],
 [
+"cc.dreamspark.intervaltimer",
+"Heval",
+"Disable ads"
+],
+[
+"cc.dreamspark.intervaltimer",
+"Heval",
+"Disable telemetry"
+],
+[
 "ch.protonmail.android",
 "Hxreborn",
 "Material 3 switches"
+],
+[
+"ch.protonmail.android",
+"Hxreborn",
+"Swipe to switch accounts"
 ],
 [
 "ch.protonvpn.android",
@@ -1130,6 +1145,26 @@
 "Unlock premium"
 ],
 [
+"com.avinside",
+"Aidan",
+"Display Cutout Adaptation"
+],
+[
+"com.avinside",
+"Aidan",
+"Remove Ads"
+],
+[
+"com.avinside",
+"Aidan",
+"Remove Tracking"
+],
+[
+"com.avinside",
+"Aidan",
+"Unlock Developer Tools"
+],
+[
 "com.azeravn.bulletjournal",
 "Hxreborn",
 "Unlock premium"
@@ -1520,6 +1555,21 @@
 "Enable Pro"
 ],
 [
+"com.cardfeed.video_public",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.cardfeed.video_public",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.cardfeed.video_public",
+"Hxreborn",
+"Hide ads"
+],
+[
 "com.chenupt.money",
 "MightyMich",
 "Unlock Premium Features"
@@ -1638,6 +1688,16 @@
 "com.denchi.vtubestudio",
 "Epxec",
 "Enable Pro"
+],
+[
+"com.dev2a.junk_journal",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.dev2a.junk_journal",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.devone.filetreesize",
@@ -2093,6 +2153,21 @@
 "com.duolingo",
 "Hoodles",
 "Unlimited RampUp time"
+],
+[
+"com.duplila.screenshare",
+"Heval",
+"Disable ads"
+],
+[
+"com.duplila.screenshare",
+"Heval",
+"Disable license check"
+],
+[
+"com.duplila.screenshare",
+"Heval",
+"Enable Premium"
 ],
 [
 "com.dv.adm",
@@ -2937,6 +3012,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Pin more chats"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Restore old emoji drawer"
 ],
 [
@@ -2988,6 +3068,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Stop inbox and ad link logging"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Stop nearby scans"
 ],
 [
 "com.facebook.orca",
@@ -3105,6 +3190,11 @@
 "Sort by number of ratings"
 ],
 [
+"com.floatcontrol",
+"Gigahawk",
+"Enable Pro"
+],
+[
 "com.flyersoft.moonreader",
 "Heval",
 "Disable ads"
@@ -3183,6 +3273,11 @@
 "com.global.foodpanda.android",
 "Proxma",
 "Bypass anti-tamper (foodpanda)"
+],
+[
+"com.global.foodpanda.android",
+"Proxma",
+"Force dark mode"
 ],
 [
 "com.global.foodpanda.android",
@@ -3762,6 +3857,11 @@
 [
 "com.google.android.inputmethod.latin",
 "Gboard",
+"Swipe Down to Dismiss Keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Gboard",
 "Toolbar Editing Buttons"
 ],
 [
@@ -3883,6 +3983,11 @@
 "com.google.android.inputmethod.latin",
 "JacksonJones2003 Immersive",
 "Immersive Keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"JacksonJones2003 Immersive",
+"Theme Follows Dark Mode"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -4872,6 +4977,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Show a reel's exact time"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Show a story's exact time"
 ],
 [
@@ -4943,6 +5053,11 @@
 "com.instagram.android",
 "HushGram",
 "Story ring size"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Tap a feed video to pause it"
 ],
 [
 "com.instagram.android",
@@ -5408,6 +5523,16 @@
 "com.kiloo.subwaysurf",
 "Legendsciber",
 "Subway Surfers Free IAP"
+],
+[
+"com.lagguy.wallpapers",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.lagguy.wallpapers",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -5892,6 +6017,11 @@
 [
 "com.mojang.minecraftpe",
 "Hajs110208",
+"Change app icon"
+],
+[
+"com.mojang.minecraftpe",
+"Hajs110208",
 "Remove music"
 ],
 [
@@ -6043,6 +6173,21 @@
 "com.newstargames.newstarsoccer",
 "Legendsciber",
 "New Star Soccer Free IAP"
+],
+[
+"com.nhl.gc1112.free",
+"Aidan",
+"Remove Ads"
+],
+[
+"com.nhl.gc1112.free",
+"Aidan",
+"Remove Tracking"
+],
+[
+"com.nhl.gc1112.free",
+"Aidan",
+"Unlock Hidden Features"
 ],
 [
 "com.nieruo.healthapp",
@@ -6300,6 +6445,11 @@
 "Enable Premium"
 ],
 [
+"com.onesports.score",
+"Heval",
+"Spoof signature"
+],
+[
 "com.otp.octopilauncher",
 "o0b",
 "Unlock Pro"
@@ -6323,6 +6473,11 @@
 "com.ovelin.guitartuna",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"com.ovz.carscanner",
+"Santodan",
+"Car Scanner - Premium status"
 ],
 [
 "com.paget96.batteryguru",
@@ -6360,6 +6515,16 @@
 "Lifetime Premium"
 ],
 [
+"com.peter890331.luckyclick.app",
+"Heval",
+"Disable ads"
+],
+[
+"com.peter890331.luckyclick.app",
+"Heval",
+"Disable license check"
+],
+[
 "com.picolo.android",
 "Mubelotix",
 "Activates premium features"
@@ -6386,6 +6551,36 @@
 ],
 [
 "com.pinterest",
+"ArchiveSteak",
+"Copy image"
+],
+[
+"com.pinterest",
+"ArchiveSteak",
+"Customize long-press menu"
+],
+[
+"com.pinterest",
+"ArchiveSteak",
+"Enable image download"
+],
+[
+"com.pinterest",
+"ArchiveSteak",
+"Enable video download"
+],
+[
+"com.pinterest",
+"ArchiveSteak",
+"Share image with Android"
+],
+[
+"com.pinterest",
+"ArchiveSteak",
+"Show date posted"
+],
+[
+"com.pinterest",
 "Browzomje",
 "Download images in highest available quality"
 ],
@@ -6393,6 +6588,11 @@
 "com.pinterest",
 "Browzomje",
 "Filter pin menu actions"
+],
+[
+"com.pinterest",
+"Browzomje",
+"Keep Home feed"
 ],
 [
 "com.pinterest",
@@ -7330,6 +7530,21 @@
 "Unlock premium"
 ],
 [
+"com.storywise.storywise",
+"Proxma",
+"Block update prompt"
+],
+[
+"com.storywise.storywise",
+"Proxma",
+"Bypass login"
+],
+[
+"com.storywise.storywise",
+"Proxma",
+"Unlock pass"
+],
+[
 "com.streamdev.aiostreamer",
 "AIS",
 "Bypass TV PRO check on site browsing"
@@ -7540,6 +7755,16 @@
 "Tinder Unlimited Rewind"
 ],
 [
+"com.tranquility.colony",
+"Legendsciber",
+"Death Rover Free IAP"
+],
+[
+"com.tranquility.colony",
+"Legendsciber",
+"Death Rover Unlimited Turbo"
+],
+[
 "com.tranzmate",
 "Kveld9 Extra",
 "Block Telemetry & Trackers"
@@ -7657,7 +7882,27 @@
 [
 "com.truecaller",
 "Heval",
+"Hide Blocking tab"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide Premium tab"
+],
+[
+"com.truecaller",
+"Heval",
 "Hide Scam feed"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide family button"
+],
+[
+"com.truecaller",
+"Heval",
+"Restore classic call log"
 ],
 [
 "com.truecaller",
@@ -8218,6 +8463,31 @@
 "com.wakeup.howear",
 "MightyMich",
 "Unlock VIP Features"
+],
+[
+"com.walmart.android",
+"R2bEEaton",
+"Default Lists Tab"
+],
+[
+"com.walmart.android",
+"R2bEEaton",
+"Find Item for Linked Items"
+],
+[
+"com.walmart.android",
+"R2bEEaton",
+"Flash Everywhere"
+],
+[
+"com.walmart.android",
+"R2bEEaton",
+"Real-Time Stock & Inventory Display"
+],
+[
+"com.walmart.android",
+"R2bEEaton",
+"Remove Shop"
 ],
 [
 "com.walmart.android",
@@ -9417,6 +9687,11 @@
 [
 "flar2.devcheck",
 "Hxreborn",
+"Hide menu items"
+],
+[
+"flar2.devcheck",
+"Hxreborn",
 "Unlock premium"
 ],
 [
@@ -9463,6 +9738,16 @@
 "fr.leboncoin",
 "Yann-Soliman",
 "Leboncoin : supprimer les publicit\u00e9s"
+],
+[
+"free.zona",
+"PerfLite",
+"Force landscape player"
+],
+[
+"free.zona",
+"PerfLite",
+"Preferred quality priority"
 ],
 [
 "idm.internet.download.manager",
@@ -9933,6 +10218,11 @@
 "me.proton.android.lumo",
 "Hxreborn",
 "Remove tap highlight"
+],
+[
+"me.proton.android.lumo",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "mobi.charmer.magovideo",
