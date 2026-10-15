@@ -415,6 +415,21 @@
 "Enable Pro"
 ],
 [
+"com.action.consumerapp",
+"Janowakps",
+"Dark Mode"
+],
+[
+"com.action.consumerapp",
+"Janowakps",
+"Dark Splash Screen"
+],
+[
+"com.action.consumerapp",
+"Janowakps",
+"Weekly Deals Sorting"
+],
+[
 "com.adithya.memoneet",
 "Hxreborn",
 "GmsCore support"
@@ -1705,6 +1720,11 @@
 "Unlock Pro Features"
 ],
 [
+"com.community.mbox.tv",
+"Hxreborn",
+"All-In-One"
+],
+[
 "com.cv.docscanner",
 "byehi98",
 "Doc Scanner Premium"
@@ -1768,6 +1788,11 @@
 "com.direlight.grimvalor",
 "byehi98",
 "Full game unlock"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Account switcher"
 ],
 [
 "com.discord",
@@ -2017,12 +2042,22 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Unlock app icons"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Use your phone's emojis"
 ],
 [
 "com.discord",
 "VenusIsJaded",
 "Use your phone's font"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"User activity notifications"
 ],
 [
 "com.discord",
@@ -2043,6 +2078,11 @@
 "com.disney.disneyplus",
 "PyFlat",
 "Hold to speed up"
+],
+[
+"com.divum.MoneyControl",
+"Heval",
+"Disable ads"
 ],
 [
 "com.djezzy.internet",
@@ -2922,6 +2962,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Fix videos that won't send"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide AI sticker tools"
 ],
 [
@@ -3042,6 +3087,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hold stories at the end"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Install beside Meta apps"
 ],
 [
@@ -3058,6 +3108,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Keep unsent messages"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Mark as read button"
 ],
 [
 "com.facebook.orca",
@@ -3128,6 +3183,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Stop analytics uploads"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Stop app list and device ID sharing"
 ],
 [
 "com.facebook.orca",
@@ -3213,6 +3273,21 @@
 "com.featherweightgames.fx",
 "Fynnaly",
 "Skip rewarded ads"
+],
+[
+"com.ferdinandobermeier.focusmate",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.ferdinandobermeier.focusmate",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.ferdinandobermeier.focusmate",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.fgol.HungrySharkEvolution",
@@ -3935,6 +4010,21 @@
 "Stabilize schedule widget"
 ],
 [
+"com.google.android.dialer",
+"Balu100",
+"Enable call recording"
+],
+[
+"com.google.android.dialer",
+"Balu100",
+"Handle rejected DroidGuard connection"
+],
+[
+"com.google.android.inputmethod.latin",
+"ArchiveSteak",
+"Change app name"
+],
+[
 "com.google.android.inputmethod.latin",
 "ArchiveSteak",
 "Change package name"
@@ -4380,6 +4470,96 @@
 "Unlock Templates"
 ],
 [
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Download photos"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Extra map layers"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Faster map reloads after switching tabs"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Hide Upgrade badges"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Keep map in place after closing a cache"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Local lists"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Map search from geocaching.com"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Map without a Google key"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Native description viewer"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Offline caches"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"One sign-in for app and website"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Open description links in the app"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Unlock Experimental features"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Unlock Finds and Hides sorting"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Unlock Premium caches"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Unlock Statistics"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Unlock Templates"
+],
+[
+"com.groundspeak.geocaching.intro",
+"ImNoammm",
+"Unlock map filters"
+],
+[
 "com.guochao.faceshow",
 "Wagg13Patch",
 "Hide live room notice"
@@ -4423,6 +4603,11 @@
 "com.hapibits.soundlift",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.hdictionary.bn",
+"FTL",
+"Disable pronunciation nag"
 ],
 [
 "com.hdqwalls.hdqwalls1",
@@ -5650,6 +5835,66 @@
 "Unlock price increase tracking"
 ],
 [
+"com.kick.mobile",
+"JordanWoodson",
+"Bypass VOD ad sessions"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Change app name"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Clean share links"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Clone app"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Default video quality"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Disable analytics"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Disable autoplay"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Hide Clips"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Hide KICKs tipping"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Hide subscription upsells"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Lurk icon"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Remove tracking permissions"
+],
+[
 "com.kiloo.subwaysurf",
 "Legendsciber",
 "Subway Surfers Currency Hack"
@@ -6190,6 +6435,21 @@
 "Unlock Premium"
 ],
 [
+"com.musescore.playerlite",
+"CappyT",
+"Disable tracking"
+],
+[
+"com.musescore.playerlite",
+"CappyT",
+"Fix Google Play detection"
+],
+[
+"com.musescore.playerlite",
+"CappyT",
+"Unlock Pro"
+],
+[
 "com.musixmatch.android.lyrify",
 "Hxreborn",
 "Unlock premium"
@@ -6333,6 +6593,16 @@
 "com.newstargames.newstarsoccer",
 "Legendsciber",
 "New Star Soccer Free IAP"
+],
+[
+"com.nexon.tfdc",
+"Santodan",
+"TFD Companion - NGSM validation diagnostics - Troubleshooting purpose"
+],
+[
+"com.nexon.tfdc",
+"Santodan",
+"TFD Companion - Remove illegal apps detection"
 ],
 [
 "com.nhl.gc1112.free",
@@ -7146,6 +7416,11 @@
 ],
 [
 "com.reddit.frontpage",
+"Alastor",
+"Download Reddit gallery originals"
+],
+[
+"com.reddit.frontpage",
 "Mubelotix",
 "Reroute API calls"
 ],
@@ -7265,6 +7540,76 @@
 "Sling Drift VIP Unlock"
 ],
 [
+"com.rumble.battles",
+"JordanWoodson",
+"Block ads"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Block cookie notice"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Change app name"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Clean share links"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Clone app"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Default video quality"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Disable analytics"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Disable autoplay"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Hide Premium upsells"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Hide Shorts"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Hide tipping and Rants"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Lurk icon"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Remove tracking permissions"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Unlock Premium"
+],
+[
 "com.sadpuppy.lemmings",
 "byehi98",
 "Lemmings: Free Store"
@@ -7283,6 +7628,11 @@
 "com.safar.fyi",
 "Proxma",
 "Remove ads"
+],
+[
+"com.sal.privacykit",
+"Rahaaatul",
+"Unlock Native Spoofing (Zygisk)"
 ],
 [
 "com.sal.privacykit",
@@ -7453,6 +7803,11 @@
 "com.scores365",
 "non7043",
 "Unlock premium"
+],
+[
+"com.sec.android.app.shealth",
+"Samsung Health",
+"Hide home promotion panel"
 ],
 [
 "com.sezzle.sezzlemobile",
@@ -7708,6 +8063,456 @@
 "com.sqcom.shangqing",
 "Hxreborn",
 "Hide ads"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Allow Duet and Stitch"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Allow screenshots and Circle to Search"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Always show publish date"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Always upload in HD"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Block P2P video relay"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Block contact list access"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Block installed app scanning"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Block suggested video notifications"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Camera and microphone indicator"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Change app name"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Comment publish diagnostics"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Comment send fix"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Comment sort controls"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Copy comments without username"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Custom offline videos limit"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Device privacy guard"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Diagnostic tools"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Disable login requirement"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Disable screen capture detection"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Disable the long press quick share"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Disable the long press repost"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Downloads"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Drop the animated image cache"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Enable voice comments"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Expand activity list"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Feature Gate Lab"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Feature Gate Recorder"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Fit the video to the screen"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Fix Google login"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Foldable split comment view"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Ghost mode"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide Play Store update offer"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide comment popup ads"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide comment typing suggestions"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide feed follow button"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide feed save button"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide feed search button"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide floating promotions"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide inbox stories"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide search suggestions"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide suggested accounts"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide the launcher shortcuts"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hold-and-slide 2x lock"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"In-app browser privacy guard"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Keep a streak going"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Keep playing in the background"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Keep pulled sounds"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Keep the Favorites tab"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Keep the app language"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Keep the screen's refresh rate"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Limit background traffic"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Location access governor"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Look like the store app"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Network proxy"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Network request report"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Notification controls"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Open external links directly"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Play SDR instead of HDR"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Playback quality"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Playback speed"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Prefer H.264 playback"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Profile background"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Region spoof"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Remember clear display"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Remove unused language packs"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Resource and battery governor"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Resume videos after scrolling"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"SIM spoof"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Sanitize sharing links"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Settings"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Show LIVE search"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Show commenter handle and region"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Show the progress bar thumbnail"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Skip content warnings"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Skip first-launch setup"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Skip passkey sign-in"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Skip the splash ad"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Skip update checks"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Stay on the video in full screen"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Stop on-device AI profiling"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Stop recording watch history"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Stop saving search history"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Stop search autoplay"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Story controls"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Translate comments"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Trust user certificates"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Turn off haptics"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Turn off screen transitions"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Use non-personalized search"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Use system font"
 ],
 [
 "com.storywise.storywise",
@@ -8067,6 +8872,11 @@
 [
 "com.truecaller",
 "Heval",
+"Fix T9 contact search"
+],
+[
+"com.truecaller",
+"Heval",
 "GmsCore support"
 ],
 [
@@ -8093,6 +8903,11 @@
 "com.truecaller",
 "Heval",
 "Hide Scam feed"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide Wear OS settings"
 ],
 [
 "com.truecaller",
@@ -8342,6 +9157,11 @@
 [
 "com.twitter.android",
 "Kveld9 Extra",
+"Background Slimmer"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
 "Block Telemetry & Trackers"
 ],
 [
@@ -8418,6 +9238,11 @@
 "com.twitter.android",
 "Kveld9 Extra",
 "Hide Recommended Users"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"MLKit Vision Slimmer"
 ],
 [
 "com.twitter.android",
@@ -8993,6 +9818,11 @@
 "com.zhiliaoapp.musically",
 "Dudek",
 "Keep TikTok DM scroll position"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Accent color"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -10232,6 +11062,11 @@
 [
 "jp.naver.line.android",
 "AndrewLiang25",
+"[General] Custom font"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
 "[General] Hide Agent i buttons"
 ],
 [
@@ -10650,6 +11485,16 @@
 "Enable Premium"
 ],
 [
+"net.mobigame.zombietsunami",
+"Legendsciber",
+"Zombie Tsunami Free IAP"
+],
+[
+"net.mobigame.zombietsunami",
+"Legendsciber",
+"Zombie Tsunami Installer Check Fix"
+],
+[
 "net.osmand",
 "Heval",
 "Enable Premium"
@@ -10743,6 +11588,11 @@
 "org.mozilla.fenix",
 "FTL",
 "Hide fullscreen toast"
+],
+[
+"org.mozilla.fenix",
+"FTL",
+"Long press to select tab range"
 ],
 [
 "org.mozilla.fenix",
@@ -11517,6 +12367,11 @@
 [
 "proton.android.pass",
 "Hxreborn",
+"Hide layout components"
+],
+[
+"proton.android.pass",
+"Hxreborn",
 "Hide promotional messages"
 ],
 [
@@ -11691,6 +12546,71 @@
 ],
 [
 "tv.twitch.android.app",
+"JordanWoodson",
+"Block client ads"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Block cookie notice"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Change app name"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Clean share links"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Clone app"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Default video quality"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Disable analytics"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Disable autoplay"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Hide Bits tipping"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Hide Clips"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Hide subscription upsells"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Lurk icon"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Remove tracking permissions"
+],
+[
+"tv.twitch.android.app",
 "Kizu",
 "Twitch Enhancement"
 ],
@@ -11753,6 +12673,11 @@
 "tv.twitch.android.app",
 "aRandomHooman",
 "Fix notifications"
+],
+[
+"video.downloader.videodownloader",
+"FTL",
+"Fix HLS seek playback"
 ],
 [
 "video.downloader.videodownloader",
@@ -11828,6 +12753,11 @@
 "video.player.videoplayer",
 "FTL",
 "Remove Tutorial"
+],
+[
+"video.player.videoplayer",
+"FTL",
+"Remove Video Enhancer Animation"
 ],
 [
 "video.player.videoplayer",
