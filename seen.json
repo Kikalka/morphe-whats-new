@@ -1086,6 +1086,16 @@
 ],
 [
 "com.appgenix.bizcal",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.appgenix.bizcal",
+"Heval",
+"Unlock Pro"
+],
+[
+"com.appgenix.bizcal",
 "o0b",
 "Disable telemetry"
 ],
@@ -1138,6 +1148,16 @@
 "com.ashtoncofer.Buzz",
 "Aidan",
 "Replace Emoji Font with iOS Asset"
+],
+[
+"com.astrapaging.vff",
+"Heval",
+"Disable ads"
+],
+[
+"com.astrapaging.vff",
+"Heval",
+"Disable license check"
 ],
 [
 "com.atlogis.atlomaps",
@@ -1417,6 +1437,11 @@
 [
 "com.brave.browser",
 "Kveld9",
+"Block Trackers"
+],
+[
+"com.brave.browser",
+"Kveld9",
 "Block Tracking"
 ],
 [
@@ -1457,12 +1482,22 @@
 [
 "com.brave.browser",
 "Kveld9",
+"Remove Extra Files"
+],
+[
+"com.brave.browser",
+"Kveld9",
 "Remove Extra Languages"
 ],
 [
 "com.brave.browser",
 "Kveld9",
 "Remove Unused Parts"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Select Previous Tab on Close"
 ],
 [
 "com.brave.browser",
@@ -1713,6 +1748,21 @@
 "com.devone.filetreesize",
 "GitGitro",
 "Unlock pro"
+],
+[
+"com.digivive.platform8",
+"Media",
+"Access content"
+],
+[
+"com.digivive.platform8",
+"Media",
+"Anonymous user"
+],
+[
+"com.digivive.platform8",
+"Media",
+"Free content"
 ],
 [
 "com.direlight.grimvalor",
@@ -2512,6 +2562,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Hide carrier data banners"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Hide post prompts"
 ],
 [
@@ -2712,6 +2767,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Skip silent parts"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Start on x86 devices"
 ],
 [
@@ -2768,6 +2828,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Unlock app icons"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Upload Stories in HD"
 ],
 [
 "com.facebook.katana",
@@ -3332,6 +3397,16 @@
 [
 "com.gm.shadhin",
 "Media",
+"Access content"
+],
+[
+"com.gm.shadhin",
+"Media",
+"Free content"
+],
+[
+"com.gm.shadhin",
+"Media",
 "Stream content"
 ],
 [
@@ -3707,6 +3782,11 @@
 [
 "com.google.android.apps.photos",
 "Akash Sriram",
+"DCIM & backup control"
+],
+[
+"com.google.android.apps.photos",
+"Akash Sriram",
 "Disable Play Store updates"
 ],
 [
@@ -3732,6 +3812,11 @@
 [
 "com.google.android.apps.photos",
 "Akash Sriram",
+"Flag manager & Toolkit"
+],
+[
+"com.google.android.apps.photos",
+"Akash Sriram",
 "GmsCore support"
 ],
 [
@@ -3747,7 +3832,17 @@
 [
 "com.google.android.apps.photos",
 "Akash Sriram",
+"Media engine & AI fixes"
+],
+[
+"com.google.android.apps.photos",
+"Akash Sriram",
 "Model Readiness Gates"
+],
+[
+"com.google.android.apps.photos",
+"Akash Sriram",
+"Official package name"
 ],
 [
 "com.google.android.apps.photos",
@@ -3838,6 +3933,21 @@
 "com.google.android.calendar",
 "Dudek",
 "Stabilize schedule widget"
+],
+[
+"com.google.android.inputmethod.latin",
+"ArchiveSteak",
+"Change package name"
+],
+[
+"com.google.android.inputmethod.latin",
+"ArchiveSteak",
+"Remove clipboard length limit"
+],
+[
+"com.google.android.inputmethod.latin",
+"ArchiveSteak",
+"Use KLIPY for GIFs"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -4022,6 +4132,11 @@
 [
 "com.google.android.inputmethod.latin",
 "Kveld9",
+"Disable Play Services"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
 "Disable Play Services Integration"
 ],
 [
@@ -4157,6 +4272,11 @@
 [
 "com.gotipath.deeptotv",
 "Media",
+"Free content"
+],
+[
+"com.gotipath.deeptotv",
+"Media",
 "Hide ads"
 ],
 [
@@ -4173,6 +4293,11 @@
 "com.gotipath.deeptotvapp",
 "Media",
 "Content access"
+],
+[
+"com.gotipath.deeptotvapp",
+"Media",
+"Free content"
 ],
 [
 "com.gotipath.deeptotvapp",
@@ -4707,6 +4832,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Font"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Full resolution photos"
 ],
 [
@@ -4723,6 +4853,11 @@
 "com.instagram.android",
 "HushGram",
 "Group Instagram's notifications"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide AI-labeled reels"
 ],
 [
 "com.instagram.android",
@@ -5567,6 +5702,16 @@
 [
 "com.lemon.lvoverseas",
 "Kveld9 Extra",
+"Bypass Signature Check"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Bypass Unsafe Package Modal"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
 "Locale Slimmer"
 ],
 [
@@ -5648,6 +5793,16 @@
 "com.life360.android.safetymapd",
 "Doom",
 "Material You themed icon"
+],
+[
+"com.linkedin.android",
+"Heval",
+"Heval Controls"
+],
+[
+"com.linkedin.android",
+"Heval",
+"Hide Puzzle Games"
 ],
 [
 "com.linkedin.android",
@@ -6070,6 +6225,11 @@
 "Unlock MX Player Pro"
 ],
 [
+"com.myfitnesspal.android",
+"Heval",
+"Disable Datadog telemetry"
+],
+[
 "com.mygate.user",
 "aapam",
 "Block Flutter Ads"
@@ -6278,6 +6438,11 @@
 "com.nokoprint",
 "Kveld9",
 "Remove Ad Files"
+],
+[
+"com.nokoprint",
+"Kveld9",
+"Remove Extra Files"
 ],
 [
 "com.nokoprint",
@@ -6892,6 +7057,11 @@
 [
 "com.prothomalo",
 "Media",
+"Free content"
+],
+[
+"com.prothomalo",
+"Media",
 "Login required"
 ],
 [
@@ -6913,6 +7083,11 @@
 "com.prothomalo.chorki",
 "Media",
 "Content access"
+],
+[
+"com.prothomalo.chorki",
+"Media",
+"Free content"
 ],
 [
 "com.prothomalo.chorki",
@@ -7012,7 +7187,17 @@
 [
 "com.rockstreamer.iscreen",
 "Media",
+"Free content"
+],
+[
+"com.rockstreamer.iscreen",
+"Media",
 "Free premium content"
+],
+[
+"com.rockstreamer.iscreen",
+"Media",
+"Hide ads"
 ],
 [
 "com.rockstreamer.iscreen",
@@ -7032,7 +7217,17 @@
 [
 "com.rockstreamer.iscreentv",
 "Media",
+"Free content"
+],
+[
+"com.rockstreamer.iscreentv",
+"Media",
 "Free premium content"
+],
+[
+"com.rockstreamer.iscreentv",
+"Media",
+"Hide ads"
 ],
 [
 "com.rockstreamer.iscreentv",
@@ -7887,6 +8082,11 @@
 [
 "com.truecaller",
 "Heval",
+"Hide Messages tab"
+],
+[
+"com.truecaller",
+"Heval",
 "Hide Premium tab"
 ],
 [
@@ -8377,6 +8577,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Galaxy XR SteamVR driver (galaxyxr)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Galaxy XR recommended set (2.0.20/5001812)"
 ],
 [
@@ -8403,6 +8608,11 @@
 "com.videoplayer.arcplayer",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"com.viewlift.hoichoi",
+"Media",
+"Access content"
 ],
 [
 "com.viewlift.hoichoi",
@@ -8677,6 +8887,11 @@
 [
 "com.waze",
 "Forsigh",
+"Skip sign-in"
+],
+[
+"com.waze",
+"Forsigh",
 "Speed limit sign always shown"
 ],
 [
@@ -8688,6 +8903,16 @@
 "com.waze",
 "Forsigh",
 "Speedometer always on"
+],
+[
+"com.waze",
+"Forsigh",
+"Theme"
+],
+[
+"com.waze",
+"Forsigh",
+"UI AMOLED dark mode"
 ],
 [
 "com.waze",
@@ -8997,6 +9222,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Allow Screenshots"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Always Show Publish Date"
 ],
 [
@@ -9007,12 +9237,42 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Battery & Resource Saver"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Block P2P Video Relay"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Block Popups & Prompts"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Block Trackers"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Block Trackers (Setup)"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Bypass Screen Capture Detection"
 ],
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Camera & Microphone Indicator"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Clean Share Links"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -9037,6 +9297,26 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Customize Search"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Declutter Direct Messages"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Declutter Navigation Bar"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Declutter Video Interface"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Direct Message Declutter"
 ],
 [
@@ -9053,6 +9333,21 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Disable HDR Video Playback"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Disable History Recording"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Disable Live Gift Effects"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Disable On-Device AI"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -9083,6 +9378,11 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Disable Watch History Recording"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Download Without Watermark"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -9152,6 +9452,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Hide Inbox Story Tray"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Hide Popular Lives In Search"
 ],
 [
@@ -9187,6 +9492,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Instant Launch"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Login Compatibility Fix"
 ],
 [
@@ -9202,6 +9512,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Offline Video Limit"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Playback & Display Governor"
 ],
 [
@@ -9213,6 +9528,36 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Remember Clear Display"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Remember Playback Speed"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Remove Creator Tools"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Remove Extra Files"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Remove Extra Languages"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Remove Live Stream Files"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Remove Voice Tools"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -9247,6 +9592,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Strip Sensitive Permissions"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "System Font"
 ],
 [
@@ -9262,7 +9612,17 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Use System Font"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Video Fit"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Video Fit Mode"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -9625,6 +9985,21 @@
 "Unlock premium"
 ],
 [
+"digivive.platform8.androidtv",
+"Media",
+"Access content"
+],
+[
+"digivive.platform8.androidtv",
+"Media",
+"Anonymous user"
+],
+[
+"digivive.platform8.androidtv",
+"Media",
+"Free content"
+],
+[
 "easy.launcher",
 "Heval",
 "Disable ads"
@@ -9743,6 +10118,11 @@
 "free.zona",
 "PerfLite",
 "Force landscape player"
+],
+[
+"free.zona",
+"PerfLite",
+"Install as a separate app"
 ],
 [
 "free.zona",
@@ -10198,6 +10578,11 @@
 "me.jodoin.aiplantdoctor",
 "Foxxo",
 "Unlock premium"
+],
+[
+"me.piebridge.brevent",
+"Heval",
+"Enable Premium"
 ],
 [
 "me.pou.app",
@@ -10975,6 +11360,11 @@
 "Unlock Premium (Experimental)"
 ],
 [
+"pl.guteklabs.phototime",
+"Riky",
+"Unlock Premium"
+],
+[
 "pl.mapa_turystyczna.app",
 "Dudek",
 "Hide Premium prompts"
@@ -11513,6 +11903,11 @@
 "wibuku.app.wibuku",
 "Fynnaly",
 "Premium"
+],
+[
+"wsj.reader_sp",
+"Heval",
+"Disable ads"
 ],
 [
 "xyz.quaver.pupil",
