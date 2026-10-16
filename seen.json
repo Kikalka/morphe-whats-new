@@ -40,6 +40,11 @@
 "Fix screen freeze"
 ],
 [
+"app.prolauncher",
+"Heval",
+"Enable Premium"
+],
+[
 "app.revanced.android.apps.maps",
 "Bartlomiejfornalczyk",
 "Allow Morphe YouTube Music mini player"
@@ -5092,6 +5097,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide reels by caption words"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide suggested accounts in DMs"
 ],
 [
@@ -6128,6 +6138,11 @@
 "com.lyfta",
 "Kondratjev",
 "Support patched YouTube Music"
+],
+[
+"com.macdom.ble.blescanner",
+"Heval",
+"Disable ads"
 ],
 [
 "com.madfingergames.deadtrigger",
@@ -7368,6 +7383,11 @@
 "com.psiphon3.subscription",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.pzolee.bluetoothscanner",
+"Heval",
+"Disable ads"
 ],
 [
 "com.quvideo.vivacut",
@@ -9770,6 +9790,16 @@
 "Dualspace Premium Unlock"
 ],
 [
+"com.yahoo.mobile.client.android.sportacular",
+"Heval",
+"Disable ads"
+],
+[
+"com.yahoo.mobile.client.android.sportacular",
+"Heval",
+"Hide betting promotions"
+],
+[
 "com.yaunquan.guitartuna",
 "MightyMich",
 "Unlock Premium Features"
@@ -9803,6 +9833,11 @@
 "com.zensms.app",
 "ggYasin",
 "enable premium state"
+],
+[
+"com.zenstudios.ZenPinball",
+"Legendsciber",
+"Zen Pinball Free IAP"
 ],
 [
 "com.zerch.widget",
@@ -11580,6 +11615,11 @@
 "Readable Calendar descriptions"
 ],
 [
+"org.leetzone.android.yatsewidgetfree",
+"Shuhaibnc",
+"Unlock Yatse Pro"
+],
+[
 "org.mozilla.fenix",
 "FTL",
 "Close duplicate tabs"
@@ -12355,6 +12395,11 @@
 "Premium"
 ],
 [
+"projekt.launcher",
+"Heval",
+"Enable Premium"
+],
+[
 "proton.android.pass",
 "Hxreborn",
 "AMOLED dark theme"
@@ -12475,6 +12520,11 @@
 "Block remote network policy"
 ],
 [
+"ru.wasiliysoft.ircodefindernec",
+"Heval",
+"Disable ads"
+],
+[
 "ru.zdevs.zarchiver",
 "MightyMich",
 "Unlock Premium Features"
@@ -12547,6 +12597,21 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Anonymous chat"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Auto-claim channel points"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Background audio"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Block client ads"
 ],
 [
@@ -12557,7 +12622,22 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Block display ads"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Change app name"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Chat overlay"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Chat timestamps"
 ],
 [
 "tv.twitch.android.app",
@@ -12568,6 +12648,11 @@
 "tv.twitch.android.app",
 "JordanWoodson",
 "Clone app"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Default startup tab"
 ],
 [
 "tv.twitch.android.app",
@@ -12587,12 +12672,42 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Fix notifications"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Fix stuck start screen"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Hide Bits tipping"
 ],
 [
 "tv.twitch.android.app",
 "JordanWoodson",
 "Hide Clips"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Hide Home sections"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Hide chat highlights"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Hide mature content warning"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Hide player buttons"
 ],
 [
 "tv.twitch.android.app",
@@ -12607,7 +12722,67 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Mute stitched ads"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Normal latency"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Player gestures"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Playlist proxy"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Refresh stream"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Remove tracking permissions"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Show deleted messages"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Show video stats"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Sleep timer"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Third-party badges"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Third-party emotes"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Use native player"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Watch without signing in"
 ],
 [
 "tv.twitch.android.app",
@@ -12848,6 +13023,11 @@
 "xyz.quaver.pupil",
 "Rikunode",
 "Disable gallery left swipe"
+],
+[
+"xyz.quaver.pupil",
+"Rikunode",
+"Favorites random shortcut"
 ],
 [
 "xyz.rtrvr.pillo",
