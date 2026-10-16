@@ -825,6 +825,26 @@
 "Luna Low Latency Codecs"
 ],
 [
+"com.analiti.fastest.android",
+"Jzl1",
+"Disable telemetry"
+],
+[
+"com.analiti.fastest.android",
+"Jzl1",
+"Hide sign-in banner"
+],
+[
+"com.analiti.fastest.android",
+"Jzl1",
+"Neutralize tamper fork bomb"
+],
+[
+"com.analiti.fastest.android",
+"Jzl1",
+"Unlock Expert"
+],
+[
 "com.andatsoft.myapk.fwa",
 "Hxreborn",
 "Unlock premium"
@@ -1600,6 +1620,11 @@
 "Enable Premium"
 ],
 [
+"com.byairapp.android",
+"Franticg33k",
+"Remove Update Prompt"
+],
+[
 "com.camerasideas.instashot",
 "MightyMich",
 "Unlock Premium "
@@ -1730,6 +1755,11 @@
 "All-In-One"
 ],
 [
+"com.cricfytv.sports",
+"CallMeBeyonder",
+"Remove ads"
+],
+[
 "com.cv.docscanner",
 "byehi98",
 "Doc Scanner Premium"
@@ -1813,6 +1843,11 @@
 "com.discord",
 "VenusIsJaded",
 "CopyBios"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Custom themes"
 ],
 [
 "com.discord",
@@ -1943,6 +1978,11 @@
 "com.discord",
 "VenusIsJaded",
 "Keep deleted messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Message highlights"
 ],
 [
 "com.discord",
@@ -3370,6 +3410,21 @@
 "Unlock Premium"
 ],
 [
+"com.funnmedia.waterminder",
+"Juankyyy",
+"Remove license check"
+],
+[
+"com.funnmedia.waterminder",
+"Juankyyy",
+"Unlock Premium"
+],
+[
+"com.funnmedia.waterminder",
+"Juankyyy",
+"Update check off by default"
+],
+[
 "com.futbin",
 "Heval",
 "Disable ads"
@@ -4567,6 +4622,21 @@
 [
 "com.guochao.faceshow",
 "Wagg13Patch",
+"Hide home banner"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
+"Hide join and follow messages"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
+"Hide live room cards"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
 "Hide live room notice"
 ],
 [
@@ -4673,6 +4743,21 @@
 "com.huanxiu.HXAweme",
 "MightyMich",
 "Unlock SVIP Features"
+],
+[
+"com.hungrybolo.remotemouseandroid",
+"Juankyyy",
+"Disable popups"
+],
+[
+"com.hungrybolo.remotemouseandroid",
+"Juankyyy",
+"Remove ads"
+],
+[
+"com.hungrybolo.remotemouseandroid",
+"Juankyyy",
+"Unlock PRO"
 ],
 [
 "com.hyperdotstudios.swampattack2",
@@ -6790,6 +6875,26 @@
 "Crash of Cars Sideload / APK Expansion Bypass"
 ],
 [
+"com.nousguide.android.orftvthek",
+"Sudashiii",
+"Block forced updates"
+],
+[
+"com.nousguide.android.orftvthek",
+"Sudashiii",
+"Disable tracking"
+],
+[
+"com.nousguide.android.orftvthek",
+"Sudashiii",
+"Disable video ads"
+],
+[
+"com.nousguide.android.orftvthek",
+"Sudashiii",
+"Reject cookie banner"
+],
+[
 "com.nouxi.bisbi",
 "Wagg13Patch",
 "Enable Premium"
@@ -6928,6 +7033,16 @@
 "com.ovz.carscanner",
 "Santodan",
 "Car Scanner - Premium status"
+],
+[
+"com.ovz.carscanner",
+"Wagg13Patch",
+"Remove ads"
+],
+[
+"com.ovz.carscanner",
+"Wagg13Patch",
+"Unlock Pro"
 ],
 [
 "com.paget96.batteryguru",
@@ -7290,6 +7405,11 @@
 "Neutralize advertising ID"
 ],
 [
+"com.pinterest",
+"Wagg13Patch",
+"Trash bubble on pin long press"
+],
+[
 "com.pittvandewitt.wavelet",
 "o0b",
 "Unlock Pro"
@@ -7395,6 +7515,21 @@
 "Unlock Premium"
 ],
 [
+"com.radiojavan.androidradio",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.radiojavan.androidradio",
+"Hxreborn",
+"Hide ads"
+],
+[
+"com.radiojavan.androidradio",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.rammigsoftware.bluecoins",
 "Heval",
 "Enable Premium"
@@ -7441,6 +7576,11 @@
 ],
 [
 "com.reddit.frontpage",
+"Alastor",
+"Reddit native post-menu originals (2026.41.0)"
+],
+[
+"com.reddit.frontpage",
 "Mubelotix",
 "Reroute API calls"
 ],
@@ -7473,6 +7613,11 @@
 "com.resultadosfutbol.mobile",
 "Heval",
 "Disable license check"
+],
+[
+"com.reworewo.prayertimes",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.rockstreamer.iscreen",
@@ -7743,6 +7888,11 @@
 "com.sbs.ondemand.tv",
 "Supperelias2 SBS TV",
 "SBS playback compatibility check"
+],
+[
+"com.sbs.train",
+"CallMeBeyonder",
+"Unlock Premium (Root)"
 ],
 [
 "com.scaleup.photofx",
@@ -8073,6 +8223,11 @@
 "com.spookyhousestudios.progressbar95",
 "byehi98",
 "No Ads + Free Rewards"
+],
+[
+"com.spookyhousestudios.progressbar95",
+"byehi98",
+"Skip Play License Check"
 ],
 [
 "com.sqcom.shangqing",
@@ -8635,6 +8790,11 @@
 "Unlock premium"
 ],
 [
+"com.stronglifts.app",
+"CallMeBeyonder",
+"Unlock Pro (Root)"
+],
+[
 "com.superchinese",
 "Hoodles",
 "Block launch upsell"
@@ -8767,7 +8927,17 @@
 [
 "com.tinder",
 "Wagg13Patch",
+"Spoof signature"
+],
+[
+"com.tinder",
+"Wagg13Patch",
 "Tinder Remove Ads"
+],
+[
+"com.tinder",
+"Wagg13Patch",
+"Tinder Remove Upsells"
 ],
 [
 "com.tinder",
@@ -9520,6 +9690,16 @@
 "Unlock VIP Features"
 ],
 [
+"com.wallmaa.minimal.wallpapers",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.wallmaa.minimal.wallpapers",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.walmart.android",
 "R2bEEaton",
 "Default Lists Tab"
@@ -9652,7 +9832,17 @@
 [
 "com.waze",
 "Forsigh",
+"AMOLED Dark Mode For UI"
+],
+[
+"com.waze",
+"Forsigh",
 "Add your own media apps as Waze audio partners"
+],
+[
+"com.waze",
+"Forsigh",
+"Alert distances"
 ],
 [
 "com.waze",
@@ -9677,6 +9867,11 @@
 [
 "com.waze",
 "Forsigh",
+"Car alerts as notifications"
+],
+[
+"com.waze",
+"Forsigh",
 "Config overrides"
 ],
 [
@@ -9693,6 +9888,16 @@
 "com.waze",
 "Forsigh",
 "Extended police & hazard alert distances"
+],
+[
+"com.waze",
+"Forsigh",
+"Instrument cluster support"
+],
+[
+"com.waze",
+"Forsigh",
+"Keep Waze alive on car"
 ],
 [
 "com.waze",
@@ -9727,12 +9932,27 @@
 [
 "com.waze",
 "Forsigh",
+"Report speed limit"
+],
+[
+"com.waze",
+"Forsigh",
+"Show FPS counter"
+],
+[
+"com.waze",
+"Forsigh",
 "Show all cameras & road hazards"
 ],
 [
 "com.waze",
 "Forsigh",
 "Skip sign-in"
+],
+[
+"com.waze",
+"Forsigh",
+"Smoother Android Auto map"
 ],
 [
 "com.waze",
@@ -9747,12 +9967,27 @@
 [
 "com.waze",
 "Forsigh",
+"Speed-limit sign style"
+],
+[
+"com.waze",
+"Forsigh",
 "Speedometer always on"
 ],
 [
 "com.waze",
 "Forsigh",
+"Stay awake in the background"
+],
+[
+"com.waze",
+"Forsigh",
 "Theme"
+],
+[
+"com.waze",
+"Forsigh",
+"Traffic meter"
 ],
 [
 "com.waze",
@@ -9768,6 +10003,36 @@
 "com.waze",
 "Forsigh",
 "Wire Morphe YouTube Music into Waze"
+],
+[
+"com.waze",
+"Pilotkosinus",
+"Always Play Speed Camera Sound"
+],
+[
+"com.waze",
+"Pilotkosinus",
+"Google Assistant Button"
+],
+[
+"com.waze",
+"Pilotkosinus",
+"Morphe Patch Settings"
+],
+[
+"com.waze",
+"Pilotkosinus",
+"Waze \u2013 Patched YouTube Music Support"
+],
+[
+"com.waze",
+"VoltoxderEchte",
+"Allow Gearslip"
+],
+[
+"com.waze",
+"VoltoxderEchte",
+"Fix speed drops"
 ],
 [
 "com.wb.headsup",
@@ -11550,6 +11815,96 @@
 "Enable Premium"
 ],
 [
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Bonjour browser"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Common ports list"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Custom device names"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Export results"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"External IP details"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Host details"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"LAN device details"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"LAN scan history"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Ping statistics"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Remove ads"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Settings"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Speed test"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Tool options"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Tools history"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"UPnP browser"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Visual traceroute"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Wi-Fi channel usage"
+],
+[
+"net.techet.netanalyzerlite.an",
+"Hxreborn",
+"Wi-Fi network details"
+],
+[
 "net.wowsoftware.hidemyemulator",
 "Arsylk",
 "Unlock premium"
@@ -11663,6 +12018,66 @@
 "org.parcello",
 "V4n1X",
 "Disable ads"
+],
+[
+"org.readera",
+"Hxreborn",
+"Background listening"
+],
+[
+"org.readera",
+"Hxreborn",
+"Colored quotes"
+],
+[
+"org.readera",
+"Hxreborn",
+"Custom fonts"
+],
+[
+"org.readera",
+"Hxreborn",
+"Dictionary section"
+],
+[
+"org.readera",
+"Hxreborn",
+"Dictionary word colors"
+],
+[
+"org.readera",
+"Hxreborn",
+"Footnote speech"
+],
+[
+"org.readera",
+"Hxreborn",
+"Library full screen"
+],
+[
+"org.readera",
+"Hxreborn",
+"Library view modes"
+],
+[
+"org.readera",
+"Hxreborn",
+"Page thumbnails"
+],
+[
+"org.readera",
+"Hxreborn",
+"Quotes and notes section"
+],
+[
+"org.readera",
+"Hxreborn",
+"Skip headers and footers"
+],
+[
+"org.readera",
+"Hxreborn",
+"Speech rate slider"
 ],
 [
 "org.swiftapps.swiftbackup",
@@ -12400,6 +12815,21 @@
 "Enable Premium"
 ],
 [
+"proton.android.authenticator",
+"Hxreborn",
+"AMOLED dark theme"
+],
+[
+"proton.android.authenticator",
+"Hxreborn",
+"Custom accent color"
+],
+[
+"proton.android.authenticator",
+"Hxreborn",
+"Material 3 switches"
+],
+[
 "proton.android.pass",
 "Hxreborn",
 "AMOLED dark theme"
@@ -12607,6 +13037,11 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Avoid stitched ads"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Background audio"
 ],
 [
@@ -12628,6 +13063,16 @@
 "tv.twitch.android.app",
 "JordanWoodson",
 "Change app name"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Chat appearance"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Chat keywords"
 ],
 [
 "tv.twitch.android.app",
@@ -12682,6 +13127,11 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Force ExoPlayer"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Hide Bits tipping"
 ],
 [
@@ -12727,6 +13177,11 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Navigation bar position"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Normal latency"
 ],
 [
@@ -12767,6 +13222,11 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Tablet layout"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Third-party badges"
 ],
 [
@@ -12778,6 +13238,11 @@
 "tv.twitch.android.app",
 "JordanWoodson",
 "Use native player"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"VOD chapters"
 ],
 [
 "tv.twitch.android.app",
