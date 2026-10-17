@@ -1365,6 +1365,21 @@
 "Unlock premium"
 ],
 [
+"com.bleacherreport.android.teamstream",
+"Heval",
+"Disable ads"
+],
+[
+"com.bleacherreport.android.teamstream",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.bleacherreport.android.teamstream",
+"Heval",
+"Hide betting content"
+],
+[
 "com.block.juggle",
 "ImNoammm",
 "Animation theme"
@@ -2338,6 +2353,26 @@
 "com.doovera.eujianbrowser",
 "Plyrs1",
 "Suppress WebView Exam Events"
+],
+[
+"com.dotgears.flappybird",
+"Dieroboter",
+"Adapt to modern displays"
+],
+[
+"com.dotgears.flappybird",
+"Dieroboter",
+"Convert to 64-bit"
+],
+[
+"com.dotgears.flappybird",
+"Dieroboter",
+"Modernize manifest and resources"
+],
+[
+"com.dotgears.flappybird",
+"Dieroboter",
+"Remove ads and Google services hooks"
 ],
 [
 "com.dubox.drive",
@@ -7950,6 +7985,11 @@
 "Disable ads"
 ],
 [
+"com.qbis.guessthecountry",
+"Shuhaibnc",
+"Unlock World Map Quiz Premium Mode and Disable Ads"
+],
+[
 "com.quvideo.vivacut",
 "MightyMich",
 "Unlock Premium"
@@ -10157,7 +10197,17 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Blue-noise dithering"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Codecs Support"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Codecs Support (2.0.23/5002363)"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -10238,6 +10288,11 @@
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "GXR face and tongue bridge"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"GXR spacewarp layer (experimental)"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -11748,6 +11803,16 @@
 "de.swr.avp.ard",
 "PyFlat",
 "Hold to speed up"
+],
+[
+"de.transfermarkt.v2",
+"Heval",
+"Disable ads"
+],
+[
+"de.transfermarkt.v2",
+"Heval",
+"Disable telemetry"
 ],
 [
 "de.wetteronline.wetterapp",
