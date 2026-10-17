@@ -1,5 +1,20 @@
 [
 [
+"ai.perplexity.app.android",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"ai.perplexity.app.android",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"ai.perplexity.app.android",
+"Hxreborn",
+"Hide upgrade promotions"
+],
+[
 "app.expert.player",
 "Heval",
 "Disable ads"
@@ -850,6 +865,21 @@
 "Unlock premium"
 ],
 [
+"com.androholic.wallpapersdepthpix",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.androholic.wallpapersdepthpix",
+"Hxreborn",
+"Hide ads"
+],
+[
+"com.androholic.wallpapersdepthpix",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.android.chrome",
 "Matthewclso",
 "Android autofill"
@@ -1288,6 +1318,51 @@
 "com.bigwinepot.nwdn.international",
 "MightyMich",
 "Unlock Premium (Experimental)"
+],
+[
+"com.biobird.exvee",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.biobird.exvee",
+"Hxreborn",
+"Unlock premium"
+],
+[
+"com.bk.videotogif",
+"Dieroboter",
+"Disable AppMetrica activation"
+],
+[
+"com.bk.videotogif",
+"Dieroboter",
+"Disable Singular telemetry"
+],
+[
+"com.bk.videotogif",
+"Dieroboter",
+"Disable Toto backend"
+],
+[
+"com.bk.videotogif",
+"Dieroboter",
+"Disable ad consent flow"
+],
+[
+"com.bk.videotogif",
+"Dieroboter",
+"Disable rate prompts"
+],
+[
+"com.bk.videotogif",
+"Dieroboter",
+"Strip ad tracking permissions"
+],
+[
+"com.bk.videotogif",
+"Dieroboter",
+"Unlock premium"
 ],
 [
 "com.block.juggle",
@@ -1753,6 +1828,21 @@
 "com.community.mbox.tv",
 "Hxreborn",
 "All-In-One"
+],
+[
+"com.community.oneroom",
+"Hxreborn",
+"Hide BuzzBox"
+],
+[
+"com.community.oneroom",
+"Hxreborn",
+"Hide Midnight tab"
+],
+[
+"com.community.oneroom",
+"Hxreborn",
+"Hide permanent notification"
 ],
 [
 "com.cricfytv.sports",
@@ -2338,6 +2428,21 @@
 "com.eisterhues_media_2",
 "TorbenStriegel",
 "Unlock Premium"
+],
+[
+"com.eurosport",
+"Heval",
+"Disable ads"
+],
+[
+"com.eurosport",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.eurosport",
+"Heval",
+"Hide partner promotions"
 ],
 [
 "com.facebook.katana",
@@ -3390,6 +3495,16 @@
 "Disable ads"
 ],
 [
+"com.football433",
+"Heval",
+"Disable ads"
+],
+[
+"com.football433",
+"Heval",
+"Disable telemetry"
+],
+[
 "com.formulaone.production",
 "Android TV",
 "Unlock UHD (4K)"
@@ -3435,6 +3550,11 @@
 "Disable ads"
 ],
 [
+"com.future.moviesByFawesomeAndroidTV",
+"Android TV",
+"Skip ads"
+],
+[
 "com.garnesapps.strukpom",
 "Plyrs1",
 "Disable Startup Permissions"
@@ -3473,6 +3593,16 @@
 "com.generalcomp.truecloud",
 "byehi98",
 "TrueCloud VIP"
+],
+[
+"com.getaloa.app",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.getaloa.app",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.global.foodpanda.android",
@@ -4625,6 +4755,21 @@
 "Unlock map filters"
 ],
 [
+"com.guardian",
+"Heval",
+"Disable ads"
+],
+[
+"com.guardian",
+"Heval",
+"Disable article limit"
+],
+[
+"com.guardian",
+"Heval",
+"Disable telemetry"
+],
+[
 "com.guochao.faceshow",
 "Wagg13Patch",
 "Hide home banner"
@@ -4678,6 +4823,11 @@
 "com.halalfire.medicneet",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.halfbrick.fruitninjafree",
+"byehi98",
+"Free IAP"
 ],
 [
 "com.hapibits.soundlift",
@@ -5957,6 +6107,21 @@
 [
 "com.kick.mobile",
 "JordanWoodson",
+"AMOLED black"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Background audio"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Block update prompts"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Bypass VOD ad sessions"
 ],
 [
@@ -5977,6 +6142,11 @@
 [
 "com.kick.mobile",
 "JordanWoodson",
+"Default startup tab"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Default video quality"
 ],
 [
@@ -5992,12 +6162,32 @@
 [
 "com.kick.mobile",
 "JordanWoodson",
+"Don't save searches"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Hide Clips"
 ],
 [
 "com.kick.mobile",
 "JordanWoodson",
+"Hide Home sections"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Hide KICKs tipping"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Hide chat highlights"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Hide rating prompt"
 ],
 [
 "com.kick.mobile",
@@ -6012,7 +6202,37 @@
 [
 "com.kick.mobile",
 "JordanWoodson",
+"Normal latency"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Remove tracking permissions"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Seek interval"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Show deleted messages"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Sleep timer"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Stay on channel when it hosts"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Third-party emotes"
 ],
 [
 "com.kiloo.subwaysurf",
@@ -6073,6 +6293,11 @@
 "com.lemon.lvoverseas",
 "Kveld9 Extra",
 "Bypass Unsafe Package Modal"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Locale Assets Slimmer"
 ],
 [
 "com.lemon.lvoverseas",
@@ -6280,6 +6505,26 @@
 "Dead Trigger Free Store"
 ],
 [
+"com.mail.mobile.android.mail",
+"Heval",
+"Disable ads"
+],
+[
+"com.mail.mobile.android.mail",
+"Heval",
+"Disable rating prompts"
+],
+[
+"com.mail.mobile.android.mail",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.mail.mobile.android.mail",
+"Heval",
+"Hide upsells"
+],
+[
 "com.mautilus.servus",
 "Sudashiii",
 "Block forced updates"
@@ -6323,6 +6568,46 @@
 "com.mazii.dictionary",
 "Epxec",
 "Enable premium"
+],
+[
+"com.medhaapps.wififtpserver",
+"Dieroboter",
+"Disable Crashlytics reporting"
+],
+[
+"com.medhaapps.wififtpserver",
+"Dieroboter",
+"Disable ad consent flow"
+],
+[
+"com.medhaapps.wififtpserver",
+"Dieroboter",
+"Disable mDNS service advertisement"
+],
+[
+"com.medhaapps.wififtpserver",
+"Dieroboter",
+"Hide Get Pro version button"
+],
+[
+"com.medhaapps.wififtpserver",
+"Dieroboter",
+"Material You icon"
+],
+[
+"com.medhaapps.wififtpserver",
+"Dieroboter",
+"Remove Rate this app menu item"
+],
+[
+"com.medhaapps.wififtpserver",
+"Dieroboter",
+"Remove banner ads"
+],
+[
+"com.medhaapps.wififtpserver",
+"Dieroboter",
+"Strip ad tracking permissions and app ID"
 ],
 [
 "com.meesho.supply",
@@ -7125,6 +7410,16 @@
 "Remove ads"
 ],
 [
+"com.olx.southasia",
+"Proxma",
+"Remove Elite promotions"
+],
+[
+"com.olx.southasia",
+"Proxma",
+"Remove ads"
+],
+[
 "com.one4studio.one4home",
 "Hxreborn",
 "Unlock premium"
@@ -7158,6 +7453,16 @@
 "com.outfit7.movingeye.swampattack",
 "byehi98",
 "Remove Ads"
+],
+[
+"com.outscar.bd.bongcal",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.outscar.bd.bongcal",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.ovelin.guitartuna",
@@ -7755,6 +8060,66 @@
 "Unlock premium"
 ],
 [
+"com.robtopx.geometrydashmeltdown",
+"Dieroboter",
+"Disable AppMetrica activation"
+],
+[
+"com.robtopx.geometrydashmeltdown",
+"Dieroboter",
+"Disable ad consent flow"
+],
+[
+"com.robtopx.geometrydashmeltdown",
+"Dieroboter",
+"Disable banner and interstitial ads"
+],
+[
+"com.robtopx.geometrydashmeltdown",
+"Dieroboter",
+"Strip ad tracking permissions"
+],
+[
+"com.robtopx.geometrydashsubzero",
+"Dieroboter",
+"Disable AppMetrica activation"
+],
+[
+"com.robtopx.geometrydashsubzero",
+"Dieroboter",
+"Disable ad consent flow"
+],
+[
+"com.robtopx.geometrydashsubzero",
+"Dieroboter",
+"Disable banner and interstitial ads"
+],
+[
+"com.robtopx.geometrydashsubzero",
+"Dieroboter",
+"Strip ad tracking permissions"
+],
+[
+"com.robtopx.geometrydashworld",
+"Dieroboter",
+"Disable AppMetrica activation"
+],
+[
+"com.robtopx.geometrydashworld",
+"Dieroboter",
+"Disable ad consent flow"
+],
+[
+"com.robtopx.geometrydashworld",
+"Dieroboter",
+"Disable banner and interstitial ads"
+],
+[
+"com.robtopx.geometrydashworld",
+"Dieroboter",
+"Strip ad tracking permissions"
+],
+[
 "com.rockstreamer.iscreen",
 "Media",
 "Free TVOD content"
@@ -7882,6 +8247,11 @@
 [
 "com.rumble.battles",
 "JordanWoodson",
+"Default startup tab"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
 "Default video quality"
 ],
 [
@@ -7898,6 +8268,21 @@
 "com.rumble.battles",
 "JordanWoodson",
 "Don't save searches"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Fill screen"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Hide Create tab"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Hide Home sections"
 ],
 [
 "com.rumble.battles",
@@ -7922,7 +8307,27 @@
 [
 "com.rumble.battles",
 "JordanWoodson",
+"Keep playing during other sounds"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Keep screen on while paused"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
 "Lurk icon"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Refresh stream"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Remember playback speed"
 ],
 [
 "com.rumble.battles",
@@ -7937,12 +8342,22 @@
 [
 "com.rumble.battles",
 "JordanWoodson",
+"Seek interval"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
 "Show deleted messages"
 ],
 [
 "com.rumble.battles",
 "JordanWoodson",
 "Show exact counts"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Sleep timer"
 ],
 [
 "com.rumble.battles",
@@ -8347,7 +8762,17 @@
 [
 "com.sofascore.results",
 "Heval",
+"Disable rating prompts"
+],
+[
+"com.sofascore.results",
+"Heval",
 "GmsCore support"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide betting content"
 ],
 [
 "com.sofascore.results",
@@ -8960,6 +9385,11 @@
 "Enable Premium"
 ],
 [
+"com.streetwriters.notesnook",
+"Hxreborn",
+"Material You theme"
+],
+[
 "com.stresscodes.wallp",
 "Hxreborn",
 "Unlock premium"
@@ -9173,6 +9603,11 @@
 "com.traviangames.travianlegendsmobile",
 "Amitaisela",
 "Travian Tools setup"
+],
+[
+"com.triovent.datingapp",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.tripledot.blackjack",
@@ -9558,6 +9993,11 @@
 "com.twitter.android",
 "Kveld9 Extra",
 "DM Debloat"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
+"Default Reply Sorting"
 ],
 [
 "com.twitter.android",
@@ -11920,6 +12360,11 @@
 "Unlock Pro and skip onboarding"
 ],
 [
+"lequipe.fr",
+"Heval",
+"Disable ads"
+],
+[
 "mark.via.gp",
 "Heval",
 "Disable telemetry"
@@ -11958,6 +12403,11 @@
 "me.proton.android.lumo",
 "Hxreborn",
 "Remove tap highlight"
+],
+[
+"me.proton.android.lumo",
+"Hxreborn",
+"Store encryption key in TEE"
 ],
 [
 "me.proton.android.lumo",
@@ -12318,6 +12768,341 @@
 "org.swiftapps.swiftbackup",
 "byehi98",
 "Swift Backup Web Login"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"AMOLED black"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Add Repeat to the message menu"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Allow chat blur on slower phones"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Ask before sending a sticker"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Black and white launch logo"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Change sticker size"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Disable analytics"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Disable call debug upload"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Disable chat swipe actions"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Disable double-tap reactions"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Disable draft link previews"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Disable pull to archive"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Disable pull to next channel"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Disable update checks"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Exact numbers"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Faster downloads"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Folders by chat type"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Gallery camera on tap"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide Contacts tab"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide Premium, gifts and Stars"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide Send as button"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide Stories"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide Telegram Features and Invite Friends"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide ads"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide blocked users in groups"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide channel bar buttons"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide contacts on Telegram"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide folder tab counters"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide gallery camera tile"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide greeting stickers"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide keyboard on scroll"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide messages by keyword"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide phone number"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide popular apps"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide promotional banners"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide recommendations"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide sender names when forwarding"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide sponsored proxy channel"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide time on stickers"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Hide translate bar"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Holiday look all year"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"HushTelegram icon and name"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"HushTelegram settings"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Ignore mentions in muted chats"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Keep deleted messages"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Keep videos muted on volume keys"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Message times with seconds"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Open links externally"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Play voice messages one at a time"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Quiet contacts nag"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Repair Firebase push registration"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Reveal spoilers"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Save downloaded files"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Show user and chat IDs"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Silence people outside your contacts"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Start the camera on the rear lens"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Strip link tracking"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Swipe back on profiles"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Translate with an outside service"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Turn off haptic feedback"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Turn off reaction effects"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"UnifiedPush notifications"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Use normal paste"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Use registered Maps API key"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Use registered Telegram API credentials"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Use system font"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Voice messages in the music player"
 ],
 [
 "org.telegram.messenger",
@@ -12875,6 +13660,56 @@
 "Voice to music"
 ],
 [
+"org.videolan.vlc",
+"Sabbirexist",
+"AMOLED black theme"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
+"Disable audio time-stretch"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
+"Force AAudio output"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
+"Force ReplayGain"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
+"Force audio passthrough"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
+"Raise network cache"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
+"Skip \"What's New\" dialog"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
+"Skip onboarding"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
+"Unlock experimental features"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
+"Verbose libVLC logging"
+],
+[
 "photo.editor.photoeditor.photoeditorpro",
 "Hxreborn",
 "Hide share options"
@@ -13095,6 +13930,46 @@
 "Unlock Premium Features"
 ],
 [
+"ro.rcsrds.digisport",
+"Heval",
+"Disable ads"
+],
+[
+"ro.rcsrds.digisport",
+"Heval",
+"Disable live stream ads"
+],
+[
+"ro.rcsrds.digisport",
+"Heval",
+"Disable telemetry"
+],
+[
+"ro.rcsrds.digisport",
+"Heval",
+"Disable update prompts"
+],
+[
+"ro.rcsrds.digisport",
+"Heval",
+"Hide betting odds"
+],
+[
+"ro.rcsrds.digisport",
+"Heval",
+"Hide promotions"
+],
+[
+"ro.rcsrds.digisport",
+"Heval",
+"Hide sponsored articles"
+],
+[
+"ro.rcsrds.digisport",
+"Heval",
+"Skip ad consent form"
+],
+[
 "ru.iiec.cxxdroid",
 "Hxreborn",
 "AMOLED dark theme"
@@ -13178,6 +14053,21 @@
 "ru.zdevs.zarchiver",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"sa.gov.moia.beneficiaryapp",
+"Loody227",
+"Bypass PairIP license check"
+],
+[
+"sa.gov.moia.beneficiaryapp",
+"Loody227",
+"Bypass mock-location detection"
+],
+[
+"sa.gov.moia.beneficiaryapp",
+"Loody227",
+"Bypass root / bootloader detection"
 ],
 [
 "todolist.scheduleplanner.dailyplanner.todo.reminders",
