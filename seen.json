@@ -3391,6 +3391,11 @@
 ],
 [
 "com.formulaone.production",
+"Android TV",
+"Unlock UHD (4K)"
+],
+[
+"com.formulaone.production",
 "Hiosdra",
 "F1 TV - Dismiss forced update prompt"
 ],
@@ -4730,6 +4735,26 @@
 "Stop Background Sync"
 ],
 [
+"com.hevy",
+"Kveld9 Extra",
+"Block Trackers"
+],
+[
+"com.hevy",
+"Kveld9 Extra",
+"Remove Extra Files"
+],
+[
+"com.hevy",
+"Kveld9 Extra",
+"Stop Background Sync"
+],
+[
+"com.hevy",
+"Kveld9 Extra",
+"Unlock Pro"
+],
+[
 "com.hitrolab.audioeditor",
 "Hxreborn",
 "Unlock premium"
@@ -6062,12 +6087,27 @@
 [
 "com.lemon.lvoverseas",
 "Kveld9 Extra",
+"Remove Watermark"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
 "Screen Density Slimmer"
 ],
 [
 "com.lemon.lvoverseas",
 "Kveld9 Extra",
 "Unlock Premium"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Unlock Premium Templates"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Unlock Ultra HD Export"
 ],
 [
 "com.lemon.lvoverseas",
@@ -6183,6 +6223,11 @@
 "com.linkedin.android",
 "Heyymichii",
 "Hide suggested posts"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Material You"
 ],
 [
 "com.linkedin.android",
@@ -6402,6 +6447,61 @@
 [
 "com.mi.earphone",
 "Kveld9",
+"Update Without Account"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Block Trackers"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Device Privacy Guard"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Offline Only"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Run on Rooted Devices"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Safer Connections"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Show All Models"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Skip Popups & Tutorials"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Stop Background Activity"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Unlock Sound Features"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
+"Unlock for Other Phones"
+],
+[
+"com.mi.earphone",
+"Kveld9 Extra",
 "Update Without Account"
 ],
 [
@@ -6837,6 +6937,41 @@
 [
 "com.nokoprint",
 "Kveld9",
+"Stop Background Sync"
+],
+[
+"com.nokoprint",
+"Kveld9 Extra",
+"Block Ads"
+],
+[
+"com.nokoprint",
+"Kveld9 Extra",
+"Block Trackers"
+],
+[
+"com.nokoprint",
+"Kveld9 Extra",
+"Remove Extra Files"
+],
+[
+"com.nokoprint",
+"Kveld9 Extra",
+"Remove Extra Stores"
+],
+[
+"com.nokoprint",
+"Kveld9 Extra",
+"Safer Connections"
+],
+[
+"com.nokoprint",
+"Kveld9 Extra",
+"Skip Welcome Screen"
+],
+[
+"com.nokoprint",
+"Kveld9 Extra",
 "Stop Background Sync"
 ],
 [
@@ -7717,7 +7852,22 @@
 [
 "com.rumble.battles",
 "JordanWoodson",
+"Block update prompts"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
 "Change app name"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Chat keywords"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Chat timestamps"
 ],
 [
 "com.rumble.battles",
@@ -7747,12 +7897,22 @@
 [
 "com.rumble.battles",
 "JordanWoodson",
+"Don't save searches"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
 "Hide Premium upsells"
 ],
 [
 "com.rumble.battles",
 "JordanWoodson",
 "Hide Shorts"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Hide chat clutter"
 ],
 [
 "com.rumble.battles",
@@ -7768,6 +7928,21 @@
 "com.rumble.battles",
 "JordanWoodson",
 "Remove tracking permissions"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Resume videos when signed out"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Show deleted messages"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Show exact counts"
 ],
 [
 "com.rumble.battles",
@@ -9387,6 +9562,11 @@
 [
 "com.twitter.android",
 "Kveld9 Extra",
+"Disable Auto Refresh"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
 "Drawer Items"
 ],
 [
@@ -9487,12 +9667,42 @@
 [
 "com.twitter.android",
 "Kveld9 Extra",
+"Unlock Video Downloads"
+],
+[
+"com.twitter.android",
+"Kveld9 Extra",
 "X Background Slimmer"
 ],
 [
 "com.twitter.android",
 "Kveld9 Extra",
 "X MLKit Vision Slimmer"
+],
+[
+"com.twitter.android",
+"Serajr",
+"Desativar Blur do X"
+],
+[
+"com.twitter.android",
+"Serajr",
+"Fix Navigation Bar Haze"
+],
+[
+"com.twitter.android",
+"Serajr",
+"Keep Bottom Bar Visible"
+],
+[
+"com.twitter.android",
+"Serajr",
+"Manter Barra Inferior Vis\u00edvel"
+],
+[
+"com.twitter.android",
+"Serajr",
+"Preservar contraste da Barra de Navega\u00e7\u00e3o"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -9893,6 +10103,11 @@
 "com.waze",
 "Forsigh",
 "Instrument cluster support"
+],
+[
+"com.waze",
+"Forsigh",
+"Keep Waze alive on Android Auto"
 ],
 [
 "com.waze",
@@ -11705,6 +11920,11 @@
 "Unlock Pro and skip onboarding"
 ],
 [
+"mark.via.gp",
+"Heval",
+"Disable telemetry"
+],
+[
 "me.bluemail.mail",
 "Heval",
 "Disable ads"
@@ -13308,6 +13528,11 @@
 "tv.twitch.android.app",
 "Ryykitty",
 "Reload stream"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"UI settings"
 ],
 [
 "tv.twitch.android.app",
