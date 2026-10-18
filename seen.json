@@ -50,6 +50,11 @@
 "Remove All Apps handle touch area"
 ],
 [
+"app.privacynotes",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "app.progres.webetu",
 "RabehX",
 "Fix screen freeze"
@@ -858,6 +863,51 @@
 "com.analiti.fastest.android",
 "Jzl1",
 "Unlock Expert"
+],
+[
+"com.and.aym.scd",
+"Monesys",
+"Ayoomi Instant Rewards"
+],
+[
+"com.and.aym.scd",
+"Monesys",
+"Ayoomi SDK Init Short Circuit"
+],
+[
+"com.and.aym.scd",
+"Monesys",
+"Loading Completion Short Circuit"
+],
+[
+"com.and.aym.scd",
+"Monesys",
+"Native Loading Mask Bypass"
+],
+[
+"com.and.aym.scd",
+"Monesys",
+"PairIP Protection Bypass"
+],
+[
+"com.and.aym.scd",
+"Monesys",
+"Play Asset Delivery Fallback"
+],
+[
+"com.and.aym.scd",
+"Monesys",
+"SCD Runtime Diagnostics"
+],
+[
+"com.and.aym.scd",
+"Monesys",
+"Unity Lifecycle Protection"
+],
+[
+"com.and.aym.scd",
+"Monesys",
+"Unity Native Quit Guard"
 ],
 [
 "com.andatsoft.myapk.fwa",
@@ -1700,6 +1750,11 @@
 "Custom NTP wallpaper"
 ],
 [
+"com.burton999.notecal",
+"Hxreborn",
+"Unlock pro"
+],
+[
 "com.busuu.android.enc",
 "Kim20598",
 "AMOLED (baked in)"
@@ -1772,6 +1827,11 @@
 [
 "com.chess",
 "ImNoammm",
+"Clone Chess.com"
+],
+[
+"com.chess",
+"ImNoammm",
 "Customize Home screen"
 ],
 [
@@ -1783,6 +1843,11 @@
 "com.chess",
 "ImNoammm",
 "Hide Premium-only content"
+],
+[
+"com.chess",
+"ImNoammm",
+"Lichess Puzzles"
 ],
 [
 "com.chess",
@@ -1812,7 +1877,32 @@
 [
 "com.chess",
 "ImNoammm",
+"Stockfish analysis"
+],
+[
+"com.chess",
+"ImNoammm",
 "Time controls under a minute"
+],
+[
+"com.chess",
+"ImNoammm",
+"Unlimited Game Review"
+],
+[
+"com.chess",
+"ImNoammm",
+"Unlimited Play Coach"
+],
+[
+"com.chess",
+"ImNoammm",
+"Unlock Premium content"
+],
+[
+"com.chess",
+"ImNoammm",
+"Unlock all bots"
 ],
 [
 "com.chess",
@@ -2947,6 +3037,16 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Open comments at full height"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Open comments with a gesture"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Open links in external browser"
 ],
 [
@@ -3525,6 +3625,21 @@
 "Disable ads"
 ],
 [
+"com.flyersoft.moonreader",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.flyersoft.moonreader",
+"Hxreborn",
+"Hide ads"
+],
+[
+"com.flyersoft.moonreader",
+"Hxreborn",
+"Unlock pro"
+],
+[
 "com.foobnix.pdf.reader",
 "Heval",
 "Disable ads"
@@ -3628,6 +3743,11 @@
 "com.generalcomp.truecloud",
 "byehi98",
 "TrueCloud VIP"
+],
+[
+"com.generalmagic.magicearth",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.getaloa.app",
@@ -4322,6 +4442,11 @@
 [
 "com.google.android.inputmethod.latin",
 "ImNoammm",
+"Dictionary downloads"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
 "Disable Google Play services"
 ],
 [
@@ -4833,6 +4958,16 @@
 "com.gustavcaves.notizenwidget",
 "Epxec",
 "Enable Premium"
+],
+[
+"com.gxnet.castle.indiatv",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.gxnet.castle.indiatv",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.habitrpg.android.habitica",
@@ -6007,6 +6142,11 @@
 [
 "com.joshua.jptt",
 "JPTT",
+"Stop on bot detection"
+],
+[
+"com.joshua.jptt",
+"JPTT",
 "Stop on login ban"
 ],
 [
@@ -6093,6 +6233,11 @@
 "com.kakao.talk",
 "Heval",
 "Strip image metadata"
+],
+[
+"com.kakao.talk",
+"WonjoonSeol-WS",
+"Block KakaoPay"
 ],
 [
 "com.kakarod.bighunter",
@@ -6300,6 +6445,11 @@
 "Spoof client"
 ],
 [
+"com.lbrc.PeriodCalendar",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.ledblinker",
 "Hxreborn",
 "Unlock premium"
@@ -6433,6 +6583,16 @@
 "com.life360.android.safetymapd",
 "Doom",
 "Material You themed icon"
+],
+[
+"com.lingodeer",
+"Hxreborn",
+"Skip sign-in prompt"
+],
+[
+"com.lingodeer",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.linkedin.android",
@@ -7272,6 +7432,11 @@
 [
 "com.nokoprint",
 "Kveld9 Extra",
+"Printer-Compatible Connections"
+],
+[
+"com.nokoprint",
+"Kveld9 Extra",
 "Remove Extra Files"
 ],
 [
@@ -7632,6 +7797,11 @@
 [
 "com.pinterest",
 "Browzomje",
+"Hide save for later tooltip"
+],
+[
+"com.pinterest",
+"Browzomje",
 "Keep Home feed"
 ],
 [
@@ -7663,6 +7833,11 @@
 "com.pinterest",
 "HushPinterest",
 "Download pins"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Filter feed"
 ],
 [
 "com.pinterest",
@@ -7742,6 +7917,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Keep Home feed"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Long-press download"
 ],
 [
@@ -7768,6 +7948,11 @@
 "com.pinterest",
 "HushPinterest",
 "Remove ad tracking permissions"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Show posted date"
 ],
 [
 "com.pinterest",
@@ -7910,6 +8095,16 @@
 "Disable ads"
 ],
 [
+"com.poe.android",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.poe.android",
+"Hxreborn",
+"Spoof signature"
+],
+[
 "com.prothomalo",
 "Media",
 "Access content"
@@ -7987,7 +8182,17 @@
 [
 "com.qbis.guessthecountry",
 "Shuhaibnc",
+"Amoled Dark Theme"
+],
+[
+"com.qbis.guessthecountry",
+"Shuhaibnc",
 "Unlock World Map Quiz Premium Mode and Disable Ads"
+],
+[
+"com.quickcursor",
+"Hxreborn",
+"Unlock pro"
 ],
 [
 "com.quvideo.vivacut",
@@ -9330,6 +9535,16 @@
 "Use system font"
 ],
 [
+"com.steinberg.cubasisle3",
+"Hxreborn",
+"Disable telemetry"
+],
+[
+"com.steinberg.cubasisle3",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.storywise.storywise",
 "Hxreborn",
 "GmsCore support"
@@ -10185,6 +10400,11 @@
 "Preservar contraste da Barra de Navega\u00e7\u00e3o"
 ],
 [
+"com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
+"byehi98",
+"Prince of Persia: Full Game Unlock (native)"
+],
+[
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Background blue-noise dithering"
@@ -10313,6 +10533,11 @@
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Network Optimizations"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"OpenXR CPU and GPU BOOST"
 ],
 [
 "com.valvesoftware.steamlinkvr.x_23",
@@ -10783,6 +11008,11 @@
 "com.yodo1.crossyroad",
 "byehi98",
 "Free store"
+],
+[
+"com.youdao.hindict",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.ytheekshana.apkextractor",
@@ -11910,6 +12140,26 @@
 "Hide betting content"
 ],
 [
+"fi.twomenandadog.zombiecatchers",
+"Chiggi",
+"Bypass license check"
+],
+[
+"fi.twomenandadog.zombiecatchers",
+"Chiggi",
+"Change package name"
+],
+[
+"fi.twomenandadog.zombiecatchers",
+"Chiggi",
+"Free in-app purchases"
+],
+[
+"fi.twomenandadog.zombiecatchers",
+"Chiggi",
+"Remove ads"
+],
+[
 "flar2.devcheck",
 "Hxreborn",
 "Hide menu items"
@@ -11985,6 +12235,11 @@
 "Disable home screen ads"
 ],
 [
+"im.thebot.messenger",
+"Hxreborn",
+"Unlock VIP"
+],
+[
 "in.amazon.mShop.android.shopping",
 "Debakar",
 "Install alongside original"
@@ -12003,6 +12258,11 @@
 "in.cricketexchange.app.cricketexchange",
 "Heval",
 "Enable Premium"
+],
+[
+"in.krosbits.musicolet",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "io.gh.reisxd.tizentube.cobalt",
@@ -12700,6 +12960,11 @@
 "Hide screenshot detection"
 ],
 [
+"org.cris.aikyam",
+"VipinVIP",
+"Monochrome icon support"
+],
+[
 "org.fossify.calendar",
 "Pengusto",
 "Readable Calendar descriptions"
@@ -12748,6 +13013,61 @@
 "org.mozilla.fenix",
 "FTL",
 "Tab scroll button"
+],
+[
+"org.mozilla.firefox",
+"Heval",
+"Disable telemetry"
+],
+[
+"org.mozilla.firefox",
+"Heval",
+"Enable about:config"
+],
+[
+"org.mozilla.firefox",
+"Heval",
+"Hide promotional prompts"
+],
+[
+"org.mozilla.firefox",
+"Heval",
+"Hide sponsored content"
+],
+[
+"org.mozilla.firefox",
+"Heval",
+"Keep background tabs loaded"
+],
+[
+"org.mozilla.firefox",
+"Heval",
+"Unlock secret settings"
+],
+[
+"org.mozilla.focus",
+"Heval",
+"Add-on support"
+],
+[
+"org.mozilla.focus",
+"Heval",
+"Disable rating prompts"
+],
+[
+"org.mozilla.focus",
+"Heval",
+"Disable telemetry"
+],
+[
+"org.mozilla.focus",
+"Heval",
+"Enable about:config"
+],
+[
+"org.mozilla.focus",
+"Heval",
+"Hide promotional prompts"
 ],
 [
 "org.parcello",
@@ -13773,6 +14093,11 @@
 "org.videolan.vlc",
 "Sabbirexist",
 "Verbose libVLC logging"
+],
+[
+"org.withouthat.acalendar",
+"Hxreborn",
+"Unlock aCalendar+"
 ],
 [
 "photo.editor.photoeditor.photoeditorpro",
