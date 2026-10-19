@@ -495,6 +495,11 @@
 "Unlock Lightroom Premium"
 ],
 [
+"com.adobe.reader",
+"Aidan",
+"Remove Ads and Tracking"
+],
+[
 "com.adobe.scan.android",
 "Aidan",
 "Remove Ads and Tracking"
@@ -1305,6 +1310,11 @@
 "Unlock premium"
 ],
 [
+"com.atomic.apps.ringtone.cutter",
+"Shuhaibnc",
+"Remove Ads"
+],
+[
 "com.avinside",
 "Aidan",
 "Display Cutout Adaptation"
@@ -1970,6 +1980,11 @@
 "Hide permanent notification"
 ],
 [
+"com.creditkarma.mobile",
+"Aidan",
+"Remove Tracking"
+],
+[
 "com.cricfytv.sports",
 "CallMeBeyonder",
 "Remove ads"
@@ -2573,6 +2588,16 @@
 "com.eisterhues_media_2",
 "TorbenStriegel",
 "Unlock Premium"
+],
+[
+"com.eumlab.android.prometronome",
+"Aidan",
+"Remove Tracking"
+],
+[
+"com.eumlab.android.prometronome",
+"Aidan",
+"Unlock Pro"
 ],
 [
 "com.eurosport",
@@ -6576,6 +6601,21 @@
 ],
 [
 "com.laurencedawson.reddit_sync",
+"Burakdede0",
+"Exit on single back press"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Burakdede0",
+"Fix hardcoded title fonts"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Burakdede0",
+"Predictive back gesture"
+],
+[
+"com.laurencedawson.reddit_sync",
 "Mix",
 "Restore deleted posts"
 ],
@@ -7215,6 +7255,16 @@
 "Fix scoped-storage file sharing"
 ],
 [
+"com.mobilefootie.wc2010",
+"Heval",
+"GmsCore support"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
+"Spoof signature"
+],
+[
 "com.mojang.minecraftpe",
 "Hajs110208",
 "Add documents provider"
@@ -7438,6 +7488,11 @@
 "com.nhl.gc1112.free",
 "Aidan",
 "Unlock Hidden Features"
+],
+[
+"com.nhl.gc1112.free",
+"Aidan",
+"Web Ad Blocker"
 ],
 [
 "com.nieruo.healthapp",
@@ -9327,7 +9382,17 @@
 [
 "com.shazam.android",
 "Heval",
+"GmsCore support"
+],
+[
+"com.shazam.android",
+"Heval",
 "Open in Morphe YouTube apps"
+],
+[
+"com.shazam.android",
+"Heval",
+"Spoof signature"
 ],
 [
 "com.shervinkoushan.anyTracker",
@@ -9403,6 +9468,21 @@
 "com.skgames.trafficracer",
 "byehi98",
 "Traffic Racer IAP Bypass"
+],
+[
+"com.smilerlee.klondike",
+"Dieroboter",
+"Disable all ads and ad components"
+],
+[
+"com.smilerlee.klondike",
+"Dieroboter",
+"Disable analytics and tracking"
+],
+[
+"com.smilerlee.klondike",
+"Dieroboter",
+"Remove ad and tracking components"
 ],
 [
 "com.soccer.score.star",
@@ -10060,6 +10140,26 @@
 "Material You theme"
 ],
 [
+"com.stremio.one",
+"Tikkamasalla",
+"External player progress"
+],
+[
+"com.stremio.one",
+"Tikkamasalla",
+"External player progress manifest"
+],
+[
+"com.stremio.one",
+"Tikkamasalla",
+"Hide spoilers"
+],
+[
+"com.stremio.one",
+"Tikkamasalla",
+"Intro Skip"
+],
+[
 "com.stresscodes.wallp",
 "Hxreborn",
 "Unlock premium"
@@ -10068,6 +10168,31 @@
 "com.stronglifts.app",
 "CallMeBeyonder",
 "Unlock Pro (Root)"
+],
+[
+"com.sube.app",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.sube.app",
+"Kveld9 Extra",
+"Bypass SUBE NFC antenna check"
+],
+[
+"com.sube.app",
+"Kveld9 Extra",
+"Cut Firebase Entirely"
+],
+[
+"com.sube.app",
+"Kveld9 Extra",
+"Cut Firebase Manifest"
+],
+[
+"com.sube.app",
+"Kveld9 Extra",
+"SUBE Telemetry Manifest Purge"
 ],
 [
 "com.superchinese",
@@ -10378,6 +10503,11 @@
 "com.truecaller",
 "Heval",
 "Hide Wear OS settings"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide business media"
 ],
 [
 "com.truecaller",
@@ -12351,6 +12481,36 @@
 ],
 [
 "com.zing.zalo",
+"Nezumi-2711",
+"Zalo chat heads instead of Android bubbles"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
+"Zalo chat reaction picker"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
+"Zalo hide delivery receipts"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
+"Zalo hide read receipts"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
+"Zalo hide text typing"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
+"Zalo native signature fix"
+],
+[
+"com.zing.zalo",
 "Zeldris",
 "Bypass Zalo Drive Contacts permission gate"
 ],
@@ -13233,6 +13393,26 @@
 "net.daylio",
 "Epxec",
 "Enable Premium"
+],
+[
+"net.gtvbox.videoplayer",
+"Tikkamasalla",
+"External player result (Vimu)"
+],
+[
+"net.gtvbox.videoplayer",
+"Tikkamasalla",
+"Intro Skip (Vimu)"
+],
+[
+"net.gtvbox.videoplayer",
+"Tikkamasalla",
+"Intro Skip native fix (Vimu)"
+],
+[
+"net.gtvbox.videoplayer",
+"Tikkamasalla",
+"Intro Skip settings row (Vimu)"
 ],
 [
 "net.mobigame.zombietsunami",
@@ -14603,6 +14783,46 @@
 "org.withouthat.acalendar",
 "Hxreborn",
 "Unlock aCalendar+"
+],
+[
+"pdb.app",
+"Madushas",
+"Allow standalone install (split-less APK)"
+],
+[
+"pdb.app",
+"Madushas",
+"Bypass PairIP license check"
+],
+[
+"pdb.app",
+"Madushas",
+"Disable trackers"
+],
+[
+"pdb.app",
+"Madushas",
+"Fix app icon"
+],
+[
+"pdb.app",
+"Madushas",
+"Pdb Extras feature menu"
+],
+[
+"pdb.app",
+"Madushas",
+"Pdb Extras \u2014 resources"
+],
+[
+"pdb.app",
+"Madushas",
+"Remove ads"
+],
+[
+"pdb.app",
+"Madushas",
+"Unlock Pro"
 ],
 [
 "photo.editor.photoeditor.photoeditorpro",
