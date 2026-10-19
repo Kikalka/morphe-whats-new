@@ -915,6 +915,26 @@
 "Unlock premium"
 ],
 [
+"com.andrewshu.android.reddit",
+"Brealorg",
+"Fake reddit premium"
+],
+[
+"com.andrewshu.android.reddit",
+"Brealorg",
+"Modify login WebView"
+],
+[
+"com.andrewshu.android.reddit",
+"Brealorg",
+"Spoof client"
+],
+[
+"com.andrewshu.android.reddit",
+"Brealorg",
+"Use public imgur API"
+],
+[
 "com.androholic.wallpapersdepthpix",
 "Hxreborn",
 "GmsCore support"
@@ -2570,6 +2590,36 @@
 "Hide partner promotions"
 ],
 [
+"com.eyecon.global",
+"Sabbirexist",
+"AMOLED black theme"
+],
+[
+"com.eyecon.global",
+"Sabbirexist",
+"Block contact upload"
+],
+[
+"com.eyecon.global",
+"Sabbirexist",
+"Block tracking & analytics"
+],
+[
+"com.eyecon.global",
+"Sabbirexist",
+"Hide free-premium prompts"
+],
+[
+"com.eyecon.global",
+"Sabbirexist",
+"Remove premium tab"
+],
+[
+"com.eyecon.global",
+"Sabbirexist",
+"Unlock premium"
+],
+[
 "com.facebook.katana",
 "AndrewLiang25",
 "[Feed] Block feed auto refresh"
@@ -3413,6 +3463,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Open web links externally"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Open your gallery app"
 ],
 [
 "com.facebook.orca",
@@ -5140,6 +5195,16 @@
 "Temple Run 2 Instant Rewards"
 ],
 [
+"com.imgur.mobile",
+"Brealorg",
+"Share selected media"
+],
+[
+"com.imgur.mobile",
+"Brealorg",
+"Share selected media file"
+],
+[
 "com.imo.android.imoim",
 "Hxreborn",
 "AMOLED dark theme"
@@ -5482,6 +5547,16 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide Follow on feed posts"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide Follow on stories"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide Instants"
 ],
 [
@@ -5583,6 +5658,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide the Threads button"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide the comment emoji row"
 ],
 [
 "com.instagram.android",
@@ -6240,6 +6320,21 @@
 "Block KakaoPay"
 ],
 [
+"com.kakao.talk",
+"WonjoonSeol-WS",
+"Disable Friend Feed ads"
+],
+[
+"com.kakao.talk",
+"WonjoonSeol-WS",
+"Hide Friends tab banner ad"
+],
+[
+"com.kakao.talk",
+"WonjoonSeol-WS",
+"Set collapsed OpenChat room count"
+],
+[
 "com.kakarod.bighunter",
 "Chiggi",
 "Bypass license check"
@@ -6433,6 +6528,51 @@
 "com.lagguy.wallpapers",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Brealorg",
+"Disable Sync for Lemmy bottom sheet"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Brealorg",
+"Disable ads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Brealorg",
+"Fix /s/ links"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Brealorg",
+"Fix Redgifs API"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Brealorg",
+"Fix post thumbnails"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Brealorg",
+"Fix video downloads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Brealorg",
+"Modify login WebView"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Brealorg",
+"Spoof client"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Brealorg",
+"Use /user/ endpoint"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -7625,6 +7765,21 @@
 "Unlock premium"
 ],
 [
+"com.onelouder.baconreader",
+"Brealorg",
+"Fix Redgifs API"
+],
+[
+"com.onelouder.baconreader",
+"Brealorg",
+"Modify login WebView"
+],
+[
+"com.onelouder.baconreader",
+"Brealorg",
+"Spoof client"
+],
+[
 "com.onesports.score",
 "Heval",
 "Enable Premium"
@@ -7783,6 +7938,11 @@
 "com.pinterest",
 "ArchiveSteak",
 "Show date posted"
+],
+[
+"com.pinterest",
+"Browzomje",
+"Choose startup tab"
 ],
 [
 "com.pinterest",
@@ -8187,6 +8347,11 @@
 [
 "com.qbis.guessthecountry",
 "Shuhaibnc",
+"Remove Unwanted Promotional Icons and Ads"
+],
+[
+"com.qbis.guessthecountry",
+"Shuhaibnc",
 "Unlock World Map Quiz Premium Mode and Disable Ads"
 ],
 [
@@ -8423,6 +8588,256 @@
 "com.rp.hypertrophy",
 "braiNtropy",
 "Unlock Premium"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Add Boost Search bottom navigation"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Add archive links to context menu"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Anchor Boost Snackbars above bottom navigation"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Animate media in Boost gallery previews"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Auto-load next page after filtered results"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Automatically undelete Imgur images"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Automatically undelete Reddit content"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Boost Morphe settings"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Boost search default discovery"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Custom Synccit URL"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Disable Boost Crashlytics startup network calls"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Disable ads"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix /r/all"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix /s/ links"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Boost FAB nested scroll"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Boost YouTube playback fallback"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Boost code block rendering"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Boost comments Lemmy-style toolbar UI"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Boost image widget click target"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Boost native image upload"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Boost navigation bar overlap"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Boost target SDK 35 compatibility"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Boost video rewind back buffer"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Hide crash"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Random subreddit"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix Redgifs API"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix download completed notification visibility"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix missing audio in video downloads"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Fix slow Giphy loading"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Hook exception handler"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Modify login WebView"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Open Reddit image links in Boost"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Prefer high refresh rate"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Readable Boost flair labels"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Remove obsolete profile tabs"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Restore Boost Open by default prompt"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Restore Boost sidebar Trending today"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Restore GIF URL insertion"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Restore GIF search integration probe"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Show end of feed"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Show inline Giphy previews in comments"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Spoof client"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Stabilize Boost subreddit bottom navigation surface"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Standardize Boost Home bottom navigation"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Standardize Boost Inbox and Profile bottom navigation"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Standardize Boost bottom navigation"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Standardize Boost bottom-navigation FAB clearance"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Support keyboard GIF insertion"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Theme Boost settings icons"
+],
+[
+"com.rubenmayayo.reddit",
+"Brealorg",
+"Tune Boost image dismissal"
 ],
 [
 "com.rubygames.slingdrift",
@@ -10052,6 +10467,16 @@
 [
 "com.tumblr",
 "HushTumblr",
+"Hide blog notification reminders"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide gift purchase popups"
+],
+[
+"com.tumblr",
+"HushTumblr",
 "Hide hashtags"
 ],
 [
@@ -10538,6 +10963,11 @@
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "OpenXR CPU and GPU BOOST"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"OpenXR CPU and GPU BOOST (2.0.21/2.0.22)"
 ],
 [
 "com.valvesoftware.steamlinkvr.x_23",
@@ -12160,6 +12590,11 @@
 "Remove ads"
 ],
 [
+"fi.twomenandadog.zombiecatchers",
+"Chiggi",
+"Unlimited coins and plutonium"
+],
+[
 "flar2.devcheck",
 "Hxreborn",
 "Hide menu items"
@@ -12313,6 +12748,11 @@
 "io.raindrop.raindropio",
 "Hxreborn",
 "Unlock pro"
+],
+[
+"io.syncapps.lemmy_sync",
+"Brealorg",
+"Disable ads"
 ],
 [
 "io.yuka.android",
@@ -12700,6 +13140,11 @@
 "Disable ads"
 ],
 [
+"me.edgan.redditslide",
+"Brealorg",
+"Spoof client"
+],
+[
 "me.jodoin.aiplantdoctor",
 "Foxxo",
 "Unlock premium"
@@ -12738,6 +13183,16 @@
 "me.proton.android.lumo",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
+"Brealorg",
+"Modify login WebView"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
+"Brealorg",
+"Spoof client"
 ],
 [
 "mobi.charmer.magovideo",
@@ -12925,6 +13380,51 @@
 "Block Ad Server"
 ],
 [
+"o.o.joey",
+"Brealorg",
+"Disable ads"
+],
+[
+"o.o.joey",
+"Brealorg",
+"Modify login WebView"
+],
+[
+"o.o.joey",
+"Brealorg",
+"Spoof client"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Dismiss without tearing"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Fix login page"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Inline comment media"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Log in with your own client ID"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"RedGifs with sound"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Skip ads and checks"
+],
+[
 "one.cricket.app",
 "Heval",
 "Disable ads"
@@ -12963,6 +13463,11 @@
 "org.cris.aikyam",
 "VipinVIP",
 "Monochrome icon support"
+],
+[
+"org.cygnusx1.continuum",
+"Brealorg",
+"Spoof client"
 ],
 [
 "org.fossify.calendar",
@@ -14305,6 +14810,21 @@
 "Material 3 switches"
 ],
 [
+"reddit.news",
+"Brealorg",
+"Fix /s/ links"
+],
+[
+"reddit.news",
+"Brealorg",
+"Modify login WebView"
+],
+[
+"reddit.news",
+"Brealorg",
+"Spoof client"
+],
+[
 "ringtone.maker.mp3.cutter.audio",
 "Jeff-tek",
 "Remove ads"
@@ -14458,6 +14978,11 @@
 "sa.gov.moia.beneficiaryapp",
 "Loody227",
 "Bypass root / bootloader detection"
+],
+[
+"sharefiles.sharemusic.shareapps.filetransfer",
+"Sabbirexist",
+"Remove ads"
 ],
 [
 "todolist.scheduleplanner.dailyplanner.todo.reminders",
