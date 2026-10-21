@@ -2232,6 +2232,11 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Custom branding"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Custom themes"
 ],
 [
@@ -2352,6 +2357,11 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Icon packs"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Jump to first message"
 ],
 [
@@ -2438,6 +2448,11 @@
 "com.discord",
 "VenusIsJaded",
 "Send long messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Server info"
 ],
 [
 "com.discord",
@@ -2785,6 +2800,46 @@
 "Hide partner promotions"
 ],
 [
+"com.excelliance.multiaccounts",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.excelliance.multiaccounts",
+"Kveld9 Extra",
+"Multiaccounts Debloat (Setup)"
+],
+[
+"com.excelliance.multiaccounts",
+"Kveld9 Extra",
+"Multiaccounts Privacy Setup"
+],
+[
+"com.excelliance.multiaccounts",
+"Kveld9 Extra",
+"Multiaccounts Telemetry Manifest Purge"
+],
+[
+"com.excelliance.multiaccounts",
+"Kveld9 Extra",
+"Privacy Controls"
+],
+[
+"com.excelliance.multiaccounts",
+"Kveld9 Extra",
+"Sideload Compatibility"
+],
+[
+"com.excelliance.multiaccounts",
+"Kveld9 Extra",
+"Stop Background Wakeups"
+],
+[
+"com.excelliance.multiaccounts",
+"Kveld9 Extra",
+"UX Declutter"
+],
+[
 "com.eyecon.global",
 "Sabbirexist",
 "AMOLED black theme"
@@ -3033,6 +3088,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Disable Play Store updates"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Don't save search history"
 ],
 [
 "com.facebook.katana",
@@ -4807,6 +4867,11 @@
 [
 "com.google.android.inputmethod.latin",
 "JacksonJones2003 Immersive",
+"Glass Press Effect"
+],
+[
+"com.google.android.inputmethod.latin",
+"JacksonJones2003 Immersive",
 "Immersive Keyboard"
 ],
 [
@@ -5020,6 +5085,11 @@
 "Hide ads"
 ],
 [
+"com.gpsmapcamera.geotagginglocationonphoto",
+"Rudrakshrajpurohit417",
+"Premium Unlocked"
+],
+[
 "com.graymatrix.did",
 "Sudeepcapri",
 "Disable CleverTap"
@@ -5222,6 +5292,21 @@
 [
 "com.guochao.faceshow",
 "Wagg13Patch",
+"Block app open reports"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
+"Disable trackers"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
+"Hide first recharge popups"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
 "Hide home banner"
 ],
 [
@@ -5238,6 +5323,21 @@
 "com.guochao.faceshow",
 "Wagg13Patch",
 "Hide live room notice"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
+"Hide rating prompts"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
+"Hide splash promo"
+],
+[
+"com.guochao.faceshow",
+"Wagg13Patch",
+"Hide update prompt"
 ],
 [
 "com.guochao.faceshow",
@@ -6417,6 +6517,11 @@
 [
 "com.jazz.jazzworld",
 "Proxma",
+"Dark theme (black background)"
+],
+[
+"com.jazz.jazzworld",
+"Proxma",
 "Pure black background"
 ],
 [
@@ -7263,6 +7368,11 @@
 "com.melodis.midomiMusicIdentifier.freemium",
 "Heval",
 "Disable ads"
+],
+[
+"com.merkury.geeni.morphe",
+"Patchweaver",
+"Own premium plan"
 ],
 [
 "com.meteoblue.droid",
@@ -8240,6 +8350,26 @@
 "Activates premium features"
 ],
 [
+"com.picsart.studio",
+"Wagg13Patch",
+"Bypass signature check"
+],
+[
+"com.picsart.studio",
+"Wagg13Patch",
+"Hide Try PRO button"
+],
+[
+"com.picsart.studio",
+"Wagg13Patch",
+"Remove Ads"
+],
+[
+"com.picsart.studio",
+"Wagg13Patch",
+"Unlock Premium"
+],
+[
 "com.pikpok.dr2.play",
 "byehi98",
 "AD Instant Rewards"
@@ -8573,6 +8703,11 @@
 "com.pinterest",
 "Oyasumi",
 "Neutralize advertising ID"
+],
+[
+"com.pinterest",
+"Wagg13Patch",
+"Delete button in pin menu"
 ],
 [
 "com.pinterest",
@@ -11330,6 +11465,11 @@
 "Prince of Persia: Full Game Unlock (native)"
 ],
 [
+"com.umberlab.local.tts",
+"Rudrakshrajpurohit417",
+"Local TTS Pro"
+],
+[
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Background blue-noise dithering"
@@ -11378,6 +11518,11 @@
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Controller pose extrapolation (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Controller pose time (experimental)"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -12015,6 +12160,16 @@
 "Change Accent Color"
 ],
 [
+"com.whereismytrain.android",
+"Stylus",
+"Custom font (Where is my Train)"
+],
+[
+"com.whereismytrain.android",
+"Stylus",
+"Force system font (Where is my Train)"
+],
+[
 "com.windium.proxman",
 "Tkiethuynh",
 "Unlock Premium"
@@ -12033,6 +12188,11 @@
 "com.wowsoftware.hidemyandroid",
 "Arsylk",
 "Unlock premium"
+],
+[
+"com.xinesoft.notifications",
+"Wagg13Patch",
+"Remove ads and video blocking"
 ],
 [
 "com.xunijun.app.gp",
@@ -12987,7 +13147,17 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Custom font"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Drive backup via microG"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
+"Hide Media Box in Messages"
 ],
 [
 "com.zing.zalo",
@@ -13238,6 +13408,16 @@
 "easy.launcher",
 "Heval",
 "Hide sponsored content"
+],
+[
+"eu.darken.sdmse",
+"Kveld9 Extra",
+"Unlock Pro"
+],
+[
+"eu.duong.imagedatefixer",
+"Wagg13Patch",
+"Unlock Premium"
 ],
 [
 "eu.livesport.FlashScore_com",
@@ -13498,6 +13678,11 @@
 "jp.hamitv.hamiand1",
 "Yuubinnkyoku",
 "TVer: Android system PiP (7.2.1)"
+],
+[
+"jp.hamitv.hamiand1",
+"Yuubinnkyoku",
+"TVer: resolution quality picker (7.2.1)"
 ],
 [
 "jp.hamitv.hamiand1",
