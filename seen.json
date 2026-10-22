@@ -2105,6 +2105,11 @@
 "Disable AppsFlyer attribution"
 ],
 [
+"com.columnapp.column",
+"Danieleavolio",
+"Unlock Premium"
+],
+[
 "com.community.mbox.tv",
 "Hxreborn",
 "All-In-One"
@@ -2775,6 +2780,21 @@
 "Disable ads"
 ],
 [
+"com.ebay.kleinanzeigen",
+"2eno",
+"Hide Pur"
+],
+[
+"com.ebay.kleinanzeigen",
+"2eno",
+"Hide ads"
+],
+[
+"com.ebay.kleinanzeigen",
+"2eno",
+"Sanitize sharing links"
+],
+[
 "com.eisterhues_media_2",
 "TorbenStriegel",
 "Unlock Premium"
@@ -2843,6 +2863,11 @@
 "com.excelliance.multiaccounts",
 "Kveld9 Extra",
 "UX Declutter"
+],
+[
+"com.external.castle",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.eyecon.global",
@@ -3317,6 +3342,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Keep feed videos muted"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Keep post dates"
 ],
 [
@@ -3677,12 +3707,27 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hide tab badges"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Hide the recent photo card"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide typing indicator"
 ],
 [
 "com.facebook.orca",
 "HushMessenger",
 "Hold stories at the end"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Ignore the swipe up for disappearing messages"
 ],
 [
 "com.facebook.orca",
@@ -3797,6 +3842,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Stop live connection logging"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Stop nearby scans"
 ],
 [
@@ -3833,6 +3883,16 @@
 "com.farproc.wifi.analyzer",
 "Heval",
 "Disable ads"
+],
+[
+"com.fastmail.app",
+"Titandrive",
+"Fastmail Catppuccin theme"
+],
+[
+"com.fastmail.app",
+"Titandrive",
+"Fastmail custom font"
 ],
 [
 "com.fddb",
@@ -4610,6 +4670,11 @@
 "Spoof features"
 ],
 [
+"com.google.android.apps.pixel.nowplaying",
+"Kecerim24",
+"Change music service packages"
+],
+[
 "com.google.android.apps.youtube.music",
 "Bartlomiejfornalczyk",
 "Allow external media browser connections"
@@ -4972,6 +5037,11 @@
 [
 "com.google.android.inputmethod.latin",
 "Kveld9",
+"Remove Translate Limit"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9",
 "Stop Background Sync"
 ],
 [
@@ -5013,6 +5083,16 @@
 "com.google.android.inputmethod.latin",
 "Pixel Board",
 "Package Rename"
+],
+[
+"com.google.android.inputmethod.latin",
+"Titandrive",
+"Gboard Catppuccin theme"
+],
+[
+"com.google.android.inputmethod.latin",
+"Titandrive",
+"Gboard custom font"
 ],
 [
 "com.google.android.projection.gearhead",
@@ -5525,6 +5605,11 @@
 "Swamp Attack 2: Unlimited Currency Trigger"
 ],
 [
+"com.ichi2.anki",
+"Titandrive",
+"AnkiDroid Catppuccin theme and fonts"
+],
+[
 "com.imangi.templerun2",
 "Legendsciber",
 "Temple Run 2 Free IAP"
@@ -5663,6 +5748,11 @@
 "com.insigniadpfgmailcom.oplmonitor",
 "Bugg4",
 "Spoof app version"
+],
+[
+"com.instagram.android",
+"Dreaming-Codes",
+"Use system photo picker"
 ],
 [
 "com.instagram.android",
@@ -6302,6 +6392,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Use the system photo picker"
+],
+[
+"com.instagram.android",
+"HushGram",
 "View DM photos and videos anonymously"
 ],
 [
@@ -6563,6 +6658,11 @@
 "com.jetappfactory.jetaudio",
 "Heval",
 "Enable Pro"
+],
+[
+"com.jndapp.glass.widgets",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.joshua.jptt",
@@ -7680,6 +7780,11 @@
 "Remove music"
 ],
 [
+"com.moodle.moodlemobile",
+"AlonResearch",
+"Add browser login option"
+],
+[
 "com.mtv.sai",
 "TorbenStriegel",
 "Remove Play Store redirect"
@@ -7773,6 +7878,41 @@
 "com.myntra.android",
 "Debakar",
 "Sort by number of ratings"
+],
+[
+"com.myscript.math",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.myscript.math",
+"Hxreborn",
+"Unlock premium"
+],
+[
+"com.myscript.nebo",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.myscript.nebo",
+"Hxreborn",
+"Unlock premium"
+],
+[
+"com.naraorganics.nara",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.naraorganics.nara",
+"Hxreborn",
+"Remove forced update"
+],
+[
+"com.naraorganics.nara",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.navercorp.game.android.community",
@@ -8228,6 +8368,11 @@
 "com.olx.southasia",
 "Proxma",
 "Remove ads"
+],
+[
+"com.omniashare.minishare",
+"Hxreborn",
+"AMOLED dark theme"
 ],
 [
 "com.one4studio.one4home",
@@ -9358,6 +9503,16 @@
 "com.rubenmayayo.reddit",
 "Brealorg",
 "Tune Boost image dismissal"
+],
+[
+"com.rubenmayayo.reddit",
+"Titandrive",
+"Boost custom font"
+],
+[
+"com.rubenmayayo.reddit",
+"Titandrive",
+"Catppuccin theme"
 ],
 [
 "com.rubygames.slingdrift",
@@ -10842,6 +10997,11 @@
 [
 "com.thesortdapp.sortd",
 "Hxreborn",
+"GmsCore support"
+],
+[
+"com.thesortdapp.sortd",
+"Hxreborn",
 "Unlock premium"
 ],
 [
@@ -10868,6 +11028,51 @@
 "com.tinder",
 "Wagg13Patch",
 "Tinder Unlimited Rewind"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"GmsCore support"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Hide deal vote prompt"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Remove ads"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Sanitize deal links"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Sanitize sharing links"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Spoof contributor level"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Unlock custom app icons"
+],
+[
+"com.todoist",
+"Titandrive",
+"Todoist Catppuccin theme"
+],
+[
+"com.todoist",
+"Titandrive",
+"Todoist custom font"
 ],
 [
 "com.tranquility.colony",
@@ -11503,6 +11708,21 @@
 "com.umberlab.local.tts",
 "Rudrakshrajpurohit417",
 "Local TTS Pro"
+],
+[
+"com.untappdllc.app",
+"2eno",
+"Hide ads"
+],
+[
+"com.untappdllc.app",
+"2eno",
+"Hide feed ads"
+],
+[
+"com.untappdllc.app",
+"2eno",
+"Hide sponsored content"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -13687,7 +13907,22 @@
 [
 "io.raindrop.raindropio",
 "Hxreborn",
+"Accent color"
+],
+[
+"io.raindrop.raindropio",
+"Hxreborn",
 "GmsCore support"
+],
+[
+"io.raindrop.raindropio",
+"Hxreborn",
+"Hide AI assistant"
+],
+[
+"io.raindrop.raindropio",
+"Hxreborn",
+"Hide Settings links"
 ],
 [
 "io.raindrop.raindropio",
@@ -13710,6 +13945,26 @@
 "Unlock premium"
 ],
 [
+"ir.ilmili.telegraph",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"ir.ilmili.telegraph",
+"Hxreborn",
+"Remove ads"
+],
+[
+"ir.ilmili.telegraph",
+"Hxreborn",
+"Remove forced update"
+],
+[
+"ir.ilmili.telegraph",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "it.papalillo.moviestowatch",
 "Cinemaniac",
 "Disable Advertising ID"
@@ -13722,6 +13977,11 @@
 [
 "it.papalillo.moviestowatch",
 "Cinemaniac",
+"Unlock Pro"
+],
+[
+"it.papalillo.moviestowatch",
+"Danieleavolio",
 "Unlock Pro"
 ],
 [
@@ -14037,6 +14297,16 @@
 [
 "jp.naver.line.android",
 "Uta-a",
+"\u65e2\u8aad\u306a\u3057\u95b2\u89a7\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u5225\u65e2\u8aad\u64cd\u4f5c"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u65e2\u8aad\u306a\u3057\u95b2\u89a7\u4e2d\u306e\u624b\u52d5\u65e2\u8aad\u5165\u53e3"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
 "\u65e2\u8aad\u306a\u3057\u95b2\u89a7\u4e2d\u306e\u9001\u4fe1\u3067\u65e2\u8aad\u306b\u3059\u308b"
 ],
 [
@@ -14238,6 +14508,26 @@
 "net.gtvbox.videoplayer",
 "Tikkamasalla",
 "Intro Skip settings row (Vimu)"
+],
+[
+"net.interpals",
+"2eno",
+"Disable ad placements"
+],
+[
+"net.interpals",
+"2eno",
+"Download photos"
+],
+[
+"net.interpals",
+"2eno",
+"Feed age and gender filter"
+],
+[
+"net.interpals",
+"2eno",
+"Hide ads"
 ],
 [
 "net.mediaarea.mediainfo",
@@ -14488,6 +14778,36 @@
 "org.fossify.calendar",
 "Pengusto",
 "Readable Calendar descriptions"
+],
+[
+"org.fossify.contacts",
+"Pengusto",
+"Show emails and notes from merged contacts"
+],
+[
+"org.fossify.filemanager",
+"Pengusto",
+"Keep favorites consistent after folder rename or removal"
+],
+[
+"org.fossify.messages",
+"Pengusto",
+"Avoid notifications for visible conversations"
+],
+[
+"org.fossify.messages",
+"Pengusto",
+"Dismiss notifications when marking conversations read"
+],
+[
+"org.fossify.messages",
+"Pengusto",
+"Keep background conversations unread"
+],
+[
+"org.fossify.musicplayer",
+"Pengusto",
+"Prefer each track's embedded cover"
 ],
 [
 "org.leetzone.android.yatsewidgetfree",
@@ -15570,6 +15890,11 @@
 "Voice to music"
 ],
 [
+"org.thunderdog.challegram",
+"Shahriar-0",
+"Remove Telegram X sponsored messages"
+],
+[
 "org.videolan.vlc",
 "Sabbirexist",
 "AMOLED black theme"
@@ -15647,6 +15972,16 @@
 [
 "pdb.app",
 "Madushas",
+"Floating power button"
+],
+[
+"pdb.app",
+"Madushas",
+"No profile-visitor limit"
+],
+[
+"pdb.app",
+"Madushas",
 "Pdb Extras feature menu"
 ],
 [
@@ -15658,6 +15993,11 @@
 "pdb.app",
 "Madushas",
 "Remove ads"
+],
+[
+"pdb.app",
+"Madushas",
+"Show profile IDs on names"
 ],
 [
 "pdb.app",
@@ -15803,6 +16143,26 @@
 "pl.neptis.yanosik.mobi.android",
 "RikoDEV",
 "Unlock Yanosik PRO"
+],
+[
+"pl.wykop.droid",
+"HagiaHaya",
+"Fix sidebar layout"
+],
+[
+"pl.wykop.droid",
+"HagiaHaya",
+"GmsCore support"
+],
+[
+"pl.wykop.droid",
+"HagiaHaya",
+"Hide newsletter prompt"
+],
+[
+"pl.wykop.droid",
+"HagiaHaya",
+"Remove ads"
 ],
 [
 "premom.eh.com.ehpremomapp",
@@ -16573,6 +16933,21 @@
 "wibuku.app.wibuku",
 "Fynnaly",
 "Premium"
+],
+[
+"wp.wattpad",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"wp.wattpad",
+"Hxreborn",
+"Hide ads"
+],
+[
+"wp.wattpad",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "wsj.reader_sp",
