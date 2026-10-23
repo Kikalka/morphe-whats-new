@@ -482,6 +482,21 @@
 [
 "com.Slack",
 "HagiaHaya",
+"Anonymize file names"
+],
+[
+"com.Slack",
+"HagiaHaya",
+"Block telemetry"
+],
+[
+"com.Slack",
+"HagiaHaya",
+"Feature flags"
+],
+[
+"com.Slack",
+"HagiaHaya",
 "Fix Google sign-in"
 ],
 [
@@ -498,6 +513,31 @@
 "com.Slack",
 "HagiaHaya",
 "Keep message history"
+],
+[
+"com.Slack",
+"HagiaHaya",
+"Message logger"
+],
+[
+"com.Slack",
+"HagiaHaya",
+"Nicknames"
+],
+[
+"com.Slack",
+"HagiaHaya",
+"Sanitize links"
+],
+[
+"com.Slack",
+"HagiaHaya",
+"Silent typing"
+],
+[
+"com.Slack",
+"HagiaHaya",
+"Standard Markdown"
 ],
 [
 "com.StefMorojna.SpaceflightSimulator",
@@ -3427,6 +3467,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Newest reels first"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Open Messenger from the top bar"
 ],
 [
@@ -3453,6 +3498,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Picture-in-picture"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Pinch to zoom"
 ],
 [
 "com.facebook.katana",
@@ -5811,6 +5861,91 @@
 ],
 [
 "com.instagram.android",
+"Aic0d3r",
+"Clean share links"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Clone"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Comments and endless scroll"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Debug bridge"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Download media"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Feed item filtering"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Force SDR display"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Ghost mode"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Install-packages permission"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Limit feed to following profiles"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Network content blocking"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Oxbow icon"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Popup hiding"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Restart relay"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Settings entry point"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Signature check bypass"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Suggested accounts in the story tray"
+],
+[
+"com.instagram.android",
 "Dreaming-Codes",
 "Use system photo picker"
 ],
@@ -6507,12 +6642,32 @@
 [
 "com.instagram.android",
 "Piko",
+"Disable background components"
+],
+[
+"com.instagram.android",
+"Piko",
+"Disable background processes and telemetry"
+],
+[
+"com.instagram.android",
+"Piko",
 "Focus Lock"
 ],
 [
 "com.instagram.android",
 "Piko",
+"Hidden chats"
+],
+[
+"com.instagram.android",
+"Piko",
 "Hide Reels follow button"
+],
+[
+"com.instagram.android",
+"Piko",
+"Hide hidden requests"
 ],
 [
 "com.instagram.android",
@@ -6558,6 +6713,11 @@
 "com.instagram.barcelona",
 "HushThreads",
 "Disable screenshot detection"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Disable swipe to Search"
 ],
 [
 "com.instagram.barcelona",
@@ -6842,6 +7002,11 @@
 [
 "com.kakao.talk",
 "Ample",
+"Disable navigation bar animation"
+],
+[
+"com.kakao.talk",
+"Ample",
 "Remove local connect tab"
 ],
 [
@@ -6977,6 +7142,11 @@
 [
 "com.kick.mobile",
 "JordanWoodson",
+"Anonymous chat"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Background audio"
 ],
 [
@@ -6993,6 +7163,21 @@
 "com.kick.mobile",
 "JordanWoodson",
 "Change app name"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Chat keywords"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Chat text size"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Chat timestamps"
 ],
 [
 "com.kick.mobile",
@@ -7032,6 +7217,11 @@
 [
 "com.kick.mobile",
 "JordanWoodson",
+"Fill screen"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Hide Clips"
 ],
 [
@@ -7052,6 +7242,11 @@
 [
 "com.kick.mobile",
 "JordanWoodson",
+"Hide mature-content warning"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Hide rating prompt"
 ],
 [
@@ -7063,6 +7258,11 @@
 "com.kick.mobile",
 "JordanWoodson",
 "Lurk icon"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Mute stitched live ads"
 ],
 [
 "com.kick.mobile",
@@ -7083,6 +7283,16 @@
 "com.kick.mobile",
 "JordanWoodson",
 "Show deleted messages"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Show exact counts"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Show video stats"
 ],
 [
 "com.kick.mobile",
@@ -7827,7 +8037,32 @@
 [
 "com.mobilefootie.wc2010",
 "Heval",
+"Disable FotMob+ promo popup"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
+"Disable ads"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
+"Disable rating prompts"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
 "GmsCore support"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
+"Hide betting content"
 ],
 [
 "com.mobilefootie.wc2010",
@@ -8767,6 +9002,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"GmsCore support"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Hide AI-labeled pins"
 ],
 [
@@ -9637,6 +9877,16 @@
 [
 "com.rumble.battles",
 "JordanWoodson",
+"AMOLED black"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Background audio by default"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
 "Block ads"
 ],
 [
@@ -9677,6 +9927,11 @@
 [
 "com.rumble.battles",
 "JordanWoodson",
+"Default playback speed"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
 "Default startup tab"
 ],
 [
@@ -9693,6 +9948,11 @@
 "com.rumble.battles",
 "JordanWoodson",
 "Disable autoplay"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Disable tracking SDKs"
 ],
 [
 "com.rumble.battles",
@@ -9717,6 +9977,11 @@
 [
 "com.rumble.battles",
 "JordanWoodson",
+"Hide Join and Shop buttons"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
 "Hide Premium upsells"
 ],
 [
@@ -9728,6 +9993,16 @@
 "com.rumble.battles",
 "JordanWoodson",
 "Hide chat clutter"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Hide comments and related videos"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Hide premium-only videos"
 ],
 [
 "com.rumble.battles",
@@ -9748,6 +10023,11 @@
 "com.rumble.battles",
 "JordanWoodson",
 "Lurk icon"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Player gestures"
 ],
 [
 "com.rumble.battles",
@@ -9953,6 +10233,11 @@
 "com.scores365",
 "0xtalos",
 "MicroG integration"
+],
+[
+"com.scores365",
+"0xtalos",
+"Spoof signature"
 ],
 [
 "com.scores365",
@@ -11035,6 +11320,11 @@
 "Unlock TrebEdit Premium"
 ],
 [
+"com.telenor.pakistan.mytelenor",
+"Proxma",
+"Auto-claim daily rewards"
+],
+[
 "com.tencent.qqmusic",
 "JacksonJones2003 QQMusic",
 "English translation"
@@ -11277,7 +11567,17 @@
 [
 "com.truecaller",
 "Heval",
+"Disable auto-launch"
+],
+[
+"com.truecaller",
+"Heval",
 "Disable contact upload"
+],
+[
+"com.truecaller",
+"Heval",
+"Disable nags"
 ],
 [
 "com.truecaller",
@@ -11337,12 +11637,22 @@
 [
 "com.truecaller",
 "Heval",
+"Hide after-call screen for contacts"
+],
+[
+"com.truecaller",
+"Heval",
 "Hide business media"
 ],
 [
 "com.truecaller",
 "Heval",
 "Hide family button"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide promotions"
 ],
 [
 "com.truecaller",
@@ -11432,6 +11742,11 @@
 [
 "com.tumblr",
 "HushTumblr",
+"Hide filtered posts"
+],
+[
+"com.tumblr",
+"HushTumblr",
 "Hide gift purchase popups"
 ],
 [
@@ -11468,6 +11783,11 @@
 "com.tumblr",
 "HushTumblr",
 "Hide suggested communities"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide suggested tags"
 ],
 [
 "com.tumblr",
@@ -13302,12 +13622,532 @@
 [
 "com.zhiliaoapp.musically",
 "Metra TikTok",
+"AMOLED dark theme"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Accent color"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Advanced downloads"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Allow Duet and Stitch"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Allow screenshots and Circle to Search"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Always upload in HD"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"App lock"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Automatic video advance"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Block P2P video relay"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Block author button"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Block contact list access"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Block installed app scanning"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Block popups"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Block suggested video notifications"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Camera and microphone indicator"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Change app name"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Comment publish diagnostics"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Comment send fix"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Comment tools"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Confirm feed interactions"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Copy bio and IDs"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Custom launcher icon"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Device privacy guard"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Disable telemetry"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Disable the long press quick share"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Disable the long press repost"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Double-tap controls"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Drop the animated image cache"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Expand activity list"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Feature Gate Recorder"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Feed text sizes"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Fit the video to the screen"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Follow diagnostics"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Ghost mode"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
 "Hide AI content"
 ],
 [
 "com.zhiliaoapp.musically",
 "Metra TikTok",
 "Hide FYP unpersonalized slop videos"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide Play Store update offer"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide already seen videos"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide comment popup ads"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide comment typing suggestions"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide inbox items"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide inbox stories"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide profile shortcuts"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide search suggestions"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide the launcher shortcuts"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide the risk control CAPTCHA"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Hide video overlays"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"In-app browser privacy guard"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Keep a streak going"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Keep playing in the background"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Keep pulled sounds"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Keep the Favorites tab"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Keep the app language"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Keep the screen's refresh rate"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"LIVE controls"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Lift text length limits"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Limit background traffic"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Location access governor"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Long-press controls"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Look like the store app"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Mute feed videos"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Network proxy"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Network request report"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Not interested button"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Notification controls"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Picture-in-picture"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Play SDR instead of HDR"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Playback quality"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Prefer H.264 playback"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Profile background"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Remove LIVE extras"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Remove avatar rings"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Remove content credential and card scanner assets"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Remove creation tools"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Remove unused language packs"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Repost diagnostics"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Resource and battery governor"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Run beside the store app"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"SIM spoof"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Share sheet tools"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Show LIVE search"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Show author region"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Show commenter handle and region"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Show engagement rate"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Show exact counts"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Show follow status"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Show the progress bar"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Show the progress bar thumbnail"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Skip content warnings"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Skip first-launch setup"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Skip passkey sign-in"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Skip the splash ad"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Skip update checks"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Stay on the video in full screen"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Stop on-device AI profiling"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Stop recording watch history"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Stop saving search history"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Stop search autoplay"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Story controls"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Subtitle tools"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Swipe-left controls"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Trust user certificates"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Turn off haptics"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Turn off screen transitions"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Use non-personalized search"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
+"Use system font"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -14000,6 +14840,11 @@
 "Enable Premium"
 ],
 [
+"in.krosbits.castplugin",
+"Hxreborn",
+"Remove app protection"
+],
+[
 "in.krosbits.musicolet",
 "Hxreborn",
 "Unlock premium"
@@ -14125,6 +14970,21 @@
 "Unlock Pro"
 ],
 [
+"it.quadronica.leghe",
+"Edoardo9708",
+"Leghe FC - Avvio e nome 3 campo"
+],
+[
+"it.quadronica.leghe",
+"Edoardo9708",
+"Leghe FC - Sblocca formazione suggerita e comparatore"
+],
+[
+"it.quadronica.leghe",
+"Edoardo9708",
+"Leghe FC - Sblocca percentuali"
+],
+[
 "it.rainet.androidtv",
 "Android TV",
 "Skip ads"
@@ -14158,6 +15018,11 @@
 "jp.naver.line.android",
 "AndrewLiang25",
 "[Chat] Hide tips under messages"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
+"[Fix] Restore biometric login"
 ],
 [
 "jp.naver.line.android",
@@ -14520,6 +15385,11 @@
 "Unlock Pro and skip onboarding"
 ],
 [
+"kr.co.nowcom.mobile.afreeca",
+"Ample",
+"Remove Ad Balloon banner"
+],
+[
 "lequipe.fr",
 "Heval",
 "Disable ads"
@@ -14842,7 +15712,22 @@
 [
 "o.o.joey",
 "ZoomSass",
+"Backup and restore"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Disable tooltips"
+],
+[
+"o.o.joey",
+"ZoomSass",
 "Dismiss without tearing"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Editor image and GIF upload"
 ],
 [
 "o.o.joey",
@@ -14863,6 +15748,16 @@
 "o.o.joey",
 "ZoomSass",
 "RedGifs with sound"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Search auto open keyboard"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Show/Hide"
 ],
 [
 "o.o.joey",
@@ -14948,6 +15843,11 @@
 "org.fossify.musicplayer",
 "Pengusto",
 "Prefer each track's embedded cover"
+],
+[
+"org.leetzone.android.yatsewidgetfree",
+"Rahaaatul",
+"Yatse Unlocker"
 ],
 [
 "org.leetzone.android.yatsewidgetfree",
@@ -16622,7 +17522,17 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"AMOLED black"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Anonymous chat"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Auto-claim Drops"
 ],
 [
 "tv.twitch.android.app",
@@ -16687,7 +17597,17 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Clip download"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Clone app"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Compact chat"
 ],
 [
 "tv.twitch.android.app",
@@ -16727,6 +17647,11 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Force landscape"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Hide Bits tipping"
 ],
 [
@@ -16758,6 +17683,16 @@
 "tv.twitch.android.app",
 "JordanWoodson",
 "Hide subscription upsells"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Highlight first-time chatters"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Latency badge"
 ],
 [
 "tv.twitch.android.app",
@@ -17013,6 +17948,11 @@
 "video.player.videoplayer",
 "FTL",
 "Volume Booster"
+],
+[
+"video.player.videoplayer",
+"Xhehab",
+"Disable Rate Dialog"
 ],
 [
 "videoeditor.videomaker.videoeditorforyoutube",
