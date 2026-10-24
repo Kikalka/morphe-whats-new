@@ -30,6 +30,16 @@
 "eppy"
 ],
 [
+"app.alextran.immich",
+"Titandrive",
+"Immich Catppuccin"
+],
+[
+"app.alextran.immich",
+"Titandrive",
+"Immich custom font"
+],
+[
 "app.expert.player",
 "Heval",
 "Disable ads"
@@ -2277,6 +2287,11 @@
 [
 "com.cricfytv.sports",
 "CallMeBeyonder",
+"Bypass integrity check"
+],
+[
+"com.cricfytv.sports",
+"CallMeBeyonder",
 "Remove ads"
 ],
 [
@@ -3517,6 +3532,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Home header text"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Hushfacebook in the Menu"
 ],
 [
@@ -3663,6 +3683,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Tag suggestions only after @"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Tap shows the controls"
 ],
 [
 "com.facebook.katana",
@@ -6437,6 +6462,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide rows in Instagram's settings"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide suggested accounts in DMs"
 ],
 [
@@ -7528,6 +7558,16 @@
 "com.kiloo.subwaysurf",
 "Legendsciber",
 "Subway Surfers Free IAP"
+],
+[
+"com.klevico.monet",
+"Santodan",
+"Monet - Unlock premium"
+],
+[
+"com.klevico.monet",
+"Santodan",
+"Monet - Unlock premium (Experimental, any version)"
 ],
 [
 "com.lagguy.wallpapers",
@@ -8802,6 +8842,11 @@
 [
 "com.nuvio.tv",
 "Santodan",
+"NuvioTV - Fix startup track reselection"
+],
+[
+"com.nuvio.tv",
+"Santodan",
 "NuvioTV - GitHub APK updates"
 ],
 [
@@ -9720,6 +9765,21 @@
 "Unlock World Map Quiz Premium Mode and Disable Ads"
 ],
 [
+"com.qtrun.QuickTest",
+"Jzl1",
+"Bundle QuickTest configuration"
+],
+[
+"com.qtrun.QuickTest",
+"Jzl1",
+"Export AdvancedActivity (test only)"
+],
+[
+"com.qtrun.QuickTest",
+"Jzl1",
+"Unlock Ultimate"
+],
+[
 "com.quickcursor",
 "Hxreborn",
 "Unlock pro"
@@ -9783,6 +9843,16 @@
 "com.reddit.frontpage",
 "Adobo",
 "Hide crosspost"
+],
+[
+"com.reddit.frontpage",
+"Adobo",
+"Hide related posts"
+],
+[
+"com.reddit.frontpage",
+"Adobo",
+"Hide search answers preview"
 ],
 [
 "com.reddit.frontpage",
@@ -12747,6 +12817,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Alpha-0 high-resolution trigger (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Background blue-noise dithering"
 ],
 [
@@ -13178,6 +13253,11 @@
 "com.waze",
 "Bearinmind",
 "No Google Assistant"
+],
+[
+"com.waze",
+"Bearinmind",
+"Open without device location"
 ],
 [
 "com.waze",
@@ -14662,6 +14742,11 @@
 [
 "com.zhiliaoapp.musically",
 "Metra TikTok",
+"Remove card scanner assets"
+],
+[
+"com.zhiliaoapp.musically",
+"Metra TikTok",
 "Remove content credential and card scanner assets"
 ],
 [
@@ -15607,6 +15692,16 @@
 [
 "io.yuka.android",
 "Dowjames",
+"Unlock premium"
+],
+[
+"io.yuka.android",
+"Hxreborn",
+"Sign-in token"
+],
+[
+"io.yuka.android",
+"Hxreborn",
 "Unlock premium"
 ],
 [
