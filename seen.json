@@ -15,6 +15,21 @@
 "Hide upgrade promotions"
 ],
 [
+"ak.alizandro.smartaudiobookplayer",
+"Epabafree",
+"Material You theme"
+],
+[
+"ak.alizandro.smartaudiobookplayer",
+"Epabafree",
+"Modern font"
+],
+[
+"ak.alizandro.smartaudiobookplayer",
+"Epabafree",
+"eppy"
+],
+[
 "app.expert.player",
 "Heval",
 "Disable ads"
@@ -135,6 +150,16 @@
 "Hide ads"
 ],
 [
+"au.com.shiftyjelly.pocketcasts",
+"Titandrive",
+"Pocket Casts custom font"
+],
+[
+"au.com.shiftyjelly.pocketcasts",
+"Titandrive",
+"Pocket Casts themes"
+],
+[
 "audioeditor.musiceditor.soundeditor.songeditor",
 "MightyMich",
 "Unlock Premium Features"
@@ -213,6 +238,11 @@
 "ch.protonmail.android",
 "Hxreborn",
 "Hide layout components"
+],
+[
+"ch.protonmail.android",
+"Hxreborn",
+"Material 3 loading indicator"
 ],
 [
 "ch.protonmail.android",
@@ -608,6 +638,11 @@
 "com.adobe.reader",
 "Aidan",
 "Remove Ads and Tracking"
+],
+[
+"com.adobe.scan.android",
+"Aidan",
+"Local Premium"
 ],
 [
 "com.adobe.scan.android",
@@ -1452,6 +1487,11 @@
 [
 "com.ashtoncofer.Buzz",
 "Aidan",
+"Block Update Prompts"
+],
+[
+"com.ashtoncofer.Buzz",
+"Aidan",
 "Enable Developer Settings"
 ],
 [
@@ -1638,6 +1678,11 @@
 "com.bk.videotogif",
 "Dieroboter",
 "Disable rate prompts"
+],
+[
+"com.bk.videotogif",
+"Dieroboter",
+"Hide settings buttons"
 ],
 [
 "com.bk.videotogif",
@@ -1858,6 +1903,11 @@
 "com.brave.browser",
 "Kveld9",
 "Block Tracking"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Brave AMOLED theme"
 ],
 [
 "com.brave.browser",
@@ -2307,7 +2357,17 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Bring back Tenor GIFs"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Complete Quests automatically"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Complete badges automatically"
 ],
 [
 "com.discord",
@@ -2387,6 +2447,11 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Fix link previews"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Fix unknown mentions"
 ],
 [
@@ -2418,6 +2483,11 @@
 "com.discord",
 "VenusIsJaded",
 "Hide call button"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Hide extra buttons"
 ],
 [
 "com.discord",
@@ -2577,6 +2647,11 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Unlock Nitro themes"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Unlock app icons"
 ],
 [
@@ -2608,6 +2683,11 @@
 "com.discord",
 "VenusIsJaded",
 "Venus settings"
+],
+[
+"com.disney.disneyplus",
+"De-Vanced",
+"Skip ads"
 ],
 [
 "com.disney.disneyplus",
@@ -3232,6 +3312,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Double tap to skip"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Download any photo"
 ],
 [
@@ -3323,6 +3408,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Hide posts by words"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Hide profile notes"
 ],
 [
 "com.facebook.katana",
@@ -3458,6 +3548,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Keep the reel speed"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Longer music on photo stories"
 ],
 [
 "com.facebook.katana",
@@ -3623,6 +3718,36 @@
 "com.facebook.katana",
 "Hushfacebook",
 "View stories anonymously"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
+"Hide sponsored posts"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
+"Install beside Meta's apps"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
+"Morphe settings"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
+"Use system font"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
+"Use system font in feed"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
+"Video download and auto next reel"
 ],
 [
 "com.facebook.lite",
@@ -4090,6 +4215,36 @@
 "Hill Climb Racing Unlimited Second Chance"
 ],
 [
+"com.fivemobile.thescore",
+"Nm-nvan",
+"Hide Leagues tab sections"
+],
+[
+"com.fivemobile.thescore",
+"Nm-nvan",
+"Hide Scorecast blocks"
+],
+[
+"com.fivemobile.thescore",
+"Nm-nvan",
+"Hide bottom navigation tabs"
+],
+[
+"com.fivemobile.thescore",
+"Nm-nvan",
+"Hide game and league tabs"
+],
+[
+"com.fivemobile.thescore",
+"Nm-nvan",
+"Keep classic game screen"
+],
+[
+"com.fivemobile.thescore",
+"Nm-nvan",
+"Remove ads"
+],
+[
 "com.flightconnections",
 "Duy",
 "Remove ads"
@@ -4153,6 +4308,26 @@
 "com.formulaone.production",
 "Hiosdra",
 "F1 TV - Dismiss forced update prompt"
+],
+[
+"com.formulaone.production",
+"Ythemelis",
+"Adaptive Playback Decoder Hints"
+],
+[
+"com.formulaone.production",
+"Ythemelis",
+"Dynamic HDR / Colorspace Routing"
+],
+[
+"com.formulaone.production",
+"Ythemelis",
+"Enable Video Quality Selector"
+],
+[
+"com.formulaone.production",
+"Ythemelis",
+"Unlock UHD / 4K Playback"
 ],
 [
 "com.frontrow.vlog",
@@ -4268,6 +4443,16 @@
 "com.getaloa.app",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.git.agriconnect",
+"Cosm1c-Matcha",
+"Disable mock GPS detection"
+],
+[
+"com.git.agriconnect",
+"Cosm1c-Matcha",
+"Disable mock GPS detection (JS fallback)"
 ],
 [
 "com.global.foodpanda.android",
@@ -6402,6 +6587,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Pick the app icon"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Profile posts as a list"
 ],
 [
@@ -6563,6 +6753,11 @@
 "com.instagram.android",
 "HushGram",
 "Story ring size"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Story text fonts"
 ],
 [
 "com.instagram.android",
@@ -6993,6 +7188,11 @@
 "com.joshua.jptt",
 "JPTT",
 "Wrap recent searches"
+],
+[
+"com.judu",
+"Vakarux12",
+"raid.lt inspectors"
 ],
 [
 "com.kabbik.app",
@@ -8520,6 +8720,11 @@
 "Stop Background Sync"
 ],
 [
+"com.nononsenseapps.feeder",
+"Pengusto",
+"Zoom article images"
+],
+[
 "com.nostalgiatv",
 "Franticg33k",
 "Remove License Activity"
@@ -8728,6 +8933,151 @@
 "com.onelouder.baconreader",
 "Brealorg",
 "Spoof client"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Disable feedback popup"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Disable final release announcement"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Disable unavailable sidebar"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Embed comment images"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Fix Imgur API"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Fix Redgifs API"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Fix empty saved files"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Fix list thumbnails"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Fix lost post votes"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Fix meme templates"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Fix unread messages"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Flair filter"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Hide formatted spoilers"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Improve post media loading"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Inbox comment reply screen"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Load more comments"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Markdown editor"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Prompt to open Reddit links"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Reddit chat"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Remove Random feeds"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Remove awards"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Save videos with sound"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Search comments"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Show request errors"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Show tables"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Show user avatars"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Spoof client"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Text post icon"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Video autoplay in detail view"
 ],
 [
 "com.onesports.score",
@@ -10807,7 +11157,17 @@
 [
 "com.ss.android.ttmd.video",
 "Hushfeed",
+"Advanced downloads"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
 "Allow Duet and Stitch"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Allow photo comments"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -10823,6 +11183,11 @@
 "com.ss.android.ttmd.video",
 "Hushfeed",
 "Always upload in HD"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Automatic video advance"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -10997,7 +11362,17 @@
 [
 "com.ss.android.ttmd.video",
 "Hushfeed",
+"Hide inbox items"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
 "Hide inbox stories"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Hide profile shortcuts"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -11062,6 +11437,11 @@
 [
 "com.ss.android.ttmd.video",
 "Hushfeed",
+"Load all saved stickers"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
 "Location access governor"
 ],
 [
@@ -11088,6 +11468,11 @@
 "com.ss.android.ttmd.video",
 "Hushfeed",
 "Open external links directly"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Open the comments at full height"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -11163,6 +11548,11 @@
 "com.ss.android.ttmd.video",
 "Hushfeed",
 "Show commenter handle and region"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Show the progress bar"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -13337,6 +13727,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Load all saved stickers"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Look like the store app"
 ],
 [
@@ -13388,6 +13783,11 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Remove voice tools"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Report a newer phone to effects"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -13622,6 +14022,11 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Disable QUIC"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Disable Search History Recording"
 ],
 [
@@ -13833,6 +14238,11 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Show Author Region"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Show Exact Counts"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -14783,6 +15193,11 @@
 "de.mash.android.calendar",
 "o0b",
 "Your Calendar Widget: Unlock Pro"
+],
+[
+"de.mm20.launcher2.release",
+"Pengusto",
+"Restore widget editing from the search menu"
 ],
 [
 "de.motain.iliga",
@@ -16120,6 +16535,16 @@
 "Readable Calendar descriptions"
 ],
 [
+"org.fossify.calendar",
+"Pengusto",
+"Separate all-day reminder defaults"
+],
+[
+"org.fossify.clock",
+"Pengusto",
+"Choose upcoming alarm notification time"
+],
+[
 "org.fossify.contacts",
 "Pengusto",
 "Show emails and notes from merged contacts"
@@ -16338,6 +16763,11 @@
 "org.swiftapps.swiftbackup",
 "byehi98",
 "Swift Backup Web Login"
+],
+[
+"org.tasks",
+"Pengusto",
+"Navigate to the parent task"
 ],
 [
 "org.telegram.messenger",
@@ -18308,6 +18738,11 @@
 "voicechanger.voiceeffects.soundeffects.voiceavatar",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"vpn.usa_tap2free",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "wibuku.app.wibuku",
