@@ -3,25 +3,35 @@
 
 Inputs : /tmp/whats-new.json, /tmp/bundles.json (for app names + icons)
 Outputs: seen.json, pending.json, feed_items.json, feed.xml, /tmp/commit-msg.txt
+
+App names and icons come from bundles.json -> "store", exactly like the website.
+The site often lists new patches hours before their store entry is filled in, so:
+  1. a missing name/icon is looked up on Google Play (works for most apps), and
+  2. apps that still lack a name or icon are held back for up to HOLD_HOURS,
+     re-checked every run, then sent anyway with the site's Android glyph.
 """
 import html
 import json
 import os
 import re
+import urllib.error
+import urllib.request
 from collections import OrderedDict
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 
 SITE = "https://morphe-patches.software/#whats-new"
-SHOW_APP_NEW_BADGE = True  # the site only badges new *bundles*; set True to also badge new apps
-HOLD_HOURS = 24            # wait this long for an app's name/icon before sending it anyway
+SHOW_APP_NEW_BADGE = True  # the site only badges new *bundles*; True also badges new apps
+HOLD_HOURS = 24            # max wait for an app's name/icon before sending it anyway
 PENDING_FILE = "pending.json"
+# Same "android" glyph the site shows when an app has no icon (PNG, so mail clients render it)
+FALLBACK_ICON = "https://raw.githubusercontent.com/Kikalka/morphe-whats-new/main/assets/android-icon.png"
 
 e = html.escape
 
 
 # --------------------------------------------------------------------------
-# App name / icon lookup (same source the website uses: bundles.json -> "store")
+# App name / icon lookup
 # --------------------------------------------------------------------------
 def load_store():
     try:
@@ -39,38 +49,75 @@ def store_entry(pkg):
     return STORE.get(pkg) or STORE_LOWER.get(pkg.lower()) or {}
 
 
+_play_cache = {}
+
+
+def play_lookup(pkg):
+    """Name and icon from the app's Google Play page, or (None, None)."""
+    if pkg in _play_cache:
+        return _play_cache[pkg]
+    result = (None, None)
+    url = f"https://play.google.com/store/apps/details?id={pkg}&hl=en&gl=US"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "en-US"})
+    try:
+        page = urllib.request.urlopen(req, timeout=15).read().decode("utf-8", "replace")
+        title = re.search(r'<meta property="og:title" content="([^"]*)"', page)
+        image = re.search(r'<meta property="og:image" content="([^"]*)"', page)
+        name = html.unescape(title.group(1)).removesuffix(" - Apps on Google Play").strip() if title else None
+        icon = html.unescape(image.group(1)) if image else None
+        result = (name or None, icon or None)
+    except urllib.error.HTTPError as exc:
+        if exc.code != 404:  # 404 just means "not on Google Play"
+            print(f"WARNING: Play lookup for {pkg} failed ({exc})")
+    except Exception as exc:
+        print(f"WARNING: Play lookup for {pkg} failed ({exc})")
+    _play_cache[pkg] = result
+    return result
+
+
+def resolve(pkg):
+    """(name, icon_url) from the site's store, filling gaps from Google Play."""
+    entry = store_entry(pkg)
+    name, icon = entry.get("name"), entry.get("iconUrl")
+    if not (name and icon):
+        p_name, p_icon = play_lookup(pkg)
+        name, icon = name or p_name, icon or p_icon
+    return name, icon
+
+
 def app_name(pkg):
-    return store_entry(pkg).get("name") or pkg  # the site falls back to the package id too
+    return resolve(pkg)[0] or pkg  # the site falls back to the package id too
 
 
 def email_safe_icon(url):
     """Return an icon URL that mail clients can render, or None.
 
-    * Google Play icons end in "=s128-rw" (the -rw means WebP, which Outlook
-      doesn't render) -> request a plain PNG at 64px instead (shown at 32px).
-    * SVGs are not supported by most mail clients -> None (letter tile is used).
+    * Google image URLs end in e.g. "=s128-rw" or "=s0-br30"; "-rw" means WebP,
+      which Outlook doesn't render -> request a plain 64px PNG instead.
+    * SVGs are not supported by most mail clients -> None.
     """
     if not url or not url.startswith("http"):
         return None
-    base = url.split("?")[0].lower()
-    if base.endswith(".svg"):
+    if url.split("?")[0].lower().endswith(".svg"):
         return None
-    m = re.match(r"^(https://(?:play-lh\.googleusercontent\.com|lh3\.googleusercontent\.com|lh3\.ggpht\.com)/.+?)=s\d+(?:-[a-z]+)*$", url)
+    m = re.match(r"^(https://(?:play-lh\.googleusercontent\.com|lh3\.googleusercontent\.com|lh3\.ggpht\.com)/.+?)=[a-z]\d+(?:-[a-z0-9]+)*$", url)
     if m:
         return m.group(1) + "=s64"
     return url
 
 
 def icon_html(pkg, name):
-    url = email_safe_icon(store_entry(pkg).get("iconUrl"))
+    url = email_safe_icon(resolve(pkg)[1])
     if url:
         return (f'<img src="{e(url, quote=True)}" width="20" height="20" alt="{e(name, quote=True)}" '
-                'style="display:block;width:20px;height:20px;border-radius:5px;border:0;'
-                'background:#e4e4e7;">')
-    # no icon: initial letter, or a plain grey tile when we only have a package id
-    letter = "" if name == pkg else e((name.strip()[:1] or "?").upper())
-    return ('<div style="width:20px;height:20px;line-height:20px;border-radius:5px;background:#e4e4e7;'
-            f'color:#52525b;font-size:11px;font-weight:700;text-align:center;">{letter}</div>')
+                'style="display:block;width:20px;height:20px;border-radius:5px;border:0;">')
+    return (f'<img src="{FALLBACK_ICON}" width="20" height="20" alt="" '
+            'style="display:block;width:20px;height:20px;border:0;">')
+
+
+def fully_resolved(pkg):
+    name, icon = resolve(pkg)
+    return bool(name and email_safe_icon(icon))
 
 
 # --------------------------------------------------------------------------
@@ -97,14 +144,13 @@ seen_apps = {app for app, _, _ in seen}
 new = sorted(current - seen)
 now = datetime.now(timezone.utc)
 
-# Hold back patches whose app has no name in bundles.json yet. The site lists new
-# patches before their store entry (name + icon) exists; waiting a run or two lets
-# the email show the real name and icon. After HOLD_HOURS we send them anyway.
+# Hold back patches whose app still has no name or icon (site + Play). Each run
+# re-checks them; after HOLD_HOURS they go out anyway with the Android glyph.
 pending = json.load(open(PENDING_FILE)) if os.path.exists(PENDING_FILE) else {}
 held = set()
 if not first_run:
     for k in new:
-        if not store_entry(k[0]).get("name"):
+        if not fully_resolved(k[0]):
             first = pending.setdefault(json.dumps(list(k)), now.isoformat())
             if now - datetime.fromisoformat(first) < timedelta(hours=HOLD_HOURS):
                 held.add(k)
