@@ -2,18 +2,20 @@
 """Diff the Morphe What's New feed against seen.json and build an RSS item.
 
 Inputs : /tmp/whats-new.json, /tmp/bundles.json (for app names + icons)
-Outputs: seen.json, feed_items.json, feed.xml, /tmp/commit-msg.txt
+Outputs: seen.json, pending.json, feed_items.json, feed.xml, /tmp/commit-msg.txt
 """
 import html
 import json
 import os
 import re
 from collections import OrderedDict
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 
 SITE = "https://morphe-patches.software/#whats-new"
 SHOW_APP_NEW_BADGE = True  # the site only badges new *bundles*; set True to also badge new apps
+HOLD_HOURS = 24            # wait this long for an app's name/icon before sending it anyway
+PENDING_FILE = "pending.json"
 
 e = html.escape
 
@@ -65,7 +67,8 @@ def icon_html(pkg, name):
         return (f'<img src="{e(url, quote=True)}" width="20" height="20" alt="{e(name, quote=True)}" '
                 'style="display:block;width:20px;height:20px;border-radius:5px;border:0;'
                 'background:#e4e4e7;">')
-    letter = e((name.strip()[:1] or "?").upper())
+    # no icon: initial letter, or a plain grey tile when we only have a package id
+    letter = "" if name == pkg else e((name.strip()[:1] or "?").upper())
     return ('<div style="width:20px;height:20px;line-height:20px;border-radius:5px;background:#e4e4e7;'
             f'color:#52525b;font-size:11px;font-weight:700;text-align:center;">{letter}</div>')
 
@@ -92,6 +95,25 @@ first_run = not os.path.exists("seen.json")
 seen = set() if first_run else {tuple(x) for x in json.load(open("seen.json"))}
 seen_apps = {app for app, _, _ in seen}
 new = sorted(current - seen)
+now = datetime.now(timezone.utc)
+
+# Hold back patches whose app has no name in bundles.json yet. The site lists new
+# patches before their store entry (name + icon) exists; waiting a run or two lets
+# the email show the real name and icon. After HOLD_HOURS we send them anyway.
+pending = json.load(open(PENDING_FILE)) if os.path.exists(PENDING_FILE) else {}
+held = set()
+if not first_run:
+    for k in new:
+        if not store_entry(k[0]).get("name"):
+            first = pending.setdefault(json.dumps(list(k)), now.isoformat())
+            if now - datetime.fromisoformat(first) < timedelta(hours=HOLD_HOURS):
+                held.add(k)
+pending = {ks: t for ks, t in pending.items() if tuple(json.loads(ks)) in held}
+json.dump(pending, open(PENDING_FILE, "w"), indent=1)
+if held:
+    print(f"Holding {len(held)} patches until their app names/icons appear: "
+          + ", ".join(sorted({k[0] for k in held})))
+new = [k for k in new if k not in held]
 
 msg, item = "", None
 
@@ -163,12 +185,11 @@ elif new:
                 lines.append("")
     msg = "\n".join(lines)
 
-    now = datetime.now(timezone.utc)
     item = {"title": subject, "html": body_html,
             "pubDate": format_datetime(now), "guid": now.strftime("%Y%m%d%H%M%S")}
 
 if msg:
-    json.dump(sorted(seen | current), open("seen.json", "w"), indent=0)
+    json.dump(sorted(seen | (current - held)), open("seen.json", "w"), indent=0)
     open("/tmp/commit-msg.txt", "w").write(msg)
 
 # ---------- RSS feed (newest 20 items) ----------
