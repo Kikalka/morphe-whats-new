@@ -1475,6 +1475,31 @@
 "Unlock Pro"
 ],
 [
+"com.appmind.radios.id",
+"Mfakh",
+"Disable analytics"
+],
+[
+"com.appmind.radios.id",
+"Mfakh",
+"Disable data collection SDKs"
+],
+[
+"com.appmind.radios.id",
+"Mfakh",
+"Faster startup"
+],
+[
+"com.appmind.radios.id",
+"Mfakh",
+"Premium unlock"
+],
+[
+"com.appmind.radios.id",
+"Mfakh",
+"Song info in media notification"
+],
+[
 "com.appsomniacs.mmc",
 "Satwik-Miyyapuram",
 "Remove ad SDK auto-start"
@@ -1932,6 +1957,11 @@
 [
 "com.brave.browser",
 "Kveld9",
+"Custom Brave theme"
+],
+[
+"com.brave.browser",
+"Kveld9",
 "Disable Content Capture"
 ],
 [
@@ -2043,6 +2073,81 @@
 "com.brave.browser_nightly",
 "Brave",
 "Custom NTP wallpaper"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Clean Me page"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Debloat search landing page"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Disable floating ads"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Disable inner push banner"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Disable player outro unlock card"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Disable player overlay ads"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Disable player recommendation widget"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Disable player watermark"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Disable splash ads"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Disable tracking"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"GmsCore support"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Hide bottom navigation items"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Hide home search bar"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Hide home tab bar items"
+],
+[
+"com.bstar.intl",
+"Ikuradachi",
+"Pure discover search bar"
 ],
 [
 "com.burton999.notecal",
@@ -2293,6 +2398,11 @@
 "com.cricfytv.sports",
 "CallMeBeyonder",
 "Remove ads"
+],
+[
+"com.cricfytv.sports",
+"GinDoki19",
+"Remove ads, proxy & restrictions"
 ],
 [
 "com.cv.docscanner",
@@ -4275,6 +4385,21 @@
 "Remove ads"
 ],
 [
+"com.flightradar24free",
+"Jagjordi",
+"Open data for premium fields"
+],
+[
+"com.flightradar24free",
+"Jagjordi",
+"Open weather radar"
+],
+[
+"com.flightradar24free",
+"Jagjordi",
+"Unlock Business Premium"
+],
+[
 "com.flipkart.android",
 "Debakar",
 "Install alongside original"
@@ -4553,6 +4678,11 @@
 "com.gm.shadhin",
 "Media",
 "Stream content"
+],
+[
+"com.gooded.essential",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.google.android.GoogleCamera",
@@ -6882,6 +7012,11 @@
 [
 "com.instagram.android",
 "Piko",
+"Disable telemetry"
+],
+[
+"com.instagram.android",
+"Piko",
 "Focus Lock"
 ],
 [
@@ -6893,6 +7028,11 @@
 "com.instagram.android",
 "Piko",
 "Hide Reels follow button"
+],
+[
+"com.instagram.android",
+"Piko",
+"Hide feed posts"
 ],
 [
 "com.instagram.android",
@@ -6912,7 +7052,17 @@
 [
 "com.instagram.android",
 "Piko",
+"Hide story follow button"
+],
+[
+"com.instagram.android",
+"Piko",
 "Inbox lock"
+],
+[
+"com.instagram.android",
+"Piko",
+"Mark as read after reply"
 ],
 [
 "com.instagram.android",
@@ -7053,6 +7203,31 @@
 "com.internet.speed.meter.lite",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.intsig.camscanner",
+"Pigfoot",
+"CamScanner disable ads"
+],
+[
+"com.intsig.camscanner",
+"Pigfoot",
+"CamScanner local premium features"
+],
+[
+"com.intsig.camscanner",
+"Pigfoot",
+"CamScanner offline mode"
+],
+[
+"com.intsig.camscanner",
+"Pigfoot",
+"CamScanner reduce telemetry and app logging"
+],
+[
+"com.intsig.camscanner",
+"Pigfoot",
+"CamScanner restore trust on re-signed builds"
 ],
 [
 "com.iptvprostreamplayer.v1.fr",
@@ -7642,12 +7817,102 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Add archive links to post menu"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Disable Sync for Lemmy bottom sheet"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Disable ads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix /s/ links"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix Image Post Selftext"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix Reddit Video Links"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix Restore comment"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix imgur links"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix inline images"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix post thumbnails"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix r/random"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix video downloads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Hacker News Feed"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Modify login WebView"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Restore deleted content"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Restore deleted posts"
 ],
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
 "Spoof client"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Unhide profile feed"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Unlock Sync Ultra"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Use /user/ endpoint"
 ],
 [
 "com.lbrc.PeriodCalendar",
@@ -7702,6 +7967,11 @@
 [
 "com.lemon.lvoverseas",
 "Kveld9 Extra",
+"Redirect API to v2 Boot"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
 "Remove Watermark"
 ],
 [
@@ -7733,6 +8003,16 @@
 "com.lemon.lvoverseas",
 "Riky",
 "CapCut network tunnel"
+],
+[
+"com.lernr.app",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.lernr.app",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.letterboxd.letterboxd",
@@ -7788,6 +8068,11 @@
 "com.life360.android.safetymapd",
 "Doom",
 "Material You themed icon"
+],
+[
+"com.lingodeer",
+"Hxreborn",
+"GmsCore support"
 ],
 [
 "com.lingodeer",
@@ -8578,6 +8863,11 @@
 "com.nexon.tfdc",
 "Santodan",
 "TFD Companion - Remove illegal apps detection"
+],
+[
+"com.nhl.gc1112.free",
+"Aidan",
+"Enable Notifications and Live Activities"
 ],
 [
 "com.nhl.gc1112.free",
@@ -11180,6 +11470,11 @@
 "Unlock Reverso Context Premium"
 ],
 [
+"com.sony.songpal.mdr",
+"Mouchoir",
+"Block Speak-to-Chat gesture"
+],
+[
 "com.soulbreakers.mymoveset",
 "Hxreborn",
 "Disable tracking"
@@ -11905,6 +12200,16 @@
 "Block launch upsell"
 ],
 [
+"com.supportware.Buienradar",
+"Wouter075",
+"Hide Premium banner"
+],
+[
+"com.supportware.Buienradar",
+"Wouter075",
+"Hide ads"
+],
+[
 "com.swiftsoft.anixartd",
 "Error404rt",
 "Remove ads"
@@ -11920,6 +12225,31 @@
 "Unlock premium"
 ],
 [
+"com.taobao.taobao",
+"GoodLight999",
+"TaobaoLingo: Enable English for Japan picker (experimental)"
+],
+[
+"com.taobao.taobao",
+"GoodLight999",
+"TaobaoLingo: English resource strings"
+],
+[
+"com.taobao.taobao",
+"GoodLight999",
+"TaobaoLingo: Extended DinamicX subclass English labels (experimental)"
+],
+[
+"com.taobao.taobao",
+"GoodLight999",
+"TaobaoLingo: Native DinamicX English labels (experimental)"
+],
+[
+"com.taobao.taobao",
+"GoodLight999",
+"TaobaoLingo: Show English in Japan locale picker (fallback)"
+],
+[
 "com.tapblaze.coffeebusiness",
 "Dudek",
 "Coffee startup support"
@@ -11933,6 +12263,11 @@
 "com.tapblaze.coffeebusiness",
 "Dudek",
 "Skip rewarded ads"
+],
+[
+"com.tapblaze.pizzabusiness",
+"Dudek",
+"1000 PNN sponsor rewards"
 ],
 [
 "com.tapblaze.pizzabusiness",
@@ -12308,6 +12643,11 @@
 "com.truecaller",
 "Heval",
 "Hide business media"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide call log filters"
 ],
 [
 "com.truecaller",
@@ -12790,6 +13130,31 @@
 "Prince of Persia: Full Game Unlock (native)"
 ],
 [
+"com.ufoneselfcare",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.ufoneselfcare",
+"Hxreborn",
+"Hide ads"
+],
+[
+"com.ufoneselfcare",
+"Hxreborn",
+"Hide launch promotion"
+],
+[
+"com.ufoneselfcare",
+"Hxreborn",
+"Match system bar color"
+],
+[
+"com.ufoneselfcare",
+"Hxreborn",
+"Remove forced update"
+],
+[
 "com.umberlab.local.tts",
 "Rudrakshrajpurohit417",
 "Local TTS Pro"
@@ -12813,6 +13178,11 @@
 "com.urbandroid.lux",
 "Edoardo9708",
 "Twilight - Test stato trial"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Alpha-0 high-resolution trigger"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -13433,6 +13803,11 @@
 "com.waze",
 "Forsigh",
 "New alert icons"
+],
+[
+"com.waze",
+"Forsigh",
+"No Android Auto telemetry"
 ],
 [
 "com.waze",
@@ -15576,6 +15951,21 @@
 ],
 [
 "idm.internet.download.manager",
+"GinDoki19",
+"Browser setup prompts only once"
+],
+[
+"idm.internet.download.manager",
+"GinDoki19",
+"Preset browser settings"
+],
+[
+"idm.internet.download.manager",
+"GinDoki19",
+"Remove ads and promotions"
+],
+[
+"idm.internet.download.manager",
 "Oyasumi",
 "Disable home screen ads"
 ],
@@ -15768,6 +16158,11 @@
 "it.rainet.androidtv",
 "Android TV",
 "Skip ads"
+],
+[
+"jp.co.celsys.clipstudiopaint.googleplay",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "jp.hamitv.hamiand1",
@@ -16280,6 +16675,26 @@
 "Enable Premium"
 ],
 [
+"net.easyconn.carman.wws",
+"Ikuradachi",
+"Disable tracking and analytics (Experimental)"
+],
+[
+"net.easyconn.carman.wws",
+"Ikuradachi",
+"Enable browser"
+],
+[
+"net.easyconn.carman.wws",
+"Ikuradachi",
+"GmsCore support"
+],
+[
+"net.easyconn.carman.wws",
+"Ikuradachi",
+"Unlock VIP features"
+],
+[
 "net.gtvbox.videoplayer",
 "Tikkamasalla",
 "External player result (Vimu)"
@@ -16373,6 +16788,16 @@
 "net.omobio.dialogsc",
 "Madushas",
 "Fix SIM identifier access"
+],
+[
+"net.omobio.dialogsc",
+"Madushas",
+"Inspect HTTPS traffic (adb reverse proxy)"
+],
+[
+"net.omobio.dialogsc",
+"Madushas",
+"Spoof stock signing cert hash"
 ],
 [
 "net.osmand",
@@ -18072,6 +18497,11 @@
 [
 "proton.android.authenticator",
 "Hxreborn",
+"Material 3 loading indicator"
+],
+[
+"proton.android.authenticator",
+"Hxreborn",
 "Material 3 switches"
 ],
 [
@@ -18098,6 +18528,11 @@
 "proton.android.pass",
 "Hxreborn",
 "Hide upgrade promotions"
+],
+[
+"proton.android.pass",
+"Hxreborn",
+"Material 3 loading indicator"
 ],
 [
 "proton.android.pass",
