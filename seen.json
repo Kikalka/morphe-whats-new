@@ -75,6 +75,16 @@
 "Remove All Apps handle touch area"
 ],
 [
+"app.marlboroadvance.mpvex",
+"Kyurem39",
+"Subtitle translation"
+],
+[
+"app.marlboroadvance.mpvex",
+"Kyurem39",
+"Vietnamese interface"
+],
+[
 "app.privacynotes",
 "Hxreborn",
 "Unlock premium"
@@ -243,6 +253,11 @@
 "cc.dreamspark.intervaltimer",
 "Heval",
 "Disable telemetry"
+],
+[
+"cc.honista.app",
+"Manishrdy",
+"Honista v13 complete local fixes"
 ],
 [
 "ch.protonmail.android",
@@ -1560,6 +1575,36 @@
 "Disable license check"
 ],
 [
+"com.athan",
+"Hxreborn",
+"Dark theme"
+],
+[
+"com.athan",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.athan",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.athan",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.athan",
+"Hxreborn",
+"Save images to gallery"
+],
+[
+"com.athan",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.atlogis.atlomaps",
 "Hxreborn",
 "Unlock premium"
@@ -1593,6 +1638,11 @@
 "com.avinside",
 "Aidan",
 "Unlock Developer Tools"
+],
+[
+"com.azefsw.audioconnect",
+"Archie's",
+"Unlock Premium"
 ],
 [
 "com.azeravn.bulletjournal",
@@ -1663,6 +1713,16 @@
 "com.banglalink.toffee",
 "Media",
 "VPN active"
+],
+[
+"com.beatxp.dafit",
+"0xBaselessProjects",
+"Disable Analytics / Telemetry"
+],
+[
+"com.beatxp.dafit",
+"0xBaselessProjects",
+"Unlock Offline Guest Mode"
 ],
 [
 "com.bhoos.marriage",
@@ -1858,6 +1918,11 @@
 "com.bongo.bongobdandroidtv",
 "Media",
 "Free content"
+],
+[
+"com.bootiq2.gtsisic",
+"Jancerny2001",
+"Enable card screenshot"
 ],
 [
 "com.bplace",
@@ -2165,9 +2230,24 @@
 "Enable Premium"
 ],
 [
+"com.busuu.android.enc",
+"Trimpsuz",
+"Spoof premium plus status"
+],
+[
+"com.busuu.android.enc",
+"Trimpsuz",
+"Spoof premium status"
+],
+[
 "com.byairapp.android",
 "Franticg33k",
 "Remove Update Prompt"
+],
+[
+"com.caltopo.android",
+"Jagjordi",
+"Unlock Desktop features"
 ],
 [
 "com.camerasideas.instashot",
@@ -2333,6 +2413,31 @@
 "com.citynav.jakdojade.pl.android",
 "Mubelotix",
 "Activates premium features"
+],
+[
+"com.cloudflare.cloudflareoneagent",
+"0xBaselessProjects",
+"Remove Firebase & Telemetry"
+],
+[
+"com.cloudflare.onedotonedotonedotone",
+"0xBaselessProjects",
+"Disable Analytics / Telemetry"
+],
+[
+"com.cloudflare.onedotonedotonedotone",
+"0xBaselessProjects",
+"Disable SSL Pinning"
+],
+[
+"com.cloudflare.onedotonedotonedotone",
+"0xBaselessProjects",
+"Remove Firebase & Telemetry"
+],
+[
+"com.cloudflare.onedotonedotonedotone",
+"0xBaselessProjects",
+"Spoof WARP+ Unlimited UI"
 ],
 [
 "com.clover.daysmatter",
@@ -4345,6 +4450,11 @@
 "Hungry Shark Installer Source Fix"
 ],
 [
+"com.fillobotto.mp3tagger",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.fingersoft.hillclimb",
 "Legendsciber",
 "Hill Climb Racing Free Store"
@@ -4445,6 +4555,11 @@
 "Unlock pro"
 ],
 [
+"com.fmkorea.m.fmk",
+"Dongmin8350",
+"Remove FMKorea splash logo"
+],
+[
 "com.foobnix.pdf.reader",
 "Heval",
 "Disable ads"
@@ -4523,6 +4638,11 @@
 "com.futbin",
 "Heval",
 "Disable ads"
+],
+[
+"com.future.moviesByFawesomeAndroidTV",
+"Android TV",
+"Disable update prompt"
 ],
 [
 "com.future.moviesByFawesomeAndroidTV",
@@ -4837,6 +4957,16 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Add microG-RE support"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
+"Add original microG support"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Any media app"
 ],
 [
@@ -5033,6 +5163,16 @@
 "com.google.android.apps.maps",
 "Bearinmind",
 "Zoom controls in navigation"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat",
+"BYD native battery experiment"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat",
+"Google Maps for MicroG-RE"
 ],
 [
 "com.google.android.apps.maps",
@@ -5233,6 +5373,21 @@
 "com.google.android.dialer",
 "Balu100",
 "Handle rejected DroidGuard connection"
+],
+[
+"com.google.android.dialer",
+"HelioFloxZ",
+"Call recording support"
+],
+[
+"com.google.android.dialer",
+"HelioFloxZ",
+"Change flags"
+],
+[
+"com.google.android.dialer",
+"HelioFloxZ",
+"Remove Dialer Support Library"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -5528,6 +5683,21 @@
 "com.google.android.inputmethod.latin",
 "Kveld9",
 "Zero Bottom Inset"
+],
+[
+"com.google.android.inputmethod.latin",
+"Markpaul099",
+"Change package name"
+],
+[
+"com.google.android.inputmethod.latin",
+"Markpaul099",
+"Remove GIF search filter"
+],
+[
+"com.google.android.inputmethod.latin",
+"Markpaul099",
+"Use Google Images for GIF search"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -5955,9 +6125,34 @@
 "Unlock premium"
 ],
 [
+"com.hardcodedjoy.iototoy",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.hardcodedjoy.iototoy",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.hdictionary.bn",
 "FTL",
 "Disable pronunciation nag"
+],
+[
+"com.hdoapp.hdo_box",
+"0xtalos",
+"Disable analytics"
+],
+[
+"com.hdoapp.hdo_box",
+"0xtalos",
+"Remove ads"
+],
+[
+"com.hdoapp.hdo_box",
+"0xtalos",
+"Remove tracking permissions"
 ],
 [
 "com.hdqwalls.hdqwalls1",
@@ -6053,6 +6248,16 @@
 "com.hungrybolo.remotemouseandroid",
 "Juankyyy",
 "Unlock PRO"
+],
+[
+"com.hypenet.focused",
+"Hxreborn",
+"Free parachutes"
+],
+[
+"com.hypenet.focused",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.hyperdotstudios.swampattack2",
@@ -7786,6 +7991,21 @@
 ],
 [
 "com.klevico.monet",
+"Hxreborn",
+"Unlock premium"
+],
+[
+"com.klevico.monet",
+"Santodan",
+"Monet - Individual Nuvio catalog rows"
+],
+[
+"com.klevico.monet",
+"Santodan",
+"Monet - Unlimited displayed cards"
+],
+[
+"com.klevico.monet",
 "Santodan",
 "Monet - Unlock premium"
 ],
@@ -8115,6 +8335,11 @@
 "Hide Spotlight Ad"
 ],
 [
+"com.letterboxd.letterboxd",
+"feixiangdao",
+"Add Stremio + Nuvio buttons"
+],
+[
 "com.life360.android.safetymapd",
 "Doom",
 "Material You themed icon"
@@ -8345,6 +8570,21 @@
 "Strip ad tracking permissions and app ID"
 ],
 [
+"com.medium.reader",
+"Archie's",
+"Bypass Play Store Check"
+],
+[
+"com.medium.reader",
+"Archie's",
+"Freedium paywall bypass"
+],
+[
+"com.medium.reader",
+"Archie's",
+"Hide Premium Banners"
+],
+[
 "com.meesho.supply",
 "Debakar",
 "Install alongside original"
@@ -8358,6 +8598,16 @@
 "com.melodis.midomiMusicIdentifier.freemium",
 "Heval",
 "Disable ads"
+],
+[
+"com.mercadolibre",
+"DiogoGra",
+"Dark Theme"
+],
+[
+"com.mercadolibre",
+"DiogoGra",
+"Replace Videos with My purchases"
 ],
 [
 "com.merkury.geeni.morphe",
@@ -8955,6 +9205,11 @@
 "Web Ad Blocker"
 ],
 [
+"com.nicedayapps.iss_free",
+"Saieshshirodkar",
+"Unlock Premium"
+],
+[
 "com.nieruo.healthapp",
 "Hxreborn",
 "Max intimacy level"
@@ -9320,6 +9575,11 @@
 "Unlock premium"
 ],
 [
+"com.oneletters.audiobooksai",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.onelouder.baconreader",
 "Brealorg",
 "Fix Redgifs API"
@@ -9548,6 +9808,16 @@
 "com.ovelin.guitartuna",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"com.overdevs.at4k",
+"Saieshshirodkar",
+"Disable PairIP DRM"
+],
+[
+"com.overdevs.at4k",
+"Saieshshirodkar",
+"Unlock Premium"
 ],
 [
 "com.ovz.carscanner",
@@ -10070,6 +10340,11 @@
 "Spoof signature"
 ],
 [
+"com.pro.cricztv",
+"GinDoki19",
+"Remove ads, telemetry & restrictions"
+],
+[
 "com.prothomalo",
 "Media",
 "Access content"
@@ -10423,6 +10698,11 @@
 "com.rp.hypertrophy",
 "braiNtropy",
 "Unlock Premium"
+],
+[
+"com.rubenmayayo.lemmy",
+"Apostolique",
+"Boost for Tildes"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -11145,6 +11425,46 @@
 "Unlock pro features"
 ],
 [
+"com.samsung.android.game.gamehome",
+"RatataBananana-Bit",
+"Hide Events button"
+],
+[
+"com.samsung.android.game.gamehome",
+"RatataBananana-Bit",
+"Hide Instant Plays history"
+],
+[
+"com.samsung.android.game.gamehome",
+"RatataBananana-Bit",
+"Hide Popular Instant Plays categories"
+],
+[
+"com.samsung.android.game.gamehome",
+"RatataBananana-Bit",
+"Hide Recommended for you"
+],
+[
+"com.samsung.android.game.gamehome",
+"RatataBananana-Bit",
+"Hide Top instant plays"
+],
+[
+"com.samsung.android.game.gamehome",
+"RatataBananana-Bit",
+"Local play history"
+],
+[
+"com.samsung.android.game.gamehome",
+"RatataBananana-Bit",
+"Skip mandatory sign-in"
+],
+[
+"com.samsung.android.game.gamehome",
+"RatataBananana-Bit",
+"Use Android game list"
+],
+[
 "com.samsung.android.homemode",
 "Giaaaacomo",
 "Customize orientation"
@@ -11420,6 +11740,16 @@
 "Unlock Receipt Scanner"
 ],
 [
+"com.sgnoogle.tickdrop",
+"Danieleavolio",
+"Bypass PairIP license check"
+],
+[
+"com.sgnoogle.tickdrop",
+"Danieleavolio",
+"Unlock Plus"
+],
+[
 "com.shazam.android",
 "Heval",
 "Disable telemetry"
@@ -11598,6 +11928,11 @@
 "com.spaceship.screen.textcopy",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"com.spocky.projengmenu",
+"Saieshshirodkar",
+"Unlock Premium"
 ],
 [
 "com.spookyhousestudios.progressbar95",
@@ -12120,6 +12455,66 @@
 "Use system font"
 ],
 [
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Enable Auto Scroll"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Feed Filter & Hide Ads"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Force show Auto scroll"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Hide Shop / Promo UI"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Playback Speed"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Remember Clear Display"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Remove Splash Ads"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Remove Watermark"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"SIM Spoof / Region Unlock"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Settings Hook Stub"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Show Seekbar"
+],
+[
+"com.ss.android.ugc.tiktok.lite",
+"Kurageno8156-lgtm",
+"Unlimited Downloads"
+],
+[
 "com.steinberg.cubasisle3",
 "Hxreborn",
 "Disable telemetry"
@@ -12228,6 +12623,11 @@
 "com.streetwriters.notesnook",
 "Hxreborn",
 "Material You theme"
+],
+[
+"com.stremio.one",
+"Azksama",
+"Stremio AniSkip"
 ],
 [
 "com.stremio.one",
@@ -12435,9 +12835,39 @@
 "Auto-claim daily rewards"
 ],
 [
+"com.telug.keyboard.for.android",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.telug.keyboard.for.android",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.tencent.qqmusic",
 "JacksonJones2003 QQMusic",
 "English translation"
+],
+[
+"com.teslacoilsw.launcher",
+"Mich-de",
+"Eliminate Paywall"
+],
+[
+"com.teslacoilsw.launcher",
+"Mich-de",
+"Remove 14 Spyware & Ad Networks"
+],
+[
+"com.teslacoilsw.launcher",
+"Mich-de",
+"S24/S25 Hardware & Technical Minimal Theme"
+],
+[
+"com.teslacoilsw.launcher",
+"Mich-de",
+"Unlock Prime"
 ],
 [
 "com.teslacoilsw.launcher",
@@ -12532,6 +12962,16 @@
 [
 "com.tippingcanoe.pepperpl",
 "HagiaHaya",
+"Add deals to calendar"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Block tracking"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
 "Catch Flamedeer"
 ],
 [
@@ -12542,12 +12982,27 @@
 [
 "com.tippingcanoe.pepperpl",
 "HagiaHaya",
+"Filter comments"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Filter deals"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
 "GmsCore support"
 ],
 [
 "com.tippingcanoe.pepperpl",
 "HagiaHaya",
 "Hide deal vote prompt"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Price error alerts"
 ],
 [
 "com.tippingcanoe.pepperpl",
@@ -12563,6 +13018,16 @@
 "com.tippingcanoe.pepperpl",
 "HagiaHaya",
 "Sanitize sharing links"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Search comments"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Show price with shipping"
 ],
 [
 "com.tippingcanoe.pepperpl",
@@ -12583,6 +13048,11 @@
 "com.todoist",
 "Titandrive",
 "Todoist custom font"
+],
+[
+"com.tracket.app",
+"ContactJayClatty",
+"Unlock lifetime"
 ],
 [
 "com.tranquility.colony",
@@ -13048,6 +13518,11 @@
 "com.tumblr",
 "HushTumblr",
 "Visible image descriptions"
+],
+[
+"com.twitter.android",
+"AetherMagee",
+"Account location badges"
 ],
 [
 "com.twitter.android",
@@ -13710,6 +14185,161 @@
 "Surface video + trigger (experimental)"
 ],
 [
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Alpha-0 high-resolution trigger"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Android XR native permission names"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Appear on top (legacy)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Blue-noise dithering"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Change package name"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Codecs Support"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Controller grip haptics through Shizuku"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Controller pose extrapolation"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Controller pose time (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Controller tracking from the controller HAL through Shizuku"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Controller velocity frame"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Device identity"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Force HMD initialization gates"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Force lobby permission-state gate"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Force stream XR gates"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"GXR face and tongue bridge"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"GXR spacewarp layer (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Galaxy XR SteamVR driver (galaxyxr)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Microphone input preset"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Network Optimizations"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"OLED color calibration"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"OpenXR CPU and GPU BOOST (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Startup permission requests (before 5002322)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Startup splash and XR launch mode (before 5002322)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Surface video + trigger (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Unrestricted battery usage"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Visual Delay Fix"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"XR Core Runtime"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"XR Device Config Baseline"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"XR Input Routing Config"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"XR Manifest Capability Pack"
+],
+[
 "com.valvesoftware.steamlinkvr.x_23",
 "Steam Link GalaxyXR",
 "Controller angular world to local"
@@ -13733,6 +14363,21 @@
 "com.videoedit.gocut",
 "Shuhaibnc",
 "Unlock GoCut Pro"
+],
+[
+"com.videoplayer.arcplayer",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.videoplayer.arcplayer",
+"Hxreborn",
+"Remove rating prompts"
+],
+[
+"com.videoplayer.arcplayer",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.videoplayer.arcplayer",
@@ -13768,6 +14413,51 @@
 "com.vitastudio.mahjong",
 "byehi98",
 "Vita Mahjong Restore Purchases"
+],
+[
+"com.vk.im",
+"oviron",
+"Bypass security and package checks"
+],
+[
+"com.vk.im",
+"oviron",
+"Clone app"
+],
+[
+"com.vk.im",
+"oviron",
+"Disable audio ads"
+],
+[
+"com.vk.im",
+"oviron",
+"Disable telemetry"
+],
+[
+"com.vk.im",
+"oviron",
+"Fix push notifications"
+],
+[
+"com.vk.im",
+"oviron",
+"Hide clips ads"
+],
+[
+"com.vk.im",
+"oviron",
+"Hide feed ads"
+],
+[
+"com.vk.im",
+"oviron",
+"Native anti-tamper bypass"
+],
+[
+"com.vk.im",
+"oviron",
+"Video ads"
 ],
 [
 "com.vkontakte.android",
@@ -13828,6 +14518,21 @@
 "com.vkontakte.android",
 "PerfLite VK-Zen",
 "Video quality preference"
+],
+[
+"com.vkslrzm.Zombie",
+"byehi98",
+"Magic Survival Free Store"
+],
+[
+"com.vkslrzm.Zombie",
+"byehi98",
+"Magic Survival Instant Rewarded Rewards"
+],
+[
+"com.vkslrzm.Zombie",
+"byehi98",
+"Magic Survival Remove Ads"
 ],
 [
 "com.vng.g6.a.zombie",
@@ -13893,6 +14598,16 @@
 "com.wakeup.howear",
 "MightyMich",
 "Unlock VIP Features"
+],
+[
+"com.wallapop",
+"ByXuXy88",
+"Wallapop No Ads"
+],
+[
+"com.wallapop",
+"ByXuXy88",
+"Wallapop OLED dark mode"
 ],
 [
 "com.wallmaa.minimal.wallpapers",
@@ -14311,6 +15026,26 @@
 ],
 [
 "com.waze",
+"Pilotkosinus Waze",
+"Always Play Speed Camera Sound"
+],
+[
+"com.waze",
+"Pilotkosinus Waze",
+"Google Assistant Button"
+],
+[
+"com.waze",
+"Pilotkosinus Waze",
+"Morphe Patch Settings"
+],
+[
+"com.waze",
+"Pilotkosinus Waze",
+"Waze \u2013 Patched YouTube Music Support"
+],
+[
+"com.waze",
 "VoltoxderEchte",
 "Allow Gearslip"
 ],
@@ -14383,6 +15118,11 @@
 "com.withopal.opal",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.wolt.android",
+"C4vla",
+"Export cart"
 ],
 [
 "com.wowsoftware.hidemyandroid",
@@ -15691,6 +16431,71 @@
 ],
 [
 "com.zhiliaoapp.musically",
+"Pixkk",
+"Animated profile covers"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Centered comment menu"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Comment menu rows"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Discover tab"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Don't open comments on icon swipe"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Expand description in place"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Old-style counts"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Old-style seeking"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Right column spacing"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Scroll sound name"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Settings menu row"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"Sound name under description"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
+"pixkk settings row"
+],
+[
+"com.zhiliaoapp.musically",
 "non7043",
 "Always show publish date"
 ],
@@ -16025,6 +16830,16 @@
 "Enable Premium"
 ],
 [
+"customstickermaker.whatsappstickers.personalstickersforwhatsapp",
+"0xBaselessProjects",
+"Disable Analytics / Telemetry"
+],
+[
+"customstickermaker.whatsappstickers.personalstickersforwhatsapp",
+"0xBaselessProjects",
+"Remove Advertisements"
+],
+[
 "cz.mroczis.netmonster",
 "Proxma",
 "Bypass Play license check (NetMonster)"
@@ -16098,6 +16913,16 @@
 "de.rtli.tvnow",
 "Ysamjo TRL+",
 "RTL+ Werbung deaktivieren (Yospace DAI)"
+],
+[
+"de.sector27.muellkalender",
+"Pilotkosinus Muell",
+"Announcement notifications"
+],
+[
+"de.sector27.muellkalender",
+"Pilotkosinus Muell",
+"Calendar waste type"
 ],
 [
 "de.swr.avp.ard",
@@ -16425,6 +17250,11 @@
 "Unlock premium"
 ],
 [
+"india.vpn_tap2free",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "io.gh.reisxd.tizentube.cobalt",
 "Ysamjo",
 "MOD-Kennzeichnung f\u00fcr Icon und Banner"
@@ -16573,6 +17403,31 @@
 "it.rainet.androidtv",
 "Android TV",
 "Skip ads"
+],
+[
+"jp.co.airfront.android.a2chMate",
+"Haiagaru",
+"Haiagaru \u5e83\u544a\u3060\u3051\u306e\u8d85\u8efd\u91cf\u69cb\u6210\uff08\u691c\u8a3c\u7528\uff09"
+],
+[
+"jp.co.airfront.android.a2chMate",
+"Haiagaru",
+"Imgur\u30ed\u30b0\u30a4\u30f3\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\uff08\u958b\u767a\u4e2d\uff09"
+],
+[
+"jp.co.airfront.android.a2chMate",
+"Haiagaru",
+"MEGA\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u30fb\u540c\u671f"
+],
+[
+"jp.co.airfront.android.a2chMate",
+"Haiagaru",
+"\u52d5\u753b\u5c02\u7528\u30d3\u30e5\u30fc\u30a2"
+],
+[
+"jp.co.airfront.android.a2chMate",
+"Haiagaru",
+"\u753b\u50cf\u53d6\u5f97\u5c02\u7528VPN\uff08\u5b9f\u9a13\u7528\u30fb\u691c\u8a3c\u4e2d\uff09"
 ],
 [
 "jp.co.celsys.clipstudiopaint.googleplay",
@@ -16985,6 +17840,11 @@
 "Disable ads"
 ],
 [
+"ltd.anti.clink",
+"Hxreborn",
+"Unlock Pro"
+],
+[
 "mark.via.gp",
 "Heval",
 "Disable telemetry"
@@ -17223,6 +18083,11 @@
 "net.omobio.dialogsc",
 "Madushas",
 "Kill residual beacon traffic"
+],
+[
+"net.omobio.dialogsc",
+"Madushas",
+"Remove AI assistant FAB (+ footer patch id)"
 ],
 [
 "net.omobio.dialogsc",
@@ -18066,6 +18931,86 @@
 ],
 [
 "org.telegram.messenger",
+"Rahul9999xda",
+"Anti-delete messages"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Anti-disappearing media"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Anti-screenshot notification"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Bypass channel restrictions"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Bypass content restrictions"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Bypass integrity check"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Disable auto-update"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Disable channel switching"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Disable telemetry and analytics"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Download speed boost"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Hide Stories read status"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Hide typing indicator"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Remove ads"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Unlock Premium"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Use normal paste for Rich HTML clipboard content"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
+"Voice to music"
+],
+[
+"org.telegram.messenger",
 "Stylus",
 "Force system font (Telegram)"
 ],
@@ -18486,6 +19431,86 @@
 ],
 [
 "org.telegram.messenger.web",
+"Rahul9999xda",
+"Anti-delete messages"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Anti-disappearing media"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Anti-screenshot notification"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Bypass channel restrictions"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Bypass content restrictions"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Bypass integrity check"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Disable auto-update"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Disable channel switching"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Disable telemetry and analytics"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Download speed boost"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Hide Stories read status"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Hide typing indicator"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Remove ads"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Unlock Premium"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Use normal paste for Rich HTML clipboard content"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
+"Voice to music"
+],
+[
+"org.telegram.messenger.web",
 "Stylus",
 "Force system font (Telegram)"
 ],
@@ -18552,6 +19577,86 @@
 [
 "org.telegram.messenger.web",
 "newuser7171",
+"Voice to music"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Anti-delete messages"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Anti-disappearing media"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Anti-screenshot notification"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Bypass channel restrictions"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Bypass content restrictions"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Bypass integrity check"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Disable auto-update"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Disable channel switching"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Disable telemetry and analytics"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Download speed boost"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Hide Stories read status"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Hide typing indicator"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Remove ads"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Unlock Premium"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
+"Use normal paste for Rich HTML clipboard content"
+],
+[
+"org.telegram.plus",
+"Rahul9999xda",
 "Voice to music"
 ],
 [
@@ -18678,6 +19783,26 @@
 "org.withouthat.acalendar",
 "Hxreborn",
 "Unlock aCalendar+"
+],
+[
+"org.zotero.android",
+"Raphaelbahat",
+"Custom sync server"
+],
+[
+"org.zotero.android",
+"Raphaelbahat",
+"Custom sync server: allow cleartext streaming"
+],
+[
+"org.zotero.android",
+"Raphaelbahat",
+"Enable verbose logging"
+],
+[
+"org.zotero.android",
+"Raphaelbahat",
+"Recover attachments with an unusable modification time"
 ],
 [
 "pdb.app",
@@ -19095,6 +20220,51 @@
 "Unlock premium"
 ],
 [
+"ru.ozon.app.android",
+"Jl4cTuk",
+"Disable checkout tips"
+],
+[
+"ru.ozon.app.android",
+"Jl4cTuk",
+"Disable lottery and in-app pushes"
+],
+[
+"ru.ozon.app.android",
+"Jl4cTuk",
+"Disable telemetry"
+],
+[
+"ru.ozon.app.android",
+"Jl4cTuk",
+"Disable tip notifications"
+],
+[
+"ru.ozon.app.android",
+"Jl4cTuk",
+"Hide Ozon Bank ad banner"
+],
+[
+"ru.ozon.app.android",
+"Jl4cTuk",
+"Hide account lottery and review feed"
+],
+[
+"ru.ozon.app.android",
+"Jl4cTuk",
+"Hide seller rating prompt"
+],
+[
+"ru.ozon.app.android",
+"Jl4cTuk",
+"Remove Ozon ads"
+],
+[
+"ru.ozon.app.android",
+"Jl4cTuk",
+"Show final prices only"
+],
+[
 "ru.rutube.app",
 "Virzak",
 "Custom branding icon"
@@ -19121,6 +20291,66 @@
 ],
 [
 "ru.vk.store",
+"Jl4cTuk",
+"Disable Mine redesign"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Disable ads"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Disable analytics"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Disable background hooks"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Disable background scan"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Disable gaming profile"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Disable invasive permissions"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Disable push services"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Exclude Google Play apps from updates"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Restore secure-session compatibility"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Restrict background work to updates"
+],
+[
+"ru.vk.store",
+"Jl4cTuk",
+"Skip update authentication"
+],
+[
+"ru.vk.store",
 "RuStore privacy",
 "Block remote network policy"
 ],
@@ -19128,6 +20358,21 @@
 "ru.wasiliysoft.ircodefindernec",
 "Heval",
 "Disable ads"
+],
+[
+"ru.yandex.yandexnavi",
+"Vladon",
+"Bypass Passport signature mismatch crash"
+],
+[
+"ru.yandex.yandexnavi",
+"Vladon",
+"Debuggable application manifest"
+],
+[
+"ru.yandex.yandexnavi",
+"Vladon",
+"Enable debug panel"
 ],
 [
 "ru.zdevs.zarchiver",
