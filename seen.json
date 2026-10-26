@@ -2172,6 +2172,11 @@
 [
 "com.camerasideas.instashot",
 "MightyMich",
+"Unlock Premium"
+],
+[
+"com.camerasideas.instashot",
+"MightyMich",
 "Unlock Premium "
 ],
 [
@@ -3088,6 +3093,11 @@
 "com.enzuredigital.weatherbomb",
 "Edoardo9708",
 "Flowx - Diagnostica autorizzazione Gold"
+],
+[
+"com.eset.ems2.gp",
+"MightyMich",
+"Enable premium license"
 ],
 [
 "com.eumlab.android.prometronome",
@@ -5897,6 +5907,11 @@
 [
 "com.gxnet.castle.indiatv",
 "Hxreborn",
+"Spoof signature"
+],
+[
+"com.gxnet.castle.indiatv",
+"Hxreborn",
 "Unlock premium"
 ],
 [
@@ -5913,6 +5928,11 @@
 "com.habitrpg.android.habitica",
 "Plyrs1",
 "Self-Hosted Server Support"
+],
+[
+"com.haibison.apksigner",
+"Shuhaibnc",
+"Unlock Pro"
 ],
 [
 "com.halalfire.medicneet",
@@ -7068,6 +7088,36 @@
 "com.instagram.android",
 "Piko",
 "Save Instants"
+],
+[
+"com.instagram.android",
+"Piko Instagram Lite",
+"AMOLED theme"
+],
+[
+"com.instagram.android",
+"Piko Instagram Lite",
+"Disable swipe to camera"
+],
+[
+"com.instagram.android",
+"Piko Instagram Lite",
+"Downloads"
+],
+[
+"com.instagram.android",
+"Piko Instagram Lite",
+"Ghost mode"
+],
+[
+"com.instagram.android",
+"Piko Instagram Lite",
+"Hide feed ads"
+],
+[
+"com.instagram.android",
+"Piko Instagram Lite",
+"Hide reels and stories ads"
 ],
 [
 "com.instagram.android",
@@ -8805,6 +8855,21 @@
 "Playback without ads"
 ],
 [
+"com.netease.cloudmusic",
+"Sas-News",
+"\u30b3\u30e1\u30f3\u30c8\u7ffb\u8a33 (Comment translate)"
+],
+[
+"com.netease.cloudmusic",
+"Sas-News",
+"\u65e5\u672c\u8a9e\u5316 (Japanese UI)"
+],
+[
+"com.newleaf.app.android.victor",
+"MightyMich",
+"Unlock Premium Features"
+],
+[
 "com.newleaf.app.android.victor",
 "MightyMich",
 "Unlock Premium Features (Experimental)"
@@ -9515,6 +9580,26 @@
 "Hide ads"
 ],
 [
+"com.pengyou.cloneapp",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.pengyou.cloneapp",
+"Hxreborn",
+"Fix Manage Google account"
+],
+[
+"com.pengyou.cloneapp",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.pengyou.cloneapp",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.performance.meshview",
 "Hxreborn",
 "Unlock premium"
@@ -9930,6 +10015,16 @@
 "Trash bubble on pin long press"
 ],
 [
+"com.piriform.ccleaner",
+"MightyMich",
+"Disable Telemetry"
+],
+[
+"com.piriform.ccleaner",
+"MightyMich",
+"Unlock Premium"
+],
+[
 "com.pittvandewitt.wavelet",
 "o0b",
 "Unlock Pro"
@@ -9938,6 +10033,16 @@
 "com.playrix.gardenscapes",
 "Dudek",
 "Repair negative stars once"
+],
+[
+"com.pleco.chinesesystem",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.pleco.chinesesystem",
+"Hxreborn",
+"Unlock add-ons"
 ],
 [
 "com.plexapp.android",
@@ -10048,6 +10153,11 @@
 "com.qbis.guessthecountry",
 "Shuhaibnc",
 "Remove Unwanted Promotional Icons and Ads"
+],
+[
+"com.qbis.guessthecountry",
+"Shuhaibnc",
+"Unlock Premium"
 ],
 [
 "com.qbis.guessthecountry",
@@ -12387,6 +12497,11 @@
 [
 "com.thesortdapp.sortd",
 "Hxreborn",
+"Remove bulk import limit"
+],
+[
+"com.thesortdapp.sortd",
+"Hxreborn",
 "Unlock premium"
 ],
 [
@@ -12413,6 +12528,16 @@
 "com.tinder",
 "Wagg13Patch",
 "Tinder Unlimited Rewind"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Catch Flamedeer"
+],
+[
+"com.tippingcanoe.pepperpl",
+"HagiaHaya",
+"Enable debug menu"
 ],
 [
 "com.tippingcanoe.pepperpl",
@@ -13091,6 +13216,246 @@
 ],
 [
 "com.twitter.android",
+"Piko NewX",
+"NewX: Browse tweet object"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Clone"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Crash logs"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Custom font"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Custom sharing domain"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Customize drawer items"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Customize inline actions"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Customize media menu items"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Customize navigation bar"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Customize post menu items"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Customize profile tabs"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Customize timeline tabs"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Disable automatic timeline refresh"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Disable blur effects"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Disable video player scrolling"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Feature switch overrides"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Filter For You by topic"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Filter posts by keyword"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Gallery profile Photos tab"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide AI-generated posts"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide Discover more"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide Spaces bar"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide compose button"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide new posts pill"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide post author actions"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide post dividers"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide post reply bar"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide posts by verified account type"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide premium upsell"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide timeline tabs bar"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Hide who to follow"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Inline download button"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Log HLS audio renditions"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Open canonical URLs"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Redirect downloads to chosen folder"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Remove ads"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Restore Twitter branding"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Restore pinned home tab"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Restore timeline position"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Server error logging"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Set default media tab"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Set default profile post sorting"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Set default reply sorting"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Show poll results"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Show sensitive media"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Theme"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Unlock color customization"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Unlock downloads"
+],
+[
+"com.twitter.android",
 "Serajr",
 "Desativar Blur do X"
 ],
@@ -13340,6 +13705,11 @@
 "OpenXR CPU and GPU BOOST (experimental)"
 ],
 [
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Surface video + trigger (experimental)"
+],
+[
 "com.valvesoftware.steamlinkvr.x_23",
 "Steam Link GalaxyXR",
 "Controller angular world to local"
@@ -13583,6 +13953,11 @@
 "com.waze",
 "Bearinmind",
 "All moods"
+],
+[
+"com.waze",
+"Bearinmind",
+"Bigger alert pins"
 ],
 [
 "com.waze",
@@ -13967,7 +14342,22 @@
 [
 "com.whereismytrain.android",
 "Shuhaibnc",
+"Amoled Dark Theme"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
 "Change Accent Color"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
+"Change Accent Color (Bytecode)"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
+"Enable Internal Settings"
 ],
 [
 "com.whereismytrain.android",
@@ -15291,6 +15681,16 @@
 ],
 [
 "com.zhiliaoapp.musically",
+"MightyMich",
+"Force region"
+],
+[
+"com.zhiliaoapp.musically",
+"MightyMich",
+"Remove ads"
+],
+[
+"com.zhiliaoapp.musically",
 "non7043",
 "Always show publish date"
 ],
@@ -15970,9 +16370,24 @@
 "Disable home screen ads"
 ],
 [
+"idm.internet.download.manager.plus",
+"FTL",
+"Disable sale notification"
+],
+[
+"idm.internet.download.manager.plus",
+"FTL",
+"Rename 1DM to IDM"
+],
+[
 "im.thebot.messenger",
 "Hxreborn",
 "Disable tracking"
+],
+[
+"im.thebot.messenger",
+"Hxreborn",
+"Fix sign-in"
 ],
 [
 "im.thebot.messenger",
@@ -16635,6 +17050,16 @@
 "Spoof client"
 ],
 [
+"ml.docilealligator.infinityforreddit.plus",
+"Pengusto",
+"Configure custom OAuth for Infinity+"
+],
+[
+"mobi.charmer.magovideo",
+"MightyMich",
+"Unlock Premium"
+],
+[
 "mobi.charmer.magovideo",
 "MightyMich",
 "Unlock Premium (Experimental)"
@@ -16797,7 +17222,17 @@
 [
 "net.omobio.dialogsc",
 "Madushas",
+"Kill residual beacon traffic"
+],
+[
+"net.omobio.dialogsc",
+"Madushas",
 "Spoof stock signing cert hash"
+],
+[
+"net.omobio.dialogsc",
+"Madushas",
+"Unlock hidden feature flags"
 ],
 [
 "net.osmand",
@@ -18522,6 +18957,11 @@
 [
 "proton.android.pass",
 "Hxreborn",
+"Hide navigation bar on scroll"
+],
+[
+"proton.android.pass",
+"Hxreborn",
 "Hide promotional messages"
 ],
 [
@@ -18718,6 +19158,11 @@
 "sinet.startup.inDriver",
 "Proxma",
 "Remove ads"
+],
+[
+"tech.coddy.coddyapp",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "todolist.scheduleplanner.dailyplanner.todo.reminders",

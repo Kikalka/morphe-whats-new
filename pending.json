@@ -1,6 +1,4 @@
 {
- "[\"com.netease.cloudmusic\", \"Sas-News\", \"\\u30b3\\u30e1\\u30f3\\u30c8\\u7ffb\\u8a33 (Comment translate)\"]": "2026-10-25T14:13:49.204505+00:00",
- "[\"com.netease.cloudmusic\", \"Sas-News\", \"\\u65e5\\u672c\\u8a9e\\u5316 (Japanese UI)\"]": "2026-10-25T14:13:49.204505+00:00",
  "[\"com.pro.cricztv\", \"GinDoki19\", \"Remove ads, telemetry & restrictions\"]": "2026-10-25T14:13:49.204505+00:00",
  "[\"com.samsung.android.game.gamehome\", \"RatataBananana-Bit\", \"Hide Events button\"]": "2026-10-25T14:13:49.204505+00:00",
  "[\"com.samsung.android.game.gamehome\", \"RatataBananana-Bit\", \"Hide Instant Plays history\"]": "2026-10-25T14:13:49.204505+00:00",
@@ -9,5 +7,24 @@
  "[\"com.samsung.android.game.gamehome\", \"RatataBananana-Bit\", \"Hide Top instant plays\"]": "2026-10-25T14:13:49.204505+00:00",
  "[\"com.samsung.android.game.gamehome\", \"RatataBananana-Bit\", \"Local play history\"]": "2026-10-25T14:13:49.204505+00:00",
  "[\"com.samsung.android.game.gamehome\", \"RatataBananana-Bit\", \"Skip mandatory sign-in\"]": "2026-10-25T14:13:49.204505+00:00",
- "[\"com.samsung.android.game.gamehome\", \"RatataBananana-Bit\", \"Use Android game list\"]": "2026-10-25T14:13:49.204505+00:00"
+ "[\"com.samsung.android.game.gamehome\", \"RatataBananana-Bit\", \"Use Android game list\"]": "2026-10-25T14:13:49.204505+00:00",
+ "[\"com.hdoapp.hdo_box\", \"0xtalos\", \"Disable analytics\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.hdoapp.hdo_box\", \"0xtalos\", \"Remove ads\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.hdoapp.hdo_box\", \"0xtalos\", \"Remove tracking permissions\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Enable Auto Scroll\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Feed Filter & Hide Ads\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Force show Auto scroll\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Hide Shop / Promo UI\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Playback Speed\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Remember Clear Display\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Remove Splash Ads\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Remove Watermark\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"SIM Spoof / Region Unlock\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Settings Hook Stub\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Show Seekbar\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"com.ss.android.ugc.tiktok.lite\", \"Kurageno8156-lgtm\", \"Unlimited Downloads\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"demigos.com.mobilism\", \"FTL\", \"Keyword filter\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"demigos.com.mobilism\", \"FTL\", \"Material colors\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"demigos.com.mobilism\", \"FTL\", \"Mod settings\"]": "2026-10-26T00:02:49.153609+00:00",
+ "[\"demigos.com.mobilism\", \"FTL\", \"Skip splash screen\"]": "2026-10-26T00:02:49.153609+00:00"
 }
