@@ -1,8 +1,4 @@
 {
- "[\"demigos.com.mobilism\", \"FTL\", \"Keyword filter\"]": "2026-10-26T00:02:49.153609+00:00",
- "[\"demigos.com.mobilism\", \"FTL\", \"Material colors\"]": "2026-10-26T00:02:49.153609+00:00",
- "[\"demigos.com.mobilism\", \"FTL\", \"Mod settings\"]": "2026-10-26T00:02:49.153609+00:00",
- "[\"demigos.com.mobilism\", \"FTL\", \"Skip splash screen\"]": "2026-10-26T00:02:49.153609+00:00",
  "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"5.1-channel audio bridge (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
  "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Audio bridge payload (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
  "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Frame-synced render dispatch (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
@@ -19,14 +15,10 @@
  "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Subtitle suite (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
  "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Subtitle suite payload (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
  "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"libplacebo HDR pipeline (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"com.douban.frodo\", \"feixiangdao\", \"Add Stremio + Nuvio buttons (Douban)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"com.douban.frodo\", \"feixiangdao\", \"Diagnostic: Douban repackaging only\"]": "2026-10-26T16:41:55.944365+00:00",
  "[\"demigos.com.mobilism\", \"FTL\", \"Copy link button\"]": "2026-10-26T16:41:55.944365+00:00",
  "[\"demigos.com.mobilism\", \"FTL\", \"Hide discussions\"]": "2026-10-26T16:41:55.944365+00:00",
  "[\"demigos.com.mobilism\", \"FTL\", \"Hide premium\"]": "2026-10-26T16:41:55.944365+00:00",
  "[\"demigos.com.mobilism\", \"FTL\", \"Open in latest\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"ru.mes.dnevnik\", \"NextStepTeam\", \"\\u0421\\u043c\\u0435\\u043d\\u0430 \\u043d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u044f \\u043f\\u0440\\u0438\\u043b\\u043e\\u0436\\u0435\\u043d\\u0438\\u044f\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"ru.ozon.fintech.finance\", \"Jl4cTuk\", \"Disable Ozon Bank VPN warning\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"ru.ozon.fintech.finance\", \"Jl4cTuk\", \"Hide Ozon Bank benefit sections\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"ru.ozon.fintech.finance\", \"Jl4cTuk\", \"Hide Ozon Bank promotions\"]": "2026-10-26T16:41:55.944365+00:00"
+ "[\"com.miui.screenrecorder\", \"FluffyDiscord\", \"Mark tile icon\"]": "2026-10-27T01:21:49.644931+00:00",
+ "[\"com.miui.screenrecorder\", \"FluffyDiscord\", \"Unlock high frame rates\"]": "2026-10-27T01:21:49.644931+00:00"
 }

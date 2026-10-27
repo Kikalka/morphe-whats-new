@@ -1725,6 +1725,106 @@
 "Unlock Offline Guest Mode"
 ],
 [
+"com.bereal.ft",
+"Hxreborn",
+"Change download location"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Custom location"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Custom retake count"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Disable data collection"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Disable typing indicator"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Disable view receipts"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Post from gallery"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove Friends of Friends prompts"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove Friends of Friends tab"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove contacts permission"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove friend suggestions"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove late flag"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove late label"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove promotions"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove streak prompts"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove update prompts"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Remove watermark"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Save friends' BeReals"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Show friends' posts before posting"
+],
+[
 "com.bhoos.marriage",
 "Franticg33k",
 "Reward when the ad fails to load"
@@ -3075,6 +3175,16 @@
 "Remove ads and Google services hooks"
 ],
 [
+"com.douban.frodo",
+"feixiangdao",
+"Add Stremio + Nuvio buttons (Douban)"
+],
+[
+"com.douban.frodo",
+"feixiangdao",
+"Diagnostic: Douban repackaging only"
+],
+[
 "com.dreamplug.androidapp",
 "aapam",
 "Disable Spying & Security Checks"
@@ -4058,6 +4168,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Clone install under another package name"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Custom launcher icon"
 ],
 [
 "com.facebook.orca",
@@ -8850,6 +8965,31 @@
 "Unlock 365 Family"
 ],
 [
+"com.microsoft.office.word",
+"Kveld9 Extra",
+"Block Telemetry & Trackers"
+],
+[
+"com.microsoft.office.word",
+"Kveld9 Extra",
+"Bypass Code Transparency"
+],
+[
+"com.microsoft.office.word",
+"Kveld9 Extra",
+"Disable Login Requirement"
+],
+[
+"com.microsoft.office.word",
+"Kveld9 Extra",
+"Remove Shared User ID"
+],
+[
+"com.microsoft.office.word",
+"Kveld9 Extra",
+"Unlock 365 Family"
+],
+[
 "com.mightygamesgroup.shootyskies",
 "byehi98",
 "Shooty Skies Ad-Free (Ads blocked + instant rewards)"
@@ -8993,6 +9133,31 @@
 "com.mxtech.videoplayer.ad",
 "FTL",
 "Smart Enhance Slider"
+],
+[
+"com.mxtech.videoplayer.ad",
+"GinDoki19",
+"Clean App Theme"
+],
+[
+"com.mxtech.videoplayer.ad",
+"GinDoki19",
+"Clean Me page"
+],
+[
+"com.mxtech.videoplayer.ad",
+"GinDoki19",
+"Custom codec"
+],
+[
+"com.mxtech.videoplayer.ad",
+"GinDoki19",
+"Remove ads & bloat"
+],
+[
+"com.mxtech.videoplayer.ad",
+"GinDoki19",
+"Remove bottom navigation bar"
 ],
 [
 "com.mxtech.videoplayer.pro",
@@ -9248,6 +9413,16 @@
 "com.ninegag.android.app",
 "ggYasin",
 "Deactivate Firebase Analytics (9GAG 8.23.0)"
+],
+[
+"com.ninegag.android.app",
+"ggYasin",
+"Deactivate Firebase Analytics (9GAG)"
+],
+[
+"com.ninegag.android.app",
+"ggYasin",
+"Remove 9GAG ads, promoted posts and trackers"
 ],
 [
 "com.ninegag.android.app",
@@ -10987,6 +11162,11 @@
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
+"Configure editor image hosting"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
 "Custom Synccit URL"
 ],
 [
@@ -11062,12 +11242,27 @@
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
+"Import and export OAuth tokens"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Log exceptions"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
 "Open Reddit image links in Boost"
 ],
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Prefer high refresh rate"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Preview images in the editor"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -11138,6 +11333,11 @@
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Tune Boost image dismissal"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Use Reddit for image uploads"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -13518,6 +13718,41 @@
 "com.tumblr",
 "HushTumblr",
 "Visible image descriptions"
+],
+[
+"com.tuya.smartlife",
+"Gryphou",
+"Hide AI Input Bar"
+],
+[
+"com.tuya.smartlife",
+"Gryphou",
+"Hide Centre d\u2019avantages"
+],
+[
+"com.tuya.smartlife",
+"Gryphou",
+"Hide Explorer Tab"
+],
+[
+"com.tuya.smartlife",
+"Gryphou",
+"Hide Home Plus"
+],
+[
+"com.tuya.smartlife",
+"Gryphou",
+"Hide Home Recommendations"
+],
+[
+"com.tuya.smartlife",
+"Gryphou",
+"Hide Intelligence Recommendations"
+],
+[
+"com.tuya.smartlife",
+"Gryphou",
+"Hide Tuya AI Web Version"
 ],
 [
 "com.twitter.android",
@@ -16945,6 +17180,26 @@
 "Enable Premium"
 ],
 [
+"demigos.com.mobilism",
+"FTL",
+"Keyword filter"
+],
+[
+"demigos.com.mobilism",
+"FTL",
+"Material colors"
+],
+[
+"demigos.com.mobilism",
+"FTL",
+"Mod settings"
+],
+[
+"demigos.com.mobilism",
+"FTL",
+"Skip splash screen"
+],
+[
 "dev.goodwy.gallery",
 "GitGitro",
 "Unlock premium"
@@ -17808,6 +18063,11 @@
 "jp.naver.line.android",
 "Uta-a",
 "\u901a\u77e5\u304b\u3089\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u958b\u304f"
+],
+[
+"jp.ne.ibis.ibispaintx.app",
+"Kveld9 Extra",
+"Enable Prime membership"
 ],
 [
 "jp.pxv.android",
@@ -19785,6 +20045,31 @@
 "Unlock aCalendar+"
 ],
 [
+"org.yoki.android.buienalarm",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"org.yoki.android.buienalarm",
+"Johnneerdael",
+"Fix Google services"
+],
+[
+"org.yoki.android.buienalarm",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"org.yoki.android.buienalarm",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"org.yoki.android.buienalarm",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
 "org.zotero.android",
 "Raphaelbahat",
 "Custom sync server"
@@ -19832,6 +20117,11 @@
 [
 "pdb.app",
 "Madushas",
+"Mock Pro (client-side)"
+],
+[
+"pdb.app",
+"Madushas",
 "No profile-visitor limit"
 ],
 [
@@ -19853,6 +20143,11 @@
 "pdb.app",
 "Madushas",
 "Show profile IDs on names"
+],
+[
+"pdb.app",
+"Madushas",
+"Soul history"
 ],
 [
 "pdb.app",
@@ -20220,6 +20515,11 @@
 "Unlock premium"
 ],
 [
+"ru.mes.dnevnik",
+"NextStepTeam",
+"\u0421\u043c\u0435\u043d\u0430 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f"
+],
+[
 "ru.ozon.app.android",
 "Jl4cTuk",
 "Disable checkout tips"
@@ -20263,6 +20563,21 @@
 "ru.ozon.app.android",
 "Jl4cTuk",
 "Show final prices only"
+],
+[
+"ru.ozon.fintech.finance",
+"Jl4cTuk",
+"Disable Ozon Bank VPN warning"
+],
+[
+"ru.ozon.fintech.finance",
+"Jl4cTuk",
+"Hide Ozon Bank benefit sections"
+],
+[
+"ru.ozon.fintech.finance",
+"Jl4cTuk",
+"Hide Ozon Bank promotions"
 ],
 [
 "ru.rutube.app",
