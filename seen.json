@@ -100,6 +100,11 @@
 "Enable Premium"
 ],
 [
+"app.prolauncher",
+"Theol-Git",
+"Pro unlock"
+],
+[
 "app.revanced.android.apps.maps",
 "Bartlomiejfornalczyk",
 "Allow Morphe YouTube Music mini player"
@@ -1597,6 +1602,11 @@
 [
 "com.athan",
 "Hxreborn",
+"Remove promotions"
+],
+[
+"com.athan",
+"Hxreborn",
 "Save images to gallery"
 ],
 [
@@ -2595,6 +2605,11 @@
 "Premium Unlocked"
 ],
 [
+"com.comuto",
+"Saurabh825",
+"Remove Ads"
+],
+[
 "com.creditkarma.mobile",
 "Aidan",
 "Remove Tracking"
@@ -2693,6 +2708,16 @@
 "com.discord",
 "VenusIsJaded",
 "Bring back Tenor GIFs"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Bulk delete messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Clean channel names"
 ],
 [
 "com.discord",
@@ -2817,6 +2842,11 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Hide blocked or ignored messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Hide call button"
 ],
 [
@@ -2867,7 +2897,17 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Keep Bluetooth audio clear in calls"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Keep deleted messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Material You colors"
 ],
 [
 "com.discord",
@@ -2978,6 +3018,11 @@
 "com.discord",
 "VenusIsJaded",
 "Translate messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Unlock Discord experiments"
 ],
 [
 "com.discord",
@@ -4082,6 +4127,11 @@
 [
 "com.facebook.lite",
 "BlazeFTL Facebook",
+"Disable in-app browser"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
 "Hide sponsored posts"
 ],
 [
@@ -4233,6 +4283,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Hide Reels badge"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Hide Your story when sharing"
 ],
 [
 "com.facebook.orca",
@@ -4418,6 +4473,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Spoof package version"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Square profile pictures"
 ],
 [
 "com.facebook.orca",
@@ -6235,6 +6295,16 @@
 "Free IAP"
 ],
 [
+"com.halfbrick.jetpackjoyride",
+"byehi98",
+"Free Ad Rewards"
+],
+[
+"com.halfbrick.jetpackjoyride",
+"byehi98",
+"Remove Ads"
+],
+[
 "com.hapibits.soundlift",
 "Hxreborn",
 "Unlock premium"
@@ -7267,6 +7337,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Tab bar layout"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Tap a feed video to pause it"
 ],
 [
@@ -8047,6 +8122,11 @@
 [
 "com.kick.mobile",
 "JordanWoodson",
+"Lurk in account menu"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Mute stitched live ads"
 ],
 [
@@ -8262,6 +8342,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Fix webpage previews"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Hacker News Feed"
 ],
 [
@@ -8278,6 +8363,11 @@
 "com.laurencedawson.reddit_sync",
 "Mix",
 "Restore deleted posts"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Show linked images inline"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -8348,6 +8438,11 @@
 "com.lemon.lvoverseas",
 "Kveld9 Extra",
 "Native Bloat Slimmer"
+],
+[
+"com.lemon.lvoverseas",
+"Kveld9 Extra",
+"Neutralize Play Billing"
 ],
 [
 "com.lemon.lvoverseas",
@@ -9993,6 +10088,16 @@
 "com.overdevs.at4k",
 "Saieshshirodkar",
 "Unlock Premium"
+],
+[
+"com.overlook.android.fing",
+"Pigfoot",
+"Fing local premium features"
+],
+[
+"com.overlook.android.fing",
+"Pigfoot",
+"Fing reduce telemetry"
 ],
 [
 "com.ovz.carscanner",
@@ -13300,6 +13405,11 @@
 "Unlock Moovit+"
 ],
 [
+"com.tranzmate",
+"Kveld9 Extra",
+"Use Places API (New)"
+],
+[
 "com.traviangames.travianlegendsmobile",
 "Amitaisela",
 "Travian Tools"
@@ -13448,6 +13558,16 @@
 "com.truecaller",
 "Heval",
 "Hide family button"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide frequently called contacts"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide important senders"
 ],
 [
 "com.truecaller",
@@ -20902,6 +21022,16 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Emote and badge info"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Fill screen"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Fix notifications"
 ],
 [
@@ -21108,6 +21238,11 @@
 "tv.twitch.android.app",
 "Ryykitty",
 "Reload stream"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
+"Show deleted messages"
 ],
 [
 "tv.twitch.android.app",
