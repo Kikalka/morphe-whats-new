@@ -190,6 +190,56 @@
 "Unlock Premium Features"
 ],
 [
+"be.persgroep.android.news.mobiletr",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobiletr",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobiletr",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobiletr",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobiletr",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
 "ca.cbc.mobile.android.cbcnewsandroidwebview",
 "Ryley",
 "Disable ads"
@@ -268,6 +318,11 @@
 "ch.protonmail.android",
 "Hxreborn",
 "Hide layout components"
+],
+[
+"ch.protonmail.android",
+"Hxreborn",
+"M3E loading indicator"
 ],
 [
 "ch.protonmail.android",
@@ -457,6 +512,86 @@
 [
 "cn.vr4p.oculus4xvrplayerov",
 "Steam Link GalaxyXR",
+"libplacebo HDR pipeline (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"5.1-channel audio bridge (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Audio bridge payload (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Frame-synced render dispatch (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Galaxy XR controller models (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Galaxy XR launch compatibility (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Galaxy XR launcher icon (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Galaxy XR refresh profile (72 Hz, 4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"HDR pipeline payload (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Meta platform decoupling (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Popup refresh on resume (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Premium unlock (4XVR, experimental)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Render dispatch payload (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Startup and UI continuity helper (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Subtitle suite (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
+"Subtitle suite payload (4XVR)"
+],
+[
+"cn.vr4p.oculus4xvrplayerov",
+"XR Porting Hub",
 "libplacebo HDR pipeline (4XVR)"
 ],
 [
@@ -1900,6 +2035,26 @@
 "Unlock premium"
 ],
 [
+"com.blackmagicdesign.android.blackmagiccam",
+"Azain47",
+"Configurable bitrate tiers"
+],
+[
+"com.blackmagicdesign.android.blackmagiccam",
+"Azain47",
+"Disable license check"
+],
+[
+"com.blackmagicdesign.android.blackmagiccam",
+"Azain47",
+"Smooth gallery thumbnails"
+],
+[
+"com.blackmagicdesign.android.blackmagiccam",
+"Azain47",
+"Unlock developer options"
+],
+[
 "com.bleacherreport.android.teamstream",
 "Heval",
 "Disable ads"
@@ -2608,6 +2763,21 @@
 "com.comuto",
 "Saurabh825",
 "Remove Ads"
+],
+[
+"com.connected2.ozzy.c2m",
+"Hxreborn",
+"Enable chat in all regions"
+],
+[
+"com.connected2.ozzy.c2m",
+"Hxreborn",
+"Remove app protection"
+],
+[
+"com.connected2.ozzy.c2m",
+"Hxreborn",
+"Spoof signature"
 ],
 [
 "com.creditkarma.mobile",
@@ -3632,6 +3802,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Badge and logo colors"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Block Instant Games ads"
 ],
 [
@@ -4007,6 +4182,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Post action buttons"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Restore screens on re-signed builds"
 ],
 [
@@ -4033,6 +4213,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Show View profile on Marketplace sellers"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Show full post text"
 ],
 [
 "com.facebook.katana",
@@ -4643,6 +4828,11 @@
 "com.fingersoft.hillclimb",
 "Legendsciber",
 "Hill Climb Racing Unlimited Second Chance"
+],
+[
+"com.firsty.app",
+"Trimpsuz",
+"Auto-claim free data"
 ],
 [
 "com.fivemobile.thescore",
@@ -7122,6 +7312,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Keep your place in Home"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Lock your messages"
 ],
 [
@@ -7232,6 +7427,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Seek bar on stories"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Show a post's exact time"
 ],
 [
@@ -7287,6 +7487,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Start reels with sound"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Start stories with sound"
 ],
 [
@@ -7337,6 +7542,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Swipe through a chat's reels"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Tab bar layout"
 ],
 [
@@ -7348,6 +7558,11 @@
 "com.instagram.android",
 "HushGram",
 "Tap to play"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Thicker story progress bar"
 ],
 [
 "com.instagram.android",
@@ -11342,6 +11557,11 @@
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
+"Fix profile About scrolling"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
 "Fix slow Giphy loading"
 ],
 [
@@ -11730,6 +11950,11 @@
 "Unlock pro features"
 ],
 [
+"com.samsung.android.app.notes",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
 "com.samsung.android.game.gamehome",
 "RatataBananana-Bit",
 "Hide Events button"
@@ -11798,6 +12023,41 @@
 "com.samsung.android.homemode",
 "Giaaaacomo",
 "Use phone charging as dock"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Always incognito"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Change app name"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Change package name"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Disable telemetry"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"No GIF tracking"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Remove internet permission"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Stop remote updates"
 ],
 [
 "com.sauzask.nicoid",
@@ -12258,6 +12518,106 @@
 "com.spookyhousestudios.progressbar95",
 "byehi98",
 "Skip Play License Check"
+],
+[
+"com.spotify.music",
+"2eno",
+"Block popup ads"
+],
+[
+"com.spotify.music",
+"2eno",
+"Fix third party launchers widgets"
+],
+[
+"com.spotify.music",
+"2eno",
+"Hide Premium tab"
+],
+[
+"com.spotify.music",
+"2eno",
+"Hide ad sections"
+],
+[
+"com.spotify.music",
+"2eno",
+"Hide ad views"
+],
+[
+"com.spotify.music",
+"2eno",
+"Hide context menu upsells"
+],
+[
+"com.spotify.music",
+"2eno",
+"Hide playlist ads"
+],
+[
+"com.spotify.music",
+"2eno",
+"Hide video ads"
+],
+[
+"com.spotify.music",
+"2eno",
+"Mute audio ads"
+],
+[
+"com.spotify.music",
+"2eno",
+"Sanitize sharing links"
+],
+[
+"com.spotify.music",
+"Oyasumi",
+"Disable Smart Shuffle default"
+],
+[
+"com.spotify.music",
+"Oyasumi",
+"Disable ads"
+],
+[
+"com.spotify.music",
+"Spicetify",
+"Clean sharing links"
+],
+[
+"com.spotify.music",
+"Spicetify",
+"Hide Home and Browse ads"
+],
+[
+"com.spotify.music",
+"Spicetify",
+"Hide Premium tab"
+],
+[
+"com.spotify.music",
+"Spicetify",
+"Hide player ad cards"
+],
+[
+"com.spotify.music",
+"Spicetify",
+"Local files from a server"
+],
+[
+"com.spotify.music",
+"Spicetify",
+"Pin shortcuts on Home"
+],
+[
+"com.spotify.music",
+"Spicetify",
+"Spicetify extensions"
+],
+[
+"com.spotify.music",
+"Spicetify",
+"Theme colors"
 ],
 [
 "com.sqcom.shangqing",
@@ -13013,6 +13373,31 @@
 "com.superchinese",
 "Hoodles",
 "Block launch upsell"
+],
+[
+"com.supportware.Buienradar",
+"Johnneerdael",
+"Disable Swrve and location upload"
+],
+[
+"com.supportware.Buienradar",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"com.supportware.Buienradar",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"com.supportware.Buienradar",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"com.supportware.Buienradar",
+"Johnneerdael",
+"Skip consent screens"
 ],
 [
 "com.supportware.Buienradar",
@@ -14122,6 +14507,11 @@
 [
 "com.twitter.android",
 "Piko NewX",
+"NewX: Enable quality-of-life feature flags"
+],
+[
+"com.twitter.android",
+"Piko NewX",
 "NewX: Feature switch overrides"
 ],
 [
@@ -15077,6 +15467,21 @@
 [
 "com.waze",
 "Bearinmind",
+"Remove permissions"
+],
+[
+"com.waze",
+"Bearinmind",
+"Remove sign-in prompts"
+],
+[
+"com.waze",
+"Bearinmind",
+"Remove telemetry"
+],
+[
+"com.waze",
+"Bearinmind",
 "Report speed limit"
 ],
 [
@@ -15488,6 +15893,31 @@
 "com.xinesoft.notifications",
 "Wagg13Patch",
 "Remove ads and video blocking"
+],
+[
+"com.xs2theworld.weeronline",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"com.xs2theworld.weeronline",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"com.xs2theworld.weeronline",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"com.xs2theworld.weeronline",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"com.xs2theworld.weeronline",
+"Johnneerdael",
+"Unlock Plus"
 ],
 [
 "com.xunijun.app.gp",
@@ -17302,6 +17732,21 @@
 [
 "demigos.com.mobilism",
 "FTL",
+"Copy link button"
+],
+[
+"demigos.com.mobilism",
+"FTL",
+"Hide discussions"
+],
+[
+"demigos.com.mobilism",
+"FTL",
+"Hide premium"
+],
+[
+"demigos.com.mobilism",
+"FTL",
 "Keyword filter"
 ],
 [
@@ -17313,6 +17758,11 @@
 "demigos.com.mobilism",
 "FTL",
 "Mod settings"
+],
+[
+"demigos.com.mobilism",
+"FTL",
+"Open in latest"
 ],
 [
 "demigos.com.mobilism",
@@ -18280,6 +18730,16 @@
 "Unlock premium"
 ],
 [
+"mk.neptun.neptunapp",
+"CallMeBeyonder",
+"Bypass integrity checks"
+],
+[
+"mk.neptun.neptunapp",
+"CallMeBeyonder",
+"Unlock Premium"
+],
+[
 "ml.docilealligator.infinityforreddit.plus",
 "Brealorg",
 "Modify login WebView"
@@ -18605,9 +19065,84 @@
 "dumpert-premium"
 ],
 [
+"nl.flitsmeister",
+"Johnneerdael",
+"Hide Pro notices"
+],
+[
+"nl.flitsmeister",
+"Johnneerdael",
+"Unlock Pro"
+],
+[
+"nl.ftm.ftmpulse",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.ftm.ftmpulse",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"nl.ftm.ftmpulse",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"nl.ftm.ftmpulse",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
 "nl.nlziet",
 "DigitalPals",
 "NLZIET native picture-in-picture"
+],
+[
+"nl.sanomamedia.android.nu",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.sanomamedia.android.nu",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"nl.sanomamedia.android.nu",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.sanomamedia.android.nu",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.weerplaza.app",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.weerplaza.app",
+"Johnneerdael",
+"Fix Google Maps"
+],
+[
+"nl.weerplaza.app",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"nl.weerplaza.app",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.weerplaza.app",
+"Johnneerdael",
+"Skip consent screens"
 ],
 [
 "np.com.nepalipatro",
@@ -20222,6 +20757,11 @@
 [
 "pdb.app",
 "Madushas",
+"Chat button on profiles"
+],
+[
+"pdb.app",
+"Madushas",
 "Disable trackers"
 ],
 [
@@ -20472,6 +21012,11 @@
 [
 "proton.android.authenticator",
 "Hxreborn",
+"M3E loading indicator"
+],
+[
+"proton.android.authenticator",
+"Hxreborn",
 "Material 3 loading indicator"
 ],
 [
@@ -20508,6 +21053,11 @@
 "proton.android.pass",
 "Hxreborn",
 "Hide upgrade promotions"
+],
+[
+"proton.android.pass",
+"Hxreborn",
+"M3E loading indicator"
 ],
 [
 "proton.android.pass",

@@ -1,25 +1,6 @@
 {
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"5.1-channel audio bridge (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Audio bridge payload (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Frame-synced render dispatch (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Galaxy XR controller models (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Galaxy XR launch compatibility (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Galaxy XR launcher icon (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Galaxy XR refresh profile (72 Hz, 4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"HDR pipeline payload (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Meta platform decoupling (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Popup refresh on resume (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Premium unlock (4XVR, experimental)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Render dispatch payload (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Startup and UI continuity helper (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Subtitle suite (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"Subtitle suite payload (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"cn.vr4p.oculus4xvrplayerov\", \"XR Porting Hub\", \"libplacebo HDR pipeline (4XVR)\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"demigos.com.mobilism\", \"FTL\", \"Copy link button\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"demigos.com.mobilism\", \"FTL\", \"Hide discussions\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"demigos.com.mobilism\", \"FTL\", \"Hide premium\"]": "2026-10-26T16:41:55.944365+00:00",
- "[\"demigos.com.mobilism\", \"FTL\", \"Open in latest\"]": "2026-10-26T16:41:55.944365+00:00",
  "[\"com.miui.screenrecorder\", \"FluffyDiscord\", \"Mark tile icon\"]": "2026-10-27T01:21:49.644931+00:00",
  "[\"com.miui.screenrecorder\", \"FluffyDiscord\", \"Unlock high frame rates\"]": "2026-10-27T01:21:49.644931+00:00",
- "[\"com.playz.tv\", \"GinDoki19\", \"Remove ads, popups & restrictions\"]": "2026-10-27T15:49:19.034914+00:00"
+ "[\"com.playz.tv\", \"GinDoki19\", \"Remove ads, popups & restrictions\"]": "2026-10-27T15:49:19.034914+00:00",
+ "[\"com.sec.android.gallery3d\", \"Bearinmind\", \"Enable non-One UI ROM support\"]": "2026-10-28T01:06:39.180575+00:00"
 }
