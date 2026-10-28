@@ -85,6 +85,16 @@
 "Vietnamese interface"
 ],
 [
+"app.pinya.mango",
+"Heval",
+"Disable license check"
+],
+[
+"app.pinya.mango",
+"Heval",
+"Enable Premium"
+],
+[
 "app.privacynotes",
 "Hxreborn",
 "Unlock premium"
@@ -190,6 +200,56 @@
 "Unlock Premium Features"
 ],
 [
+"be.persgroep.android.news.mobilead",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobilead",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobilead",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobilead",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobilead",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
 "be.persgroep.android.news.mobiletr",
 "Johnneerdael",
 "Disable tracking"
@@ -238,6 +298,16 @@
 "be.persgroep.android.news.mobilevk",
 "Johnneerdael",
 "Skip consent screens"
+],
+[
+"bitpit.launcher",
+"Heval",
+"Disable telemetry"
+],
+[
+"bitpit.launcher",
+"Heval",
+"Enable Premium"
 ],
 [
 "ca.cbc.mobile.android.cbcnewsandroidwebview",
@@ -2772,7 +2842,17 @@
 [
 "com.connected2.ozzy.c2m",
 "Hxreborn",
+"Keep deleted messages"
+],
+[
+"com.connected2.ozzy.c2m",
+"Hxreborn",
 "Remove app protection"
+],
+[
+"com.connected2.ozzy.c2m",
+"Hxreborn",
+"Remove screenshot restriction"
 ],
 [
 "com.connected2.ozzy.c2m",
@@ -2828,6 +2908,11 @@
 "com.dev2a.junk_journal",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.dev47apps.obsdroidcam",
+"Heval",
+"Disable ads"
 ],
 [
 "com.devone.filetreesize",
@@ -3483,6 +3568,31 @@
 "com.ea.game.pvzfree_row",
 "byehi98",
 "PvZ FREE Free IAP"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"Ad-free"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"Crash-guard"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"Cross-promo-redirect"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"Network-cut"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"Telemetry-disabled"
 ],
 [
 "com.eab.se",
@@ -5032,6 +5142,11 @@
 [
 "com.fyxtech.muslim",
 "Heval",
+"Hide feed clutter"
+],
+[
+"com.fyxtech.muslim",
+"Heval",
 "Hide premium banners"
 ],
 [
@@ -5088,6 +5203,11 @@
 "com.getaloa.app",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.getupnote.android",
+"Heval",
+"Enable Premium"
 ],
 [
 "com.git.agriconnect",
@@ -5538,6 +5658,11 @@
 "com.google.android.apps.maps",
 "Fangkampanat",
 "Google Maps for MicroG-RE"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat",
+"Picture-in-picture setting"
 ],
 [
 "com.google.android.apps.maps",
@@ -8400,6 +8525,21 @@
 "Subway Surfers Free IAP"
 ],
 [
+"com.kleientertainment.doNotStarvePocket",
+"Steeepaaaan",
+"Neutralize PDALIFE JNI_OnLoad (universal)"
+],
+[
+"com.kleientertainment.doNotStarvePocket",
+"Steeepaaaan",
+"Remove PDALIFE Application from manifest"
+],
+[
+"com.kleientertainment.doNotStarvePocket",
+"Steeepaaaan",
+"Remove PDALIFE config assets"
+],
+[
 "com.klevico.monet",
 "Hxreborn",
 "Unlock premium"
@@ -9313,6 +9453,16 @@
 "com.miruronative",
 "Anilili",
 "Fix Recycled Bitmap Crash"
+],
+[
+"com.miui.screenrecorder",
+"FluffyDiscord",
+"Mark tile icon"
+],
+[
+"com.miui.screenrecorder",
+"FluffyDiscord",
+"Unlock high frame rates"
 ],
 [
 "com.mixplorer",
@@ -10795,9 +10945,29 @@
 "Unlock Pro"
 ],
 [
+"com.playdigious.slimerancher",
+"Steeepaaaan",
+"Neutralize PDALIFE JNI_OnLoad (universal)"
+],
+[
+"com.playdigious.slimerancher",
+"Steeepaaaan",
+"Remove PDALIFE Application from manifest"
+],
+[
+"com.playdigious.slimerancher",
+"Steeepaaaan",
+"Remove PDALIFE config assets"
+],
+[
 "com.playrix.gardenscapes",
 "Dudek",
 "Repair negative stars once"
+],
+[
+"com.playz.tv",
+"GinDoki19",
+"Remove ads, popups & restrictions"
 ],
 [
 "com.pleco.chinesesystem",
@@ -10935,6 +11105,11 @@
 "Unlock World Map Quiz Premium Mode and Disable Ads"
 ],
 [
+"com.qqlabs.minimalistlauncher",
+"Heval",
+"Enable Premium"
+],
+[
 "com.qtrun.QuickTest",
 "Jzl1",
 "Bundle QuickTest configuration"
@@ -10976,6 +11151,16 @@
 ],
 [
 "com.rammigsoftware.bluecoins",
+"Heval",
+"Enable Premium"
+],
+[
+"com.rarecam.app",
+"Heval",
+"Disable license check"
+],
+[
+"com.rarecam.app",
 "Heval",
 "Enable Premium"
 ],
@@ -11092,6 +11277,11 @@
 [
 "com.robtopx.geometrydashmeltdown",
 "Dieroboter",
+"Disable rate prompts"
+],
+[
+"com.robtopx.geometrydashmeltdown",
+"Dieroboter",
 "Strip ad tracking permissions"
 ],
 [
@@ -11112,6 +11302,11 @@
 [
 "com.robtopx.geometrydashsubzero",
 "Dieroboter",
+"Disable rate prompts"
+],
+[
+"com.robtopx.geometrydashsubzero",
+"Dieroboter",
 "Strip ad tracking permissions"
 ],
 [
@@ -11128,6 +11323,11 @@
 "com.robtopx.geometrydashworld",
 "Dieroboter",
 "Disable banner and interstitial ads"
+],
+[
+"com.robtopx.geometrydashworld",
+"Dieroboter",
+"Disable rate prompts"
 ],
 [
 "com.robtopx.geometrydashworld",
@@ -14260,6 +14460,36 @@
 "Hide Tuya AI Web Version"
 ],
 [
+"com.twipemobile.nrc",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"com.twipemobile.nrc",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"com.twipemobile.nrc",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"com.twipemobile.nrc",
+"Johnneerdael",
+"Hide newspaper tab"
+],
+[
+"com.twipemobile.nrc",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"com.twipemobile.nrc",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
 "com.twitter.android",
 "AetherMagee",
 "Account location badges"
@@ -14701,6 +14931,11 @@
 ],
 [
 "com.twitter.android",
+"Sylonin",
+"Account location badges"
+],
+[
+"com.twitter.android",
 "Xittered",
 "Change package name"
 ],
@@ -14708,6 +14943,26 @@
 "com.twitter.android",
 "Xittered",
 "Xitter"
+],
+[
+"com.twodboy.wog2",
+"Steeepaaaan",
+"Neutralize PDALIFE JNI_OnLoad (universal)"
+],
+[
+"com.twodboy.wog2",
+"Steeepaaaan",
+"Remove PDALIFE Application from manifest"
+],
+[
+"com.twodboy.wog2",
+"Steeepaaaan",
+"Remove PDALIFE config assets"
+],
+[
+"com.twodoor.bookly",
+"Heval",
+"Enable Premium"
 ],
 [
 "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
@@ -14743,6 +14998,21 @@
 "com.umberlab.local.tts",
 "Rudrakshrajpurohit417",
 "Local TTS Pro"
+],
+[
+"com.unknownworlds.subnautica",
+"Steeepaaaan",
+"Neutralize PDALIFE JNI_OnLoad (universal)"
+],
+[
+"com.unknownworlds.subnautica",
+"Steeepaaaan",
+"Remove PDALIFE Application from manifest"
+],
+[
+"com.unknownworlds.subnautica",
+"Steeepaaaan",
+"Remove PDALIFE config assets"
 ],
 [
 "com.untappdllc.app",
@@ -15417,6 +15687,11 @@
 [
 "com.waze",
 "Bearinmind",
+"Average speed zone bar"
+],
+[
+"com.waze",
+"Bearinmind",
 "Bigger alert pins"
 ],
 [
@@ -15428,6 +15703,11 @@
 "com.waze",
 "Bearinmind",
 "Change app name"
+],
+[
+"com.waze",
+"Bearinmind",
+"Flock cameras"
 ],
 [
 "com.waze",
@@ -17800,6 +18080,11 @@
 "Free content"
 ],
 [
+"dk.dr.tvplayer",
+"Zenthora",
+"Dark theme"
+],
+[
 "easy.launcher",
 "Heval",
 "Disable ads"
@@ -18002,7 +18287,17 @@
 [
 "idm.internet.download.manager",
 "GinDoki19",
+"AdBlocker turbo & userscript bundle"
+],
+[
+"idm.internet.download.manager",
+"GinDoki19",
 "Browser setup prompts only once"
+],
+[
+"idm.internet.download.manager",
+"GinDoki19",
+"Optimize cold start and battery"
 ],
 [
 "idm.internet.download.manager",
@@ -18028,6 +18323,11 @@
 "idm.internet.download.manager.plus",
 "FTL",
 "Rename 1DM to IDM"
+],
+[
+"ie.rte.news",
+"Heval",
+"Disable ads"
 ],
 [
 "im.thebot.messenger",
@@ -18148,6 +18448,16 @@
 "io.syncapps.lemmy_sync",
 "Brealorg",
 "Disable ads"
+],
+[
+"io.unorderly.structured",
+"Heval",
+"Disable license check"
+],
+[
+"io.unorderly.structured",
+"Heval",
+"Enable Premium"
 ],
 [
 "io.yuka.android",
@@ -19067,7 +19377,27 @@
 [
 "nl.flitsmeister",
 "Johnneerdael",
+"Disable partner services"
+],
+[
+"nl.flitsmeister",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.flitsmeister",
+"Johnneerdael",
+"Fix PairIP startup"
+],
+[
+"nl.flitsmeister",
+"Johnneerdael",
 "Hide Pro notices"
+],
+[
+"nl.flitsmeister",
+"Johnneerdael",
+"Hide ads"
 ],
 [
 "nl.flitsmeister",
@@ -19083,6 +19413,11 @@
 "nl.ftm.ftmpulse",
 "Johnneerdael",
 "Hide Premium banner"
+],
+[
+"nl.ftm.ftmpulse",
+"Johnneerdael",
+"Hide ads"
 ],
 [
 "nl.ftm.ftmpulse",
@@ -21378,6 +21713,31 @@
 "sa.gov.moia.beneficiaryapp",
 "Loody227",
 "Bypass root / bootloader detection"
+],
+[
+"se.footballaddicts.livescore",
+"Heval",
+"Disable ads"
+],
+[
+"se.footballaddicts.livescore",
+"Heval",
+"Disable telemetry"
+],
+[
+"se.footballaddicts.livescore",
+"Heval",
+"Enable Premium"
+],
+[
+"se.footballaddicts.livescore",
+"Heval",
+"Hide betting content"
+],
+[
+"se.footballaddicts.livescore",
+"Heval",
+"Spoof signature"
 ],
 [
 "sharefiles.sharemusic.shareapps.filetransfer",
