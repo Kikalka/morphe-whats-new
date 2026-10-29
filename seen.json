@@ -3635,6 +3635,11 @@
 "Flowx - Diagnostica autorizzazione Gold"
 ],
 [
+"com.enzuredigital.weatherbomb",
+"Edoardo9708",
+"Flowx - Test stato Gold locale"
+],
+[
 "com.eset.ems2.gp",
 "MightyMich",
 "Enable premium license"
@@ -5362,7 +5367,17 @@
 [
 "com.google.android.GoogleCamera",
 "Pixel Camera",
+"AV1 Video Hardware Encoding"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
 "Camera Looks Backport"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"Max Display Brightness"
 ],
 [
 "com.google.android.GoogleCamera",
@@ -5383,6 +5398,11 @@
 "com.google.android.GoogleCamera",
 "Pixel Camera",
 "Pixel Camera Creator Suite"
+],
+[
+"com.google.android.GoogleCamera",
+"Pixel Camera",
+"Pro Image Quality & Denoise Tuning"
 ],
 [
 "com.google.android.GoogleCamera",
@@ -6968,6 +6988,11 @@
 "com.instagram.android",
 "Aic0d3r",
 "Ghost mode"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Hide Meta AI"
 ],
 [
 "com.instagram.android",
@@ -8565,6 +8590,11 @@
 "Monet - Unlock premium (Experimental, any version)"
 ],
 [
+"com.ktwapps.soundmeter",
+"Edoardo9708",
+"Fonometro - Remove ads"
+],
+[
 "com.lagguy.wallpapers",
 "Hxreborn",
 "GmsCore support"
@@ -8957,6 +8987,11 @@
 [
 "com.linkedin.android",
 "Heyymichii",
+"GmsCore support"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
 "Hide Premium upsells"
 ],
 [
@@ -8988,6 +9023,11 @@
 "com.linkedin.android",
 "Heyymichii",
 "Open links directly"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Remove gaps and dividers"
 ],
 [
 "com.linkedin.android",
@@ -12400,6 +12440,11 @@
 "Hide home promotion panel"
 ],
 [
+"com.sec.android.gallery3d",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
 "com.serializdmobile",
 "Hxreborn",
 "Disable tracking"
@@ -13662,6 +13707,11 @@
 [
 "com.tapblaze.coffeebusiness",
 "Dudek",
+"Non-blocking update notice"
+],
+[
+"com.tapblaze.coffeebusiness",
+"Dudek",
 "Skip rewarded ads"
 ],
 [
@@ -13828,6 +13878,131 @@
 "com.thinkdirty.thinkdirtyapp",
 "Dowjames",
 "Unlock premium"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Allow Screenshots"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Battery & Resource Saver"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Block Popups & Prompts"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Block Trackers"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Block Trackers (Setup)"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Bypass Mandatory Login"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Camera & Microphone Indicator"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Clean Share Links"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Disable History Recording"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Disable Push Notifications"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Disable QUIC"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Download Without Watermark"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Feed Ads & Content Filter"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Force Auto-Scroll"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Friends & Suggestions Filter"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"In-App Browser Privacy Guard"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Login Compatibility Fix"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Playback & Display Governor"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Remember Clear Display"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Remember Playback Speed"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"SIM Region Selector"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Show Exact Counts"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Show Seekbar"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Stop Video Looping"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Strip Sensitive Permissions"
 ],
 [
 "com.tinder",
@@ -15000,6 +15175,21 @@
 "Local TTS Pro"
 ],
 [
+"com.unicornsonlsd.finamp",
+"Pengusto",
+"Fix section title validation"
+],
+[
+"com.unicornsonlsd.finamp",
+"Pengusto",
+"Load artist pages faster"
+],
+[
+"com.unicornsonlsd.finamp",
+"Pengusto",
+"Song artist order"
+],
+[
 "com.unknownworlds.subnautica",
 "Steeepaaaan",
 "Neutralize PDALIFE JNI_OnLoad (universal)"
@@ -16127,12 +16317,52 @@
 [
 "com.whereismytrain.android",
 "Shuhaibnc",
+"Change Accent Color (Bytecode Dependency)"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
 "Change Accent Color (Bytecode)"
 ],
 [
 "com.whereismytrain.android",
 "Shuhaibnc",
+"Cloud Tower"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
+"Debug Mode"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
 "Enable Internal Settings"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
+"Hide Items From Sidebar"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
+"Mock Tower"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
+"Remember Date Selection"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
+"Show Running Days in Tracking"
+],
+[
+"com.whereismytrain.android",
+"Shuhaibnc",
+"Simulate Cell Tower"
 ],
 [
 "com.whereismytrain.android",
@@ -19065,6 +19295,16 @@
 "Configure custom OAuth for Infinity+"
 ],
 [
+"ml.docilealligator.infinityforreddit.plus2",
+"Patcheddit",
+"Modify login WebView"
+],
+[
+"ml.docilealligator.infinityforreddit.plus2",
+"Patcheddit",
+"Spoof client"
+],
+[
 "mobi.charmer.magovideo",
 "MightyMich",
 "Unlock Premium"
@@ -19371,6 +19611,21 @@
 ],
 [
 "nl.dumpert",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.dumpert",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.dumpert",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.dumpert",
 "ns1207",
 "dumpert-premium"
 ],
@@ -19433,6 +19688,36 @@
 "nl.nlziet",
 "DigitalPals",
 "NLZIET native picture-in-picture"
+],
+[
+"nl.omroepbrabant.android",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.omroepbrabant.android",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.omroepbrabant.android",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.rtl.rtlnieuws",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.rtl.rtlnieuws",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.rtl.rtlnieuws",
+"Johnneerdael",
+"Skip consent screens"
 ],
 [
 "nl.sanomamedia.android.nu",
@@ -21758,6 +22043,11 @@
 "todolist.scheduleplanner.dailyplanner.todo.reminders",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"tv.twitch.android.app",
+"Android TV",
+"Playback speed controls"
 ],
 [
 "tv.twitch.android.app",
