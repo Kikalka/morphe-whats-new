@@ -200,6 +200,11 @@
 "Unlock Premium Features"
 ],
 [
+"bbc.mobile.news.ww",
+"Heval",
+"Disable ads"
+],
+[
 "be.persgroep.android.news.mobilead",
 "Johnneerdael",
 "Disable tracking"
@@ -1700,6 +1705,11 @@
 "Unlock Pro"
 ],
 [
+"com.apple.android.music",
+"Mormislaw",
+"DHU adapter"
+],
+[
 "com.appmind.radios.id",
 "Mfakh",
 "Disable analytics"
@@ -1743,6 +1753,21 @@
 "com.appums.music_pitcher_radio",
 "MightyMich",
 "Unlock Pro Features"
+],
+[
+"com.asanayoga.asanarebel",
+"AlexandreL",
+"Skip privacy consent screen"
+],
+[
+"com.asanayoga.asanarebel",
+"AlexandreL",
+"Skip sign up and login"
+],
+[
+"com.asanayoga.asanarebel",
+"AlexandreL",
+"Unlock Asana Rebel Pro"
 ],
 [
 "com.ashtoncofer.Buzz",
@@ -3640,6 +3665,16 @@
 "Flowx - Test stato Gold locale"
 ],
 [
+"com.eoffice.android",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"com.eoffice.android",
+"Johnneerdael",
+"Hide promotions"
+],
+[
 "com.eset.ems2.gp",
 "MightyMich",
 "Enable premium license"
@@ -4900,6 +4935,16 @@
 "Skip rewarded ads"
 ],
 [
+"com.fenchtose.reflog",
+"Heval",
+"Enable Premium"
+],
+[
+"com.fengeon.resprite_desktop",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.ferdinandobermeier.focusmate",
 "Hxreborn",
 "Disable tracking"
@@ -5298,6 +5343,11 @@
 "com.gm.shadhin",
 "Media",
 "Stream content"
+],
+[
+"com.gmail.jmartindev.timetune",
+"Heval",
+"Enable Premium"
 ],
 [
 "com.gooded.essential",
@@ -5795,6 +5845,11 @@
 "Allow external media browser connections"
 ],
 [
+"com.google.android.apps.youtube.music",
+"Mormislaw",
+"DHU adapter"
+],
+[
 "com.google.android.apps.youtube.vr.oculus",
 "Commit-Regrets",
 "App name"
@@ -5928,6 +5983,11 @@
 "com.google.android.inputmethod.latin",
 "Gboard",
 "Custom Theme"
+],
+[
+"com.google.android.inputmethod.latin",
+"Gboard",
+"Dictionaries & Predictions"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -6625,6 +6685,16 @@
 "Unlock premium"
 ],
 [
+"com.halfbrick.dantheman",
+"byehi98",
+"Free IAP"
+],
+[
+"com.halfbrick.dantheman",
+"byehi98",
+"Native IAP Patch"
+],
+[
 "com.halfbrick.fruitninjafree",
 "byehi98",
 "Free IAP"
@@ -6808,6 +6878,16 @@
 "com.ichi2.anki",
 "Titandrive",
 "AnkiDroid Catppuccin theme and fonts"
+],
+[
+"com.ihad.ptt",
+"Pigfoot",
+"PiTT GmsCore Google sign-in"
+],
+[
+"com.ihad.ptt",
+"Pigfoot",
+"PiTT local sponsored features"
 ],
 [
 "com.imangi.templerun2",
@@ -9043,6 +9123,11 @@
 "com.liuzh.deviceinfo",
 "MightyMich",
 "Unlock Pro Features"
+],
+[
+"com.live.sktechtv",
+"GinDoki19",
+"Remove ads, telemetry & restrictions"
 ],
 [
 "com.lumina.wallpapers",
@@ -12147,6 +12232,11 @@
 [
 "com.sadpuppy.lemmings",
 "byehi98",
+"Lemmings: Native Grant Hook"
+],
+[
+"com.sadpuppy.lemmings",
+"byehi98",
 "Lemmings: VIP Unlock"
 ],
 [
@@ -12298,6 +12388,11 @@
 "com.samsung.android.honeyboard",
 "Bearinmind",
 "Stop remote updates"
+],
+[
+"com.samsung.android.soundassistant",
+"Bearinmind",
+"Enable non-One UI ROM support"
 ],
 [
 "com.sauzask.nicoid",
@@ -12655,6 +12750,16 @@
 "Traffic Racer IAP Bypass"
 ],
 [
+"com.slowlyapp",
+"Beetle",
+"Slowly disable device inspection checks"
+],
+[
+"com.slowlyapp",
+"Beetle",
+"Slowly trust user certificates"
+],
+[
 "com.smilerlee.klondike",
 "Dieroboter",
 "Disable all ads and ad components"
@@ -12668,6 +12773,11 @@
 "com.smilerlee.klondike",
 "Dieroboter",
 "Remove ad and tracking components"
+],
+[
+"com.snorelab.app",
+"Hyzor",
+"Enable Premium"
 ],
 [
 "com.soccer.score.star",
@@ -12813,6 +12923,21 @@
 "com.spotify.music",
 "2eno",
 "Sanitize sharing links"
+],
+[
+"com.spotify.music",
+"Edoardo9708",
+"Spotify - No-op control"
+],
+[
+"com.spotify.music",
+"Edoardo9708",
+"Spotify - Previous button diagnostics"
+],
+[
+"com.spotify.music",
+"Mormislaw",
+"DHU adapter"
 ],
 [
 "com.spotify.music",
@@ -13668,6 +13793,21 @@
 "com.sygic.aura",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.talpa.kijk",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"com.talpa.kijk",
+"Johnneerdael",
+"Enable WebView debugging"
+],
+[
+"com.talpa.kijk",
+"Johnneerdael",
+"Hide ads"
 ],
 [
 "com.taobao.taobao",
@@ -14836,6 +14976,11 @@
 ],
 [
 "com.twitter.android",
+"Piel-M",
+"Native GIF download"
+],
+[
+"com.twitter.android",
 "Piko NewX",
 "NewX: Browse tweet object"
 ],
@@ -15072,6 +15217,11 @@
 [
 "com.twitter.android",
 "Piko NewX",
+"NewX: Translator"
+],
+[
+"com.twitter.android",
+"Piko NewX",
 "NewX: Unlock color customization"
 ],
 [
@@ -15177,7 +15327,27 @@
 [
 "com.unicornsonlsd.finamp",
 "Pengusto",
+"Fix offline artist tracks"
+],
+[
+"com.unicornsonlsd.finamp",
+"Pengusto",
+"Fix quick settings banner contrast"
+],
+[
+"com.unicornsonlsd.finamp",
+"Pengusto",
 "Fix section title validation"
+],
+[
+"com.unicornsonlsd.finamp",
+"Pengusto",
+"Fix track alphabet navigation"
+],
+[
+"com.unicornsonlsd.finamp",
+"Pengusto",
+"Keep player output controls accessible"
 ],
 [
 "com.unicornsonlsd.finamp",
@@ -15223,6 +15393,16 @@
 "com.urbandroid.lux",
 "Edoardo9708",
 "Twilight - Test stato trial"
+],
+[
+"com.urbandroid.sleep",
+"Hyzor",
+"Enable Cloud Premium"
+],
+[
+"com.urbandroid.sleep",
+"Hyzor",
+"Enable Premium"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -15548,6 +15728,16 @@
 "com.valvesoftware.steamlinkvr.x_23",
 "Steam Link GalaxyXR",
 "Controller angular world to local"
+],
+[
+"com.viaplay.android",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.viaplay.android",
+"Heval",
+"Skip ads"
 ],
 [
 "com.viber.voip",
@@ -16236,6 +16426,11 @@
 ],
 [
 "com.waze",
+"Mormislaw",
+"DHU adapter"
+],
+[
+"com.waze",
 "Pilotkosinus",
 "Always Play Speed Camera Sound"
 ],
@@ -16298,6 +16493,11 @@
 "com.wb.headsup",
 "LOCKhart07",
 "Sort decks alphabetically"
+],
+[
+"com.wbd.hbomax",
+"Android TV",
+"HBO Max - Playback Speed"
 ],
 [
 "com.whereismytrain.android",
@@ -16428,6 +16628,11 @@
 "com.xs2theworld.weeronline",
 "Johnneerdael",
 "Unlock Plus"
+],
+[
+"com.xumo.xumo.tv",
+"Android TV",
+"Skip ads"
 ],
 [
 "com.xunijun.app.gp",
@@ -17757,6 +17962,11 @@
 [
 "com.zhiliaoapp.musically",
 "Pixkk",
+"Favorites button in share menu"
+],
+[
+"com.zhiliaoapp.musically",
+"Pixkk",
 "Old-style counts"
 ],
 [
@@ -18315,6 +18525,21 @@
 "Dark theme"
 ],
 [
+"dk.dr.webplayer",
+"Heval",
+"Allow free rotation"
+],
+[
+"dk.dr.webplayer",
+"Heval",
+"Auto skip intro"
+],
+[
+"dk.dr.webplayer",
+"Heval",
+"Disable telemetry"
+],
+[
 "easy.launcher",
 "Heval",
 "Disable ads"
@@ -18767,6 +18992,16 @@
 [
 "it.rainet.androidtv",
 "Android TV",
+"Enable WebView debugging"
+],
+[
+"it.rainet.androidtv",
+"Android TV",
+"Fix live HLS variant 404"
+],
+[
+"it.rainet.androidtv",
+"Android TV",
 "Skip ads"
 ],
 [
@@ -18797,7 +19032,37 @@
 [
 "jp.co.celsys.clipstudiopaint.googleplay",
 "Hxreborn",
+"Skip plan selection"
+],
+[
+"jp.co.celsys.clipstudiopaint.googleplay",
+"Hxreborn",
 "Unlock premium"
+],
+[
+"jp.co.yahoo.android.apps.transit",
+"Paruo",
+"Hide Yahoo Transit Ad"
+],
+[
+"jp.co.yahoo.android.apps.transit",
+"Paruo",
+"Hide Yahoo Transit Bottom Ad Error Space"
+],
+[
+"jp.co.yahoo.android.apps.transit",
+"Paruo",
+"Hide Yahoo Transit Other Ads"
+],
+[
+"jp.co.yahoo.android.apps.transit",
+"Paruo",
+"Hide Yahoo Transit Search Result Ads"
+],
+[
+"jp.co.yahoo.android.apps.transit",
+"Paruo",
+"Hide Yahoo Transit Search Result Detail Ad"
 ],
 [
 "jp.hamitv.hamiand1",
@@ -19685,6 +19950,31 @@
 "Skip consent screens"
 ],
 [
+"nl.marktplaats.android",
+"Johnneerdael",
+"Disable ThreatMetrix (expert)"
+],
+[
+"nl.marktplaats.android",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.marktplaats.android",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.negentwee",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.negentwee",
+"Johnneerdael",
+"Hide ads"
+],
+[
 "nl.nlziet",
 "DigitalPals",
 "NLZIET native picture-in-picture"
@@ -19703,6 +19993,11 @@
 "nl.omroepbrabant.android",
 "Johnneerdael",
 "Skip consent screens"
+],
+[
+"nl.rtl.rtlnieuws",
+"Johnneerdael",
+"Disable Swrve (expert)"
 ],
 [
 "nl.rtl.rtlnieuws",
@@ -19736,6 +20031,41 @@
 ],
 [
 "nl.sanomamedia.android.nu",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.uitzendinggemist",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.uitzendinggemist",
+"Johnneerdael",
+"Fix PairIP startup"
+],
+[
+"nl.uitzendinggemist",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.vi",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.vi",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.vi",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"nl.vi",
 "Johnneerdael",
 "Skip consent screens"
 ],
@@ -20463,6 +20793,11 @@
 "org.telegram.messenger",
 "MightyMich",
 "Unlock Telegram Premium"
+],
+[
+"org.telegram.messenger",
+"Mormislaw",
+"DHU adapter"
 ],
 [
 "org.telegram.messenger",
@@ -22383,6 +22718,21 @@
 "tv.twitch.android.app",
 "Kizu",
 "Twitch Enhancement"
+],
+[
+"tv.twitch.android.app",
+"Overhypedcat",
+"Block ad servers"
+],
+[
+"tv.twitch.android.app",
+"Overhypedcat",
+"Block stream ads"
+],
+[
+"tv.twitch.android.app",
+"Overhypedcat",
+"Detailed log setting"
 ],
 [
 "tv.twitch.android.app",
