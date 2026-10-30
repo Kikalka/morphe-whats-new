@@ -1735,6 +1735,11 @@
 "Song info in media notification"
 ],
 [
+"com.appplanex.dnschanger",
+"Edoardo9708",
+"DNS Changer - Force Pro test D2"
+],
+[
 "com.appsomniacs.mmc",
 "Satwik-Miyyapuram",
 "Remove ad SDK auto-start"
@@ -2651,6 +2656,106 @@
 ],
 [
 "com.chess",
+"Hyzor",
+"AMOLED black"
+],
+[
+"com.chess",
+"Hyzor",
+"Accent color"
+],
+[
+"com.chess",
+"Hyzor",
+"Arcade animations"
+],
+[
+"com.chess",
+"Hyzor",
+"Arrows in games"
+],
+[
+"com.chess",
+"Hyzor",
+"Board colors"
+],
+[
+"com.chess",
+"Hyzor",
+"Clone Chess.com"
+],
+[
+"com.chess",
+"Hyzor",
+"Customize Home screen"
+],
+[
+"com.chess",
+"Hyzor",
+"Customize bottom bar"
+],
+[
+"com.chess",
+"Hyzor",
+"Hide Premium-only content"
+],
+[
+"com.chess",
+"Hyzor",
+"Lichess Puzzles"
+],
+[
+"com.chess",
+"Hyzor",
+"Limits as toasts"
+],
+[
+"com.chess",
+"Hyzor",
+"No ads"
+],
+[
+"com.chess",
+"Hyzor",
+"No rating prompts"
+],
+[
+"com.chess",
+"Hyzor",
+"Noam's Patches settings"
+],
+[
+"com.chess",
+"Hyzor",
+"Stockfish analysis"
+],
+[
+"com.chess",
+"Hyzor",
+"Time controls under a minute"
+],
+[
+"com.chess",
+"Hyzor",
+"Unlimited Game Review"
+],
+[
+"com.chess",
+"Hyzor",
+"Unlimited Play Coach"
+],
+[
+"com.chess",
+"Hyzor",
+"Unlock Premium content"
+],
+[
+"com.chess",
+"Hyzor",
+"Unlock all bots"
+],
+[
+"com.chess",
 "ImNoammm",
 "AMOLED black"
 ],
@@ -3548,6 +3653,26 @@
 "com.dubox.drive",
 "Hxreborn",
 "Unlock Premium Plus"
+],
+[
+"com.duolingo",
+"Bastlam",
+"Disable dynamic app icon"
+],
+[
+"com.duolingo",
+"Bastlam",
+"Enable Premium"
+],
+[
+"com.duolingo",
+"Bastlam",
+"Enable debug mode"
+],
+[
+"com.duolingo",
+"Bastlam",
+"Unlimited RampUp time"
 ],
 [
 "com.duolingo",
@@ -4577,6 +4702,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"GmsCore support"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide AI sticker tools"
 ],
 [
@@ -5028,6 +5158,11 @@
 "com.flightconnections",
 "Duy",
 "Remove ads"
+],
+[
+"com.flightradar24free",
+"Jagjordi",
+"Bookmarks without account"
 ],
 [
 "com.flightradar24free",
@@ -5727,7 +5862,22 @@
 [
 "com.google.android.apps.maps",
 "Fangkampanat",
+"BYD navigation audio routing"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat",
+"Device certification fix"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat",
 "Google Maps for MicroG-RE"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat",
+"Navigation speech and TTS startup"
 ],
 [
 "com.google.android.apps.maps",
@@ -6883,6 +7033,11 @@
 "com.ihad.ptt",
 "Pigfoot",
 "PiTT GmsCore Google sign-in"
+],
+[
+"com.ihad.ptt",
+"Pigfoot",
+"PiTT Google account sign-in"
 ],
 [
 "com.ihad.ptt",
@@ -9690,6 +9845,16 @@
 "Unlock Pro"
 ],
 [
+"com.music.bitchord",
+"Hexclyde",
+"Install as Bitchord+"
+],
+[
+"com.music.bitchord",
+"Hexclyde",
+"Unofficial Telegram music"
+],
+[
 "com.musixmatch.android.lyrify",
 "Hxreborn",
 "Unlock premium"
@@ -10273,6 +10438,11 @@
 "com.nuvio.tv",
 "Santodan",
 "NuvioTV - Upcoming movie dates in library and collections"
+],
+[
+"com.nytimes.crossword",
+"Hyzor",
+"Unlock Subscription"
 ],
 [
 "com.nytimes.crossword",
@@ -13872,6 +14042,11 @@
 [
 "com.tapblaze.pizzabusiness",
 "Dudek",
+"Non-blocking update notice"
+],
+[
+"com.tapblaze.pizzabusiness",
+"Dudek",
 "Skip rewarded ads"
 ],
 [
@@ -14741,6 +14916,36 @@
 ],
 [
 "com.tuya.smartlife",
+"Fuku856",
+"Disable telemetry"
+],
+[
+"com.tuya.smartlife",
+"Fuku856",
+"Hide AI assistant"
+],
+[
+"com.tuya.smartlife",
+"Fuku856",
+"Hide ads"
+],
+[
+"com.tuya.smartlife",
+"Fuku856",
+"Hide home recommendations"
+],
+[
+"com.tuya.smartlife",
+"Fuku856",
+"SmartLife Patches settings"
+],
+[
+"com.tuya.smartlife",
+"Fuku856",
+"Spoof signature"
+],
+[
+"com.tuya.smartlife",
 "Gryphou",
 "Hide AI Input Bar"
 ],
@@ -15157,12 +15362,22 @@
 [
 "com.twitter.android",
 "Piko NewX",
+"NewX: Permanent share links"
+],
+[
+"com.twitter.android",
+"Piko NewX",
 "NewX: Redirect downloads to chosen folder"
 ],
 [
 "com.twitter.android",
 "Piko NewX",
 "NewX: Remove ads"
+],
+[
+"com.twitter.android",
+"Piko NewX",
+"NewX: Remove share tracking parameters"
 ],
 [
 "com.twitter.android",
@@ -15857,6 +16072,11 @@
 [
 "com.vkontakte.android",
 "PerfLite VK-Zen",
+"Bypass VPN detection"
+],
+[
+"com.vkontakte.android",
+"PerfLite VK-Zen",
 "Bypass security and package checks"
 ],
 [
@@ -15878,6 +16098,11 @@
 "com.vkontakte.android",
 "PerfLite VK-Zen",
 "Disable telemetry"
+],
+[
+"com.vkontakte.android",
+"PerfLite VK-Zen",
+"Fix push notifications"
 ],
 [
 "com.vkontakte.android",
@@ -16423,6 +16648,11 @@
 "com.waze",
 "Forsigh",
 "Wire Morphe YouTube Music into Waze"
+],
+[
+"com.waze",
+"M4TH1EU",
+"Allow custom car hosts"
 ],
 [
 "com.waze",
@@ -18211,6 +18441,16 @@
 ],
 [
 "com.zing.zalo",
+"ElectroHeavenVN",
+"Clone app"
+],
+[
+"com.zing.zalo",
+"ElectroHeavenVN",
+"Integrate ZaloXposed"
+],
+[
+"com.zing.zalo",
 "Nezumi-2711",
 "Chat heads instead of Android bubbles"
 ],
@@ -19485,6 +19725,11 @@
 "Disable telemetry"
 ],
 [
+"me.ash.reader",
+"Pengusto",
+"Import nested OPML feeds"
+],
+[
 "me.bluemail.mail",
 "Heval",
 "Disable ads"
@@ -19952,6 +20197,11 @@
 [
 "nl.marktplaats.android",
 "Johnneerdael",
+"Disable ThreatMetrix"
+],
+[
+"nl.marktplaats.android",
+"Johnneerdael",
 "Disable ThreatMetrix (expert)"
 ],
 [
@@ -19962,7 +20212,17 @@
 [
 "nl.marktplaats.android",
 "Johnneerdael",
+"Google sign-in via microG-Re"
+],
+[
+"nl.marktplaats.android",
+"Johnneerdael",
 "Hide ads"
+],
+[
+"nl.marktplaats.android",
+"Johnneerdael",
+"Skip consent screens"
 ],
 [
 "nl.negentwee",
@@ -19972,7 +20232,17 @@
 [
 "nl.negentwee",
 "Johnneerdael",
+"Fix PairIP startup"
+],
+[
+"nl.negentwee",
+"Johnneerdael",
 "Hide ads"
+],
+[
+"nl.negentwee",
+"Johnneerdael",
+"Skip consent screens"
 ],
 [
 "nl.nlziet",
@@ -20015,6 +20285,16 @@
 "Skip consent screens"
 ],
 [
+"nl.rtl.videoland.v2",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.rtl.videoland.v2",
+"Johnneerdael",
+"Hide ads"
+],
+[
 "nl.sanomamedia.android.nu",
 "Johnneerdael",
 "Disable tracking"
@@ -20031,6 +20311,21 @@
 ],
 [
 "nl.sanomamedia.android.nu",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.tvgids",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.tvgids",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.tvgids",
 "Johnneerdael",
 "Skip consent screens"
 ],
@@ -20152,6 +20447,11 @@
 [
 "o.o.joey",
 "ZoomSass",
+"Open Reddit share links"
+],
+[
+"o.o.joey",
+"ZoomSass",
 "RedGifs with sound"
 ],
 [
@@ -20168,6 +20468,11 @@
 "o.o.joey",
 "ZoomSass",
 "Skip ads and checks"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Subreddit filter options"
 ],
 [
 "one.cricket.app",
@@ -21648,6 +21953,11 @@
 "org.videolan.vlc",
 "Sabbirexist",
 "Verbose libVLC logging"
+],
+[
+"org.wakingup.android",
+"braiNtropy",
+"Disable update prompt"
 ],
 [
 "org.withouthat.acalendar",
