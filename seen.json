@@ -205,6 +205,31 @@
 "Disable ads"
 ],
 [
+"be.humo.tvgids",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"be.humo.tvgids",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"be.humo.tvgids",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"be.humo.tvgids",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"be.humo.tvgids",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
 "be.persgroep.android.news.mobilead",
 "Johnneerdael",
 "Disable tracking"
@@ -226,6 +251,56 @@
 ],
 [
 "be.persgroep.android.news.mobilead",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobilehln",
 "Johnneerdael",
 "Skip consent screens"
 ],
@@ -2965,6 +3040,11 @@
 "Remove Ads"
 ],
 [
+"com.condenast.thenewyorker.android",
+"Starkist124",
+"Font and text size"
+],
+[
 "com.connected2.ozzy.c2m",
 "Hxreborn",
 "Enable chat in all regions"
@@ -3086,8 +3166,283 @@
 ],
 [
 "com.discord",
+"Maayan080",
+"Account switcher"
+],
+[
+"com.discord",
+"Maayan080",
+"Bring back Tenor GIFs"
+],
+[
+"com.discord",
+"Maayan080",
+"Bulk delete messages"
+],
+[
+"com.discord",
+"Maayan080",
+"Clean channel names"
+],
+[
+"com.discord",
+"Maayan080",
+"Complete Quests automatically"
+],
+[
+"com.discord",
+"Maayan080",
+"Complete badges automatically"
+],
+[
+"com.discord",
+"Maayan080",
+"Copy profile bios"
+],
+[
+"com.discord",
+"Maayan080",
+"Custom branding"
+],
+[
+"com.discord",
+"Maayan080",
+"Custom themes"
+],
+[
+"com.discord",
+"Maayan080",
+"Disable advertising identifiers"
+],
+[
+"com.discord",
+"Maayan080",
+"Disable analytics"
+],
+[
+"com.discord",
+"Maayan080",
+"Disable crash reporting"
+],
+[
+"com.discord",
+"Maayan080",
+"Disable install attribution"
+],
+[
+"com.discord",
+"Maayan080",
+"Disable telemetry and touch logging"
+],
+[
+"com.discord",
+"Maayan080",
+"Double-tap to reply"
+],
+[
+"com.discord",
+"Maayan080",
+"Fake deafen"
+],
+[
+"com.discord",
+"Maayan080",
+"Favourite any image or video"
+],
+[
+"com.discord",
+"Maayan080",
+"Fix link previews"
+],
+[
+"com.discord",
+"Maayan080",
+"Fix unknown mentions"
+],
+[
+"com.discord",
+"Maayan080",
+"Hide blocked or ignored messages"
+],
+[
+"com.discord",
+"Maayan080",
+"Hide extra buttons"
+],
+[
+"com.discord",
+"Maayan080",
+"Hide the Quests banner"
+],
+[
+"com.discord",
+"Maayan080",
+"Hide the call button"
+],
+[
+"com.discord",
+"Maayan080",
+"Hide the gift button"
+],
+[
+"com.discord",
+"Maayan080",
+"Hide typing indicator"
+],
+[
+"com.discord",
+"Maayan080",
+"Icon packs"
+],
+[
+"com.discord",
+"Maayan080",
+"Jump to first message"
+],
+[
+"com.discord",
+"Maayan080",
+"Keep Bluetooth audio clear in calls"
+],
+[
+"com.discord",
+"Maayan080",
+"Keep deleted messages"
+],
+[
+"com.discord",
+"Maayan080",
+"Material You colors"
+],
+[
+"com.discord",
+"Maayan080",
+"Message highlights"
+],
+[
+"com.discord",
+"Maayan080",
+"Pastel name colors"
+],
+[
+"com.discord",
+"Maayan080",
+"Read all button"
+],
+[
+"com.discord",
+"Maayan080",
+"Send Nitro stickers and emojis as links"
+],
+[
+"com.discord",
+"Maayan080",
+"Send audio as voice messages"
+],
+[
+"com.discord",
+"Maayan080",
+"Send long messages"
+],
+[
+"com.discord",
+"Maayan080",
+"Server info"
+],
+[
+"com.discord",
+"Maayan080",
+"Show device indicators"
+],
+[
+"com.discord",
+"Maayan080",
+"Show file sizes when attaching"
+],
+[
+"com.discord",
+"Maayan080",
+"Show hidden channels"
+],
+[
+"com.discord",
+"Maayan080",
+"Skip delete confirmation"
+],
+[
+"com.discord",
+"Maayan080",
+"Spaces in channel names"
+],
+[
+"com.discord",
+"Maayan080",
+"Translate messages"
+],
+[
+"com.discord",
+"Maayan080",
+"Unlock Discord experiments"
+],
+[
+"com.discord",
+"Maayan080",
+"Unlock Nitro themes"
+],
+[
+"com.discord",
+"Maayan080",
+"Unlock app icons"
+],
+[
+"com.discord",
+"Maayan080",
+"Use your phone's emojis"
+],
+[
+"com.discord",
+"Maayan080",
+"Use your phone's font"
+],
+[
+"com.discord",
+"Maayan080",
+"User activity notifications"
+],
+[
+"com.discord",
+"Maayan080",
+"User and server reviews"
+],
+[
+"com.discord",
+"Maayan080",
+"Venus button on profile bar"
+],
+[
+"com.discord",
+"Maayan080",
+"Venus settings"
+],
+[
+"com.discord",
 "VenusIsJaded",
 "Account switcher"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Alert when you're removed"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Always trust links and files"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Anonymous file names"
 ],
 [
 "com.discord",
@@ -3173,6 +3528,11 @@
 "com.discord",
 "VenusIsJaded",
 "Double-tap to reply"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Edit servers locally"
 ],
 [
 "com.discord",
@@ -3292,6 +3652,11 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Load full-quality images"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Material You colors"
 ],
 [
@@ -3352,6 +3717,11 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Remove anything"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "ReviewDB"
 ],
 [
@@ -3392,12 +3762,27 @@
 [
 "com.discord",
 "VenusIsJaded",
+"Show owner and mod tags"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Skip delete confirmation"
 ],
 [
 "com.discord",
 "VenusIsJaded",
+"Skip pin confirmation"
+],
+[
+"com.discord",
+"VenusIsJaded",
 "Spaces in channel names"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Tap mentions to open profiles"
 ],
 [
 "com.discord",
@@ -3448,6 +3833,11 @@
 "com.discord",
 "VenusIsJaded",
 "Venus settings"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Voice channel options"
 ],
 [
 "com.disney.disneyplus",
@@ -3620,6 +4010,16 @@
 "Disable Spying & Security Checks"
 ],
 [
+"com.droid27.transparentclockweather",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.droid27.transparentclockweather",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.dubox.drive",
 "Hxreborn",
 "Clone app"
@@ -3638,6 +4038,11 @@
 "com.dubox.drive",
 "Hxreborn",
 "Hide consent form"
+],
+[
+"com.dubox.drive",
+"Hxreborn",
+"Hide home shortcuts"
 ],
 [
 "com.dubox.drive",
@@ -5996,6 +6401,251 @@
 ],
 [
 "com.google.android.apps.youtube.music",
+"Emotionbug",
+"Android Auto"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"App refresh rate"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Change header"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Change miniplayer color"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Change start page"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Check watch history domain name resolution"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Crossfade"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Custom branding"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Custom font"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Disable DRC audio"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Disable QUIC protocol"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Disable dislike redirection"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Downloads"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Enable audio/video switch"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Enable debugging"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Enable exclusive audio playback"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Enable forced miniplayer"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Enable swipe to dismiss miniplayer"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Force original audio"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Force portrait orientation"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"GmsCore support"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Hide ads"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Hide buttons"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Hide flyout menu components"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Hide layout components"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Hide music action buttons"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Jam queue sharing"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Media notification controls"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Miniplayer previous and next buttons"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Navigation bar"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Network proxy"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Play albums songs"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Playback speed"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Playlist track tap action"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"PoToken provider"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Remember repeat state"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Remember shuffle state"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Remove background playback restrictions"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Remove viewer discretion dialog"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Return YouTube Dislike"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Sanitize sharing links"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Scrobbling"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Settings menu filter"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Skip silence"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"SponsorBlock"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Spoof app version"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Spoof video streams"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Theme"
+],
+[
+"com.google.android.apps.youtube.music",
+"Emotionbug",
+"Third-party lyrics"
+],
+[
+"com.google.android.apps.youtube.music",
 "Mormislaw",
 "DHU adapter"
 ],
@@ -6407,7 +7057,22 @@
 [
 "com.google.android.inputmethod.latin",
 "Markpaul099",
+"Change app name"
+],
+[
+"com.google.android.inputmethod.latin",
+"Markpaul099",
 "Change package name"
+],
+[
+"com.google.android.inputmethod.latin",
+"Markpaul099",
+"GIFs Extended settings"
+],
+[
+"com.google.android.inputmethod.latin",
+"Markpaul099",
+"Google Images GIF Search"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -6453,6 +7118,11 @@
 "com.google.android.projection.gearhead",
 "Plyrs1",
 "Allow sideloaded apps"
+],
+[
+"com.google.android.youtube",
+"DanielTheManiel",
+"Current Frame Media Artwork"
 ],
 [
 "com.google.android.youtube.tv",
@@ -7742,6 +8412,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Pinch to zoom on Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Profile posts as a list"
 ],
 [
@@ -7812,6 +8487,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Seek bar on feed videos"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Seek bar on stories"
 ],
 [
@@ -7848,6 +8528,11 @@
 "com.instagram.android",
 "HushGram",
 "Show when someone was last active"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Skip the collections tray"
 ],
 [
 "com.instagram.android",
@@ -8116,8 +8801,28 @@
 ],
 [
 "com.instagram.android",
+"Virzak",
+"Download media"
+],
+[
+"com.instagram.android",
 "Wagg13Patch",
 "Story mention indicator"
+],
+[
+"com.instagram.android",
+"Yashsehrawatdelete550",
+"Custom app icon"
+],
+[
+"com.instagram.android",
+"Yashsehrawatdelete550",
+"Custom app name"
+],
+[
+"com.instagram.android",
+"Yashsehrawatdelete550",
+"Custom splash text"
 ],
 [
 "com.instagram.barcelona",
@@ -9375,6 +10080,16 @@
 "Enable premium"
 ],
 [
+"com.mb.android",
+"XBadFellaX",
+"Emby client unlock"
+],
+[
+"com.mb.android",
+"XBadFellaX",
+"Emby remove Firebase and DataTransport"
+],
+[
 "com.medhaapps.wififtpserver",
 "Dieroboter",
 "Disable Crashlytics reporting"
@@ -10438,6 +11153,11 @@
 "com.nuvio.tv",
 "Santodan",
 "NuvioTV - Upcoming movie dates in library and collections"
+],
+[
+"com.nytimes.crossword",
+"Hyzor",
+"AMOLED Black"
 ],
 [
 "com.nytimes.crossword",
@@ -12052,6 +12772,11 @@
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
+"Fix loading more comments"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
 "Fix profile About scrolling"
 ],
 [
@@ -12918,6 +13643,51 @@
 "com.skgames.trafficracer",
 "byehi98",
 "Traffic Racer IAP Bypass"
+],
+[
+"com.skt.prod.dialer",
+"Emotionbug",
+"ACall Galaxy device profile"
+],
+[
+"com.skt.prod.dialer",
+"Emotionbug",
+"ACall disable USB debugging detection"
+],
+[
+"com.skt.prod.dialer",
+"Emotionbug",
+"ACall disable debugger detection"
+],
+[
+"com.skt.prod.dialer",
+"Emotionbug",
+"ACall embedded Shizuku recording"
+],
+[
+"com.skt.prod.dialer",
+"Emotionbug",
+"ACall local Gemma summaries"
+],
+[
+"com.skt.prod.dialer",
+"Emotionbug",
+"ACall manufacturer compatibility"
+],
+[
+"com.skt.prod.dialer",
+"Emotionbug",
+"ACall original AppProtect hashes"
+],
+[
+"com.skt.prod.dialer",
+"Emotionbug",
+"ACall remove banner ads"
+],
+[
+"com.skt.prod.dialer",
+"Emotionbug",
+"ACall suppress nonessential analytics"
 ],
 [
 "com.slowlyapp",
@@ -14195,6 +14965,31 @@
 "Unlock premium"
 ],
 [
+"com.ticktick.task",
+"XBadFellaX",
+"Disable analytics collection"
+],
+[
+"com.ticktick.task",
+"XBadFellaX",
+"Local lists and backups"
+],
+[
+"com.ticktick.task",
+"XBadFellaX",
+"Restore notifications"
+],
+[
+"com.ticktick.task",
+"XBadFellaX",
+"Restore reminder alarms"
+],
+[
+"com.ticktick.task",
+"XBadFellaX",
+"TickTick Premium"
+],
+[
 "com.tiktok.lite.go",
 "Kveld9",
 "Allow Screenshots"
@@ -14428,6 +15223,11 @@
 "com.todoist",
 "Titandrive",
 "Todoist custom font"
+],
+[
+"com.toyota.oneapp",
+"Virzak",
+"Bypass device lock requirement"
 ],
 [
 "com.tracket.app",
@@ -14978,6 +15778,46 @@
 "com.tuya.smartlife",
 "Gryphou",
 "Hide Tuya AI Web Version"
+],
+[
+"com.twipemobile.dsmobile",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"com.twipemobile.dsmobile",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"com.twipemobile.dsmobile",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"com.twipemobile.dsmobile",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"com.twipemobile.nbmobile",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"com.twipemobile.nbmobile",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"com.twipemobile.nbmobile",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"com.twipemobile.nbmobile",
+"Johnneerdael",
+"Skip consent screens"
 ],
 [
 "com.twipemobile.nrc",
@@ -16026,6 +16866,91 @@
 ],
 [
 "com.vk.im",
+"Hexberk",
+"Bypass security and package checks"
+],
+[
+"com.vk.im",
+"Hexberk",
+"Clone app"
+],
+[
+"com.vk.im",
+"Hexberk",
+"Disable audio ads"
+],
+[
+"com.vk.im",
+"Hexberk",
+"Disable telemetry"
+],
+[
+"com.vk.im",
+"Hexberk",
+"Fix push notifications"
+],
+[
+"com.vk.im",
+"Hexberk",
+"Hide clips ads"
+],
+[
+"com.vk.im",
+"Hexberk",
+"Hide feed ads"
+],
+[
+"com.vk.im",
+"Hexberk",
+"Native anti-tamper bypass"
+],
+[
+"com.vk.im",
+"Hexberk",
+"Video ads"
+],
+[
+"com.vk.im",
+"PerfLite VK-Messenger",
+"App icon colors"
+],
+[
+"com.vk.im",
+"PerfLite VK-Messenger",
+"Bypass VPN detection"
+],
+[
+"com.vk.im",
+"PerfLite VK-Messenger",
+"Bypass security and package checks"
+],
+[
+"com.vk.im",
+"PerfLite VK-Messenger",
+"Clone app"
+],
+[
+"com.vk.im",
+"PerfLite VK-Messenger",
+"Disable telemetry"
+],
+[
+"com.vk.im",
+"PerfLite VK-Messenger",
+"Fix Tracer manifest for clone"
+],
+[
+"com.vk.im",
+"PerfLite VK-Messenger",
+"Fix push notifications"
+],
+[
+"com.vk.im",
+"PerfLite VK-Messenger",
+"Native anti-tamper bypass"
+],
+[
+"com.vk.im",
 "oviron",
 "Bypass security and package checks"
 ],
@@ -16068,6 +16993,61 @@
 "com.vk.im",
 "oviron",
 "Video ads"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"App icon colors"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Bypass VPN detection"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Bypass security and package checks"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Clone app"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Disable telemetry"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Feed ad-block"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Fix Tracer manifest for clone"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Native anti-tamper bypass"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Video ad-blocker"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Video banner ad-block"
+],
+[
+"com.vk.vkvideo",
+"PerfLite VK-Video",
+"Video quality preference"
 ],
 [
 "com.vkontakte.android",
@@ -16268,6 +17248,16 @@
 "com.walmart.android",
 "R2bEEaton",
 "Route My List"
+],
+[
+"com.watchit.vod",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.watchit.vod",
+"Hxreborn",
+"Remove ads"
 ],
 [
 "com.wave.aphelion",
@@ -16472,6 +17462,11 @@
 [
 "com.waze",
 "Forsigh",
+"Change Waze icon"
+],
+[
+"com.waze",
+"Forsigh",
 "Config overrides"
 ],
 [
@@ -16563,6 +17558,11 @@
 "com.waze",
 "Forsigh",
 "Remove ads"
+],
+[
+"com.waze",
+"Forsigh",
+"Rename app"
 ],
 [
 "com.waze",
@@ -16728,6 +17728,11 @@
 "com.wbd.hbomax",
 "Android TV",
 "HBO Max - Playback Speed"
+],
+[
+"com.wetter.androidclient",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.whereismytrain.android",
@@ -18462,6 +19467,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Clone package"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Custom font"
 ],
 [
@@ -18548,6 +19558,11 @@
 "com.zing.zalo",
 "Zeldris",
 "Enable profile cover saving"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Enable stranger notifications"
 ],
 [
 "com.zing.zalo",
@@ -18760,6 +19775,11 @@
 "Free content"
 ],
 [
+"dk.bold",
+"Heval",
+"Disable ads"
+],
+[
 "dk.dr.tvplayer",
 "Zenthora",
 "Dark theme"
@@ -18818,6 +19838,36 @@
 "eu.duong.imagedatefixer",
 "Wagg13Patch",
 "Unlock Premium"
+],
+[
+"eu.faircode.email",
+"Rikunode",
+"Clone FairEmail alongside official app"
+],
+[
+"eu.faircode.email",
+"Rikunode",
+"Enable OAuth setup in re-signed FairEmail (experimental)"
+],
+[
+"eu.faircode.email",
+"Rikunode",
+"Enable local Pro features (experimental)"
+],
+[
+"eu.faircode.email",
+"Rikunode",
+"Enable local settings export (experimental)"
+],
+[
+"eu.faircode.email",
+"Rikunode",
+"Permanently hide donation banner"
+],
+[
+"eu.faircode.email",
+"Rikunode",
+"Suppress automatic changelog popup"
 ],
 [
 "eu.livesport.FlashScore_com",
@@ -19830,6 +20880,41 @@
 "Unlock Premium Features"
 ],
 [
+"mobi.inthepocket.mediafin.detijd",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"Johnneerdael",
+"Hide Mijn Tijd (expert)"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"Johnneerdael",
+"Skip onboarding"
+],
+[
 "mp3videoconverter.videotomp3.videotomp3converter",
 "Shuhaibnc",
 "Unlock Premium of Video to MP3"
@@ -19918,6 +21003,31 @@
 "net.interpals",
 "2eno",
 "Hide ads"
+],
+[
+"net.mbc.shahid",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"net.mbc.shahid",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"net.mbc.shahid",
+"Hxreborn",
+"Remove ads"
+],
+[
+"net.mbc.shahid",
+"Hxreborn",
+"Remove root detection"
+],
+[
+"net.mbc.shahid",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "net.mediaarea.mediainfo",
@@ -20478,6 +21588,11 @@
 "one.cricket.app",
 "Heval",
 "Disable ads"
+],
+[
+"org.barebrowser",
+"Brave",
+"Keep Bare Extensions Child Processes Alive"
 ],
 [
 "org.cris.aikyam",
@@ -21905,6 +23020,41 @@
 "Remove Telegram X sponsored messages"
 ],
 [
+"org.vernazza.androidfuel",
+"Edoardo9708",
+"Prezzi Benzina - Custom signer response F6 (ARM64)"
+],
+[
+"org.vernazza.androidfuel",
+"Edoardo9708",
+"Prezzi Benzina - Entitlement diagnostics D1"
+],
+[
+"org.vernazza.androidfuel",
+"Edoardo9708",
+"Prezzi Benzina - Gadget only F7 (ARM64)"
+],
+[
+"org.vernazza.androidfuel",
+"Edoardo9708",
+"Prezzi Benzina - Java bridge only F8 (ARM64)"
+],
+[
+"org.vernazza.androidfuel",
+"Edoardo9708",
+"Prezzi Benzina - Personal Google Maps key M1"
+],
+[
+"org.vernazza.androidfuel",
+"Edoardo9708",
+"Prezzi Benzina - Remove ads A1"
+],
+[
+"org.vernazza.androidfuel",
+"Edoardo9708",
+"Prezzi Benzina - Signature trace F5 (ARM64)"
+],
+[
 "org.videolan.vlc",
 "Sabbirexist",
 "AMOLED black theme"
@@ -22350,6 +23500,11 @@
 "Spoof client"
 ],
 [
+"ridmik.keyboard",
+"Hxreborn",
+"Remove ads"
+],
+[
 "ringtone.maker.mp3.cutter.audio",
 "Jeff-tek",
 "Remove ads"
@@ -22645,6 +23800,16 @@
 "Bypass root / bootloader detection"
 ],
 [
+"sapan.marriagedroid",
+"Franticg33k",
+"Remove Interstitial Ads"
+],
+[
+"sapan.marriagedroid",
+"Franticg33k",
+"Skip Public Zone Rewarded Ad"
+],
+[
 "se.footballaddicts.livescore",
 "Heval",
 "Disable ads"
@@ -22685,9 +23850,34 @@
 "Unlock premium"
 ],
 [
+"tech.simha.androidtvremote",
+"XBadFellaX",
+"Remote ATV ad-free"
+],
+[
 "todolist.scheduleplanner.dailyplanner.todo.reminders",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"tr.com.nowtv.android",
+"MrRaita",
+"Keep player controls during live ads"
+],
+[
+"tr.com.nowtv.android",
+"MrRaita",
+"Live stream without ad insertion (experimental)"
+],
+[
+"tr.com.nowtv.android",
+"MrRaita",
+"Remove banner ads"
+],
+[
+"tr.com.nowtv.android",
+"MrRaita",
+"Remove video ads"
 ],
 [
 "tv.twitch.android.app",
@@ -23342,6 +24532,16 @@
 [
 "xyz.rtrvr.pillo",
 "Santodan",
+"Pillo - Premium and ad-free"
+],
+[
+"xyz.rtrvr.pillo",
+"Santodan",
 "Pillo - Weight change summaries"
+],
+[
+"xyz.rtrvr.pillo",
+"Santodan",
+"Pillo - Weight in Progress"
 ]
 ]
