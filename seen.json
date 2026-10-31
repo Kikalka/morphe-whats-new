@@ -1785,6 +1785,16 @@
 "Disable ads"
 ],
 [
+"com.apnatunnel.lite",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.apnatunnel.lite",
+"Hxreborn",
+"Remove ads"
+],
+[
 "com.appgenix.bizcal",
 "Heval",
 "Disable ads"
@@ -2398,6 +2408,16 @@
 "com.block.juggle",
 "ImNoammm",
 "iOS generation algorithm"
+],
+[
+"com.block.juggle",
+"Legendsciber",
+"Ad Removal"
+],
+[
+"com.block.juggle",
+"Legendsciber",
+"Premium (Subscription Simulation)"
 ],
 [
 "com.bongo.bongobd",
@@ -3237,6 +3257,21 @@
 [
 "com.discord",
 "Maayan080",
+"Alert when you're removed"
+],
+[
+"com.discord",
+"Maayan080",
+"Always trust links and files"
+],
+[
+"com.discord",
+"Maayan080",
+"Anonymous file names"
+],
+[
+"com.discord",
+"Maayan080",
 "Bring back Tenor GIFs"
 ],
 [
@@ -3303,6 +3338,11 @@
 "com.discord",
 "Maayan080",
 "Double-tap to reply"
+],
+[
+"com.discord",
+"Maayan080",
+"Edit servers locally"
 ],
 [
 "com.discord",
@@ -3377,6 +3417,11 @@
 [
 "com.discord",
 "Maayan080",
+"Load full-quality images"
+],
+[
+"com.discord",
+"Maayan080",
 "Material You colors"
 ],
 [
@@ -3393,6 +3438,11 @@
 "com.discord",
 "Maayan080",
 "Read all button"
+],
+[
+"com.discord",
+"Maayan080",
+"Remove anything"
 ],
 [
 "com.discord",
@@ -3432,12 +3482,27 @@
 [
 "com.discord",
 "Maayan080",
+"Show owner and mod tags"
+],
+[
+"com.discord",
+"Maayan080",
 "Skip delete confirmation"
 ],
 [
 "com.discord",
 "Maayan080",
+"Skip pin confirmation"
+],
+[
+"com.discord",
+"Maayan080",
 "Spaces in channel names"
+],
+[
+"com.discord",
+"Maayan080",
+"Tap mentions to open profiles"
 ],
 [
 "com.discord",
@@ -3488,6 +3553,11 @@
 "com.discord",
 "Maayan080",
 "Venus settings"
+],
+[
+"com.discord",
+"Maayan080",
+"Voice channel options"
 ],
 [
 "com.discord",
@@ -3713,6 +3783,11 @@
 "com.discord",
 "VenusIsJaded",
 "Keep deleted messages"
+],
+[
+"com.discord",
+"VenusIsJaded",
+"Listen along"
 ],
 [
 "com.discord",
@@ -4273,6 +4348,26 @@
 "com.eset.ems2.gp",
 "MightyMich",
 "Enable premium license"
+],
+[
+"com.estrongs.android.pop",
+"Azkiabenington",
+"Block Ads"
+],
+[
+"com.estrongs.android.pop",
+"Azkiabenington",
+"Block Tracking & Telemetry"
+],
+[
+"com.estrongs.android.pop",
+"Azkiabenington",
+"Make App Lightweight & Fast Launch"
+],
+[
+"com.estrongs.android.pop",
+"Azkiabenington",
+"Unlock VIP Lifetime"
 ],
 [
 "com.eumlab.android.prometronome",
@@ -4897,6 +4992,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Local profile counts"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Longer music on photo stories"
 ],
 [
@@ -4967,7 +5067,22 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Round stories tray"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Sanitize sharing links"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Search date range"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"See who shared"
 ],
 [
 "com.facebook.katana",
@@ -5158,6 +5273,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Allow screenshots"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Android Auto messages"
 ],
 [
 "com.facebook.orca",
@@ -5617,6 +5737,11 @@
 [
 "com.fingersoft.hillclimb",
 "Legendsciber",
+"Hill Climb Racing Ad Removal"
+],
+[
+"com.fingersoft.hillclimb",
+"Legendsciber",
 "Hill Climb Racing Free Store"
 ],
 [
@@ -5967,6 +6092,16 @@
 [
 "com.glu.android.zombsniper",
 "ComoEstaisAmigos",
+"Render menus at 720p"
+],
+[
+"com.glu.android.zombsniper",
+"ComoEstaisAmigos",
+"Show hidden weapons"
+],
+[
+"com.glu.android.zombsniper",
+"ComoEstaisAmigos",
 "Smooth sound"
 ],
 [
@@ -6061,6 +6196,36 @@
 ],
 [
 "com.google.android.GoogleCamera",
+"Kekimurus",
+"Clone Google Camera"
+],
+[
+"com.google.android.GoogleCamera",
+"Kekimurus",
+"Fix Magic Capture crash"
+],
+[
+"com.google.android.GoogleCamera",
+"Kekimurus",
+"Fix MediaProvider invalid column crash"
+],
+[
+"com.google.android.GoogleCamera",
+"Kekimurus",
+"Fix launcher app shortcuts"
+],
+[
+"com.google.android.GoogleCamera",
+"Kekimurus",
+"Video Boost shortcuts"
+],
+[
+"com.google.android.GoogleCamera",
+"Kekimurus",
+"Video Boost startup state"
+],
+[
+"com.google.android.GoogleCamera",
 "Pixel Camera",
 "10x Viewfinder Quick Zoom"
 ],
@@ -6113,6 +6278,36 @@
 "com.google.android.GoogleCamera",
 "Pixel Camera",
 "Viewfinder Quick Access Controls"
+],
+[
+"com.google.android.GoogleCameraEng",
+"Kekimurus",
+"Clone Google Camera"
+],
+[
+"com.google.android.GoogleCameraEng",
+"Kekimurus",
+"Fix Magic Capture crash"
+],
+[
+"com.google.android.GoogleCameraEng",
+"Kekimurus",
+"Fix MediaProvider invalid column crash"
+],
+[
+"com.google.android.GoogleCameraEng",
+"Kekimurus",
+"Fix launcher app shortcuts"
+],
+[
+"com.google.android.GoogleCameraEng",
+"Kekimurus",
+"Video Boost shortcuts"
+],
+[
+"com.google.android.GoogleCameraEng",
+"Kekimurus",
+"Video Boost startup state"
 ],
 [
 "com.google.android.apps.maps",
@@ -6406,6 +6601,56 @@
 ],
 [
 "com.google.android.apps.maps",
+"Fangkampanat BYD",
+"BYD battery (EV)"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
+"BYD location flicker fix"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
+"Google Maps Automotive for MicroG-RE"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
+"Send to car"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat Maps",
+"BYD native battery experiment"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat Maps",
+"BYD navigation audio routing"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat Maps",
+"Device certification fix"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat Maps",
+"Google Maps for MicroG-RE"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat Maps",
+"Navigation speech and TTS startup"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat Maps",
+"Picture-in-picture setting"
+],
+[
+"com.google.android.apps.maps",
 "RhubarbShoelaces",
 "Custom Cartographic Region"
 ],
@@ -6503,6 +6748,16 @@
 "com.google.android.apps.photos",
 "Akash Sriram",
 "Spoof features"
+],
+[
+"com.google.android.apps.photos",
+"Mian196",
+"Custom app name"
+],
+[
+"com.google.android.apps.photos",
+"Mian196",
+"Custom branding"
 ],
 [
 "com.google.android.apps.pixel.nowplaying",
@@ -6896,6 +7151,21 @@
 ],
 [
 "com.google.android.inputmethod.latin",
+"Encarnian",
+"Backspace Repeat Haptic Feedback"
+],
+[
+"com.google.android.inputmethod.latin",
+"Encarnian",
+"Enter Key Tasker Event"
+],
+[
+"com.google.android.inputmethod.latin",
+"Encarnian",
+"Glide Trail Customization"
+],
+[
+"com.google.android.inputmethod.latin",
 "Flexboard",
 "Crash reporter (debug)"
 ],
@@ -7068,6 +7338,16 @@
 "com.google.android.inputmethod.latin",
 "JacksonJones2003 Immersive",
 "Translucent Bottom Bar"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kirkland-Pickles",
+"Offline system voice typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kirkland-Pickles",
+"Remove network access"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -7840,6 +8120,36 @@
 "PiTT local sponsored features"
 ],
 [
+"com.imaginecurve.curve.prd",
+"Lorizisback",
+"Accept any signing certificate"
+],
+[
+"com.imaginecurve.curve.prd",
+"Lorizisback",
+"Batch Go Back in Time"
+],
+[
+"com.imaginecurve.curve.prd",
+"Lorizisback",
+"Disable optional telemetry"
+],
+[
+"com.imaginecurve.curve.prd",
+"Lorizisback",
+"Hide Flex"
+],
+[
+"com.imaginecurve.curve.prd",
+"Lorizisback",
+"Patches menu"
+],
+[
+"com.imaginecurve.curve.prd",
+"Lorizisback",
+"Remove Cringe"
+],
+[
 "com.imangi.templerun2",
 "Legendsciber",
 "Temple Run 2 Free IAP"
@@ -8222,6 +8532,16 @@
 [
 "com.instagram.android",
 "HushGram",
+"Ambient light"
+],
+[
+"com.instagram.android",
+"HushGram",
+"App-only proxy"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Ask before a call"
 ],
 [
@@ -8243,6 +8563,11 @@
 "com.instagram.android",
 "HushGram",
 "Blur the bars around Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Carousel arrows"
 ],
 [
 "com.instagram.android",
@@ -8333,6 +8658,11 @@
 "com.instagram.android",
 "HushGram",
 "Emoji style"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Explore without personalization"
 ],
 [
 "com.instagram.android",
@@ -8597,6 +8927,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Mark one-time photos and videos"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Message box buttons"
 ],
 [
@@ -8747,6 +9082,16 @@
 [
 "com.instagram.android",
 "HushGram",
+"Skip the contacts and location popups"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Smooth story opening"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Spoof location"
 ],
 [
@@ -8803,6 +9148,11 @@
 "com.instagram.android",
 "HushGram",
 "Stop swiping between tabs"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Stop videos looping"
 ],
 [
 "com.instagram.android",
@@ -9013,6 +9363,11 @@
 "com.instagram.android",
 "Piko Instagram Lite",
 "Hide reels and stories ads"
+],
+[
+"com.instagram.android",
+"Southstar21dev",
+"Liquid Glass navigation bar"
 ],
 [
 "com.instagram.android",
@@ -9842,6 +10197,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Enable predictive back gesture"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Fix /api/info endpoint"
 ],
 [
@@ -9863,6 +10223,11 @@
 "com.laurencedawson.reddit_sync",
 "Mix",
 "Fix Restore comment"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix blocked Reddit API requests"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -9898,6 +10263,11 @@
 "com.laurencedawson.reddit_sync",
 "Mix",
 "Hacker News Feed"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Keep Reddit web session cookies"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -9948,6 +10318,176 @@
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
 "Fix loading more comments"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Add archive links to menus"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Automatically undelete Imgur media"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Automatically undelete Reddit content"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Disable Sync for Lemmy bottom sheet"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Disable ads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Fix /s/ links"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Fix Imgur links"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Fix Redgifs API"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Fix loading more comments"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Fix opening albums"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Fix post thumbnails"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Fix revealing spoilers"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Fix video downloads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Gestures for the video player"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Keep the links in the text of a post"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Keep transparency in a picture"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Load threads whose text contains a dollar sign"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Make an address in a post tappable"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Modify login WebView"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"More actions on the floating button"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Recover post thumbnails from the archive"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Redirect Gfycat links to RedGifs"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Show a hidden profile from the archive"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Show a subreddit's banner on its feed"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Show media in a comment where it sits"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Show videos posted in comments"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Spoof client"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Translate posts and comments"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Unlock Sync Ultra"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Use /user/ endpoint"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Trulow",
+"Fix Reddit galleries"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Trulow",
+"Fix Redgifs API"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Trulow",
+"Fix load more comments"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Trulow",
+"Unlock Sync Ultra"
 ],
 [
 "com.lbrc.PeriodCalendar",
@@ -10308,6 +10848,11 @@
 "com.maxgames.stickwarlegacy",
 "AFFiNE",
 "Remove Google Play requirement"
+],
+[
+"com.maz.combo1126",
+"XBadFellaX",
+"HBR extended free reading"
 ],
 [
 "com.mazii.dictionary",
@@ -10705,6 +11250,26 @@
 "Shooty Skies Free store"
 ],
 [
+"com.miniclip.plagueinc",
+"byehi98",
+"Plague Inc. Custom Scenario Download Fix"
+],
+[
+"com.miniclip.plagueinc",
+"byehi98",
+"Plague Inc. Custom Scenario Upgrades"
+],
+[
+"com.miniclip.plagueinc",
+"byehi98",
+"Plague Inc. Outbreak Popup Bypass"
+],
+[
+"com.miniclip.plagueinc",
+"byehi98",
+"Plague Inc. Unlock All Scenarios"
+],
+[
 "com.miruronative",
 "Anilili",
 "Fix Recycled Bitmap Crash"
@@ -10783,6 +11348,11 @@
 "com.mojang.minecraftpe",
 "Hajs110208",
 "Change app icon"
+],
+[
+"com.mojang.minecraftpe",
+"Hajs110208",
+"Foreground service"
 ],
 [
 "com.mojang.minecraftpe",
@@ -10995,6 +11565,36 @@
 "Playback without ads"
 ],
 [
+"com.nekki.shadowfight",
+"Legendsciber",
+"Shadow Fight 2 Debug Menu Restore"
+],
+[
+"com.nekki.shadowfight",
+"Legendsciber",
+"Shadow Fight 2 Dump Trigger"
+],
+[
+"com.nekki.shadowfight",
+"Legendsciber",
+"Shadow Fight 2 Hardcode 999999999"
+],
+[
+"com.nekki.shadowfight",
+"Legendsciber",
+"Shadow Fight 2 Hardcode Trigger"
+],
+[
+"com.nekki.shadowfight",
+"Legendsciber",
+"Shadow Fight 2 Runtime Dump"
+],
+[
+"com.nekki.shadowfight",
+"Legendsciber",
+"Shadow Fight 2 Show Cheats UI"
+],
+[
 "com.netease.cloudmusic",
 "Sas-News",
 "\u30b3\u30e1\u30f3\u30c8\u7ffb\u8a33 (Comment translate)"
@@ -11123,6 +11723,11 @@
 "com.nieruo.healthapp",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.nikkei.asia",
+"XBadFellaX",
+"Nikkei Asia premium reading"
 ],
 [
 "com.ninegag.android.app",
@@ -12235,6 +12840,26 @@
 "Unlock Pro"
 ],
 [
+"com.pixlr.express",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.pixlr.express",
+"Hxreborn",
+"Hide home sections"
+],
+[
+"com.pixlr.express",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.pixlr.express",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.playdigious.slimerancher",
 "Steeepaaaan",
 "Neutralize PDALIFE JNI_OnLoad (universal)"
@@ -12518,6 +13143,11 @@
 "com.reddit.frontpage",
 "Santodan",
 "Reddit - Show flairs in home feed (Experimental)"
+],
+[
+"com.reddit.frontpage",
+"The-Nelsonator",
+"Hide suspended account banner"
 ],
 [
 "com.release.arylive",
@@ -13458,6 +14088,66 @@
 "com.samsung.android.app.notes",
 "Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Backup to folder"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Branding"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Crash fixes"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Finger drawing"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Folder sync"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Hide Samsung account features"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Hide camera"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Manifest compatibility"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Pen button actions"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Samsung framework compatibility"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Treat as pen device"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Turn off Samsung cloud components"
 ],
 [
 "com.samsung.android.game.gamehome",
@@ -16587,6 +17277,11 @@
 [
 "com.twitter.android",
 "Serajr",
+"Disable Navigation Bar Contrast"
+],
+[
+"com.twitter.android",
+"Serajr",
 "Fix Navigation Bar Haze"
 ],
 [
@@ -17550,6 +18245,11 @@
 "Route My List"
 ],
 [
+"com.wanderlog.android",
+"XBadFellaX",
+"Wanderlog Pro features"
+],
+[
 "com.watchit.vod",
 "Hxreborn",
 "Disable tracking"
@@ -18188,6 +18888,26 @@
 "com.xunijun.app.gp",
 "Testiwy268",
 "Dualspace Premium Unlock"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Edoardo9708",
+"Yahoo Finance - Analysis diagnostics A7"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Edoardo9708",
+"Yahoo Finance - GOLD diagnostic A3"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Edoardo9708",
+"Yahoo Finance - Remove ads A2"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Edoardo9708",
+"Yahoo Finance - microG login A5"
 ],
 [
 "com.yahoo.mobile.client.android.sportacular",
@@ -19897,6 +20617,11 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"Hide navigation tabs"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Suppress outbound seen status"
 ],
 [
@@ -20495,6 +21220,16 @@
 "Werbe-Blocker-Userscript einspritzen"
 ],
 [
+"io.github.artcraftandroid.pdfcraft",
+"Bearinmind",
+"Change app name"
+],
+[
+"io.github.artcraftandroid.pdfcraft",
+"Bearinmind",
+"Custom icon"
+],
+[
 "io.github.sds100.keymapper",
 "Legendsciber",
 "Premium"
@@ -20683,6 +21418,36 @@
 "jp.co.celsys.clipstudiopaint.googleplay",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"jp.co.sony.ips.portalapp",
+"Franticg33k",
+"Scan camera QR to join Wi-Fi"
+],
+[
+"jp.co.sony.ips.portalapp",
+"Franticg33k",
+"Skip mandatory sign-in"
+],
+[
+"jp.co.sony.ips.portalapp",
+"Franticg33k",
+"ZV-E10 USB support"
+],
+[
+"jp.co.sony.ips.portalapp",
+"Franticg33k",
+"ZV-E10 Wi-Fi support"
+],
+[
+"jp.co.sony.ips.portalapp",
+"Franticg33k",
+"ZV-E10 core"
+],
+[
+"jp.co.sony.ips.portalapp",
+"Franticg33k",
+"ZV-E10 debug trace"
 ],
 [
 "jp.co.yahoo.android.apps.transit",
@@ -21363,6 +22128,11 @@
 "net.mbc.shahid",
 "Hxreborn",
 "Disable tracking"
+],
+[
+"net.mbc.shahid",
+"Hxreborn",
+"Fix sign-in"
 ],
 [
 "net.mbc.shahid",
@@ -24728,6 +25498,11 @@
 "tv.twitch.android.app",
 "aRandomHooman",
 "Fix notifications"
+],
+[
+"uk.co.lrb.mag",
+"XBadFellaX",
+"LRB premium reading"
 ],
 [
 "video.downloader.videodownloader",
