@@ -205,6 +205,26 @@
 "Disable ads"
 ],
 [
+"be.concentra.hbvl.MediaApp",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"be.concentra.hbvl.MediaApp",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"be.concentra.hbvl.MediaApp",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"be.concentra.hbvl.MediaApp",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
 "be.humo.tvgids",
 "Johnneerdael",
 "Disable tracking"
@@ -1470,6 +1490,16 @@
 "Use public imgur API"
 ],
 [
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Fix Reddit API lookups"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Fix loading more comments"
+],
+[
 "com.androholic.wallpapersdepthpix",
 "Hxreborn",
 "GmsCore support"
@@ -1940,6 +1970,11 @@
 "Remove Ads"
 ],
 [
+"com.audiobookshelf.app",
+"M4TH1EU",
+"Allow Veloce media browsing"
+],
+[
 "com.avinside",
 "Aidan",
 "Display Cutout Adaptation"
@@ -2043,6 +2078,11 @@
 "com.beatxp.dafit",
 "0xBaselessProjects",
 "Unlock Offline Guest Mode"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
+"Back up memories"
 ],
 [
 "com.bereal.ft",
@@ -2166,6 +2206,21 @@
 ],
 [
 "com.biobird.exvee",
+"Hxreborn",
+"Unlock premium"
+],
+[
+"com.biwenger.app",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.biwenger.app",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.biwenger.app",
 "Hxreborn",
 "Unlock premium"
 ],
@@ -2347,6 +2402,11 @@
 [
 "com.bongo.bongobd",
 "Media",
+"Disable update"
+],
+[
+"com.bongo.bongobd",
+"Media",
 "Free content"
 ],
 [
@@ -2463,6 +2523,11 @@
 "com.brave.browser",
 "Kveld9",
 "Custom Brave theme"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Custom NTP wallpaper"
 ],
 [
 "com.brave.browser",
@@ -4325,6 +4390,31 @@
 "Unlock premium"
 ],
 [
+"com.facebook.aura",
+"Luvztroy",
+"Debug settings long-press"
+],
+[
+"com.facebook.aura",
+"Luvztroy",
+"Enable MC Debug"
+],
+[
+"com.facebook.aura",
+"Luvztroy",
+"Import/export Mobile Config overrides"
+],
+[
+"com.facebook.aura",
+"Luvztroy",
+"Local trust"
+],
+[
+"com.facebook.aura",
+"Luvztroy",
+"Side-by-side clone"
+],
+[
 "com.facebook.katana",
 "AndrewLiang25",
 "[Feed] Block feed auto refresh"
@@ -5237,6 +5327,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hide the Instants button"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide the recent photo card"
 ],
 [
@@ -5307,6 +5402,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Put gallery picks in the chat"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Quiet incoming calls"
 ],
 [
@@ -5323,6 +5423,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Save any story"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Save voice messages you play"
 ],
 [
 "com.facebook.orca",
@@ -5832,6 +5937,11 @@
 [
 "com.glu.android.zombsniper",
 "ComoEstaisAmigos",
+"Hidden weapons"
+],
+[
+"com.glu.android.zombsniper",
+"ComoEstaisAmigos",
 "Hide Daily Deal popup"
 ],
 [
@@ -6108,6 +6218,11 @@
 "com.google.android.apps.maps",
 "Bearinmind",
 "Flock cameras"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
+"Follow playing media"
 ],
 [
 "com.google.android.apps.maps",
@@ -6692,6 +6807,11 @@
 [
 "com.google.android.apps.youtube.vr.oculus",
 "Commit-Regrets",
+"Patch settings"
+],
+[
+"com.google.android.apps.youtube.vr.oculus",
+"Commit-Regrets",
 "QUIC (HTTP/3)"
 ],
 [
@@ -6793,6 +6913,11 @@
 "com.google.android.inputmethod.latin",
 "Gboard",
 "Frosted Glass"
+],
+[
+"com.google.android.inputmethod.latin",
+"Gboard",
+"Keypress Vibration Intensity Control"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -7742,12 +7867,42 @@
 [
 "com.imo.android.imoim",
 "Hxreborn",
+"Allow sending APK files"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Allow story recording during calls"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
 "Disable analytics"
 ],
 [
 "com.imo.android.imoim",
 "Hxreborn",
 "Disable update check"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Enable burn-after-read messages"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Enable chat search results"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Enable jump to first unread"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Enable message translation"
 ],
 [
 "com.imo.android.imoim",
@@ -7772,7 +7927,27 @@
 [
 "com.imo.android.imoim",
 "Hxreborn",
+"Keep screen on while recording"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
 "Prevent screenshot detection"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Raise GIF size limit"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Raise Time Machine erase limit"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Raise channel video limit"
 ],
 [
 "com.imo.android.imoim",
@@ -7797,6 +7972,11 @@
 [
 "com.imo.android.imoim",
 "Hxreborn",
+"Remove premium entry"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
 "Remove screenshot restriction"
 ],
 [
@@ -7807,7 +7987,17 @@
 [
 "com.imo.android.imoim",
 "Hxreborn",
+"Send long messages"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
 "Show full profile photos"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Show invisible friends in contacts"
 ],
 [
 "com.imo.android.imoim",
@@ -8067,6 +8257,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Chat history tools"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Clean up Reels"
 ],
 [
@@ -8217,6 +8412,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide captions"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide comments"
 ],
 [
@@ -8347,6 +8547,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Keep Home's top bar"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Keep Reels auto scroll on"
 ],
 [
@@ -8358,6 +8563,11 @@
 "com.instagram.android",
 "HushGram",
 "Keep in chat"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Keep the Reels top bar"
 ],
 [
 "com.instagram.android",
@@ -8652,6 +8862,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Use the highest refresh rate"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Use the system photo picker"
 ],
 [
@@ -8933,6 +9148,11 @@
 "com.instagram.moonshot",
 "Wagg13Patch",
 "Instants Mod"
+],
+[
+"com.instaprime.android",
+"Drappula",
+"Unlock premium"
 ],
 [
 "com.instructure.candroid",
@@ -9622,6 +9842,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Fix /api/info endpoint"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Fix /s/ links"
 ],
 [
@@ -9713,6 +9938,16 @@
 "com.laurencedawson.reddit_sync",
 "Mix",
 "Use /user/ endpoint"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Fix Reddit API lookups"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Fix loading more comments"
 ],
 [
 "com.lbrc.PeriodCalendar",
@@ -10088,6 +10323,31 @@
 "com.mb.android",
 "XBadFellaX",
 "Emby remove Firebase and DataTransport"
+],
+[
+"com.mecom.tctubantia.nl",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"com.mecom.tctubantia.nl",
+"Johnneerdael",
+"Hide Premium banner"
+],
+[
+"com.mecom.tctubantia.nl",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"com.mecom.tctubantia.nl",
+"Johnneerdael",
+"Read full articles"
+],
+[
+"com.mecom.tctubantia.nl",
+"Johnneerdael",
+"Skip consent screens"
 ],
 [
 "com.medhaapps.wififtpserver",
@@ -11390,6 +11650,16 @@
 "Video autoplay in detail view"
 ],
 [
+"com.onelouder.baconreader",
+"Patcheddit",
+"Fix Reddit API lookups"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
+"Fix loading more comments"
+],
+[
 "com.onesports.score",
 "Heval",
 "Enable Premium"
@@ -11528,6 +11798,11 @@
 "com.pengyou.cloneapp",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.peptalk.app",
+"XBadFellaX",
+"Pep Talk Elite features"
 ],
 [
 "com.performance.meshview",
@@ -12767,6 +13042,11 @@
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
+"Fix Reddit API lookups"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
 "Fix download completed notification visibility"
 ],
 [
@@ -13770,6 +14050,11 @@
 "Unlock Reverso Context Premium"
 ],
 [
+"com.songsterr",
+"Georgewoodall82",
+"Unlock Premium"
+],
+[
 "com.sony.songpal.mdr",
 "Mouchoir",
 "Block Speak-to-Chat gesture"
@@ -13873,6 +14158,11 @@
 "com.spotify.music",
 "Edoardo9708",
 "Spotify - Previous button diagnostics"
+],
+[
+"com.spotify.music",
+"M4TH1EU",
+"Allow Veloce media browsing"
 ],
 [
 "com.spotify.music",
@@ -14833,6 +15123,11 @@
 "com.techkitlabs.movieparadise",
 "Hiosdra",
 "Movie Paradise - PairIP license bypass"
+],
+[
+"com.technologyreview.mit",
+"XBadFellaX",
+"MIT Tech Review reading meter"
 ],
 [
 "com.techyonic.textbasedrpg",
@@ -16797,6 +17092,11 @@
 [
 "com.viber.voip",
 "Hxreborn",
+"Disable analytics"
+],
+[
+"com.viber.voip",
+"Hxreborn",
 "Hide More screen items"
 ],
 [
@@ -17367,6 +17667,11 @@
 [
 "com.waze",
 "Bearinmind",
+"Speed camera alerts"
+],
+[
+"com.waze",
+"Bearinmind",
 "Speed camera sound at any speed"
 ],
 [
@@ -17492,6 +17797,11 @@
 [
 "com.waze",
 "Forsigh",
+"Hide recent destinations"
+],
+[
+"com.waze",
+"Forsigh",
 "Instrument cluster support"
 ],
 [
@@ -17513,6 +17823,11 @@
 "com.waze",
 "Forsigh",
 "Lane guidance"
+],
+[
+"com.waze",
+"Forsigh",
+"Launch screen background colour"
 ],
 [
 "com.waze",
@@ -17893,6 +18208,11 @@
 "com.yodo1.crossyroad",
 "byehi98",
 "Free store"
+],
+[
+"com.yodo1.skisafarigp",
+"Edoardo9708",
+"Ski Safari \u2013 Unlock All Items"
 ],
 [
 "com.youdao.hindict",
@@ -19870,6 +20190,36 @@
 "Suppress automatic changelog popup"
 ],
 [
+"eu.faircode.email",
+"Rikunode FairEmail",
+"Clone FairEmail alongside official app"
+],
+[
+"eu.faircode.email",
+"Rikunode FairEmail",
+"Enable OAuth setup in re-signed FairEmail (experimental)"
+],
+[
+"eu.faircode.email",
+"Rikunode FairEmail",
+"Enable local Pro features (experimental)"
+],
+[
+"eu.faircode.email",
+"Rikunode FairEmail",
+"Enable local settings export (experimental)"
+],
+[
+"eu.faircode.email",
+"Rikunode FairEmail",
+"Permanently hide donation banner"
+],
+[
+"eu.faircode.email",
+"Rikunode FairEmail",
+"Suppress automatic changelog popup"
+],
+[
 "eu.livesport.FlashScore_com",
 "Heval",
 "Block marketing popups"
@@ -20153,6 +20503,11 @@
 "io.github.xororz.localdream",
 "JPTT",
 "Batch upscale"
+],
+[
+"io.homeassistant.companion.android",
+"M4TH1EU",
+"Allow Veloce car host"
 ],
 [
 "io.lightray.photone",
@@ -21375,6 +21730,21 @@
 "Skip consent screens"
 ],
 [
+"nl.omroepwest.android",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.omroepwest.android",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.omroepwest.android",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
 "nl.rtl.rtlnieuws",
 "Johnneerdael",
 "Disable Swrve (expert)"
@@ -21405,6 +21775,11 @@
 "Hide ads"
 ],
 [
+"nl.rtl.videoland.v2",
+"Johnneerdael",
+"Hide unavailable content"
+],
+[
 "nl.sanomamedia.android.nu",
 "Johnneerdael",
 "Disable tracking"
@@ -21421,6 +21796,21 @@
 ],
 [
 "nl.sanomamedia.android.nu",
+"Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.sbs.kijk",
+"Johnneerdael",
+"Disable tracking"
+],
+[
+"nl.sbs.kijk",
+"Johnneerdael",
+"Hide ads"
+],
+[
+"nl.sbs.kijk",
 "Johnneerdael",
 "Skip consent screens"
 ],
@@ -21518,6 +21908,16 @@
 "o.o.joey",
 "Brealorg",
 "Spoof client"
+],
+[
+"o.o.joey",
+"Patcheddit",
+"Fix Reddit API lookups"
+],
+[
+"o.o.joey",
+"Patcheddit",
+"Fix loading more comments"
 ],
 [
 "o.o.joey",
@@ -23042,6 +23442,16 @@
 [
 "org.vernazza.androidfuel",
 "Edoardo9708",
+"Prezzi Benzina - Method lookup only F10 (ARM64)"
+],
+[
+"org.vernazza.androidfuel",
+"Edoardo9708",
+"Prezzi Benzina - No-op PackageInfo hook F9 (ARM64)"
+],
+[
+"org.vernazza.androidfuel",
+"Edoardo9708",
 "Prezzi Benzina - Personal Google Maps key M1"
 ],
 [
@@ -23053,6 +23463,11 @@
 "org.vernazza.androidfuel",
 "Edoardo9708",
 "Prezzi Benzina - Signature trace F5 (ARM64)"
+],
+[
+"org.vernazza.androidfuel",
+"Edoardo9708",
+"Prezzi Benzina - microG token routing F13"
 ],
 [
 "org.videolan.vlc",
@@ -23498,6 +23913,16 @@
 "reddit.news",
 "Brealorg",
 "Spoof client"
+],
+[
+"reddit.news",
+"Patcheddit",
+"Fix Reddit API lookups"
+],
+[
+"reddit.news",
+"Patcheddit",
+"Fix loading more comments"
 ],
 [
 "ridmik.keyboard",
