@@ -232,6 +232,11 @@
 [
 "be.concentra.gva.MediaApp",
 "JohnInNL",
+"Hide newspaper navigation"
+],
+[
+"be.concentra.gva.MediaApp",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
@@ -248,6 +253,11 @@
 "be.concentra.hbvl.MediaApp",
 "JohnInNL",
 "Hide ads"
+],
+[
+"be.concentra.hbvl.MediaApp",
+"JohnInNL",
+"Hide newspaper navigation"
 ],
 [
 "be.concentra.hbvl.MediaApp",
@@ -638,6 +648,21 @@
 "bitpit.launcher",
 "Heval",
 "Enable Premium"
+],
+[
+"bitpit.launcher",
+"RokuOP",
+"Install alongside Niagara"
+],
+[
+"bitpit.launcher",
+"RokuOP",
+"Personal OpenWeather"
+],
+[
+"bitpit.launcher",
+"d0nj",
+"Use Open-Meteo for weather"
 ],
 [
 "ca.cbc.mobile.android.cbcnewsandroidwebview",
@@ -3090,6 +3115,16 @@
 "Hide ads"
 ],
 [
+"com.cardfeed.video_public",
+"Hxreborn",
+"Remove promotions"
+],
+[
+"com.cardfeed.video_public",
+"Hxreborn",
+"Remove screenshot restriction"
+],
+[
 "com.chenupt.money",
 "MightyMich",
 "Unlock Premium Features"
@@ -3327,6 +3362,11 @@
 [
 "com.chess",
 "Quwi26",
+"Arrows in reviews"
+],
+[
+"com.chess",
+"Quwi26",
 "Board colors"
 ],
 [
@@ -3348,6 +3388,11 @@
 "com.chess",
 "Quwi26",
 "Game Review on your computer"
+],
+[
+"com.chess",
+"Quwi26",
+"Global Crash Handler"
 ],
 [
 "com.chess",
@@ -3413,6 +3458,46 @@
 "com.chess",
 "Quwi26",
 "Unlock all bots"
+],
+[
+"com.chess",
+"VenusIsJaded Chess",
+"Ad-Free"
+],
+[
+"com.chess",
+"VenusIsJaded Chess",
+"Clone Chess.com"
+],
+[
+"com.chess",
+"VenusIsJaded Chess",
+"Custom Titles"
+],
+[
+"com.chess",
+"VenusIsJaded Chess",
+"Global Crash Handler"
+],
+[
+"com.chess",
+"VenusIsJaded Chess",
+"Lichess Puzzles"
+],
+[
+"com.chess",
+"VenusIsJaded Chess",
+"Local Stockfish Analysis"
+],
+[
+"com.chess",
+"VenusIsJaded Chess",
+"Unlimited Play Coach"
+],
+[
+"com.chess",
+"VenusIsJaded Chess",
+"Unlock All Bots"
 ],
 [
 "com.chessable.chessable",
@@ -3561,6 +3646,16 @@
 ],
 [
 "com.cricfytv.sports",
+"CallMeBeyonder",
+"Remove bandwidth sharing (CashRaven)"
+],
+[
+"com.cricfytv.sports",
+"CallMeBeyonder",
+"Remove unnecessary permissions"
+],
+[
+"com.cricfytv.sports",
 "GinDoki19",
 "Remove ads, proxy & restrictions"
 ],
@@ -3583,6 +3678,36 @@
 "com.denchi.vtubestudio",
 "Epxec",
 "Enable Pro"
+],
+[
+"com.dennisk.rollerbank",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.dennisk.rollerbank",
+"JohnInNL",
+"Enable En Route alerts"
+],
+[
+"com.dennisk.rollerbank",
+"JohnInNL",
+"Fix Google services"
+],
+[
+"com.dennisk.rollerbank",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"com.dennisk.rollerbank",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.dennisk.rollerbank",
+"JohnInNL",
+"Skip consent screens"
 ],
 [
 "com.dev2a.junk_journal",
@@ -3638,6 +3763,286 @@
 "com.dirgasena.remakefaceai",
 "Rahaaatul",
 "Remove Ads"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Account switcher"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Alert when you're removed"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Always trust links and files"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Anonymous file names"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Bring back Tenor GIFs"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Bulk delete messages"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Clean channel names"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Complete Quests automatically"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Complete badges automatically"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Copy profile bios"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Cordly button on profile bar"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Cordly settings"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Custom themes"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Disable advertising identifiers"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Disable analytics"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Disable crash reporting"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Disable install attribution"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Disable telemetry and touch logging"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Double-tap to reply"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Edit servers locally"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Favourite any image or video"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Fix link previews"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Fix unknown mentions"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Hide blocked or ignored messages"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Hide typing indicator"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Icon packs"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Inspect message JSON"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Jump to first message"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Keep Bluetooth audio clear in calls"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Keep deleted messages"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Load full-quality images"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Material You colors"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Message highlights"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Pastel name colors"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Read all button"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Remove anything"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Send Nitro stickers and emojis as links"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Send audio as voice messages"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Send long messages"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Server info"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Show device indicators"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Show file sizes when attaching"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Show hidden channels"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Show owner and mod tags"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Skip delete confirmation"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Skip pin confirmation"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Tap mentions to open profiles"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Translate messages"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Unlock Discord experiments"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Unlock Nitro themes"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Unlock app icons"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Use your phone's emojis"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Use your phone's font"
+],
+[
+"com.discord",
+"Lildanlid1",
+"User activity notifications"
+],
+[
+"com.discord",
+"Lildanlid1",
+"User and server reviews"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Voice channel options"
 ],
 [
 "com.discord",
@@ -4370,6 +4775,126 @@
 "Voice channel options"
 ],
 [
+"com.discord",
+"VenusIsJaded Discord",
+"Alert when you're removed"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Always trust links and files"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Anonymous file names"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Bring back Tenor GIFs"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Bulk delete messages"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Clean channel names"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Complete badges automatically"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Custom branding"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Edit servers locally"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Fix link previews"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Hide blocked or ignored messages"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Icon packs"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Keep Bluetooth audio clear in calls"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Listen along"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Load full-quality images"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Material You colors"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Remove anything"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Server info"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Show owner and mod tags"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Skip pin confirmation"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Tap mentions to open profiles"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Unlock Discord experiments"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Unlock Nitro themes"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Voice channel options"
+],
+[
 "com.disney.disneyplus",
 "De-Vanced",
 "Skip ads"
@@ -4765,6 +5290,26 @@
 "Hide promotions"
 ],
 [
+"com.ertanto.kompas.official",
+"Amfakh",
+"Disable analytics"
+],
+[
+"com.ertanto.kompas.official",
+"Amfakh",
+"GmsCore support"
+],
+[
+"com.ertanto.kompas.official",
+"Amfakh",
+"Hide ads"
+],
+[
+"com.ertanto.kompas.official",
+"Amfakh",
+"Stop autoplay"
+],
+[
 "com.eset.ems2.gp",
 "MightyMich",
 "Enable premium license"
@@ -4953,6 +5498,11 @@
 "com.facebook.katana",
 "AndrewLiang25",
 "[General] AMOLED black theme"
+],
+[
+"com.facebook.katana",
+"AndrewLiang25",
+"[General] Andrew's Patch Setting"
 ],
 [
 "com.facebook.katana",
@@ -5615,6 +6165,16 @@
 "View stories anonymously"
 ],
 [
+"com.facebook.katana",
+"MegaTheLEGEND",
+"Marketplace only"
+],
+[
+"com.facebook.katana",
+"MegaTheLEGEND",
+"Marketplace rename"
+],
+[
 "com.facebook.lite",
 "BlazeFTL Facebook",
 "Disable in-app browser"
@@ -5812,6 +6372,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hide call buttons"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide chat promotions"
 ],
 [
@@ -5952,6 +6517,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Record calls"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Restore old emoji drawer"
 ],
 [
@@ -5967,7 +6537,17 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Save button for voice messages"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Save voice messages you play"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Search saved messages"
 ],
 [
 "com.facebook.orca",
@@ -6465,6 +7045,26 @@
 "Material You"
 ],
 [
+"com.github.android",
+"Stylus",
+"Custom font"
+],
+[
+"com.github.android",
+"Stylus",
+"Custom monospace font"
+],
+[
+"com.github.android",
+"Stylus",
+"Force system font"
+],
+[
+"com.github.android",
+"Stylus",
+"Force system font (including monospace)"
+],
+[
 "com.global.foodpanda.android",
 "Proxma",
 "Bypass anti-tamper (foodpanda)"
@@ -6558,6 +7158,16 @@
 "com.gmail.jmartindev.timetune",
 "Heval",
 "Enable Premium"
+],
+[
+"com.gooded.essential",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.gooded.essential",
+"Hxreborn",
+"Remove screenshot restriction"
 ],
 [
 "com.gooded.essential",
@@ -7083,6 +7693,11 @@
 "com.google.android.apps.maps",
 "RhubarbShoelaces",
 "Hybrid Theme (Dark Menus, Light Map)"
+],
+[
+"com.google.android.apps.maps",
+"v1rtu0s",
+"BlitzerMorph"
 ],
 [
 "com.google.android.apps.photos",
@@ -8365,6 +8980,11 @@
 "Remove Ads"
 ],
 [
+"com.halfbrick.jetpackjoyride",
+"byehi98",
+"Unlock Events"
+],
+[
 "com.hapibits.soundlift",
 "Hxreborn",
 "Unlock premium"
@@ -8538,6 +9158,46 @@
 "com.ichi2.anki",
 "Titandrive",
 "AnkiDroid Catppuccin theme and fonts"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Allow Developer options"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Disable analytics"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Hide Create button"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Hide ads"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Hide home tabs"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Hide package banner"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Redirect Gold purchase"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Stop autoplay"
 ],
 [
 "com.ihad.ptt",
@@ -9512,6 +10172,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Skip the ad data reminder"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Skip the collections tray"
 ],
 [
@@ -9712,6 +10377,11 @@
 [
 "com.instagram.android",
 "Piko",
+"Disable disappearing messages swipe"
+],
+[
+"com.instagram.android",
+"Piko",
 "Disable telemetry"
 ],
 [
@@ -9823,6 +10493,321 @@
 "com.instagram.android",
 "Wagg13Patch",
 "Story mention indicator"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Add settings"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Allow user network certificate"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Change like animation"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Change version code"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Clone"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Copy comment"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Custom font"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Custom sharing domain"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Customise story ring size"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Customise story timestamp"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Customize navigation bar"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable Reels scrolling"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable ads"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable analytics"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable comments"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable discover people"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable double tap like"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable explore"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable highlights"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable screenshot detection"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable stories"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable story flipping"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable swipe to create"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable typing status"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable video autoplay"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Download media"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Download voice message"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"External downloader"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Filter stories"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Focus Lock"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Friendship status indicator"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide Instants view"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide Reels follow button"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide group creation button on sharesheet"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide notes tray"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide reshare button"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide save buttons"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide share button"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide stories tray"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide suggested content"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Improve image viewing"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Inbox lock"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Limit feed to following profiles"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Loop story"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Make ephemeral media permanent"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Mark chat as read manually"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"More options on post"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"More options on profile"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Open links externally"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Recommended flags"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Remove empty bottom space"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Sanitize share links"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Save Instants"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Save deleted messages"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Save media comment"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Theme"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Unlock Plus benefits"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Unlock developer options"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Unlock employee options"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"View DMs anonymously"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"View live anonymously"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"View stories anonymously"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"View story mentions"
 ],
 [
 "com.instagram.android",
@@ -9938,6 +10923,11 @@
 "com.instagram.barcelona",
 "HushThreads",
 "Trust user-added certificates"
+],
+[
+"com.instagram.barcelona",
+"Zeldris",
+"Hide suggested accounts"
 ],
 [
 "com.instagram.barcelona",
@@ -10528,6 +11518,11 @@
 "com.klevico.monet",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.klevico.monet",
+"JohnInNL",
+"Individual Wuplay catalog rows"
 ],
 [
 "com.klevico.monet",
@@ -11880,6 +12875,11 @@
 "Unlock high frame rates"
 ],
 [
+"com.miui.weather2",
+"Bearinmind",
+"Enable non-HyperOS ROM support"
+],
+[
 "com.mixplorer",
 "Ak800i",
 "Fix scoped-storage file sharing"
@@ -11993,6 +12993,41 @@
 "com.music.bitchord",
 "Hexclyde",
 "Unofficial Telegram music"
+],
+[
+"com.musicleague.app",
+"Mlkem",
+"Disable Expo updates and backup restore"
+],
+[
+"com.musicleague.app",
+"Mlkem",
+"Disable ad SDK manifest components"
+],
+[
+"com.musicleague.app",
+"Mlkem",
+"Disable ad and promo remote config"
+],
+[
+"com.musicleague.app",
+"Mlkem",
+"Hermes hide ad promo surfaces"
+],
+[
+"com.musicleague.app",
+"Mlkem",
+"Neutralize bundled ad unit IDs and premium banners"
+],
+[
+"com.musicleague.app",
+"Mlkem",
+"Neutralize premium and reward-ad prompts"
+],
+[
+"com.musicleague.app",
+"Mlkem",
+"Pin local Expo config"
 ],
 [
 "com.musixmatch.android.lyrify",
@@ -12158,6 +13193,11 @@
 "com.navercorp.game.android.community",
 "Snowyegret23",
 "Playback without ads"
+],
+[
+"com.neave.zoomearth",
+"Mlkem",
+"Remove LiteAPKS nag"
 ],
 [
 "com.nekki.shadowfight",
@@ -12508,6 +13548,11 @@
 "com.notdoppler.crashofcars",
 "byehi98",
 "Crash of Cars Sideload / APK Expansion Bypass"
+],
+[
+"com.nothing.gallery",
+"Bearinmind",
+"Enable non-Nothing OS ROM support"
 ],
 [
 "com.nousguide.android.orftvthek",
@@ -12946,6 +13991,11 @@
 ],
 [
 "com.overdevs.at4k",
+"JohnInNL",
+"Unlock Premium"
+],
+[
+"com.overdevs.at4k",
 "Saieshshirodkar",
 "Disable PairIP DRM"
 ],
@@ -12983,6 +14033,36 @@
 "com.paget96.batteryguru",
 "Rahaaatul",
 "Unlock Premium"
+],
+[
+"com.panasonic.in.miraie",
+"Sarvottam99",
+"Change installer source"
+],
+[
+"com.panasonic.in.miraie",
+"Sarvottam99",
+"Dark mode"
+],
+[
+"com.panasonic.in.miraie",
+"Sarvottam99",
+"Disable Play Store updates"
+],
+[
+"com.panasonic.in.miraie",
+"Sarvottam99",
+"Hide Lifestyle tab"
+],
+[
+"com.panasonic.in.miraie",
+"Sarvottam99",
+"Remove dashboard promotional banner"
+],
+[
+"com.panasonic.in.miraie",
+"Sarvottam99",
+"Spoof signature"
 ],
 [
 "com.paradyme.solarsmash",
@@ -13620,6 +14700,11 @@
 "Unlock premium"
 ],
 [
+"com.pushpress.memberportal",
+"Mlkem",
+"Workouts: force CrossFit class"
+],
+[
 "com.pzolee.bluetoothscanner",
 "Heval",
 "Disable ads"
@@ -13878,6 +14963,26 @@
 "com.robtopx.geometrydashworld",
 "Dieroboter",
 "Strip ad tracking permissions"
+],
+[
+"com.rockstargames.gtasa.de",
+"RAZORRZR0",
+"GTA Prop Fix"
+],
+[
+"com.rockstargames.gtasa.de",
+"RAZORRZR0",
+"ModMenu"
+],
+[
+"com.rockstargames.gtasa.de",
+"RAZORRZR0",
+"Project Props"
+],
+[
+"com.rockstargames.gtasa.de",
+"RAZORRZR0",
+"SkyGfx"
 ],
 [
 "com.rockstreamer.iscreen",
@@ -14712,6 +15817,11 @@
 [
 "com.samsung.android.app.notes",
 "Bearinmind",
+"Disable telemetry"
+],
+[
+"com.samsung.android.app.notes",
+"Bearinmind",
 "Enable non-One UI ROM support"
 ],
 [
@@ -14773,6 +15883,11 @@
 "com.samsung.android.app.notes",
 "Jibon-K",
 "Turn off Samsung cloud components"
+],
+[
+"com.samsung.android.calendar",
+"Bearinmind",
+"Enable non-One UI ROM support"
 ],
 [
 "com.samsung.android.game.gamehome",
@@ -14883,6 +15998,11 @@
 "com.samsung.android.soundassistant",
 "Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.sankakucomplex.channel.black",
+"HellveticaStandard",
+"Hide Trending Tags Section"
 ],
 [
 "com.sauzask.nicoid",
@@ -15020,9 +16140,34 @@
 "Unlock premium"
 ],
 [
+"com.sec.android.app.clockpackage",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
+"com.sec.android.app.music",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
+"com.sec.android.app.myfiles",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
+"com.sec.android.app.popupcalculator",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
 "com.sec.android.app.shealth",
 "Samsung Health",
 "Hide home promotion panel"
+],
+[
+"com.sec.android.app.voicenote",
+"Bearinmind",
+"Enable non-One UI ROM support"
 ],
 [
 "com.sec.android.gallery3d",
@@ -15388,6 +16533,16 @@
 "com.spaceship.screen.textcopy",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"com.spocky.projengmenu",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.spocky.projengmenu",
+"JohnInNL",
+"Unlock Premium"
 ],
 [
 "com.spocky.projengmenu",
@@ -17152,6 +18307,11 @@
 [
 "com.tumblr",
 "HushTumblr",
+"App font"
+],
+[
+"com.tumblr",
+"HushTumblr",
 "Dark background color"
 ],
 [
@@ -17332,6 +18492,11 @@
 [
 "com.tumblr",
 "HushTumblr",
+"Line between posts"
+],
+[
+"com.tumblr",
+"HushTumblr",
 "Mute posts locally"
 ],
 [
@@ -17378,6 +18543,16 @@
 "com.tumblr",
 "HushTumblr",
 "Visible image descriptions"
+],
+[
+"com.tunneldoom.http",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.tunneldoom.http",
+"Hxreborn",
+"Remove time limit"
 ],
 [
 "com.tuya.smart",
@@ -18137,6 +19312,11 @@
 [
 "com.twitter.android",
 "Serajr",
+"Hide Post Reply Bar (Keep Haze)"
+],
+[
+"com.twitter.android",
+"Serajr",
 "Keep Bottom Bar Visible"
 ],
 [
@@ -18153,6 +19333,381 @@
 "com.twitter.android",
 "Sylonin",
 "Account location badges"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Add ability to copy media link"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Block redirecting to X Lite"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Block update screen"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Bring back twitter"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Change app icon"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Change version code"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Clear tracking params"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Control video auto scroll"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Custom download folder"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Custom emoji font"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Custom font"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Custom share menu"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Custom sharing domain"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customise post font size"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize Inline action Bar items"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize Navigation Bar items"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize default reply sorting"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize explore tabs"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize notification tabs"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize profile tabs"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize search suggestions"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize search tab items"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize side bar items"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Customize timeline top bar"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Delete from database"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Disable auto timeline scroll on launch"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Disable chirp font"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Download patch"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Dynamic color"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Enable PiP mode automatically"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Enable Undo Posts"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Enable debug menu for posts"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Enable force HD videos"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Export all activities"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Force enable translate"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Handle custom twitter links"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide Banner"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide Community Notes"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide FAB"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide FAB Menu Buttons"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide Live Threads"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide Recommended Users"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide badges from navigation bar icons"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide bookmark icon in timeline"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide community badges"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide followed by context"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide hidden replies"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide immersive player"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide nudge button"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide post metrics"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide promote button"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hide recommendation items"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Hook feature flag"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Import/Export login token"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Legacy share links"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Log server response"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"More information on profile"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Native downloader"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Native reader mode"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Native translator"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"No shortened URL"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Pause search suggestions"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Remove Ads"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Remove premium upsell"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Remove search suggestions"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Remove view count"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Restore legacy follower lists"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Round off numbers"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Selectable Text"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Share Tweet as Image"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Show changelogs"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Show poll results"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Show post source label"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Show sensitive media"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Support external downloader"
 ],
 [
 "com.twitter.android",
@@ -19516,6 +21071,141 @@
 ],
 [
 "com.waze",
+"JohnInNL",
+"Alert distances"
+],
+[
+"com.waze",
+"JohnInNL",
+"All moods"
+],
+[
+"com.waze",
+"JohnInNL",
+"Average speed zone bar"
+],
+[
+"com.waze",
+"JohnInNL",
+"Bigger alert pins"
+],
+[
+"com.waze",
+"JohnInNL",
+"Bigger speedometer"
+],
+[
+"com.waze",
+"JohnInNL",
+"Change app name"
+],
+[
+"com.waze",
+"JohnInNL",
+"Flock cameras"
+],
+[
+"com.waze",
+"JohnInNL",
+"Full black"
+],
+[
+"com.waze",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.waze",
+"JohnInNL",
+"Map skin"
+],
+[
+"com.waze",
+"JohnInNL",
+"Navigation distances"
+],
+[
+"com.waze",
+"JohnInNL",
+"No AI reporting"
+],
+[
+"com.waze",
+"JohnInNL",
+"No Google Assistant"
+],
+[
+"com.waze",
+"JohnInNL",
+"Open without device location"
+],
+[
+"com.waze",
+"JohnInNL",
+"Remove permissions"
+],
+[
+"com.waze",
+"JohnInNL",
+"Remove sign-in prompts"
+],
+[
+"com.waze",
+"JohnInNL",
+"Remove telemetry"
+],
+[
+"com.waze",
+"JohnInNL",
+"Report speed limit"
+],
+[
+"com.waze",
+"JohnInNL",
+"Share alerts with Maps"
+],
+[
+"com.waze",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"com.waze",
+"JohnInNL",
+"SoundCloud in Waze"
+],
+[
+"com.waze",
+"JohnInNL",
+"Speed camera alerts"
+],
+[
+"com.waze",
+"JohnInNL",
+"Speed camera sound at any speed"
+],
+[
+"com.waze",
+"JohnInNL",
+"Speed cameras everywhere"
+],
+[
+"com.waze",
+"JohnInNL",
+"Speed limit sign"
+],
+[
+"com.waze",
+"JohnInNL",
+"Stay awake in the background"
+],
+[
+"com.waze",
+"JohnInNL",
+"YT Music Morphe in Waze"
+],
+[
+"com.waze",
 "M4TH1EU",
 "Allow custom car hosts"
 ],
@@ -19672,7 +21362,17 @@
 [
 "com.whereismytrain.android",
 "Stylus",
+"Custom font"
+],
+[
+"com.whereismytrain.android",
+"Stylus",
 "Custom font (Where is my Train)"
+],
+[
+"com.whereismytrain.android",
+"Stylus",
+"Force system font"
 ],
 [
 "com.whereismytrain.android",
@@ -19690,6 +21390,11 @@
 "Unlock Premium"
 ],
 [
+"com.windyty.android",
+"Pigfoot",
+"Windy local premium features"
+],
+[
 "com.withopal.opal",
 "Hxreborn",
 "Skip sign-in"
@@ -19705,9 +21410,29 @@
 "Export cart"
 ],
 [
+"com.wongnai.android",
+"Mlkem",
+"Disable Wongnai Google ads"
+],
+[
 "com.wowsoftware.hidemyandroid",
 "Arsylk",
 "Unlock premium"
+],
+[
+"com.x8bit.bitwarden",
+"Stylus",
+"Custom font"
+],
+[
+"com.x8bit.bitwarden",
+"Stylus",
+"Custom monospace font"
+],
+[
+"com.x8bit.bitwarden",
+"Stylus",
+"Force system font"
 ],
 [
 "com.xinesoft.notifications",
@@ -21527,6 +23252,11 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"Native backup interval settings"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Suppress outbound seen status"
 ],
 [
@@ -22366,6 +24096,16 @@
 ],
 [
 "jp.co.yahoo.android.apps.transit",
+"MohuttTT",
+"App language selector + English UI (experimental)"
+],
+[
+"jp.co.yahoo.android.apps.transit",
+"MohuttTT",
+"Hide selected ad layouts (experimental)"
+],
+[
+"jp.co.yahoo.android.apps.transit",
 "Paruo",
 "Hide Yahoo Transit Ad"
 ],
@@ -23130,6 +24870,11 @@
 "Zombie Tsunami Installer Check Fix"
 ],
 [
+"net.mountainsheep.minigore2zombies",
+"Edoardo9708",
+"Minigore 2 - Moltiplicatore monete"
+],
+[
 "net.omobio.dialogsc",
 "Madushas",
 "Disable AppsFlyer"
@@ -23378,6 +25123,11 @@
 "nl.flitsmeister",
 "JohnInNL",
 "Fix PairIP startup"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
+"Guest mode"
 ],
 [
 "nl.flitsmeister",
@@ -24742,6 +26492,11 @@
 [
 "org.telegram.messenger",
 "Stylus",
+"Force system font"
+],
+[
+"org.telegram.messenger",
+"Stylus",
 "Force system font (Telegram)"
 ],
 [
@@ -25238,6 +26993,11 @@
 "org.telegram.messenger.web",
 "Rahul9999xda",
 "Voice to music"
+],
+[
+"org.telegram.messenger.web",
+"Stylus",
+"Force system font"
 ],
 [
 "org.telegram.messenger.web",
@@ -26757,6 +28517,11 @@
 [
 "tv.twitch.android.app",
 "Ryykitty",
+"Favorite emotes"
+],
+[
+"tv.twitch.android.app",
+"Ryykitty",
 "Hide Turbo promotions"
 ],
 [
@@ -27012,6 +28777,21 @@
 [
 "xyz.quaver.pupil",
 "Rikunode",
+"Favorites random shortcut"
+],
+[
+"xyz.quaver.pupil",
+"Rikunode Pupil",
+"Disable automatic update checks"
+],
+[
+"xyz.quaver.pupil",
+"Rikunode Pupil",
+"Disable gallery left swipe"
+],
+[
+"xyz.quaver.pupil",
+"Rikunode Pupil",
 "Favorites random shortcut"
 ],
 [
