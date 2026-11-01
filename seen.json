@@ -50,6 +50,11 @@
 "Enable Premium"
 ],
 [
+"app.komikku",
+"Pengusto",
+"Keep local manga in exclusion searches"
+],
+[
 "app.lawnchair.nightly",
 "Latanvillegas",
 "Pure black and white color options"
@@ -83,6 +88,11 @@
 "app.marlboroadvance.mpvex",
 "Kyurem39",
 "Vietnamese interface"
+],
+[
+"app.mihon",
+"Pengusto",
+"Preserve excluded Default-category downloads"
 ],
 [
 "app.pinya.mango",
@@ -205,6 +215,46 @@
 "Disable ads"
 ],
 [
+"be.concentra.gva.MediaApp",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.concentra.gva.MediaApp",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"be.concentra.gva.MediaApp",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.concentra.gva.MediaApp",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"be.concentra.hbvl.MediaApp",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.concentra.hbvl.MediaApp",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"be.concentra.hbvl.MediaApp",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.concentra.hbvl.MediaApp",
+"JohnInNL",
+"Skip consent screens"
+],
+[
 "be.concentra.hbvl.MediaApp",
 "Johnneerdael",
 "Disable tracking"
@@ -226,6 +276,31 @@
 ],
 [
 "be.humo.tvgids",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.humo.tvgids",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"be.humo.tvgids",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.humo.tvgids",
+"JohnInNL",
+"Read full articles"
+],
+[
+"be.humo.tvgids",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"be.humo.tvgids",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -251,6 +326,31 @@
 ],
 [
 "be.persgroep.android.news.mobilead",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobilead",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobilead",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobilead",
+"JohnInNL",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobilead",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobilead",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -272,6 +372,31 @@
 [
 "be.persgroep.android.news.mobilead",
 "Johnneerdael",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"JohnInNL",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
@@ -301,6 +426,36 @@
 ],
 [
 "be.persgroep.android.news.mobilehln",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"JohnInNL",
+"Hide empty listening carousel"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"JohnInNL",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobilehln",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -322,6 +477,31 @@
 [
 "be.persgroep.android.news.mobilehln",
 "Johnneerdael",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"JohnInNL",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobilepa",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
@@ -351,6 +531,31 @@
 ],
 [
 "be.persgroep.android.news.mobiletr",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobiletr",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobiletr",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobiletr",
+"JohnInNL",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobiletr",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobiletr",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -372,6 +577,31 @@
 [
 "be.persgroep.android.news.mobiletr",
 "Johnneerdael",
+"Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"JohnInNL",
+"Read full articles"
+],
+[
+"be.persgroep.android.news.mobilevk",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
@@ -1826,6 +2056,36 @@
 ],
 [
 "com.appmind.radios.id",
+"Amfakh",
+"Disable analytics"
+],
+[
+"com.appmind.radios.id",
+"Amfakh",
+"Disable data collection SDKs"
+],
+[
+"com.appmind.radios.id",
+"Amfakh",
+"Faster startup"
+],
+[
+"com.appmind.radios.id",
+"Amfakh",
+"Material You"
+],
+[
+"com.appmind.radios.id",
+"Amfakh",
+"Premium unlock"
+],
+[
+"com.appmind.radios.id",
+"Amfakh",
+"Song info in media notification"
+],
+[
+"com.appmind.radios.id",
 "Mfakh",
 "Disable analytics"
 ],
@@ -2078,6 +2338,26 @@
 "com.banglalink.toffee",
 "Media",
 "VPN active"
+],
+[
+"com.bardi.smart.home",
+"Amfakh",
+"GmsCore support"
+],
+[
+"com.bardi.smart.home",
+"Amfakh",
+"Hide App Mall"
+],
+[
+"com.bardi.smart.home",
+"Amfakh",
+"Hide Mall tab"
+],
+[
+"com.bardi.smart.home",
+"Amfakh",
+"Hide Me banner"
 ],
 [
 "com.beatxp.dafit",
@@ -3023,6 +3303,116 @@
 "com.chess",
 "Prathxm",
 "Unlimited Play Coach"
+],
+[
+"com.chess",
+"Quwi26",
+"AMOLED black"
+],
+[
+"com.chess",
+"Quwi26",
+"Accent color"
+],
+[
+"com.chess",
+"Quwi26",
+"Arcade animations"
+],
+[
+"com.chess",
+"Quwi26",
+"Arrows in games"
+],
+[
+"com.chess",
+"Quwi26",
+"Board colors"
+],
+[
+"com.chess",
+"Quwi26",
+"Clone Chess.com"
+],
+[
+"com.chess",
+"Quwi26",
+"Customize Home screen"
+],
+[
+"com.chess",
+"Quwi26",
+"Customize bottom bar"
+],
+[
+"com.chess",
+"Quwi26",
+"Game Review on your computer"
+],
+[
+"com.chess",
+"Quwi26",
+"Great and Brilliant moves analysis"
+],
+[
+"com.chess",
+"Quwi26",
+"Hide Premium-only content"
+],
+[
+"com.chess",
+"Quwi26",
+"Lichess Puzzles"
+],
+[
+"com.chess",
+"Quwi26",
+"Limits as toasts"
+],
+[
+"com.chess",
+"Quwi26",
+"No ads"
+],
+[
+"com.chess",
+"Quwi26",
+"No rating prompts"
+],
+[
+"com.chess",
+"Quwi26",
+"Quwi's Patches settings"
+],
+[
+"com.chess",
+"Quwi26",
+"Stockfish analysis"
+],
+[
+"com.chess",
+"Quwi26",
+"Time controls under a minute"
+],
+[
+"com.chess",
+"Quwi26",
+"Unlimited Game Review"
+],
+[
+"com.chess",
+"Quwi26",
+"Unlimited Play Coach"
+],
+[
+"com.chess",
+"Quwi26",
+"Unlock Premium content"
+],
+[
+"com.chess",
+"Quwi26",
+"Unlock all bots"
 ],
 [
 "com.chessable.chessable",
@@ -4200,6 +4590,26 @@
 "Unlock Premium Plus"
 ],
 [
+"com.dundunstudio.autoplay",
+"Amfakh",
+"Disable analytics"
+],
+[
+"com.dundunstudio.autoplay",
+"Amfakh",
+"Fix song playback"
+],
+[
+"com.dundunstudio.autoplay",
+"Amfakh",
+"GmsCore support"
+],
+[
+"com.dundunstudio.autoplay",
+"Amfakh",
+"Premium unlock"
+],
+[
 "com.duolingo",
 "Bastlam",
 "Disable dynamic app icon"
@@ -4333,6 +4743,16 @@
 "com.enzuredigital.weatherbomb",
 "Edoardo9708",
 "Flowx - Test stato Gold locale"
+],
+[
+"com.eoffice.android",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.eoffice.android",
+"JohnInNL",
+"Hide promotions"
 ],
 [
 "com.eoffice.android",
@@ -6040,6 +6460,11 @@
 "Disable mock GPS detection (JS fallback)"
 ],
 [
+"com.github.android",
+"Amfakh",
+"Material You"
+],
+[
 "com.global.foodpanda.android",
 "Proxma",
 "Bypass anti-tamper (foodpanda)"
@@ -7332,6 +7757,11 @@
 [
 "com.google.android.inputmethod.latin",
 "JacksonJones2003 Immersive",
+"Key Mapper Watchdog"
+],
+[
+"com.google.android.inputmethod.latin",
+"JacksonJones2003 Immersive",
 "Theme Follows Dark Mode"
 ],
 [
@@ -7948,6 +8378,11 @@
 "com.hardcodedjoy.iototoy",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.harwin.prismatica",
+"Franticg33k",
+"Unlock Pro"
 ],
 [
 "com.hdictionary.bn",
@@ -9367,7 +9802,17 @@
 [
 "com.instagram.android",
 "Southstar21dev",
+"Bypass signature check"
+],
+[
+"com.instagram.android",
+"Southstar21dev",
 "Liquid Glass navigation bar"
+],
+[
+"com.instagram.android",
+"Southstar21dev",
+"Remove build expired popup"
 ],
 [
 "com.instagram.android",
@@ -10671,6 +11116,81 @@
 ],
 [
 "com.linkedin.android",
+"Amfakh",
+"Block tracking"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Disable double-tap like"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Download media"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Feed filters"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"GmsCore support"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide Premium upsells"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide ads"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide promoted jobs"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide suggested posts"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Material You"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Messaging"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"More tab"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Open links directly"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Remove gaps and dividers"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Sanitize share links"
+],
+[
+"com.linkedin.android",
 "Heval",
 "Heval Controls"
 ],
@@ -10870,6 +11390,61 @@
 "Emby remove Firebase and DataTransport"
 ],
 [
+"com.mecom.ed.nl",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.mecom.ed.nl",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"com.mecom.ed.nl",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.mecom.ed.nl",
+"JohnInNL",
+"Hide empty listening carousel"
+],
+[
+"com.mecom.ed.nl",
+"JohnInNL",
+"Read full articles"
+],
+[
+"com.mecom.ed.nl",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"com.mecom.tctubantia.nl",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.mecom.tctubantia.nl",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"com.mecom.tctubantia.nl",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.mecom.tctubantia.nl",
+"JohnInNL",
+"Read full articles"
+],
+[
+"com.mecom.tctubantia.nl",
+"JohnInNL",
+"Skip consent screens"
+],
+[
 "com.mecom.tctubantia.nl",
 "Johnneerdael",
 "Disable tracking"
@@ -10948,6 +11523,21 @@
 "com.medium.reader",
 "Archie's",
 "Hide Premium Banners"
+],
+[
+"com.medium.reader",
+"JohnInNL",
+"Disable optional tracking"
+],
+[
+"com.medium.reader",
+"JohnInNL",
+"Hide native promotions"
+],
+[
+"com.medium.reader",
+"JohnInNL",
+"Read full articles natively"
 ],
 [
 "com.meesho.supply",
@@ -11273,6 +11863,11 @@
 "com.miruronative",
 "Anilili",
 "Fix Recycled Bitmap Crash"
+],
+[
+"com.miui.miwallpaper.earth",
+"MatthewRiley05",
+"Unlock Earth Super Wallpaper"
 ],
 [
 "com.miui.screenrecorder",
@@ -12092,6 +12687,11 @@
 [
 "com.oneletters.audiobooksai",
 "Hxreborn",
+"GmsCore support"
+],
+[
+"com.oneletters.audiobooksai",
+"Hxreborn",
 "Unlock premium"
 ],
 [
@@ -12273,6 +12873,16 @@
 "com.onesports.score",
 "Heval",
 "Spoof signature"
+],
+[
+"com.openbubbles.messaging",
+"MrCool-888",
+"Ready for messages notification control"
+],
+[
+"com.openbubbles.messaging",
+"MrCool-888",
+"Wear companion bridge"
 ],
 [
 "com.orange.coloring.learn.kids",
@@ -12607,6 +13217,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Hide Assistant"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Hide ads"
 ],
 [
@@ -12908,6 +13523,16 @@
 "com.podcast.podcasts",
 "Heval",
 "Disable ads"
+],
+[
+"com.podimo",
+"JohnInNL",
+"Guest session playback host"
+],
+[
+"com.podimo",
+"JohnInNL",
+"Unlock Premium playback"
 ],
 [
 "com.poe.android",
@@ -15007,6 +15632,11 @@
 [
 "com.ss.android.ttmd.video",
 "Hushfeed",
+"Create stickers"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
 "Custom offline videos limit"
 ],
 [
@@ -15068,6 +15698,11 @@
 "com.ss.android.ttmd.video",
 "Hushfeed",
 "Feature Gate Recorder"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Feed filter"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -15178,6 +15813,11 @@
 "com.ss.android.ttmd.video",
 "Hushfeed",
 "Keep pulled sounds"
+],
+[
+"com.ss.android.ttmd.video",
+"Hushfeed",
+"Keep recent stickers"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -15666,6 +16306,31 @@
 ],
 [
 "com.supportware.Buienradar",
+"JohnInNL",
+"Disable Swrve and location upload"
+],
+[
+"com.supportware.Buienradar",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.supportware.Buienradar",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"com.supportware.Buienradar",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.supportware.Buienradar",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"com.supportware.Buienradar",
 "Johnneerdael",
 "Disable Swrve and location upload"
 ],
@@ -15713,6 +16378,21 @@
 "com.sygic.aura",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.talpa.kijk",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.talpa.kijk",
+"JohnInNL",
+"Enable WebView debugging"
+],
+[
+"com.talpa.kijk",
+"JohnInNL",
+"Hide ads"
 ],
 [
 "com.talpa.kijk",
@@ -16700,6 +17380,106 @@
 "Visible image descriptions"
 ],
 [
+"com.tuya.smart",
+"Amfakh",
+"Disable analytics"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"GmsCore support"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Hide AI ask bar"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Hide Explore tab"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Hide My Orders"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Hide Plus button"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Hide Recommended for you"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Hide Rewards Hub"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Hide Tuya AI Web Version"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Hide ads"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Disable analytics"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"GmsCore support"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Hide AI ask bar"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Hide Explore tab"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Hide My Orders"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Hide Plus button"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Hide Recommended for you"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Hide Rewards Hub"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Hide Tuya AI Web Version"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Hide ads"
+],
+[
 "com.tuya.smartlife",
 "Fuku856",
 "Disable telemetry"
@@ -16766,6 +17546,26 @@
 ],
 [
 "com.twipemobile.dsmobile",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.twipemobile.dsmobile",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"com.twipemobile.dsmobile",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.twipemobile.dsmobile",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"com.twipemobile.dsmobile",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -16786,6 +17586,26 @@
 ],
 [
 "com.twipemobile.nbmobile",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.twipemobile.nbmobile",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"com.twipemobile.nbmobile",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.twipemobile.nbmobile",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"com.twipemobile.nbmobile",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -16802,6 +17622,36 @@
 [
 "com.twipemobile.nbmobile",
 "Johnneerdael",
+"Skip consent screens"
+],
+[
+"com.twipemobile.nrc",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.twipemobile.nrc",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"com.twipemobile.nrc",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.twipemobile.nrc",
+"JohnInNL",
+"Hide newspaper tab"
+],
+[
+"com.twipemobile.nrc",
+"JohnInNL",
+"Read full articles"
+],
+[
+"com.twipemobile.nrc",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
@@ -18745,6 +19595,11 @@
 "HBO Max - Playback Speed"
 ],
 [
+"com.wbd.hbomax",
+"Android TV",
+"HBO Max - Remove Ad Periods (keep 5.1)"
+],
+[
 "com.wetter.androidclient",
 "Hxreborn",
 "Unlock premium"
@@ -18830,6 +19685,11 @@
 "Unlock Premium"
 ],
 [
+"com.windyty.android",
+"Amfakh",
+"Unlock Premium"
+],
+[
 "com.withopal.opal",
 "Hxreborn",
 "Skip sign-in"
@@ -18853,6 +19713,31 @@
 "com.xinesoft.notifications",
 "Wagg13Patch",
 "Remove ads and video blocking"
+],
+[
+"com.xs2theworld.weeronline",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.xs2theworld.weeronline",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"com.xs2theworld.weeronline",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.xs2theworld.weeronline",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"com.xs2theworld.weeronline",
+"JohnInNL",
+"Unlock Plus"
 ],
 [
 "com.xs2theworld.weeronline",
@@ -19027,6 +19912,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Create stickers"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Custom launcher icon"
 ],
 [
@@ -19067,12 +19957,22 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Keep recent stickers"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Keep the app language"
 ],
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Keep the screen's brightness in the camera"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Keep unsent messages"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -20547,6 +21447,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"View online status privately"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Zalo chat heads instead of Android bubbles"
 ],
 [
@@ -21093,6 +21998,16 @@
 "free.zona",
 "PerfLite Zona",
 "Video buffer"
+],
+[
+"ginlemon.flowerfree",
+"MrCool-888",
+"Enable Pro"
+],
+[
+"ginlemon.flowerfree",
+"MrCool-888",
+"Fix Galaxy Buds3 Pro widget"
 ],
 [
 "heartratemonitor.heartrate.pulse.pulseapp",
@@ -22001,6 +22916,46 @@
 ],
 [
 "mobi.inthepocket.mediafin.detijd",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"JohnInNL",
+"Hide Mijn Tijd (expert)"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"JohnInNL",
+"Hide ads"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"JohnInNL",
+"Hide newspaper shortcut"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"JohnInNL",
+"Read full articles"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
+"JohnInNL",
+"Skip onboarding"
+],
+[
+"mobi.inthepocket.mediafin.detijd",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -22355,6 +23310,41 @@
 "Disable ads"
 ],
 [
+"nl.bright.pro",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.bright.pro",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.bright.pro",
+"JohnInNL",
+"Read full articles"
+],
+[
+"nl.bright.pro",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"nl.dumpert",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.dumpert",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.dumpert",
+"JohnInNL",
+"Skip consent screens"
+],
+[
 "nl.dumpert",
 "Johnneerdael",
 "Disable tracking"
@@ -22373,6 +23363,36 @@
 "nl.dumpert",
 "ns1207",
 "dumpert-premium"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
+"Disable partner services"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
+"Fix PairIP startup"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
+"Hide Pro notices"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
+"Unlock Pro"
 ],
 [
 "nl.flitsmeister",
@@ -22406,6 +23426,31 @@
 ],
 [
 "nl.ftm.ftmpulse",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.ftm.ftmpulse",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"nl.ftm.ftmpulse",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.ftm.ftmpulse",
+"JohnInNL",
+"Read full articles"
+],
+[
+"nl.ftm.ftmpulse",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"nl.ftm.ftmpulse",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -22427,6 +23472,31 @@
 [
 "nl.ftm.ftmpulse",
 "Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.marktplaats.android",
+"JohnInNL",
+"Disable ThreatMetrix"
+],
+[
+"nl.marktplaats.android",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.marktplaats.android",
+"JohnInNL",
+"Google sign-in via microG-Re"
+],
+[
+"nl.marktplaats.android",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.marktplaats.android",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
@@ -22461,6 +23531,26 @@
 ],
 [
 "nl.negentwee",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.negentwee",
+"JohnInNL",
+"Fix PairIP startup"
+],
+[
+"nl.negentwee",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.negentwee",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"nl.negentwee",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -22486,6 +23576,21 @@
 ],
 [
 "nl.omroepbrabant.android",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.omroepbrabant.android",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.omroepbrabant.android",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"nl.omroepbrabant.android",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -22501,6 +23606,21 @@
 ],
 [
 "nl.omroepwest.android",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.omroepwest.android",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.omroepwest.android",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"nl.omroepwest.android",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -22512,6 +23632,26 @@
 [
 "nl.omroepwest.android",
 "Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.rtl.rtlnieuws",
+"JohnInNL",
+"Disable Swrve (expert)"
+],
+[
+"nl.rtl.rtlnieuws",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.rtl.rtlnieuws",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.rtl.rtlnieuws",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
@@ -22536,6 +23676,26 @@
 ],
 [
 "nl.rtl.videoland.v2",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Hide unavailable content"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"nl.rtl.videoland.v2",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -22548,6 +23708,26 @@
 "nl.rtl.videoland.v2",
 "Johnneerdael",
 "Hide unavailable content"
+],
+[
+"nl.sanomamedia.android.nu",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.sanomamedia.android.nu",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"nl.sanomamedia.android.nu",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.sanomamedia.android.nu",
+"JohnInNL",
+"Skip consent screens"
 ],
 [
 "nl.sanomamedia.android.nu",
@@ -22571,6 +23751,21 @@
 ],
 [
 "nl.sbs.kijk",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.sbs.kijk",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.sbs.kijk",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"nl.sbs.kijk",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -22582,6 +23777,21 @@
 [
 "nl.sbs.kijk",
 "Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.tvgids",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.tvgids",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.tvgids",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
@@ -22598,6 +23808,21 @@
 "nl.tvgids",
 "Johnneerdael",
 "Skip consent screens"
+],
+[
+"nl.uitzendinggemist",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.uitzendinggemist",
+"JohnInNL",
+"Fix PairIP startup"
+],
+[
+"nl.uitzendinggemist",
+"JohnInNL",
+"Hide ads"
 ],
 [
 "nl.uitzendinggemist",
@@ -22613,6 +23838,26 @@
 "nl.uitzendinggemist",
 "Johnneerdael",
 "Hide ads"
+],
+[
+"nl.vi",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.vi",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.vi",
+"JohnInNL",
+"Read full articles"
+],
+[
+"nl.vi",
+"JohnInNL",
+"Skip consent screens"
 ],
 [
 "nl.vi",
@@ -22632,6 +23877,31 @@
 [
 "nl.vi",
 "Johnneerdael",
+"Skip consent screens"
+],
+[
+"nl.weerplaza.app",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"nl.weerplaza.app",
+"JohnInNL",
+"Fix Google Maps"
+],
+[
+"nl.weerplaza.app",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"nl.weerplaza.app",
+"JohnInNL",
+"Hide ads"
+],
+[
+"nl.weerplaza.app",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
@@ -24301,6 +25571,31 @@
 ],
 [
 "org.yoki.android.buienalarm",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"org.yoki.android.buienalarm",
+"JohnInNL",
+"Fix Google services"
+],
+[
+"org.yoki.android.buienalarm",
+"JohnInNL",
+"Hide Premium banner"
+],
+[
+"org.yoki.android.buienalarm",
+"JohnInNL",
+"Hide ads"
+],
+[
+"org.yoki.android.buienalarm",
+"JohnInNL",
+"Skip consent screens"
+],
+[
+"org.yoki.android.buienalarm",
 "Johnneerdael",
 "Disable tracking"
 ],
@@ -24393,6 +25688,11 @@
 "pdb.app",
 "Madushas",
 "Pdb Extras \u2014 resources"
+],
+[
+"pdb.app",
+"Madushas",
+"Relocate runtime MMKV copy"
 ],
 [
 "pdb.app",
