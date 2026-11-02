@@ -640,6 +640,26 @@
 "Skip consent screens"
 ],
 [
+"be.tweedehands.m",
+"JohnInNL",
+"Disable ThreatMetrix"
+],
+[
+"be.tweedehands.m",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"be.tweedehands.m",
+"JohnInNL",
+"Hide ads"
+],
+[
+"be.tweedehands.m",
+"JohnInNL",
+"Skip consent screens"
+],
+[
 "bitpit.launcher",
 "Heval",
 "Disable telemetry"
@@ -2727,12 +2747,22 @@
 [
 "com.bongo.bongobd",
 "Media",
+"Access content"
+],
+[
+"com.bongo.bongobd",
+"Media",
 "Disable update"
 ],
 [
 "com.bongo.bongobd",
 "Media",
 "Free content"
+],
+[
+"com.bongo.bongobdandroidtv",
+"Media",
+"Access content"
 ],
 [
 "com.bongo.bongobdandroidtv",
@@ -5160,6 +5190,26 @@
 "Unlimited RampUp time"
 ],
 [
+"com.duolingo",
+"Hyzor",
+"Disable dynamic app icon"
+],
+[
+"com.duolingo",
+"Hyzor",
+"Enable Premium"
+],
+[
+"com.duolingo",
+"Hyzor",
+"Enable debug mode"
+],
+[
+"com.duolingo",
+"Hyzor",
+"Unlimited RampUp time"
+],
+[
 "com.duplila.screenshare",
 "Heval",
 "Disable ads"
@@ -6467,6 +6517,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Keep chat pop-ups"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Keep emoji search on emoji"
 ],
 [
@@ -7700,6 +7755,11 @@
 "BlitzerMorph"
 ],
 [
+"com.google.android.apps.maps",
+"v1rtu0s",
+"BlitzerMorphPreference"
+],
+[
 "com.google.android.apps.photos",
 "Akash Sriram",
 "AMOLED dark theme"
@@ -8053,6 +8113,11 @@
 "com.google.android.apps.youtube.music",
 "Emotionbug",
 "Third-party lyrics"
+],
+[
+"com.google.android.apps.youtube.music",
+"JohnInNL",
+"Gearslip music browser support"
 ],
 [
 "com.google.android.apps.youtube.music",
@@ -13797,6 +13862,11 @@
 [
 "com.onelouder.baconreader",
 "JoanComasFdz",
+"Fix load more comments"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
 "Fix lost post votes"
 ],
 [
@@ -14717,6 +14787,11 @@
 [
 "com.qbis.guessthecountry",
 "Shuhaibnc",
+"Enable Premium"
+],
+[
+"com.qbis.guessthecountry",
+"Shuhaibnc",
 "Remove Unwanted Promotional Icons and Ads"
 ],
 [
@@ -14833,6 +14908,11 @@
 "com.reddit.frontpage",
 "Adobo",
 "Hide search answers preview"
+],
+[
+"com.reddit.frontpage",
+"Adobo",
+"Hide videos for you"
 ],
 [
 "com.reddit.frontpage",
@@ -17672,6 +17752,11 @@
 [
 "com.teejay.trebedit",
 "Shuhaibnc",
+"Unlock Premium Features"
+],
+[
+"com.teejay.trebedit",
+"Shuhaibnc",
 "Unlock TrebEdit Premium"
 ],
 [
@@ -19867,6 +19952,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Atlas surface (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Background blue-noise dithering"
 ],
 [
@@ -19997,6 +20087,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Hybrid codec helper (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Network Optimizations"
 ],
 [
@@ -20021,6 +20116,11 @@
 ],
 [
 "com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
+"Swapchain enlarge (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
 "XR Porting Hub",
 "Alpha-0 high-resolution trigger"
 ],
@@ -20033,6 +20133,11 @@
 "com.valvesoftware.steamlinkvr",
 "XR Porting Hub",
 "Appear on top (legacy)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Atlas surface (experimental)"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -20112,6 +20217,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "XR Porting Hub",
+"Hybrid codec helper (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
 "Microphone input preset"
 ],
 [
@@ -20143,6 +20253,11 @@
 "com.valvesoftware.steamlinkvr",
 "XR Porting Hub",
 "Surface video + trigger (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Swapchain enlarge (experimental)"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -20238,6 +20353,11 @@
 "com.viewlift.hoichoi",
 "Media",
 "Access content"
+],
+[
+"com.viewlift.hoichoi",
+"Media",
+"Access content (TV)"
 ],
 [
 "com.viewlift.hoichoi",
@@ -21097,6 +21217,11 @@
 [
 "com.waze",
 "JohnInNL",
+"Broadcast navigation data"
+],
+[
+"com.waze",
+"JohnInNL",
 "Change app name"
 ],
 [
@@ -21198,6 +21323,11 @@
 "com.waze",
 "JohnInNL",
 "Stay awake in the background"
+],
+[
+"com.waze",
+"JohnInNL",
+"Support Gearslip"
 ],
 [
 "com.waze",
@@ -23780,6 +23910,11 @@
 "Disable home screen ads"
 ],
 [
+"idm.internet.download.manager",
+"Shuhaibnc",
+"Unlock PiP and Bg Play Features in Youtube"
+],
+[
 "idm.internet.download.manager.plus",
 "FTL",
 "Disable sale notification"
@@ -25112,6 +25247,11 @@
 [
 "nl.flitsmeister",
 "JohnInNL",
+"Broadcast navigation data"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
 "Disable partner services"
 ],
 [
@@ -25948,6 +26088,11 @@
 "org.mozilla.firefox",
 "Heval",
 "Unlock secret settings"
+],
+[
+"org.mozilla.firefox",
+"d0nj",
+"Firefox Nightly branding"
 ],
 [
 "org.mozilla.focus",
@@ -28478,6 +28623,11 @@
 "tv.twitch.android.app",
 "Overhypedcat",
 "Block ad servers"
+],
+[
+"tv.twitch.android.app",
+"Overhypedcat",
+"Block client-side ads"
 ],
 [
 "tv.twitch.android.app",
