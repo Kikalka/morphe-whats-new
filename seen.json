@@ -155,6 +155,16 @@
 "Restore map data"
 ],
 [
+"app.seb3thehacker.gearslip",
+"JohnInNL",
+"Hide apps from drawer"
+],
+[
+"app.seb3thehacker.gearslip",
+"JohnInNL",
+"Keep music player entries"
+],
+[
 "app.sweepy.sweepy",
 "JaredCat",
 "Unlock Premium"
@@ -1183,6 +1193,11 @@
 "com.JindoBlu.OfflineGames",
 "ggYasin",
 "Instant in-house ad close"
+],
+[
+"com.MustBeFun.GamesInOneWatchGames",
+"Mwbra130",
+"Unlock premium"
 ],
 [
 "com.Project100Pi.themusicplayer",
@@ -3203,6 +3218,11 @@
 "com.brave.browser",
 "Kveld9",
 "Brave AMOLED theme"
+],
+[
+"com.brave.browser",
+"Kveld9",
+"Brave Origin"
 ],
 [
 "com.brave.browser",
@@ -5422,6 +5442,11 @@
 [
 "com.discord",
 "VenusIsJaded Discord",
+"Banners in Do Not Disturb"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
 "Bring back Tenor GIFs"
 ],
 [
@@ -5437,7 +5462,17 @@
 [
 "com.discord",
 "VenusIsJaded Discord",
+"Clone emojis and stickers"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
 "Complete badges automatically"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Compress big files"
 ],
 [
 "com.discord",
@@ -5447,7 +5482,47 @@
 [
 "com.discord",
 "VenusIsJaded Discord",
+"Custom idle time"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Delete without a trace"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Download voice messages"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Edit messages on this phone"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
 "Edit servers locally"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Edit without \"(edited)\""
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Expand the message bar"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Fake deafen"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Fast delete channels"
 ],
 [
 "com.discord",
@@ -5457,7 +5532,17 @@
 [
 "com.discord",
 "VenusIsJaded Discord",
+"Full-screen chat in landscape"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
 "Hide blocked or ignored messages"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"HypeSquad house"
 ],
 [
 "com.discord",
@@ -5468,6 +5553,16 @@
 "com.discord",
 "VenusIsJaded Discord",
 "Keep Bluetooth audio clear in calls"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Keep media playing"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Leave group DMs silently"
 ],
 [
 "com.discord",
@@ -5487,7 +5582,32 @@
 [
 "com.discord",
 "VenusIsJaded Discord",
+"Mutual group DMs"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Pause invites"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Platform spoof"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Preview servers without joining"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
 "Remove anything"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Reply without pinging"
 ],
 [
 "com.discord",
@@ -5498,6 +5618,11 @@
 "com.discord",
 "VenusIsJaded Discord",
 "Show owner and mod tags"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"Show timeout duration"
 ],
 [
 "com.discord",
@@ -5518,6 +5643,11 @@
 "com.discord",
 "VenusIsJaded Discord",
 "Unlock Nitro themes"
+],
+[
+"com.discord",
+"VenusIsJaded Discord",
+"View raw data"
 ],
 [
 "com.discord",
@@ -10967,6 +11097,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Don't report Blend visits"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Don't report screenshots"
 ],
 [
@@ -11083,6 +11218,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide Reels in the feed"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide activity bubbles"
 ],
 [
 "com.instagram.android",
@@ -12223,6 +12363,31 @@
 "com.instagram.moonshot",
 "Wagg13Patch",
 "Instants Mod"
+],
+[
+"com.instantbits.cast.webvideo",
+"Mwbra130",
+"Bypass PairIP application checks"
+],
+[
+"com.instantbits.cast.webvideo",
+"Mwbra130",
+"Bypass PairIP license check"
+],
+[
+"com.instantbits.cast.webvideo",
+"Mwbra130",
+"Bypass PairIP signature check"
+],
+[
+"com.instantbits.cast.webvideo",
+"Mwbra130",
+"Disable PairIP license activity"
+],
+[
+"com.instantbits.cast.webvideo",
+"Mwbra130",
+"Unlock premium"
 ],
 [
 "com.instaprime.android",
@@ -13640,6 +13805,21 @@
 "Skip subscription screens"
 ],
 [
+"com.lucky_apps.RainViewer",
+"Mwbra130",
+"Bypass integrity check"
+],
+[
+"com.lucky_apps.RainViewer",
+"Mwbra130",
+"Change installer source"
+],
+[
+"com.lucky_apps.RainViewer",
+"Mwbra130",
+"Enable Premium"
+],
+[
 "com.lumina.wallpapers",
 "byehi98",
 "Lumina PairIP License Bypass"
@@ -13733,6 +13913,11 @@
 "com.maxgames.stickwarlegacy",
 "AFFiNE",
 "Remove Google Play requirement"
+],
+[
+"com.maxmpz.audioplayer",
+"Mwbra130",
+"Unlock Premium"
 ],
 [
 "com.maz.combo1126",
@@ -14813,6 +14998,11 @@
 "com.newstargames.newstarsoccer",
 "Legendsciber",
 "New Star Soccer Free IAP"
+],
+[
+"com.newstargames.retrobowlcollege",
+"Mwbra130",
+"Unlock premium"
 ],
 [
 "com.nexon.tfdc",
@@ -16210,6 +16400,11 @@
 "Unlock Pro"
 ],
 [
+"com.pixel.art.coloring.color.number",
+"Mwbra130",
+"Remove ads"
+],
+[
 "com.pixlr.express",
 "Hxreborn",
 "Disable tracking"
@@ -16573,6 +16768,16 @@
 "com.reworewo.prayertimes",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.rkgames.basisgame",
+"Mwbra130",
+"Unlimited coins & unlocks"
+],
+[
+"com.rkgames.basisgame",
+"Mwbra130",
+"Unlock All Slot Machines"
 ],
 [
 "com.robtopx.geometrydashmeltdown",
@@ -18496,6 +18701,491 @@
 ],
 [
 "com.ss.android.ttmd.video",
+"HushPine",
+"Advanced downloads"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Allow Duet and Stitch"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Allow photo comments"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Allow screenshots and Circle to Search"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Always show publish date"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Automatic video advance"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Block P2P video relay"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Block contact list access"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Block installed app scanning"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Block suggested video notifications"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Camera and microphone indicator"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Change app name"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Comment publish diagnostics"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Comment send fix"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Comment sort controls"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Copy comments without username"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Create stickers"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Custom offline videos limit"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Device privacy guard"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Diagnostic tools"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Disable login requirement"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Disable screen capture detection"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Disable the long press quick share"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Disable the long press repost"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Downloads"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Drop the animated image cache"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Enable voice comments"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Expand activity list"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Feature Gate Lab"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Feature Gate Recorder"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Feed filter"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Fit the video to the screen"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Fix Google login"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Ghost mode"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide Play Store update offer"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide comment popup ads"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide comment typing suggestions"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide feed follow button"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide feed save button"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide feed search button"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide floating promotions"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide inbox items"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide profile shortcuts"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide search suggestions"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide suggested accounts"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hide the launcher shortcuts"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Hold-and-slide 2x lock"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"In-app browser privacy guard"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Keep a streak going"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Keep playing in the background"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Keep pulled sounds"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Keep recent stickers"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Keep the Favorites tab"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Keep the app language"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Keep the screen's refresh rate"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Limit background traffic"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Load all saved stickers"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Location access governor"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Look like the store app"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Network proxy"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Network request report"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Notification controls"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Open external links directly"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Open the comments at full height"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Play SDR instead of HDR"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Playback quality"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Playback speed"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Prefer H.264 playback"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Profile background"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Region spoof"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Remember clear display"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Remove unused language packs"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Resource and battery governor"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Resume videos after scrolling"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"SIM spoof"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Sanitize sharing links"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Settings"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Show LIVE search"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Show commenter handle and region"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Show the progress bar"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Show the progress bar thumbnail"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Skip content warnings"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Skip first-launch setup"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Skip passkey sign-in"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Skip the splash ad"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Skip update checks"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Stay on the video in full screen"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Stop on-device AI profiling"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Stop recording watch history"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Stop saving search history"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Stop search autoplay"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Translate comments"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Trust user certificates"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Turn off haptics"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Turn off screen transitions"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Use non-personalized search"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Use system font"
+],
+[
+"com.ss.android.ttmd.video",
 "Hushfeed",
 "Advanced downloads"
 ],
@@ -19135,6 +19825,41 @@
 "Unlock Premium"
 ],
 [
+"com.strava",
+"Mwbra130",
+"Add settings"
+],
+[
+"com.strava",
+"Mwbra130",
+"Custom app name and icon"
+],
+[
+"com.strava",
+"Mwbra130",
+"Custom theme colors"
+],
+[
+"com.strava",
+"Mwbra130",
+"Enable password login"
+],
+[
+"com.strava",
+"Mwbra130",
+"Hide feed elements"
+],
+[
+"com.strava",
+"Mwbra130",
+"Hide subscription promotions"
+],
+[
+"com.strava",
+"Mwbra130",
+"Local route privacy trim"
+],
+[
 "com.streamdev.aiostreamer",
 "AIS",
 "Bypass TV PRO check on site browsing"
@@ -19247,7 +19972,27 @@
 [
 "com.stremio.one",
 "Tikkamasalla",
+"Mod settings"
+],
+[
+"com.stremio.one",
+"Tikkamasalla",
+"Mod settings manifest"
+],
+[
+"com.stremio.one",
+"Tikkamasalla",
 "Remember tracks per show"
+],
+[
+"com.stremio.one",
+"Tikkamasalla",
+"Side-by-side install"
+],
+[
+"com.stremio.one",
+"Tikkamasalla",
+"Smoother playback"
 ],
 [
 "com.stresscodes.wallp",
@@ -19283,6 +20028,16 @@
 "com.sube.app",
 "Kveld9 Extra",
 "SUBE Telemetry Manifest Purge"
+],
+[
+"com.subtlesignals.gradientweather",
+"Mwbra130",
+"Change installer source"
+],
+[
+"com.subtlesignals.gradientweather",
+"Mwbra130",
+"Enable Premium"
 ],
 [
 "com.superchinese",
@@ -20217,6 +20972,11 @@
 [
 "com.truecaller",
 "Heval",
+"Heval Controls"
+],
+[
+"com.truecaller",
+"Heval",
 "Hide Assistant tab"
 ],
 [
@@ -20573,6 +21333,11 @@
 "com.tumblr",
 "HushTumblr",
 "Reveal allowed mature content"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Share video links"
 ],
 [
 "com.tumblr",
@@ -23913,6 +24678,21 @@
 "com.yaunquan.guitartuna",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"com.yodo1.crossyroad",
+"Mwbra130",
+"Free store"
+],
+[
+"com.yodo1.crossyroad",
+"Mwbra130",
+"Unlimited gold"
+],
+[
+"com.yodo1.crossyroad",
+"Mwbra130",
+"Unlock all characters"
 ],
 [
 "com.yodo1.crossyroad",
@@ -27282,6 +28062,11 @@
 [
 "net.gtvbox.videoplayer",
 "Tikkamasalla",
+"Addon subtitles in subtitle menu (Vimu)"
+],
+[
+"net.gtvbox.videoplayer",
+"Tikkamasalla",
 "External player result (Vimu)"
 ],
 [
@@ -27298,6 +28083,16 @@
 "net.gtvbox.videoplayer",
 "Tikkamasalla",
 "Intro Skip settings row (Vimu)"
+],
+[
+"net.gtvbox.videoplayer",
+"Tikkamasalla",
+"Progress journal provider (Vimu)"
+],
+[
+"net.gtvbox.videoplayer",
+"Tikkamasalla",
+"Re-sign check (Vimu)"
 ],
 [
 "net.interpals",
@@ -30132,7 +30927,17 @@
 [
 "pl.neptis.yanosik.mobi.android",
 "RikoDEV",
+"Block Yanosik telemetry"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"RikoDEV",
 "Bypass Android Auto certificate checks"
+],
+[
+"pl.neptis.yanosik.mobi.android",
+"RikoDEV",
+"Home screen dark mode"
 ],
 [
 "pl.neptis.yanosik.mobi.android",
