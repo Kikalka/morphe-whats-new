@@ -697,6 +697,11 @@
 [
 "bitpit.launcher",
 "d0nj",
+"Custom weather provider"
+],
+[
+"bitpit.launcher",
+"d0nj",
 "Use Open-Meteo for weather"
 ],
 [
@@ -1128,6 +1133,41 @@
 "cn.vr4p.oculus4xvrplayerov",
 "XR Porting Hub",
 "libplacebo HDR pipeline (4XVR)"
+],
+[
+"co.feeld",
+"Kirby1997",
+"Block tracking hosts (okhttp)"
+],
+[
+"co.feeld",
+"Kirby1997",
+"Bypass forced update (spoof app version)"
+],
+[
+"co.feeld",
+"Kirby1997",
+"Disable Adapty tracking"
+],
+[
+"co.feeld",
+"Kirby1997",
+"Disable AppsFlyer tracking"
+],
+[
+"co.feeld",
+"Kirby1997",
+"Disable Braze tracking"
+],
+[
+"co.feeld",
+"Kirby1997",
+"Disable Facebook tracking"
+],
+[
+"co.feeld",
+"Kirby1997",
+"Disable Sentry telemetry"
 ],
 [
 "co.steezy.app",
@@ -2305,6 +2345,31 @@
 "Remove ads"
 ],
 [
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide door-notification banners (experimental)"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide entry banner fragment (experimental)"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide feed ad cards"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide promotional popups"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide visitor-flow ads"
+],
+[
 "com.appgenix.bizcal",
 "Heval",
 "Disable ads"
@@ -2333,6 +2398,16 @@
 "com.apple.android.music",
 "Mormislaw",
 "DHU adapter"
+],
+[
+"com.apple.android.music",
+"Nich87",
+"Library import, export and downloads"
+],
+[
+"com.apple.android.music",
+"Nich87",
+"Liquid Glass bottom bar"
 ],
 [
 "com.apple.atve.androidtv.appletv",
@@ -2468,6 +2543,11 @@
 "com.ashtoncofer.Buzz",
 "Aidan",
 "Replace Emoji Font with iOS Asset"
+],
+[
+"com.aspiro.tidal",
+"FinzoYFunzo",
+"Add Rate Your Music search"
 ],
 [
 "com.astrapaging.vff",
@@ -6912,6 +6992,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Open in Facebook from the share menu"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Open links in external browser"
 ],
 [
@@ -7568,6 +7653,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Unlock app icons"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Unlock app themes"
 ],
 [
 "com.facebook.orca",
@@ -8742,6 +8832,11 @@
 [
 "com.google.android.apps.maps",
 "Fangkampanat BYD",
+"BYD navigation volume"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
 "Google Maps Automotive for MicroG-RE"
 ],
 [
@@ -9435,6 +9530,11 @@
 "Remove Dialer Support Library"
 ],
 [
+"com.google.android.googlequicksearchbox",
+"Ryuya0124",
+"MicroG Device Compliance Redirect"
+],
+[
 "com.google.android.inputmethod.latin",
 "ArchiveSteak",
 "Change app name"
@@ -9798,6 +9898,11 @@
 "com.google.android.inputmethod.latin",
 "Markpaul099",
 "Use Google Images for GIF search"
+],
+[
+"com.google.android.inputmethod.latin",
+"Mlkem",
+"Disable Gboard floating and one-handed modes"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -10290,6 +10395,16 @@
 "Unlock premium"
 ],
 [
+"com.hapibits.soundlift",
+"Mwbra130",
+"Change installer source"
+],
+[
+"com.hapibits.soundlift",
+"Mwbra130",
+"Enable Pro"
+],
+[
 "com.hardcodedjoy.iototoy",
 "Hxreborn",
 "Disable tracking"
@@ -10428,6 +10543,16 @@
 "com.hihonor.soundrecorder",
 "Bearinmind",
 "Enable non-MagicOS ROM support"
+],
+[
+"com.hinnka.mycamera",
+"Danieleavolio",
+"Bypass PairIP license check"
+],
+[
+"com.hinnka.mycamera",
+"Danieleavolio",
+"Unlock Premium"
 ],
 [
 "com.hitrolab.audioeditor",
@@ -10758,6 +10883,11 @@
 "com.imo.android.imoim",
 "Hxreborn",
 "Remove screenshot restriction"
+],
+[
+"com.imo.android.imoim",
+"Hxreborn",
+"Remove story notification limit"
 ],
 [
 "com.imo.android.imoim",
@@ -11462,12 +11592,22 @@
 [
 "com.instagram.android",
 "HushGram",
+"Phone layout on big screens"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Pick the app icon"
 ],
 [
 "com.instagram.android",
 "HushGram",
 "Pinch to zoom on Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Preview chats"
 ],
 [
 "com.instagram.android",
@@ -12248,6 +12388,11 @@
 "com.instagram.android",
 "Yashsehrawatdelete550",
 "Custom splash text"
+],
+[
+"com.instagram.android",
+"Zerobun0",
+"Follower tracker"
 ],
 [
 "com.instagram.barcelona",
@@ -14100,6 +14245,61 @@
 "Sort by number of ratings"
 ],
 [
+"com.meetup",
+"Kirby1997",
+"Disable Meetup+ trial panels"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Disable MemberSub paywalls"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Disable Rokt partner offers"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Disable all Meetup paywalls"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Disable intro paywall"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Disable profile paywall"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Disable step-up paywalls"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Disable unprompted paywalls"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Hide attendees paywall panels"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Inject Google Maps API key"
+],
+[
+"com.meetup",
+"Kirby1997",
+"Unblur profile content"
+],
+[
 "com.melodis.midomiMusicIdentifier.freemium",
 "Heval",
 "Disable ads"
@@ -15038,6 +15238,11 @@
 "com.nhl.gc1112.free",
 "Aidan",
 "Web Ad Blocker"
+],
+[
+"com.nicedayapps.iss_free",
+"Mwbra130",
+"Enable Premium"
 ],
 [
 "com.nicedayapps.iss_free",
@@ -16738,6 +16943,11 @@
 "com.reddit.frontpage",
 "The-Nelsonator",
 "Hide suspended account banner"
+],
+[
+"com.reddit.frontpage",
+"Warleysr",
+"Block NSFW content"
 ],
 [
 "com.release.arylive",
@@ -18535,6 +18745,11 @@
 "Unlock Premium Features"
 ],
 [
+"com.sparkine.widgets",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.spocky.projengmenu",
 "JohnInNL",
 "Disable tracking"
@@ -20005,6 +20220,11 @@
 "Unlock Pro (Root)"
 ],
 [
+"com.studiosol.afinadorlite",
+"Mwbra130",
+"Enable Premium"
+],
+[
 "com.sube.app",
 "Kveld9 Extra",
 "Block Telemetry & Trackers"
@@ -20110,6 +20330,11 @@
 "Remove ads"
 ],
 [
+"com.swiftsofts.rokuremote",
+"Mwbra130",
+"Enable Pro"
+],
+[
 "com.sygic.aura",
 "Hxreborn",
 "GmsCore support"
@@ -20118,6 +20343,511 @@
 "com.sygic.aura",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Allow screenshots"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Block WebView content access"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Block WebView file access"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Block WebView mixed content"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Block WebView network images"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Block WebView popup windows"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Block cross-origin WebView file URLs"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Block third-party WebView cookies"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Consistent restaurant and review sorting"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Adjust install referrer"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Analytics upload services"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Bluetooth access"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Braze promotional push"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Firebase session reporting"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Google Tag Manager"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Google telemetry transport"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Huawei ads identifier"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable NFC access"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Play license gate"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry ANR profiling"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry ANR reports"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry ANR thread dumps"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry SurfaceView replay"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry app-start tracing"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry breadcrumbs"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry cache tracing"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry crash reports"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry crash screenshots"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry database tracing"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry device context"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry error replay"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry frame tracking"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry full-display tracing"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry historical ANRs"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry interaction breadcrumbs"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry interaction tracing"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry lifecycle breadcrumbs"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry logcat collection"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry native crash preload"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry native reporting"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry network breadcrumbs"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry performance V2"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry performance traces"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry profiling"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry queue tracing"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry raw tombstones"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry replay network bodies"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry root reporting"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry session replay"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry startup performance"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry storage context"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry system breadcrumbs"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry tombstone reports"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Sentry view hierarchy capture"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Shake Bugs activity history"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Shake Bugs console logs"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Shake Bugs crash reports"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Shake Bugs identity tracking"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Shake Bugs initialization"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Shake Bugs network inspection"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Shake Bugs notification history"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Shake Bugs screen recording"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable Shake Bugs user feedback"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable WebView DOM storage"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable WebView background audio"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable WebView cache"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable WebView database storage"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable WebView form saving"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable WebView geolocation"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable background location"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable camera access"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable country geofence notifications"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable high-rate sensors"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable legacy external storage"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable microphone access"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable screenshot detection"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Disable system overlays"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Enable WebView safe browsing"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Force dark WebView content"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Hide Braze content cards"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Hide Braze in-app popups"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Hide Shake Bugs chat notifications"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Hide Shake Bugs introduction"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Hide Shake Bugs report UI"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Home settings shortcut"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Keep screen on"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Link safety preview"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Open links in default browser"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Preferred app language"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Reduce analytics tracking"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Remove ad attribution access"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Remove ad services identifier access"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Remove advertising ID permission"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Require WebView media gesture"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Restaurant rating filter"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Review content filter"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Settings backup and restore"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Settings search"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Share links"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Text size"
+],
+[
+"com.talabat",
+"AltF4G0x",
+"Use incognito WebView pages"
 ],
 [
 "com.talpa.kijk",
@@ -20628,6 +21358,81 @@
 "com.tiktok.lite.go",
 "Kveld9",
 "Strip Sensitive Permissions"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable Boost upsell"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable Likes You Gold upsell modal"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable MyLikes upsell"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable Platinum Likes upsell"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable Primetime Boost upsell"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable Secret Admirer upsell"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable ads-bouncer rewarded-video paywall"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable all Tinder paywalls & ads"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable consent prompt"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable curated swipe-stack ads"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable dynamic paywall sheet"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable headless purchase upsell"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable main swipe-stack ads"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable paywall flow"
+],
+[
+"com.tinder",
+"Kirby1997",
+"Disable rewarded-video modal"
 ],
 [
 "com.tinder",
@@ -21698,6 +22503,41 @@
 "com.twitter.android",
 "AetherMagee",
 "Account location badges"
+],
+[
+"com.twitter.android",
+"Kirby1997",
+"Bypass PairIP integrity"
+],
+[
+"com.twitter.android",
+"Kirby1997",
+"Bypass native certificate validation (X)"
+],
+[
+"com.twitter.android",
+"Kirby1997",
+"Bypass version deprecation notice"
+],
+[
+"com.twitter.android",
+"Kirby1997",
+"Hide GIF replies from media tab"
+],
+[
+"com.twitter.android",
+"Kirby1997",
+"Remove promoted timeline items"
+],
+[
+"com.twitter.android",
+"Kirby1997",
+"Show age-restricted and sensitive media"
+],
+[
+"com.twitter.android",
+"Kirby1997",
+"Show media tab for sensitive profiles"
 ],
 [
 "com.twitter.android",
@@ -22907,6 +23747,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Stock quad composition (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Surface video + trigger (experimental)"
 ],
 [
@@ -23047,6 +23892,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "XR Porting Hub",
+"Stock quad composition (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
 "Surface video + trigger (experimental)"
 ],
 [
@@ -23118,6 +23968,11 @@
 "com.viber.voip",
 "Hxreborn",
 "Hide navigation buttons"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Spoof signature"
 ],
 [
 "com.videoedit.gocut",
@@ -24857,6 +25712,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Keep the next videos in full screen"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Keep the screen's brightness in the camera"
 ],
 [
@@ -26445,6 +27305,11 @@
 "Remove Advertisements"
 ],
 [
+"cz.alza.eshop",
+"Mmenzyns",
+"Alza Hl\u00edda\u010d shop\u016f Price History (CZ / SK)"
+],
+[
 "cz.mroczis.netmonster",
 "Proxma",
 "Bypass Play license check (NetMonster)"
@@ -26643,6 +27508,21 @@
 "dk.dr.webplayer",
 "Heval",
 "Disable telemetry"
+],
+[
+"dk.tacit.android.foldersync.lite",
+"Kirby1997",
+"Disable AdMob banners"
+],
+[
+"dk.tacit.android.foldersync.lite",
+"Kirby1997",
+"Disable AdMob interstitials"
+],
+[
+"droom.sleepIfUCan",
+"Mwbra130",
+"Enable Premium"
 ],
 [
 "easy.launcher",
@@ -27005,6 +27885,16 @@
 "Remove ads"
 ],
 [
+"hidratenow.com.hidrate.hidrateandroid",
+"Kirby1997",
+"Disable license check"
+],
+[
+"hidratenow.com.hidrate.hidrateandroid",
+"Kirby1997",
+"Disable payment check"
+],
+[
 "idm.internet.download.manager",
 "GinDoki19",
 "AdBlocker turbo & userscript bundle"
@@ -27063,6 +27953,11 @@
 "im.thebot.messenger",
 "Hxreborn",
 "Fix sign-in"
+],
+[
+"im.thebot.messenger",
+"Hxreborn",
+"Spoof signature"
 ],
 [
 "im.thebot.messenger",
@@ -31968,6 +32863,16 @@
 "uk.co.lrb.mag",
 "XBadFellaX",
 "LRB premium reading"
+],
+[
+"uk.gov.metoffice.weather.android",
+"Kirby1997",
+"Hide ad containers"
+],
+[
+"uk.gov.metoffice.weather.android",
+"Kirby1997",
+"Remove ads"
 ],
 [
 "video.downloader.videodownloader",
