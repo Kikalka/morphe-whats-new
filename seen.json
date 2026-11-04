@@ -15,6 +15,41 @@
 "Hide upgrade promotions"
 ],
 [
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel",
+"Mask ads"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
 "ak.alizandro.smartaudiobookplayer",
 "Epabafree",
 "Material You theme"
@@ -95,6 +130,16 @@
 "Preserve excluded Default-category downloads"
 ],
 [
+"app.myspoti.stable",
+"JohnInNL",
+"Custom branding"
+],
+[
+"app.myspoti.stable",
+"JohnInNL",
+"Gearslip personal library"
+],
+[
 "app.pinya.mango",
 "Heval",
 "Disable license check"
@@ -157,6 +202,11 @@
 [
 "app.seb3thehacker.gearslip",
 "JohnInNL",
+"Control car display density"
+],
+[
+"app.seb3thehacker.gearslip",
+"JohnInNL",
 "Hide apps from drawer"
 ],
 [
@@ -173,6 +223,16 @@
 "app.threesome.dating",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"app.vela",
+"JohnInNL",
+"External speed controls"
+],
+[
+"app.wuplay.android",
+"JohnInNL",
+"Add Gearslip car interface"
 ],
 [
 "app.wuplay.androidtv",
@@ -965,6 +1025,11 @@
 "Unlock VPN Plus"
 ],
 [
+"cn.nubia.gamelauncher",
+"Bearinmind",
+"Enable non-RedMagic ROM support"
+],
+[
 "cn.vr4p.oculus4xvrplayerov",
 "Steam Link GalaxyXR",
 "5.1-channel audio bridge (4XVR)"
@@ -1255,6 +1320,11 @@
 "Enable Pro"
 ],
 [
+"com.Relmtech.Remote",
+"Mwbra130",
+"Enable Full"
+],
+[
 "com.Slack",
 "HagiaHaya",
 "Anonymize file names"
@@ -1323,6 +1393,46 @@
 "com.StefMorojna.SpaceflightSimulator",
 "Fynnaly",
 "Unlock expansions"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel",
+"Mask live ad breaks"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.action.consumerapp",
@@ -1803,6 +1913,11 @@
 "com.amazon.avod.thirdpartyclient",
 "Semicoloncolonel",
 "Block analytics & tracking"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel",
+"Disable AI"
 ],
 [
 "com.amazon.avod.thirdpartyclient",
@@ -2335,6 +2450,11 @@
 "Disable ads"
 ],
 [
+"com.apktools.app.decompile",
+"GinDoki19",
+"Unlock premium"
+],
+[
 "com.apnatunnel.lite",
 "Hxreborn",
 "Disable tracking"
@@ -2412,12 +2532,27 @@
 [
 "com.apple.atve.androidtv.appletv",
 "Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel",
 "Disable auto-updates"
 ],
 [
 "com.apple.atve.androidtv.appletv",
 "Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel",
 "Skip ads"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.appmind.radios.id",
@@ -2632,6 +2767,11 @@
 [
 "com.att.myWireless",
 "Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.att.myWireless",
+"Semicoloncolonel",
 "Hide device identifiers"
 ],
 [
@@ -2677,6 +2817,11 @@
 [
 "com.bah.r1smobile",
 "Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.bah.r1smobile",
+"Semicoloncolonel",
 "Hide device identifiers"
 ],
 [
@@ -2693,6 +2838,11 @@
 "com.bah.r1smobile",
 "Semicoloncolonel",
 "Skip location on open"
+],
+[
+"com.bah.r1smobile",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.bandcamp.android",
@@ -3982,6 +4132,11 @@
 [
 "com.chess",
 "Quwi26",
+"Find the computer on the network"
+],
+[
+"com.chess",
+"Quwi26",
 "Game Review on your computer"
 ],
 [
@@ -4105,6 +4260,11 @@
 "Enable offline mode"
 ],
 [
+"com.chimbori.hermitcrab",
+"Mwbra130",
+"Enable Premium"
+],
+[
 "com.citynav.jakdojade.pl.android",
 "Mubelotix",
 "Activates premium features"
@@ -4183,6 +4343,11 @@
 "com.cnn.mobile.android.phone",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.coloros.compass2",
+"Bearinmind",
+"Enable non-ColorOS ROM support"
 ],
 [
 "com.columnapp.column",
@@ -5735,6 +5900,41 @@
 "Voice channel options"
 ],
 [
+"com.diskwalaapp",
+"Mwbra130",
+"Bypass PairIP VM and signature check"
+],
+[
+"com.diskwalaapp",
+"Mwbra130",
+"Bypass PairIP application checks"
+],
+[
+"com.diskwalaapp",
+"Mwbra130",
+"Bypass PairIP license check"
+],
+[
+"com.diskwalaapp",
+"Mwbra130",
+"Change installer source"
+],
+[
+"com.diskwalaapp",
+"Mwbra130",
+"Disable PairIP license activity"
+],
+[
+"com.diskwalaapp",
+"Mwbra130",
+"Enable Premium"
+],
+[
+"com.diskwalaapp",
+"Mwbra130",
+"Patch native libraries"
+],
+[
 "com.disney.disneyplus",
 "De-Vanced",
 "Skip ads"
@@ -6038,6 +6238,26 @@
 "com.duolingo",
 "Hoodles",
 "Unlimited RampUp time"
+],
+[
+"com.duolingo",
+"Hxreborn",
+"Disable dynamic app icon"
+],
+[
+"com.duolingo",
+"Hxreborn",
+"Enable debug mode"
+],
+[
+"com.duolingo",
+"Hxreborn",
+"Unlimited RampUp time"
+],
+[
+"com.duolingo",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.duolingo",
@@ -6747,6 +6967,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"GmsCore support"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Hide AI-detected posts"
 ],
 [
@@ -7437,6 +7662,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hide pictures on the Blocked list"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide read receipts"
 ],
 [
@@ -7990,6 +8220,51 @@
 "Spoof carrier"
 ],
 [
+"com.fox.fts.android",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel",
+"Hide pop-ups and rating prompts"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel",
+"Opt out of data sale & sharing"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
 "com.foxnews.android",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -8198,6 +8473,31 @@
 "com.github.android",
 "Stylus",
 "Force system font (including monospace)"
+],
+[
+"com.gkfriend.gpsmapcameraeditor",
+"Heval",
+"Disable ads"
+],
+[
+"com.gkfriend.gpsmapcameraeditor",
+"Heval",
+"Disable license check"
+],
+[
+"com.gkfriend.gpsmapcameraeditor",
+"Heval",
+"Enable Premium"
+],
+[
+"com.gkfriend.gpsmapcameraeditor",
+"Heval",
+"GmsCore support"
+],
+[
+"com.gkfriend.gpsmapcameraeditor",
+"Heval",
+"Spoof signature"
 ],
 [
 "com.global.foodpanda.android",
@@ -9418,6 +9718,31 @@
 "com.google.android.apps.youtube.music",
 "Mormislaw",
 "DHU adapter"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel",
+"Block telemetry"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel",
+"Change app name"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel",
+"GmsCore support"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel",
+"Hide prompts and promos"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel",
+"Skip ads"
 ],
 [
 "com.google.android.apps.youtube.vr.oculus",
@@ -10930,6 +11255,11 @@
 "Remove ads"
 ],
 [
+"com.inotesapp.inotes",
+"Mwbra130",
+"Remove ads"
+],
+[
 "com.insigniadpfgmailcom.oplmonitor",
 "Bugg4",
 "Change installer source"
@@ -11478,6 +11808,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide the notes row"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide the reply box on stories"
 ],
 [
 "com.instagram.android",
@@ -12038,6 +12373,16 @@
 "com.instagram.android",
 "Southstar21dev",
 "Bypass signature check"
+],
+[
+"com.instagram.android",
+"Southstar21dev",
+"Disable Reels"
+],
+[
+"com.instagram.android",
+"Southstar21dev",
+"Hide navigation buttons"
 ],
 [
 "com.instagram.android",
@@ -12760,6 +13105,11 @@
 "Wrap recent searches"
 ],
 [
+"com.jrtstudio.AnotherMusicPlayer",
+"Mwbra130",
+"Enable Premium"
+],
+[
 "com.judu",
 "Vakarux12",
 "raid.lt inspectors"
@@ -12777,12 +13127,22 @@
 [
 "com.justwatch.justwatch",
 "Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel",
 "Hide device identifiers"
 ],
 [
 "com.justwatch.justwatch",
 "Semicoloncolonel",
 "Hide sponsored titles"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.kabbik.app",
@@ -13715,6 +14075,16 @@
 "Add Stremio + Nuvio buttons"
 ],
 [
+"com.lge.lifetracker",
+"Bearinmind",
+"Remove telemetry"
+],
+[
+"com.lge.qmemoplus",
+"Bearinmind",
+"Enable non-LG ROM support"
+],
+[
 "com.life360.android.safetymapd",
 "Doom",
 "Material You themed icon"
@@ -13903,6 +14273,16 @@
 "com.live.sktechtv",
 "GinDoki19",
 "Remove ads, telemetry & restrictions"
+],
+[
+"com.losslessvideocutter",
+"Mwbra130",
+"Change installer source"
+],
+[
+"com.losslessvideocutter",
+"Mwbra130",
+"Remove ads"
 ],
 [
 "com.lucky_apps.RainViewer",
@@ -14607,6 +14987,11 @@
 [
 "com.miniclip.plagueinc",
 "byehi98",
+"Plague Inc. Native Custom Scenario Slots"
+],
+[
+"com.miniclip.plagueinc",
+"byehi98",
 "Plague Inc. Outbreak Popup Bypass"
 ],
 [
@@ -14680,6 +15065,26 @@
 "Fix scoped-storage file sharing"
 ],
 [
+"com.mixplorer",
+"MightyMich",
+"Disable signature verification"
+],
+[
+"com.mixplorer",
+"MightyMich",
+"Hide browser Download component"
+],
+[
+"com.mixplorer",
+"MightyMich",
+"Limit Copy to share menu"
+],
+[
+"com.mixplorer",
+"MightyMich",
+"Remove HTTP/HTTPS intent filters"
+],
+[
 "com.mobilefootie.wc2010",
 "Heval",
 "Disable FotMob+ promo popup"
@@ -14702,6 +15107,11 @@
 [
 "com.mobilefootie.wc2010",
 "Heval",
+"Faster animations"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
 "GmsCore support"
 ],
 [
@@ -14712,7 +15122,27 @@
 [
 "com.mobilefootie.wc2010",
 "Heval",
+"Hide countries"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
+"Patch settings"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
+"Slower live refresh"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
 "Spoof signature"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
+"Turn off animations"
 ],
 [
 "com.mobilefootie.wc2010",
@@ -14758,6 +15188,46 @@
 "com.moodle.moodlemobile",
 "AlonResearch",
 "Add browser login option"
+],
+[
+"com.moviebase",
+"Semicoloncolonel",
+"Block ads"
+],
+[
+"com.moviebase",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.moviebase",
+"Semicoloncolonel",
+"Disable Pairip license check"
+],
+[
+"com.moviebase",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.moviebase",
+"Semicoloncolonel",
+"GmsCore support"
+],
+[
+"com.moviebase",
+"Semicoloncolonel",
+"Hide Premium upsell"
+],
+[
+"com.moviebase",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.moviebase",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.mtv.sai",
@@ -15645,6 +16115,16 @@
 "Unlock high refresh rate"
 ],
 [
+"com.oceanwing.battery.cam",
+"Mlkem",
+"Hide Eufy Discover, Smart and Shop"
+],
+[
+"com.oceanwing.battery.cam",
+"Mlkem",
+"Hide Eufy promotions"
+],
+[
 "com.offerup",
 "JaredCat",
 "Hide Ads"
@@ -15885,12 +16365,32 @@
 "Fix loading more comments"
 ],
 [
+"com.oneplus.calculator",
+"Bearinmind",
+"Enable non-ColorOS ROM support"
+],
+[
 "com.oneplus.deskclock",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
 ],
 [
+"com.oneplus.filemanager",
+"Bearinmind",
+"Enable non-ColorOS ROM support"
+],
+[
+"com.oneplus.gallery",
+"Bearinmind",
+"Enable non-ColorOS ROM support"
+],
+[
 "com.oneplus.note",
+"Bearinmind",
+"Enable non-ColorOS ROM support"
+],
+[
+"com.oneplus.soundrecorder",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
 ],
@@ -16063,6 +16563,41 @@
 "com.paradyme.solarsmash",
 "Legendsciber",
 "Solar Smash All Packages Purchased"
+],
+[
+"com.patreon.android",
+"Hxreborn",
+"Disable Quips and autoplay"
+],
+[
+"com.patreon.android",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.patreon.android",
+"Hxreborn",
+"Hide Home tab"
+],
+[
+"com.patreon.android",
+"Hxreborn",
+"Hide navigation buttons"
+],
+[
+"com.patreon.android",
+"Hxreborn",
+"Hide recommended creators"
+],
+[
+"com.patreon.android",
+"Hxreborn",
+"Hide upgrade promotions"
+],
+[
+"com.patreon.android",
+"Hxreborn",
+"Remove app prompts"
 ],
 [
 "com.pbs.video",
@@ -16603,6 +17138,21 @@
 "com.pittvandewitt.wavelet",
 "o0b",
 "Unlock Pro"
+],
+[
+"com.pixel.art.coloring.color.number",
+"HagiaHaya",
+"GmsCore support"
+],
+[
+"com.pixel.art.coloring.color.number",
+"HagiaHaya",
+"Remove ads"
+],
+[
+"com.pixel.art.coloring.color.number",
+"HagiaHaya",
+"Unlimited hints"
 ],
 [
 "com.pixel.art.coloring.color.number",
@@ -18662,6 +19212,11 @@
 [
 "com.sofascore.results",
 "Heval",
+"Animation speed"
+],
+[
+"com.sofascore.results",
+"Heval",
 "Disable rating prompts"
 ],
 [
@@ -18672,7 +19227,47 @@
 [
 "com.sofascore.results",
 "Heval",
+"Hide AI insights"
+],
+[
+"com.sofascore.results",
+"Heval",
 "Hide betting content"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide countries"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide match tabs"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide promo pop-ups"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide promo sections"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide sports"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Patch settings"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Slower widget refresh"
 ],
 [
 "com.sofascore.results",
@@ -18743,6 +19338,11 @@
 "com.spaceship.screen.textcopy",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"com.sparkine.widgets",
+"Hxreborn",
+"Fix weather"
 ],
 [
 "com.sparkine.widgets",
@@ -21592,6 +22192,11 @@
 [
 "com.tmobile.tuesdays",
 "Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel",
 "Hide Wi-Fi networks"
 ],
 [
@@ -21628,6 +22233,11 @@
 "com.tranquility.colony",
 "Legendsciber",
 "Death Rover Unlimited Turbo"
+],
+[
+"com.transsion.oraimohealth",
+"Oraimo",
+"Instant Launch"
 ],
 [
 "com.tranzmate",
@@ -21678,6 +22288,56 @@
 "com.traviangames.travianlegendsmobile",
 "Amitaisela",
 "Travian Tools setup"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Disable signature check"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Hide surveys"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Opt out of data sale & sharing"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.triovent.datingapp",
@@ -21842,7 +22502,17 @@
 [
 "com.truecaller",
 "Heval",
+"Hide profile menu items"
+],
+[
+"com.truecaller",
+"Heval",
 "Hide promotions"
+],
+[
+"com.truecaller",
+"Heval",
+"Patch settings"
 ],
 [
 "com.truecaller",
@@ -23732,6 +24402,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Network Optimizations (optional)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "OpenXR CPU and GPU BOOST"
 ],
 [
@@ -23872,6 +24547,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "XR Porting Hub",
+"Network Optimizations (optional)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
 "OLED color calibration"
 ],
 [
@@ -23957,6 +24637,11 @@
 [
 "com.viber.voip",
 "Hxreborn",
+"GmsCore support"
+],
+[
+"com.viber.voip",
+"Hxreborn",
 "Hide More screen items"
 ],
 [
@@ -24038,6 +24723,11 @@
 "com.visiblemobile.flagship",
 "Semicoloncolonel",
 "Block session recording"
+],
+[
+"com.visiblemobile.flagship",
+"Semicoloncolonel",
+"Disable auto-updates"
 ],
 [
 "com.visiblemobile.flagship",
@@ -24368,6 +25058,31 @@
 "com.vvv.velvetreel.treel",
 "Vitorhubdev",
 "Unlock episodes"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel",
+"Block session recording"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel",
+"Disable AI"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel",
+"Hide device identifiers"
 ],
 [
 "com.waccliu.taiwanrail",
@@ -25423,6 +26138,11 @@
 "com.xfinity.digitalhome",
 "Semicoloncolonel",
 "Disable AI"
+],
+[
+"com.xfinity.digitalhome",
+"Semicoloncolonel",
+"Disable auto-updates"
 ],
 [
 "com.xfinity.digitalhome",
@@ -27295,6 +28015,51 @@
 "Enable Premium"
 ],
 [
+"com.zumobi.msnbc",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel",
+"Hide surveys and rating prompt"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel",
+"Opt out of data sale & sharing"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
 "customstickermaker.whatsappstickers.personalstickersforwhatsapp",
 "0xBaselessProjects",
 "Disable Analytics / Telemetry"
@@ -27307,7 +28072,17 @@
 [
 "cz.alza.eshop",
 "Mmenzyns",
+"Alza Benefit Prices (CZ / SK)"
+],
+[
+"cz.alza.eshop",
+"Mmenzyns",
 "Alza Hl\u00edda\u010d shop\u016f Price History (CZ / SK)"
+],
+[
+"cz.alza.eshop",
+"Mmenzyns",
+"Alza Smart Link Sharing (FxAlza & Clean) (CZ / SK)"
 ],
 [
 "cz.mroczis.netmonster",
@@ -27785,9 +28560,19 @@
 "Fix Galaxy Buds3 Pro widget"
 ],
 [
+"ginlemon.iconpackstudio",
+"MrCool-888",
+"Unlock Pro"
+],
+[
 "gov.dhs.tsa.mytsa",
 "Semicoloncolonel",
 "Block analytics & tracking"
+],
+[
+"gov.dhs.tsa.mytsa",
+"Semicoloncolonel",
+"Disable auto-updates"
 ],
 [
 "gov.dhs.tsa.mytsa",
@@ -27802,7 +28587,17 @@
 [
 "gov.fema.mobile.android",
 "Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"gov.fema.mobile.android",
+"Semicoloncolonel",
 "Hide device identifiers"
+],
+[
+"gov.fema.mobile.android",
+"Semicoloncolonel",
+"Save content for offline use"
 ],
 [
 "gov.nps.mobileapp",
@@ -27817,7 +28612,17 @@
 [
 "gov.nps.mobileapp",
 "Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"gov.nps.mobileapp",
+"Semicoloncolonel",
 "Hide device identifiers"
+],
+[
+"gov.nps.mobileapp",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "gov.usda.fs.nfg",
@@ -27832,7 +28637,17 @@
 [
 "gov.usda.fs.nfg",
 "Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"gov.usda.fs.nfg",
+"Semicoloncolonel",
 "Hide device identifiers"
+],
+[
+"gov.usda.fs.nfg",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "gov.whitehouse.app",
@@ -27921,6 +28736,11 @@
 ],
 [
 "idm.internet.download.manager",
+"Mwbra130",
+"Remove ads"
+],
+[
+"idm.internet.download.manager",
 "Oyasumi",
 "Disable home screen ads"
 ],
@@ -27988,6 +28808,11 @@
 "in.krosbits.castplugin",
 "Hxreborn",
 "Remove app protection"
+],
+[
+"in.krosbits.musicolet",
+"Edoardo9708",
+"Sync folder playlists"
 ],
 [
 "in.krosbits.musicolet",
@@ -28472,12 +29297,22 @@
 [
 "jp.naver.line.android",
 "Uta-a",
+"MicroG-RE \u3067 Google \u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30ed\u30b0\u30a4\u30f3\u3092\u884c\u3046"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
 "MicroG-RE \u3067\u30c8\u30fc\u30af\u3092\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u3059\u308b"
 ],
 [
 "jp.naver.line.android",
 "Uta-a",
 "MicroG-RE \u3067\u30c8\u30fc\u30af\u3092\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u3059\u308b\uff08manifest\uff09"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"MicroG-RE \u3067\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u9078\u3076"
 ],
 [
 "jp.naver.line.android",
@@ -28933,6 +29768,11 @@
 "net.daylio",
 "Epxec",
 "Enable Premium"
+],
+[
+"net.dinglisch.android.taskerm",
+"Heval",
+"GmsCore support"
 ],
 [
 "net.easyconn.carman.wws",
@@ -32335,6 +33175,16 @@
 "Remove ads"
 ],
 [
+"tageditor.automatictageditor.audiotagging.audioedit.mp3edit",
+"Mwbra130",
+"Change installer source"
+],
+[
+"tageditor.automatictageditor.audiotagging.audioedit.mp3edit",
+"Mwbra130",
+"Enable Lifetime Pro"
+],
+[
 "tech.coddy.coddyapp",
 "Hxreborn",
 "Unlock premium"
@@ -32393,6 +33243,11 @@
 "tv.pluto.android",
 "Semicoloncolonel",
 "Hide device identifiers"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel",
+"Mask live ad breaks"
 ],
 [
 "tv.pluto.android",
