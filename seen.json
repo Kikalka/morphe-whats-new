@@ -215,6 +215,11 @@
 "Keep music player entries"
 ],
 [
+"app.simple.inure.play",
+"Ineednotitle",
+"Unlock Full Version"
+],
+[
 "app.sweepy.sweepy",
 "JaredCat",
 "Unlock Premium"
@@ -223,6 +228,26 @@
 "app.threesome.dating",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"app.unnamed.rawrecording",
+"Ineednotitle",
+"Allow re-signed/sideloaded installs"
+],
+[
+"app.unnamed.rawrecording",
+"Ineednotitle",
+"Bypass native integrity checks"
+],
+[
+"app.unnamed.rawrecording",
+"Ineednotitle",
+"Diagnostic crash log"
+],
+[
+"app.unnamed.rawrecording",
+"Ineednotitle",
+"Unlock Pro features"
 ],
 [
 "app.vela",
@@ -1003,6 +1028,11 @@
 "ch.protonvpn.android",
 "Hxreborn",
 "Unlock split tunneling"
+],
+[
+"ch.protonvpn.android",
+"Ineednotitle",
+"Unlock VPN Plus"
 ],
 [
 "ch.protonvpn.android",
@@ -1966,6 +1996,46 @@
 ],
 [
 "com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Dark mode"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Disable search suggestions tracking"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Disable video autoplay"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Fix Amazon manifest conflicts"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Hide Rufus tab"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Open links in browser"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Price history charts"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Remove ads"
+],
+[
+"com.amazon.mShop.android.shopping",
 "Semicoloncolonel",
 "Block Bluetooth scanning"
 ],
@@ -2198,6 +2268,11 @@
 "com.android.soundrecorder",
 "Bearinmind",
 "Enable non-HyperOS ROM support"
+],
+[
+"com.anetcapture.mock",
+"Toidicakhia",
+"Unlock VIP"
 ],
 [
 "com.angel.klikk",
@@ -2440,6 +2515,11 @@
 "Unlock playback limits"
 ],
 [
+"com.anthropic.claude",
+"Ineednotitle",
+"Block Sentry telemetry"
+],
+[
 "com.antoinehabert.truthordaregame",
 "Mubelotix",
 "Activates premium features"
@@ -2553,6 +2633,16 @@
 "com.apple.atve.androidtv.appletv",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.application.zomato.district",
+"Ineednotitle",
+"Block analytics & data collection"
+],
+[
+"com.application.zomato.district",
+"Ineednotitle",
+"Block location tracking"
 ],
 [
 "com.appmind.radios.id",
@@ -2800,6 +2890,66 @@
 "Unlock Developer Tools"
 ],
 [
+"com.avito.android",
+"Basil-AS",
+"AMOLED dark theme"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Block listings"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Bypass RootBeer root detection"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Disable telemetry"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Disable update prompts"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Hide professional sellers"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Morphe settings"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"Remove ads"
+],
+[
+"com.avito.android",
+"Basil-AS",
+"UI tweaks"
+],
+[
 "com.azefsw.audioconnect",
 "Archie's",
 "Unlock Premium"
@@ -2943,6 +3093,11 @@
 "com.beatxp.dafit",
 "0xBaselessProjects",
 "Unlock Offline Guest Mode"
+],
+[
+"com.beeper.android",
+"CharlesAttend",
+"Hide transcribe button"
 ],
 [
 "com.bereal.ft",
@@ -3397,6 +3552,11 @@
 [
 "com.brave.browser",
 "Heval",
+"DNS filter"
+],
+[
+"com.brave.browser",
+"Heval",
 "Disable ads"
 ],
 [
@@ -3778,6 +3938,11 @@
 "com.caltopo.android",
 "Jagjordi",
 "Unlock Desktop features"
+],
+[
+"com.camel.corp.universalcopy",
+"Toidicakhia",
+"Unlock Plus"
 ],
 [
 "com.camerasideas.instashot",
@@ -4295,9 +4460,39 @@
 "Spoof WARP+ Unlimited UI"
 ],
 [
+"com.cloudflare.onedotonedotonedotone",
+"Toidicakhia",
+"Disable Analytics / Telemetry"
+],
+[
+"com.cloudflare.onedotonedotonedotone",
+"Toidicakhia",
+"Disable SSL Pinning"
+],
+[
+"com.cloudflare.onedotonedotonedotone",
+"Toidicakhia",
+"Spoof WARP+ Unlimited UI"
+],
+[
 "com.clover.daysmatter",
 "MightyMich",
 "Unlock Pro Features"
+],
+[
+"com.cnn.indonesia",
+"Amfakh",
+"Disable analytics"
+],
+[
+"com.cnn.indonesia",
+"Amfakh",
+"Hide ads"
+],
+[
+"com.cnn.indonesia",
+"Amfakh",
+"Merge article pages"
 ],
 [
 "com.cnn.mobile.android.phone",
@@ -4463,6 +4658,36 @@
 "com.cricfytv.sports",
 "GinDoki19",
 "Remove ads, proxy & restrictions"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Ikuradachi",
+"Disable Datadog telemetry setup"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Ikuradachi",
+"Disable Firebase analytics after consent initialization"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Ikuradachi",
+"Disable Mux playback analytics events"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Ikuradachi",
+"Disable Segment analytics events"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Ikuradachi",
+"Disable automatic Crashlytics uploads"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Ikuradachi",
+"Proxy token requests"
 ],
 [
 "com.cv.docscanner",
@@ -4682,6 +4907,11 @@
 [
 "com.discord",
 "Lildanlid1",
+"Banners in Do Not Disturb"
+],
+[
+"com.discord",
+"Lildanlid1",
 "Bring back Tenor GIFs"
 ],
 [
@@ -4697,12 +4927,32 @@
 [
 "com.discord",
 "Lildanlid1",
+"Clone emojis and stickers"
+],
+[
+"com.discord",
+"Lildanlid1",
 "Complete Quests automatically"
 ],
 [
 "com.discord",
 "Lildanlid1",
 "Complete badges automatically"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Compress big files"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Conduit button on profile bar"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Conduit settings"
 ],
 [
 "com.discord",
@@ -4722,7 +4972,17 @@
 [
 "com.discord",
 "Lildanlid1",
+"Custom idle time"
+],
+[
+"com.discord",
+"Lildanlid1",
 "Custom themes"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Delete without a trace"
 ],
 [
 "com.discord",
@@ -4757,7 +5017,37 @@
 [
 "com.discord",
 "Lildanlid1",
+"Download voice messages"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Edit messages on this phone"
+],
+[
+"com.discord",
+"Lildanlid1",
 "Edit servers locally"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Edit without \"(edited)\""
+],
+[
+"com.discord",
+"Lildanlid1",
+"Expand the message bar"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Fake deafen"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Fast delete channels"
 ],
 [
 "com.discord",
@@ -4777,12 +5067,22 @@
 [
 "com.discord",
 "Lildanlid1",
+"Full-screen chat in landscape"
+],
+[
+"com.discord",
+"Lildanlid1",
 "Hide blocked or ignored messages"
 ],
 [
 "com.discord",
 "Lildanlid1",
 "Hide typing indicator"
+],
+[
+"com.discord",
+"Lildanlid1",
+"HypeSquad house"
 ],
 [
 "com.discord",
@@ -4812,6 +5112,21 @@
 [
 "com.discord",
 "Lildanlid1",
+"Keep media playing"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Leave group DMs silently"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Listen along"
+],
+[
+"com.discord",
+"Lildanlid1",
 "Load full-quality images"
 ],
 [
@@ -4827,7 +5142,27 @@
 [
 "com.discord",
 "Lildanlid1",
+"Mutual group DMs"
+],
+[
+"com.discord",
+"Lildanlid1",
 "Pastel name colors"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Pause invites"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Platform spoof"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Preview servers without joining"
 ],
 [
 "com.discord",
@@ -4838,6 +5173,16 @@
 "com.discord",
 "Lildanlid1",
 "Remove anything"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Reply without pinging"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Rich Presence"
 ],
 [
 "com.discord",
@@ -4878,6 +5223,11 @@
 "com.discord",
 "Lildanlid1",
 "Show owner and mod tags"
+],
+[
+"com.discord",
+"Lildanlid1",
+"Show timeout duration"
 ],
 [
 "com.discord",
@@ -4933,6 +5283,11 @@
 "com.discord",
 "Lildanlid1",
 "User and server reviews"
+],
+[
+"com.discord",
+"Lildanlid1",
+"View raw data"
 ],
 [
 "com.discord",
@@ -6195,6 +6550,41 @@
 "Unlock Premium Plus"
 ],
 [
+"com.dubox.drive",
+"Toidicakhia",
+"Clone app"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
+"Fix Google login"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
+"Hide ads"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
+"Hide consent form"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
+"Hide promotions"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
+"Hide video recommendations"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
+"Unlock Premium Plus"
+],
+[
 "com.dundunstudio.autoplay",
 "Amfakh",
 "Disable analytics"
@@ -6660,6 +7050,21 @@
 "Unlock premium"
 ],
 [
+"com.ezviz",
+"Toidicakhia",
+"Bypass SSL pinning"
+],
+[
+"com.ezviz",
+"Toidicakhia",
+"Bypass Signature Check"
+],
+[
+"com.ezviz",
+"Toidicakhia",
+"Remove Ads"
+],
+[
 "com.facebook.aura",
 "Luvztroy",
 "Debug settings long-press"
@@ -6888,6 +7293,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Clean up Reels"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Clean up the story viewer"
 ],
 [
 "com.facebook.katana",
@@ -7328,6 +7738,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Stop update prompts"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Story viewer taps"
 ],
 [
 "com.facebook.katana",
@@ -9122,6 +9537,11 @@
 [
 "com.google.android.apps.maps",
 "Fangkampanat BYD",
+"3D buildings"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
 "BYD battery (EV)"
 ],
 [
@@ -9372,6 +9792,11 @@
 [
 "com.google.android.apps.photos",
 "Akash Sriram",
+"Custom branding"
+],
+[
+"com.google.android.apps.photos",
+"Akash Sriram",
 "DCIM & backup control"
 ],
 [
@@ -9437,6 +9862,41 @@
 [
 "com.google.android.apps.photos",
 "Akash Sriram",
+"Spoof features"
+],
+[
+"com.google.android.apps.photos",
+"Ineednotitle",
+"AMOLED dark theme"
+],
+[
+"com.google.android.apps.photos",
+"Ineednotitle",
+"Change package name"
+],
+[
+"com.google.android.apps.photos",
+"Ineednotitle",
+"Custom branding"
+],
+[
+"com.google.android.apps.photos",
+"Ineednotitle",
+"Enable DCIM folders backup control"
+],
+[
+"com.google.android.apps.photos",
+"Ineednotitle",
+"Fix DCIM folder classification"
+],
+[
+"com.google.android.apps.photos",
+"Ineednotitle",
+"GmsCore support"
+],
+[
+"com.google.android.apps.photos",
+"Ineednotitle",
 "Spoof features"
 ],
 [
@@ -9853,6 +10313,11 @@
 "com.google.android.dialer",
 "HelioFloxZ",
 "Remove Dialer Support Library"
+],
+[
+"com.google.android.gm",
+"Mlkem",
+"Gmail account visibility"
 ],
 [
 "com.google.android.googlequicksearchbox",
@@ -10745,6 +11210,11 @@
 "Unlock Pro"
 ],
 [
+"com.hbwares.wordfeud.free",
+"Jeroenimo02",
+"Word finder overlay"
+],
+[
 "com.hdictionary.bn",
 "FTL",
 "Disable pronunciation nag"
@@ -10768,6 +11238,21 @@
 "com.hdqwalls.hdqwalls1",
 "SailHighSea",
 "Remove ads"
+],
+[
+"com.healthifyme.basic",
+"CallMeBeyonder",
+"Bypass Root Detection"
+],
+[
+"com.healthifyme.basic",
+"CallMeBeyonder",
+"Remove analytics"
+],
+[
+"com.healthifyme.basic",
+"CallMeBeyonder",
+"Unlock Premium"
 ],
 [
 "com.hevy",
@@ -10983,6 +11468,46 @@
 "com.ichi2.anki",
 "Titandrive",
 "AnkiDroid Catppuccin theme and fonts"
+],
+[
+"com.idamob.tinkoff.android",
+"Basil-AS",
+"Bypass RootBeer root detection"
+],
+[
+"com.idamob.tinkoff.android",
+"Basil-AS",
+"Bypass STCrypt CKey root detection"
+],
+[
+"com.idamob.tinkoff.android",
+"Basil-AS",
+"Bypass anti-tamper"
+],
+[
+"com.idamob.tinkoff.android",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"com.idamob.tinkoff.android",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"com.idamob.tinkoff.android",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"com.idamob.tinkoff.android",
+"Basil-AS",
+"Disable telemetry worker"
+],
+[
+"com.idamob.tinkoff.android",
+"Basil-AS",
+"Remove TBank ads"
 ],
 [
 "com.idntimes.idntimes",
@@ -11863,6 +12388,11 @@
 "com.instagram.android",
 "HushGram",
 "Keep in chat"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Keep playing in the background"
 ],
 [
 "com.instagram.android",
@@ -13025,6 +13555,21 @@
 "Unlock premium"
 ],
 [
+"com.jndapp.nothing.widgets.pack",
+"Ineednotitle",
+"Remove tracking & analytics"
+],
+[
+"com.jndapp.nothing.widgets.pack",
+"Ineednotitle",
+"Spoof Play Store signature"
+],
+[
+"com.jndapp.nothing.widgets.pack",
+"Ineednotitle",
+"Unlock Premium"
+],
+[
 "com.joshua.jptt",
 "JPTT",
 "Disable Play license check"
@@ -13263,6 +13808,11 @@
 "com.kakarod.bighunter",
 "Chiggi",
 "Remove ads"
+],
+[
+"com.kasikorn.retail.mbanking.wap",
+"Ak-a-ra",
+"Bypass V-Key root/security detection"
 ],
 [
 "com.keepa.mobile",
@@ -14260,6 +14810,106 @@
 "Sanitize share links"
 ],
 [
+"com.linkedin.android",
+"Loki",
+"Anonymous profile viewing"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Block tracking"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Copy text"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Disable double-tap like"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Download media"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Feed filters"
+],
+[
+"com.linkedin.android",
+"Loki",
+"GmsCore support"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Hide Premium upsells"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Hide ads"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Hide promoted jobs"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Hide suggested posts"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Keep feed on reopen"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Material You"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Messaging"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Open links directly"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Post menu items"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Remove gaps and dividers"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Sanitize share links"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Swipe between feeds"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Tap to hide in viewers"
+],
+[
 "com.liori.echogram",
 "Hxreborn",
 "Unlock premium"
@@ -14625,6 +15275,66 @@
 "Sort by number of ratings"
 ],
 [
+"com.meesho.supply",
+"Ineednotitle",
+"Allow screenshots & screen recording"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Block analytics & tracking"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Bypass forced update"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Change package name"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Disable in-app popup upsells"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Disable reels autoplay"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Hide sponsored listings & ad slots"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Lock exported share-in / bank-link activities"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Packaging toolkit (signature, install source, MicroG)"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Prefer external browser over Custom Tabs"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Remove dangerous permissions (keep storage & SMS)"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Stop pull-notification alarms (keep push)"
+],
+[
 "com.meetup",
 "Kirby1997",
 "Disable Meetup+ trial panels"
@@ -14865,6 +15575,11 @@
 "Update Without Account"
 ],
 [
+"com.microsoft.office.excel",
+"Ineednotitle",
+"Unlock Excel"
+],
+[
 "com.microsoft.office.officehubrow",
 "Kveld9 Extra",
 "Block Telemetry & Trackers"
@@ -14938,6 +15653,11 @@
 "com.microsoft.office.powerpoint",
 "Kveld9 Extra",
 "Unlock 365 Family"
+],
+[
+"com.microsoft.office.word",
+"Ineednotitle",
+"Unlock Word"
 ],
 [
 "com.microsoft.office.word",
@@ -15122,6 +15842,11 @@
 [
 "com.mobilefootie.wc2010",
 "Heval",
+"Hide competitions"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
 "Hide countries"
 ],
 [
@@ -15238,6 +15963,96 @@
 "com.mtv.sai",
 "TorbenStriegel",
 "Unlock Premium"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Allow screenshots & screen recording"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Block analytics & tracking"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Block upgrade & sale deep links"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Bypass forced update"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Change package name"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Disable autoplay previews"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Enable picture-in-picture"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Force TV (leanback) UI"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Force highest video quality"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Packaging toolkit (signature, install source, MicroG)"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Prefer external browser over Custom Tabs"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Remove promo cards & upsell banners"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Skip TV confirmation dialog"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Skip pre-roll promos"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Spoof Widevine level for MUBI"
+],
+[
+"com.mubi",
+"Ineednotitle",
+"Suppress subscription paywall"
+],
+[
+"com.musclewiki.macro",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.musclewiki.macro",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.musescore.playerlite",
@@ -16405,6 +17220,21 @@
 "Spoof signature"
 ],
 [
+"com.openai.chatgpt",
+"Ineednotitle",
+"Privacy: block trackers & analytics"
+],
+[
+"com.openai.chatgpt",
+"Ineednotitle",
+"Privacy: no location, contacts or phone data"
+],
+[
+"com.openai.chatgpt",
+"Ineednotitle",
+"Privacy: no mic or camera"
+],
+[
 "com.openbubbles.messaging",
 "MrCool-888",
 "Ready for messages notification control"
@@ -17021,6 +17851,21 @@
 ],
 [
 "com.pinterest",
+"Ineednotitle",
+"Ad-free feed (remove promoted Pins)"
+],
+[
+"com.pinterest",
+"Ineednotitle",
+"Block analytics and data collection"
+],
+[
+"com.pinterest",
+"Ineednotitle",
+"Enable media downloads"
+],
+[
+"com.pinterest",
 "Mubelotix",
 "Remove GMA ads"
 ],
@@ -17320,9 +18165,29 @@
 "Login required"
 ],
 [
+"com.proxyman.proxymanandroid",
+"Ineednotitle",
+"Unlock Lifetime"
+],
+[
 "com.psiphon3.subscription",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.punicapp.whoosh",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"com.punicapp.whoosh",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"com.punicapp.whoosh",
+"Basil-AS",
+"Disable analytics manifest components"
 ],
 [
 "com.pushpress.memberportal",
@@ -17481,6 +18346,31 @@
 ],
 [
 "com.reddit.frontpage",
+"Ineednotitle",
+"Disable Click Tracking"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Employee Debug Flags"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Remove ads"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Unlock Account Entitlements"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Unlock Premium"
+],
+[
+"com.reddit.frontpage",
 "Mubelotix",
 "Reroute API calls"
 ],
@@ -17488,6 +18378,11 @@
 "com.reddit.frontpage",
 "Santodan",
 "Reddit - Show flairs in home feed (Experimental)"
+],
+[
+"com.reddit.frontpage",
+"TahmidSummy",
+"Proxy"
 ],
 [
 "com.reddit.frontpage",
@@ -18615,6 +19510,11 @@
 "Use Android game list"
 ],
 [
+"com.samsung.android.goodlock",
+"Sarvottam99",
+"Unlock all Samsung Good Lock modules"
+],
+[
 "com.samsung.android.homemode",
 "Giaaaacomo",
 "Customize orientation"
@@ -19233,6 +20133,11 @@
 "com.sofascore.results",
 "Heval",
 "Hide betting content"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide competitions"
 ],
 [
 "com.sofascore.results",
@@ -20606,6 +21511,21 @@
 ],
 [
 "com.strava",
+"Ineednotitle",
+"Block analytics and data collection"
+],
+[
+"com.strava",
+"Ineednotitle",
+"Force password login (OTP bypass)"
+],
+[
+"com.strava",
+"Ineednotitle",
+"Unlock Premium"
+],
+[
+"com.strava",
 "Madushas",
 "AMOLED dark theme"
 ],
@@ -20943,6 +21863,16 @@
 "com.sygic.aura",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.sygic.truck",
+"Georgewoodall82",
+"Remove Trial Expiry (native)"
+],
+[
+"com.sygic.truck",
+"Georgewoodall82",
+"Unlock Premium"
 ],
 [
 "com.talabat",
@@ -24876,6 +25806,111 @@
 ],
 [
 "com.vk.vkvideo",
+"Basil-AS",
+"Block deep midroll ads"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Block midroll ads"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Bypass native signature check"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable OpenTelemetry APM"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable VK Video MyTarget SDK"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable VK Video advertising ID"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable ad pixel tracking"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable ad-free subscription promo"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable in-app update"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Disable video ad repository"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Filter Clips SDK ads"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Filter clip feed ads"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Fix install conflict with stock VK"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Hide ad XML surfaces"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Hide home showcase ads"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Hide promoted banner content"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Remove clip ads"
+],
+[
+"com.vk.vkvideo",
+"Basil-AS",
+"Remove video ads"
+],
+[
+"com.vk.vkvideo",
 "PerfLite VK-Video",
 "App icon colors"
 ],
@@ -25717,6 +26752,11 @@
 [
 "com.waze",
 "JohnInNL",
+"Change app name and icon"
+],
+[
+"com.waze",
+"JohnInNL",
 "Extra map info"
 ],
 [
@@ -25793,6 +26833,11 @@
 "com.waze",
 "JohnInNL",
 "Report speed limit"
+],
+[
+"com.waze",
+"JohnInNL",
+"Share Waze Alerts with external applications"
 ],
 [
 "com.waze",
@@ -26070,6 +27115,26 @@
 "Force system font (Where is my Train)"
 ],
 [
+"com.wildberries.ru",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"com.wildberries.ru",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"com.wildberries.ru",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"com.wildberries.ru",
+"Basil-AS",
+"Remove Wildberries ads"
+],
+[
 "com.windium.proxman",
 "Tkiethuynh",
 "Unlock Premium"
@@ -26248,6 +27313,26 @@
 "com.yahoo.mobile.client.android.sportacular",
 "Heval",
 "Hide betting promotions"
+],
+[
+"com.yandex.bank",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"com.yandex.bank",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"com.yandex.bank",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"com.yatrirailways.yatri",
+"Ineednotitle",
+"Unlock VIP"
 ],
 [
 "com.yaunquan.guitartuna",
@@ -27892,6 +28977,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Hide Discovery tab"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Hide Media Box in Messages"
 ],
 [
@@ -28060,6 +29150,21 @@
 "Spoof carrier"
 ],
 [
+"com.zvooq.openplay",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"com.zvooq.openplay",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"com.zvooq.openplay",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
 "customstickermaker.whatsappstickers.personalstickersforwhatsapp",
 "0xBaselessProjects",
 "Disable Analytics / Telemetry"
@@ -28093,6 +29198,11 @@
 "cz.mroczis.netmonster",
 "Proxma",
 "Google Maps API key (NetMonster)"
+],
+[
+"cz.mroczis.netmonster",
+"Toidicakhia",
+"Unlock Premium"
 ],
 [
 "de.klassikradio.app",
@@ -28480,6 +29590,11 @@
 "Custom branding"
 ],
 [
+"fr.chargeprice.app",
+"TorbenStriegel",
+"Unlock Premium features"
+],
+[
 "fr.cityway.android.creaastuce",
 "Mubelotix",
 "Offline Validation Fix"
@@ -28508,6 +29623,11 @@
 "fr.leboncoin",
 "Yann-Soliman",
 "Leboncoin : supprimer les publicit\u00e9s"
+],
+[
+"fr.tramb.park4night",
+"TorbenStriegel",
+"Unlock Premium"
 ],
 [
 "free.zona",
@@ -28793,6 +29913,46 @@
 "in.amazon.mShop.android.shopping",
 "Debakar",
 "Sort by number of ratings"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Dark mode"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Disable search suggestions tracking"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Disable video autoplay"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Fix Amazon manifest conflicts"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Hide Rufus tab"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Open links in browser"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Price history charts"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Remove ads"
 ],
 [
 "in.cricketexchange.app.cricketexchange",
@@ -29313,6 +30473,11 @@
 "jp.naver.line.android",
 "Uta-a",
 "MicroG-RE \u3067\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u9078\u3076"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"MicroG-RE \u306e\u8a8d\u8a3c\u30a8\u30e9\u30fc\u3092\u901a\u77e5\u3059\u308b"
 ],
 [
 "jp.naver.line.android",
@@ -30870,6 +32035,26 @@
 "Spoof client"
 ],
 [
+"org.detikcom.rss",
+"Amfakh",
+"Disable analytics"
+],
+[
+"org.detikcom.rss",
+"Amfakh",
+"Hide ads"
+],
+[
+"org.detikcom.rss",
+"Amfakh",
+"Merge article pages"
+],
+[
+"org.detikcom.rss",
+"Amfakh",
+"Stop autoplay"
+],
+[
 "org.fossify.calendar",
 "Pengusto",
 "Readable Calendar descriptions"
@@ -30925,6 +32110,11 @@
 "Unlock Yatse Pro"
 ],
 [
+"org.malwarebytes.antimalware",
+"Ineednotitle",
+"Unlock Ultimate"
+],
+[
 "org.mozilla.fenix",
 "FTL",
 "Close duplicate tabs"
@@ -30967,6 +32157,11 @@
 [
 "org.mozilla.firefox",
 "Heval",
+"DNS filter"
+],
+[
+"org.mozilla.firefox",
+"Heval",
 "Disable telemetry"
 ],
 [
@@ -30996,6 +32191,16 @@
 ],
 [
 "org.mozilla.firefox",
+"Ineednotitle",
+"Block Firefox telemetry"
+],
+[
+"org.mozilla.firefox",
+"Ineednotitle",
+"Improve startup performance"
+],
+[
+"org.mozilla.firefox",
 "d0nj",
 "Firefox Nightly app name"
 ],
@@ -31018,6 +32223,11 @@
 "org.mozilla.focus",
 "Heval",
 "Add-on support"
+],
+[
+"org.mozilla.focus",
+"Heval",
+"DNS filter"
 ],
 [
 "org.mozilla.focus",
@@ -31463,6 +32673,76 @@
 "org.telegram.messenger",
 "HushTelegram",
 "Voice messages in the music player"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Anti-delete messages"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Anti-disappearing media"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Anti-screenshot notification"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Bypass channel restrictions"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Bypass content restrictions"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Bypass integrity check"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Disable auto-update"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Disable channel switching"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Download speed boost"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Hide typing indicator"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Remove ads"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Unlock Premium"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Use normal paste"
+],
+[
+"org.telegram.messenger",
+"Ineednotitle",
+"Voice to music"
 ],
 [
 "org.telegram.messenger",
@@ -31981,6 +33261,76 @@
 ],
 [
 "org.telegram.messenger.web",
+"Ineednotitle",
+"Anti-delete messages"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Anti-disappearing media"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Anti-screenshot notification"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Bypass channel restrictions"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Bypass content restrictions"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Bypass integrity check"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Disable auto-update"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Disable channel switching"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Download speed boost"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Hide typing indicator"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Remove ads"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Unlock Premium"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Use normal paste"
+],
+[
+"org.telegram.messenger.web",
+"Ineednotitle",
+"Voice to music"
+],
+[
+"org.telegram.messenger.web",
 "Rahul9999xda",
 "Anti-delete messages"
 ],
@@ -32132,6 +33482,81 @@
 [
 "org.telegram.messenger.web",
 "newuser7171",
+"Voice to music"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Anti-delete messages"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Anti-disappearing media"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Anti-screenshot notification"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Bypass channel restrictions"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Bypass content restrictions"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Bypass integrity check"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Disable analytics"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Disable auto-update"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Disable channel switching"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Download speed boost"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Hide typing indicator"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Remove ads"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Unlock Premium"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
+"Use normal paste"
+],
+[
+"org.telegram.plus",
+"Ineednotitle",
 "Voice to music"
 ],
 [
@@ -32805,6 +34230,11 @@
 "Material 3 switches"
 ],
 [
+"proton.android.pass",
+"Ineednotitle",
+"Unlock Unlimited Plan"
+],
+[
 "reddit.news",
 "Brealorg",
 "Fix /s/ links"
@@ -32890,6 +34320,51 @@
 "Skip ad consent form"
 ],
 [
+"ru.aliexpress.buyer",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.aliexpress.buyer",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.aliexpress.buyer",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.beeline.services",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.beeline.services",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.beeline.services",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.dublgis.dgismobile",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.dublgis.dgismobile",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.dublgis.dgismobile",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
 "ru.iiec.cxxdroid",
 "Hxreborn",
 "AMOLED dark theme"
@@ -32940,6 +34415,116 @@
 "\u0421\u043c\u0435\u043d\u0430 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f"
 ],
 [
+"ru.mts.mymts",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.mts.mymts",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.mts.mymts",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.oneme.app",
+"Basil-AS",
+"Bypass VPN check"
+],
+[
+"ru.oneme.app",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.oneme.app",
+"Basil-AS",
+"Disable MAX advertising ID"
+],
+[
+"ru.oneme.app",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.oneme.app",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.oneme.app",
+"Basil-AS",
+"Disable background telemetry workers"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Bypass RootBeer root detection"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Disable checkout tips"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Disable lottery and in-app pushes"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Disable telemetry"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Disable tip notifications"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Hide Ozon Bank ad banner"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Hide account lottery and review feed"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Hide seller rating prompt"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Remove Ozon ads"
+],
+[
+"ru.ozon.app.android",
+"Basil-AS",
+"Show final prices only"
+],
+[
 "ru.ozon.app.android",
 "Jl4cTuk",
 "Disable checkout tips"
@@ -32986,6 +34571,46 @@
 ],
 [
 "ru.ozon.fintech.finance",
+"Basil-AS",
+"Bypass RootBeer root detection"
+],
+[
+"ru.ozon.fintech.finance",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.ozon.fintech.finance",
+"Basil-AS",
+"Disable Ozon Bank VPN warning"
+],
+[
+"ru.ozon.fintech.finance",
+"Basil-AS",
+"Disable Ozon Bank advertising ID"
+],
+[
+"ru.ozon.fintech.finance",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.ozon.fintech.finance",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.ozon.fintech.finance",
+"Basil-AS",
+"Hide Ozon Bank benefit sections"
+],
+[
+"ru.ozon.fintech.finance",
+"Basil-AS",
+"Hide Ozon Bank promotions"
+],
+[
+"ru.ozon.fintech.finance",
 "Jl4cTuk",
 "Disable Ozon Bank VPN warning"
 ],
@@ -32998,6 +34623,36 @@
 "ru.ozon.fintech.finance",
 "Jl4cTuk",
 "Hide Ozon Bank promotions"
+],
+[
+"ru.perekrestok.app",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.perekrestok.app",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.perekrestok.app",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.rostel",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.rostel",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.rostel",
+"Basil-AS",
+"Disable analytics manifest components"
 ],
 [
 "ru.rutube.app",
@@ -33023,6 +34678,86 @@
 "ru.rutube.app",
 "Virzak",
 "Unlock subscription features"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable Mine redesign"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable ads"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable analytics"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable background hooks"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable background scan"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable gaming profile"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable invasive permissions"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Disable push services"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Exclude Google Play apps from updates"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Replace RuStore SDK device identifier"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Replace VK SDK device identifier"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Restore secure-session compatibility"
+],
+[
+"ru.vk.store",
+"Basil-AS",
+"Skip update authentication"
 ],
 [
 "ru.vk.store",
@@ -33090,9 +34825,114 @@
 "Block remote network policy"
 ],
 [
+"ru.vk.store",
+"RuStore privacy",
+"Disable TV install"
+],
+[
+"ru.vk.store",
+"RuStore privacy",
+"Disable ad-link auto-install"
+],
+[
+"ru.vk.store",
+"RuStore privacy",
+"Disable review prompts"
+],
+[
 "ru.wasiliysoft.ircodefindernec",
 "Heval",
 "Disable ads"
+],
+[
+"ru.yandex.mail",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.yandex.mail",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.yandex.mail",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.yandex.music",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.yandex.music",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.yandex.music",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.yandex.rasp",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.yandex.rasp",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.yandex.rasp",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.yandex.taxi",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.yandex.taxi",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.yandex.taxi",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.yandex.weatherplugin",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.yandex.weatherplugin",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.yandex.weatherplugin",
+"Basil-AS",
+"Disable analytics manifest components"
+],
+[
+"ru.yandex.yandexmaps",
+"Basil-AS",
+"Disable AppsFlyer"
+],
+[
+"ru.yandex.yandexmaps",
+"Basil-AS",
+"Disable analytics libraries"
+],
+[
+"ru.yandex.yandexmaps",
+"Basil-AS",
+"Disable analytics manifest components"
 ],
 [
 "ru.yandex.yandexnavi",
@@ -33273,6 +35113,11 @@
 "tv.pluto.android",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"tv.trakt.trakt",
+"Ineednotitle",
+"Unlock VIP"
 ],
 [
 "tv.twitch.android.app",
