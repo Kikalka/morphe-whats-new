@@ -1411,6 +1411,11 @@
 ],
 [
 "com.Slack",
+"3kh0",
+"Slick Android"
+],
+[
+"com.Slack",
 "HagiaHaya",
 "Anonymize file names"
 ],
@@ -1568,6 +1573,61 @@
 "com.action.consumerapp",
 "Janowakps",
 "Weekly Deals Sorting"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"AI\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u306e\u30a2\u30a4\u30b3\u30f3\u3092\u975e\u8868\u793a"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"VIP\u3092\u507d\u88c5"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"VIP\u6848\u5185\u753b\u9762\u3092\u30d6\u30ed\u30c3\u30af"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"\u30a2\u30d7\u30ea\u5185\u8a2d\u5b9a\u753b\u9762\u3092\u8ffd\u52a0"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"\u30d7\u30c3\u30b7\u30e5\u30dd\u30c3\u30d7\u30a2\u30c3\u30d7\u3092\u7121\u52b9\u5316"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"\u30d7\u30ed\u30e2\u30fc\u30b7\u30e7\u30f3\u3092\u975e\u8868\u793a"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"\u30dd\u30a4\u30f3\u30c8\u5165\u53e3\u3092\u975e\u8868\u793a"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"\u30ec\u30d3\u30e5\u30fc\u4f9d\u983c\u3092\u7121\u52b9\u5316"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"\u5e83\u544a\u3092\u975e\u8868\u793a"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"\u89e3\u6790\u30ec\u30dd\u30fc\u30c8\u3092\u7121\u52b9\u5316"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"\u89e3\u7d04\u6642\u306e\u5f15\u304d\u6b62\u3081\u753b\u9762\u3092\u30b9\u30ad\u30c3\u30d7"
 ],
 [
 "com.adithya.memoneet",
@@ -2363,6 +2423,11 @@
 "com.andrewshu.android.reddit",
 "Patcheddit",
 "Fix loading more comments"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Log exceptions"
 ],
 [
 "com.androholic.wallpapersdepthpix",
@@ -3170,6 +3235,61 @@
 "Spoof carrier"
 ],
 [
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"GmsCore support"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Hide betting odds"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Hide surveys and rating prompt"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Mask live ad breaks"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
 "com.bandcamp.android",
 "Nai64 Extra",
 "Allow Mobile Downloads"
@@ -3710,6 +3830,11 @@
 "Bypass license check"
 ],
 [
+"com.box.android",
+"Haya9924",
+"Markdown math preview"
+],
+[
 "com.bplace",
 "Nagol12344",
 "Allow landscape orientation"
@@ -3768,6 +3893,46 @@
 "com.brave.browser",
 "Heval",
 "Hide promotional prompts"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Block Motion Sensors"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Block Popups & Ratings"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Preserve last active tab"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Remove Extra Languages"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Skip Welcome Screens"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Stop Background Wakeups"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Stop Promo Notifications"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Stop Text Sharing with System"
 ],
 [
 "com.brave.browser",
@@ -4087,6 +4252,36 @@
 [
 "com.bstar.intl",
 "Ikuradachi",
+"Remove user content"
+],
+[
+"com.bstar.intl",
+"Kagebili",
+"Clean interface"
+],
+[
+"com.bstar.intl",
+"Kagebili",
+"Clean player"
+],
+[
+"com.bstar.intl",
+"Kagebili",
+"Disable tracking"
+],
+[
+"com.bstar.intl",
+"Kagebili",
+"GmsCore support"
+],
+[
+"com.bstar.intl",
+"Kagebili",
+"Remove ads"
+],
+[
+"com.bstar.intl",
+"Kagebili",
 "Remove user content"
 ],
 [
@@ -4757,6 +4952,11 @@
 [
 "com.cnn.mobile.android.phone",
 "Semicoloncolonel",
+"Faster launch"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel",
 "Hide VPN connection"
 ],
 [
@@ -4955,6 +5155,16 @@
 "Proxy token requests"
 ],
 [
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Disable telemetry"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Proxy token requests"
+],
+[
 "com.cv.docscanner",
 "byehi98",
 "Doc Scanner Premium"
@@ -4998,6 +5208,31 @@
 "com.cvs.launchers.cvs",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel",
+"GmsCore support"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel",
+"Skip ads"
 ],
 [
 "com.darinsoft.vimo",
@@ -5115,6 +5350,21 @@
 "Disable ads"
 ],
 [
+"com.dev47apps.obsdroidcam",
+"Mwbra130",
+"Disable PairIP protection"
+],
+[
+"com.dev47apps.obsdroidcam",
+"Mwbra130",
+"Disable PairIP protection (runtime files)"
+],
+[
+"com.dev47apps.obsdroidcam",
+"Mwbra130",
+"Unlock Pro"
+],
+[
 "com.devone.filetreesize",
 "GitGitro",
 "Bypass license check"
@@ -5143,6 +5393,11 @@
 "com.digivive.platform8",
 "Media",
 "Free content"
+],
+[
+"com.dinoster.flipside",
+"Amfakh",
+"Premium unlock"
 ],
 [
 "com.direlight.grimvalor",
@@ -6785,6 +7040,66 @@
 "Diagnostic: Douban repackaging only"
 ],
 [
+"com.dramafever.docclub",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
 "com.dreamplug.androidapp",
 "aapam",
 "Disable Spying & Security Checks"
@@ -7198,6 +7513,11 @@
 "com.espn.score_center",
 "Semicoloncolonel",
 "Hide VPN connection"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel",
+"Hide betting"
 ],
 [
 "com.espn.score_center",
@@ -8850,6 +9170,21 @@
 "Remove ads"
 ],
 [
+"com.fivemobile.thescore",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.fivemobile.thescore",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.fivemobile.thescore",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
 "com.flightconnections",
 "Duy",
 "Remove ads"
@@ -9068,6 +9403,11 @@
 "com.foxnews.android",
 "Semicoloncolonel",
 "Hide device identifiers"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel",
+"Hide prediction markets"
 ],
 [
 "com.foxnews.android",
@@ -13782,6 +14122,11 @@
 [
 "com.instagram.barcelona",
 "HushThreads",
+"Filter comments"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
 "Hide ads"
 ],
 [
@@ -13843,6 +14188,11 @@
 "com.instagram.barcelona",
 "HushThreads",
 "Save photos and videos"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Show exact post times"
 ],
 [
 "com.instagram.barcelona",
@@ -14033,6 +14383,31 @@
 "com.jndapp.glass.widgets",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.jndapp.glass.widgets",
+"Sabrina-Moonlight",
+"Disable Pairip"
+],
+[
+"com.jndapp.glass.widgets",
+"Sabrina-Moonlight",
+"Local Preference"
+],
+[
+"com.jndapp.glass.widgets",
+"Sabrina-Moonlight",
+"Remove Pairip Protection"
+],
+[
+"com.jndapp.minimal.widgets",
+"Sabrina-Moonlight",
+"Disable Pairip"
+],
+[
+"com.jndapp.minimal.widgets",
+"Sabrina-Moonlight",
+"Local Preference"
 ],
 [
 "com.jndapp.nothing.widgets.pack",
@@ -14791,6 +15166,11 @@
 ],
 [
 "com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Log exceptions"
+],
+[
+"com.laurencedawson.reddit_sync",
 "RashKash103",
 "Add archive links to menus"
 ],
@@ -15182,6 +15562,11 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Glass navigation bar"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "GmsCore support"
 ],
 [
@@ -15222,7 +15607,17 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Navigation bar"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Open links directly"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Pitch black"
 ],
 [
 "com.linkedin.android",
@@ -15438,6 +15833,31 @@
 "com.linkedin.android",
 "Loki",
 "Tap to hide in viewers"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Customize navigation bar"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Hide feed videos"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Hide promoted jobs"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Hide sponsored posts"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Hide suggested and follow carousels"
 ],
 [
 "com.liori.echogram",
@@ -17050,6 +17470,36 @@
 "TFD Companion - Remove illegal apps detection"
 ],
 [
+"com.nexstar.newsnation",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel",
+"Hide rating prompt (Android TV)"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel",
+"Skip ads (Android TV)"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel",
+"Skip ads (phone)"
+],
+[
 "com.nhl.gc1112.free",
 "Aidan",
 "Enable Notifications and Live Activities"
@@ -17712,6 +18162,11 @@
 [
 "com.onelouder.baconreader",
 "JoanComasFdz",
+"Remove Log out"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
 "Remove Random feeds"
 ],
 [
@@ -17768,6 +18223,11 @@
 "com.onelouder.baconreader",
 "Patcheddit",
 "Fix loading more comments"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
+"Log exceptions"
 ],
 [
 "com.oneplus.calculator",
@@ -18028,6 +18488,91 @@
 "com.paradyme.solarsmash",
 "Legendsciber",
 "Solar Smash All Packages Purchased"
+],
+[
+"com.parkmobile",
+"JohnInNL",
+"Add microG-RE support"
+],
+[
+"com.parkmobile",
+"JohnInNL",
+"Allow custom Android Auto hosts"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Block installed-app scan"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Disable NewsBreak AI"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"GmsCore support"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Hide AI summaries"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Hide My Town intro"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Hide Premium upsells"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Route traffic through a proxy"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.patreon.android",
@@ -18516,6 +19061,11 @@
 ],
 [
 "com.pinterest",
+"Ineednotitle",
+"Enable video download"
+],
+[
+"com.pinterest",
 "Mubelotix",
 "Remove GMA ads"
 ],
@@ -18981,6 +19531,16 @@
 ],
 [
 "com.rarecam.app",
+"Danieleavolio",
+"Bypass PairIP license check"
+],
+[
+"com.rarecam.app",
+"Danieleavolio",
+"Unlock Rarecam Pro"
+],
+[
+"com.rarecam.app",
 "Heval",
 "Disable license check"
 ],
@@ -19097,6 +19657,11 @@
 [
 "com.reddit.frontpage",
 "Ineednotitle",
+"Show deleted comments"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
 "Unlock Account Entitlements"
 ],
 [
@@ -19143,6 +19708,11 @@
 "com.release.arylive",
 "Hammadhassan94",
 "Hide ads"
+],
+[
+"com.remi.widget",
+"Sabrina-Moonlight",
+"Local Features"
 ],
 [
 "com.renshuu.renshuu_org",
@@ -20108,6 +20678,11 @@
 "com.rumble.battles",
 "JordanWoodson",
 "Unlock Premium"
+],
+[
+"com.saban.glassy.glasswidgets.themes",
+"Sabrina-Moonlight",
+"Local Premium"
 ],
 [
 "com.sadpuppy.lemmings",
@@ -21183,6 +21758,61 @@
 "com.spotify.music",
 "Oyasumi",
 "Disable ads"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Block popup ads"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Disable ad breaks"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Fix third party launchers widgets"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Hide Premium tab"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Hide ad sections"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Hide ad views"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Hide context menu upsells"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Hide playlist ads"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Hide video ads"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Mute audio ads"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Sanitize sharing links"
 ],
 [
 "com.spotify.music",
@@ -22585,6 +23215,31 @@
 "SUBE Telemetry Manifest Purge"
 ],
 [
+"com.substack.app",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.substack.app",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.substack.app",
+"Semicoloncolonel",
+"Disable screenshot detection"
+],
+[
+"com.substack.app",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.substack.app",
+"Semicoloncolonel",
+"Hide follow upsell"
+],
+[
 "com.subtlesignals.gradientweather",
 "Mwbra130",
 "Change installer source"
@@ -23398,6 +24053,11 @@
 "com.telug.keyboard.for.android",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.tencent.mobileqq",
+"LostPRC",
+"Slim QQ"
 ],
 [
 "com.tencent.qqmusic",
@@ -24477,6 +25137,11 @@
 [
 "com.tumblr",
 "HushTumblr",
+"Collapse long posts"
+],
+[
+"com.tumblr",
+"HushTumblr",
 "Dark background color"
 ],
 [
@@ -24548,6 +25213,11 @@
 "com.tumblr",
 "HushTumblr",
 "Hide hashtags"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide liked posts"
 ],
 [
 "com.tumblr",
@@ -24693,6 +25363,11 @@
 "com.tumblr",
 "HushTumblr",
 "Share video links"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Sharper images"
 ],
 [
 "com.tumblr",
@@ -26057,6 +26732,11 @@
 [
 "com.unicornsonlsd.finamp",
 "Pengusto",
+"Finamp complete: all eight fixes"
+],
+[
+"com.unicornsonlsd.finamp",
+"Pengusto",
 "Fix offline artist tracks"
 ],
 [
@@ -26173,6 +26853,36 @@
 "com.usablenet.mobile.walgreen",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel",
+"Hide subscription prompts"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel",
+"Skip ads"
 ],
 [
 "com.uvnv.mintsim",
@@ -27968,6 +28678,16 @@
 "com.waze",
 "Pilotkosinus Waze",
 "Waze \u2013 Patched YouTube Music Support"
+],
+[
+"com.waze",
+"Pomee4",
+"Add custom audio app"
+],
+[
+"com.waze",
+"Pomee4",
+"GmsCore support"
 ],
 [
 "com.waze",
@@ -30420,6 +31140,16 @@
 "Disable telemetry"
 ],
 [
+"de.twokit.screen.recording.app",
+"Sabrina-Moonlight",
+"Disable Pairip"
+],
+[
+"de.twokit.screen.recording.app",
+"Sabrina-Moonlight",
+"Pro Options"
+],
+[
 "de.wetteronline.wetterapp",
 "TorbenStriegel",
 "Enable Premium"
@@ -31390,6 +32120,11 @@
 "Disable ads"
 ],
 [
+"io.syncapps.lemmy_sync",
+"Patcheddit",
+"Log exceptions"
+],
+[
 "io.unorderly.structured",
 "Heval",
 "Disable license check"
@@ -31490,6 +32225,16 @@
 "Skip ads"
 ],
 [
+"it.simonesestito.ntiles",
+"Sabrina-Moonlight",
+"Disable Pairip"
+],
+[
+"it.simonesestito.ntiles",
+"Sabrina-Moonlight",
+"Hide Ads Preference"
+],
+[
 "jp.co.airfront.android.a2chMate",
 "Haiagaru",
 "Haiagaru \u5e83\u544a\u3060\u3051\u306e\u8d85\u8efd\u91cf\u69cb\u6210\uff08\u691c\u8a3c\u7528\uff09"
@@ -31561,6 +32306,16 @@
 ],
 [
 "jp.co.yahoo.android.apps.transit",
+"Ayufa",
+"\u30d7\u30ed\u30e2\u30fc\u30b7\u30e7\u30f3\u3092\u975e\u8868\u793a"
+],
+[
+"jp.co.yahoo.android.apps.transit",
+"Ayufa",
+"\u5e83\u544a\u3092\u975e\u8868\u793a"
+],
+[
+"jp.co.yahoo.android.apps.transit",
 "MohuttTT",
 "App language selector + English UI (experimental)"
 ],
@@ -31598,6 +32353,21 @@
 "jp.futabanet.gaugau.app",
 "Kdroidwin",
 "GauGau privacy controls and favorites transfer"
+],
+[
+"jp.gocro.smartnews.android",
+"Haukist",
+"Direct article share URL"
+],
+[
+"jp.gocro.smartnews.android",
+"Haukist",
+"Disable ads and trackers"
+],
+[
+"jp.gocro.smartnews.android",
+"Haukist",
+"Popup share menu"
 ],
 [
 "jp.hamitv.hamiand1",
@@ -32201,8 +32971,18 @@
 ],
 [
 "ml.docilealligator.infinityforreddit.plus",
+"Patcheddit",
+"Log exceptions"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
 "Pengusto",
 "Configure custom OAuth for Infinity+"
+],
+[
+"ml.docilealligator.infinityforreddit.plus2",
+"Patcheddit",
+"Log exceptions"
 ],
 [
 "ml.docilealligator.infinityforreddit.plus2",
@@ -32213,6 +32993,56 @@
 "ml.docilealligator.infinityforreddit.plus2",
 "Patcheddit",
 "Spoof client"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"GmsCore support"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"Hide donate button"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"Route traffic through a proxy"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"mnn.Android",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "mobi.charmer.magovideo",
@@ -32360,6 +33190,31 @@
 "Unlock VIP features"
 ],
 [
+"net.easyconn.carman.wws",
+"Kagecarbit",
+"Disable tracking and analytics (Experimental)"
+],
+[
+"net.easyconn.carman.wws",
+"Kagecarbit",
+"Enable browser"
+],
+[
+"net.easyconn.carman.wws",
+"Kagecarbit",
+"GmsCore support"
+],
+[
+"net.easyconn.carman.wws",
+"Kagecarbit",
+"Unlock VIP features"
+],
+[
+"net.easypark.android",
+"JohnInNL",
+"Allow custom Android Auto hosts"
+],
+[
 "net.gtvbox.videoplayer",
 "Tikkamasalla",
 "Addon subtitles in subtitle menu (Vimu)"
@@ -32463,6 +33318,11 @@
 "net.mediaarea.mediainfo",
 "Dieroboter",
 "Unlock premium"
+],
+[
+"net.mm2d.android.orientationfaker",
+"Sabrina-Moonlight",
+"Disable Ads"
 ],
 [
 "net.mobigame.zombietsunami",
@@ -33416,6 +34276,11 @@
 ],
 [
 "o.o.joey",
+"Patcheddit",
+"Log exceptions"
+],
+[
+"o.o.joey",
 "ZoomSass",
 "Backup and restore"
 ],
@@ -33523,6 +34388,31 @@
 "org.cris.aikyam",
 "VipinVIP",
 "Monochrome icon support"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel",
+"Hide promo banners"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel",
+"Skip ads"
 ],
 [
 "org.cygnusx1.continuum",
@@ -33748,6 +34638,66 @@
 "org.mozilla.focus",
 "Heval",
 "Hide promotional prompts"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Fix media connection crash"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Hide Waze bar"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Hide donate buttons"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Opt out of data sale & sharing"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Route traffic through a proxy"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "org.parcello",
@@ -35775,6 +36725,11 @@
 "Fix loading more comments"
 ],
 [
+"reddit.news",
+"Patcheddit",
+"Log exceptions"
+],
+[
 "ridmik.keyboard",
 "Hxreborn",
 "Remove ads"
@@ -37438,6 +38393,11 @@
 "wsj.reader_sp",
 "Semicoloncolonel",
 "Hide marketing pop-ups"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel",
+"Hide prediction markets"
 ],
 [
 "wsj.reader_sp",
