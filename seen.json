@@ -1270,6 +1270,11 @@
 "libplacebo HDR pipeline (4XVR)"
 ],
 [
+"co.beeline",
+"Spooky",
+"Disable Beeline telemetry"
+],
+[
 "co.feeld",
 "Kirby1997",
 "Block tracking hosts (okhttp)"
@@ -2743,6 +2748,11 @@
 "com.apple.android.music",
 "Andersonlucasg3-Glitch",
 "Apple Music DiLink support"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3-Glitch",
+"Apple Music DiLink web assets"
 ],
 [
 "com.apple.android.music",
@@ -5038,6 +5048,11 @@
 "com.dealseekorg.dealseek",
 "Semicoloncolonel",
 "Hide device identifiers"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel",
+"Hide pop-ups"
 ],
 [
 "com.dealseekorg.dealseek",
@@ -8242,6 +8257,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Customize message actions"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Fix shared videos with xHE-AAC sound"
 ],
 [
@@ -8548,6 +8568,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Send videos without re-encoding"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Show People tab"
 ],
 [
 "com.facebook.orca",
@@ -10557,6 +10582,11 @@
 [
 "com.google.android.apps.youtube.unplugged",
 "Semicoloncolonel",
+"Fix picture-in-picture"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel",
 "GmsCore support"
 ],
 [
@@ -10578,6 +10608,11 @@
 "com.google.android.apps.youtube.unplugged",
 "Semicoloncolonel",
 "Skip ads"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel",
+"Start at high quality"
 ],
 [
 "com.google.android.apps.youtube.vr.oculus",
@@ -10918,6 +10953,21 @@
 "com.google.android.inputmethod.latin",
 "JacksonJones2003 Immersive",
 "Translucent Bottom Bar"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Change package name"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Custom branding"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Parakeet voice typing"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -12253,6 +12303,11 @@
 "com.instagram.android",
 "Aic0d3r",
 "Ghost mode"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Hidden Home in Back history"
 ],
 [
 "com.instagram.android",
@@ -14822,6 +14877,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "RashKash103",
+"Lock an account with a PIN"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
 "Make an address in a post tappable"
 ],
 [
@@ -15192,6 +15252,16 @@
 [
 "com.linkedin.android",
 "Heyymichii",
+"Bottom bar style"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
+"Copy post text"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
 "Disable double-tap like"
 ],
 [
@@ -15232,6 +15302,11 @@
 [
 "com.linkedin.android",
 "Heyymichii",
+"Icon-only post actions"
+],
+[
+"com.linkedin.android",
+"Heyymichii",
 "Material You"
 ],
 [
@@ -15253,6 +15328,11 @@
 "com.linkedin.android",
 "Heyymichii",
 "Sanitize share links"
+],
+[
+"com.linkedin.android",
+"Loki",
+"AMOLED black bars"
 ],
 [
 "com.linkedin.android",
@@ -15298,6 +15378,11 @@
 "com.linkedin.android",
 "Loki",
 "Hide ads"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Hide bottom tabs"
 ],
 [
 "com.linkedin.android",
@@ -17235,6 +17320,11 @@
 "Enable non-Nothing OS ROM support"
 ],
 [
+"com.nothing.launcher",
+"Bearinmind",
+"Enable non-Nothing OS ROM support"
+],
+[
 "com.nothing.soundrecorder",
 "Bearinmind",
 "Enable non-Nothing OS ROM support"
@@ -17967,6 +18057,11 @@
 [
 "com.patreon.android",
 "Hxreborn",
+"Hide search suggestions"
+],
+[
+"com.patreon.android",
+"Hxreborn",
 "Hide upgrade promotions"
 ],
 [
@@ -18212,12 +18307,22 @@
 [
 "com.pinterest",
 "Browzomje",
+"GmsCore support for Pinterest"
+],
+[
+"com.pinterest",
+"Browzomje",
 "Hide save for later tooltip"
 ],
 [
 "com.pinterest",
 "Browzomje",
 "Keep Home feed"
+],
+[
+"com.pinterest",
+"Browzomje",
+"Repair Firebase registration"
 ],
 [
 "com.pinterest",
@@ -18947,7 +19052,32 @@
 [
 "com.reddit.frontpage",
 "Bryceaspringfield",
+"Fix search media taps"
+],
+[
+"com.reddit.frontpage",
+"Bryceaspringfield",
 "Hide keyword content"
+],
+[
+"com.reddit.frontpage",
+"Bryceaspringfield",
+"Morphe branding"
+],
+[
+"com.reddit.frontpage",
+"Bryceaspringfield",
+"Say subreddits"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Block AutoMod comments"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Content filters"
 ],
 [
 "com.reddit.frontpage",
@@ -20410,6 +20540,11 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.sec.android.app.launcher",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
 "com.sec.android.app.music",
 "Bearinmind",
 "Enable non-One UI ROM support"
@@ -20423,6 +20558,11 @@
 "com.sec.android.app.popupcalculator",
 "Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.sec.android.app.shealth",
+"Bearinmind",
+"Health sharing on non-Samsung phones"
 ],
 [
 "com.sec.android.app.shealth",
@@ -24367,6 +24507,11 @@
 [
 "com.tumblr",
 "HushTumblr",
+"Hide Featured posts"
+],
+[
+"com.tumblr",
+"HushTumblr",
 "Hide Tumblr TV"
 ],
 [
@@ -25443,6 +25588,16 @@
 "com.twitter.android",
 "Serajr",
 "Remove Post Reply Container (Experimental)"
+],
+[
+"com.twitter.android",
+"Serajr",
+"Remove Post Reply Content (Keep Layout) - Experimental"
+],
+[
+"com.twitter.android",
+"Serajr",
+"Shorten Bottom Haze Gradient - Experimental"
 ],
 [
 "com.twitter.android",
@@ -30842,6 +30997,11 @@
 [
 "gov.whitehouse.app",
 "Semicoloncolonel",
+"Skip launch video"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel",
 "Spoof carrier"
 ],
 [
@@ -31667,6 +31827,11 @@
 [
 "jp.naver.line.android",
 "Uta-a",
+"\u30b9\u30af\u30ed\u30fc\u30eb\u30d7\u30ec\u30d3\u30e5\u30fc\u306e Premium \u6848\u5185"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
 "\u30c1\u30e3\u30c3\u30c8\u5165\u529b\u6b04\u306e Agent i"
 ],
 [
@@ -31688,6 +31853,11 @@
 "jp.naver.line.android",
 "Uta-a",
 "\u30c8\u30fc\u30af\u4e00\u89a7\u4e0a\u90e8\u306e\u30a2\u30a4\u30b3\u30f3"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u30d7\u30ec\u30d3\u30e5\u30fc\u306e\u30b9\u30af\u30ed\u30fc\u30eb"
 ],
 [
 "jp.naver.line.android",
@@ -31803,6 +31973,11 @@
 "jp.naver.line.android",
 "Uta-a",
 "\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u8aad\u3080\u306e\u95b2\u89a7\u30bb\u30c3\u30b7\u30e7\u30f3"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u8aad\u3080\uff08\u30b9\u30af\u30ed\u30fc\u30eb\u30d7\u30ec\u30d3\u30e5\u30fc\uff09"
 ],
 [
 "jp.naver.line.android",
@@ -31928,6 +32103,16 @@
 "mark.via.gp",
 "Heval",
 "Disable telemetry"
+],
+[
+"me.aap.fermatamod.dear.google.why.bingo2.rec",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"me.aap.fermatamod.dear.google.why.bingo2.rec",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "me.ash.reader",
