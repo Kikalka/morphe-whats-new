@@ -147,6 +147,11 @@
 [
 "app.myspoti.stable",
 "JohnInNL",
+"Android Auto Up next"
+],
+[
+"app.myspoti.stable",
+"JohnInNL",
 "Custom branding"
 ],
 [
@@ -228,6 +233,11 @@
 "app.seb3thehacker.gearslip",
 "JohnInNL",
 "Keep music player entries"
+],
+[
+"app.sevengrid",
+"AsrOfficialDev",
+"SevenGrid Pro"
 ],
 [
 "app.simple.inure.play",
@@ -803,6 +813,11 @@
 "bitpit.launcher",
 "Heval",
 "Enable Premium"
+],
+[
+"bitpit.launcher",
+"Heval",
+"Fix home screen numbers tile"
 ],
 [
 "bitpit.launcher",
@@ -1900,6 +1915,51 @@
 "Spoof signature"
 ],
 [
+"com.alibaba.aliexpresshd",
+"JohnInNL",
+"Disable analytics"
+],
+[
+"com.alibaba.aliexpresshd",
+"JohnInNL",
+"Disable update prompts"
+],
+[
+"com.alibaba.aliexpresshd",
+"JohnInNL",
+"Enable image saving"
+],
+[
+"com.alibaba.aliexpresshd",
+"JohnInNL",
+"Fix dark mode"
+],
+[
+"com.alibaba.aliexpresshd",
+"JohnInNL",
+"GmsCore support"
+],
+[
+"com.alibaba.aliexpresshd",
+"JohnInNL",
+"Remove promotional popups"
+],
+[
+"com.alibaba.aliexpresshd",
+"JohnInNL",
+"Remove sponsored items"
+],
+[
+"com.alibaba.aliexpresshd",
+"JohnInNL",
+"Skip splash promotions"
+],
+[
+"com.alibaba.aliexpresshd",
+"JohnInNL",
+"Spoof signature"
+],
+[
 "com.alightcreative.motion",
 "Anxy",
 "App text fix"
@@ -2430,6 +2490,11 @@
 "Log exceptions"
 ],
 [
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"RIF Morphe settings"
+],
+[
 "com.androholic.wallpapersdepthpix",
 "Hxreborn",
 "GmsCore support"
@@ -2818,6 +2883,41 @@
 "com.apple.android.music",
 "Andersonlucasg3-Glitch",
 "Apple Music DiLink web assets"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3-Glitch",
+"DiLink: TLS trust"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3-Glitch",
+"DiLink: manifest"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3-Glitch",
+"DiLink: support"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3-Glitch",
+"DiLink: web assets"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3-Glitch",
+"TV: D-pad focus"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3-Glitch",
+"TV: manifest"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3-Glitch",
+"TV: player expand focus"
 ],
 [
 "com.apple.android.music",
@@ -3400,6 +3500,16 @@
 "Inbox order option"
 ],
 [
+"com.benimaru.official",
+"Christianzz4603",
+"Bypass unofficial APK check"
+],
+[
+"com.benimaru.official",
+"Christianzz4603",
+"Unlock ad-gated settings"
+],
+[
 "com.bereal.ft",
 "Hxreborn",
 "Back up memories"
@@ -3776,6 +3886,31 @@
 ],
 [
 "com.bol.shop",
+"JohnInNL",
+"Disable Play license check"
+],
+[
+"com.bol.shop",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.bol.shop",
+"JohnInNL",
+"Hide consent screens"
+],
+[
+"com.bol.shop",
+"JohnInNL",
+"Hide promotional content"
+],
+[
+"com.bol.shop",
+"JohnInNL",
+"Hide sponsored content"
+],
+[
+"com.bol.shop",
 "Wouter075",
 "Disable Play license check"
 ],
@@ -3855,6 +3990,11 @@
 "Remove unnecessary camera permission request"
 ],
 [
+"com.bpmhealth.boostcamp",
+"CallMeBeyonder",
+"Unlock Premium"
+],
+[
 "com.brave.browser",
 "Brave",
 "Brave AMOLED theme"
@@ -3907,12 +4047,42 @@
 [
 "com.brave.browser",
 "Ineednotitle",
+"Block Telemetry"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Brave Origin"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Clean New Tab"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Close Tab In Group Order"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Custom Brave theme"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
 "Preserve last active tab"
 ],
 [
 "com.brave.browser",
 "Ineednotitle",
 "Remove Extra Languages"
+],
+[
+"com.brave.browser",
+"Ineednotitle",
+"Remove Unused AI & VPN"
 ],
 [
 "com.brave.browser",
@@ -7127,6 +7297,11 @@
 [
 "com.dubox.drive",
 "Hxreborn",
+"Fix transfers over VPN"
+],
+[
+"com.dubox.drive",
+"Hxreborn",
 "Hide ads"
 ],
 [
@@ -8072,6 +8247,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Hide profile pictures"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Hide read receipts"
 ],
 [
@@ -8113,6 +8293,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Hide sponsored stories"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Hide story rings"
 ],
 [
 "com.facebook.katana",
@@ -10197,6 +10382,11 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Review counts in navigation search"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Sign-in toast"
 ],
 [
@@ -11066,6 +11256,51 @@
 ],
 [
 "com.google.android.gm",
+"Bearinmind",
+"Add microG-RE support"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Black theme"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Block remote images"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Hide AI"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Hide ads"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Hide upsells"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Remove telemetry"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Strip link trackers"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Turn off Smart Compose"
+],
+[
+"com.google.android.gm",
 "Mlkem",
 "Gmail account visibility"
 ],
@@ -11302,12 +11537,42 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Clipboard Enhancements"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Cursor trackpad mode"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Custom branding"
 ],
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Incognito Mode Toggle"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Parakeet voice typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Simple Calculator"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Toolbar Editing Buttons"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Web Clipboard"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -12163,6 +12428,16 @@
 "com.hitrolab.audioeditor",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.ht.news",
+"Ineednotitle",
+"Hindustan Times: Block analytics & tracking SDKs"
+],
+[
+"com.htmedia.mint",
+"Ineednotitle",
+"Mint: Block analytics & tracking SDKs"
 ],
 [
 "com.huami.watch.hmwatchmanager",
@@ -13168,6 +13443,11 @@
 "com.instagram.android",
 "HushGram",
 "Install next to Instagram"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Jump a profile's posts to a date"
 ],
 [
 "com.instagram.android",
@@ -15156,6 +15436,11 @@
 ],
 [
 "com.laurencedawson.reddit_sync",
+"Mix",
+"Use Reddit media uploads"
+],
+[
+"com.laurencedawson.reddit_sync",
 "Patcheddit",
 "Fix Reddit API lookups"
 ],
@@ -15168,6 +15453,11 @@
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Sync Morphe settings"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -15868,6 +16158,11 @@
 "com.liuzh.deviceinfo",
 "MightyMich",
 "Unlock Pro Features"
+],
+[
+"com.live.sktechtv",
+"GinDoki19",
+"Hide playback controls at stream open"
 ],
 [
 "com.live.sktechtv",
@@ -16822,6 +17117,11 @@
 [
 "com.mobilefootie.wc2010",
 "Heval",
+"Show FotMob+ logo"
+],
+[
+"com.mobilefootie.wc2010",
+"Heval",
 "Slower live refresh"
 ],
 [
@@ -17388,6 +17688,11 @@
 "com.nekki.shadowfight",
 "Legendsciber",
 "Shadow Fight 2 Show Cheats UI"
+],
+[
+"com.neonbhoot.behisabi",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.netease.cloudmusic",
@@ -18057,6 +18362,11 @@
 [
 "com.onelouder.baconreader",
 "JoanComasFdz",
+"Account colors"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
 "Disable feedback popup"
 ],
 [
@@ -18213,6 +18523,11 @@
 "com.onelouder.baconreader",
 "JoanComasFdz",
 "Video autoplay in detail view"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
+"BaconReader Morphe settings"
 ],
 [
 "com.onelouder.baconreader",
@@ -19230,6 +19545,11 @@
 "Saiyan007"
 ],
 [
+"com.piyush.pie",
+"AsrOfficialDev",
+"Sensu Pro"
+],
+[
 "com.playdigious.slimerancher",
 "Steeepaaaan",
 "Neutralize PDALIFE JNI_OnLoad (universal)"
@@ -19247,12 +19567,22 @@
 [
 "com.playfy.tv",
 "GinDoki19",
+"Hide playback controls at stream open"
+],
+[
+"com.playfy.tv",
+"GinDoki19",
 "Remove ads, telemetry & restrictions"
 ],
 [
 "com.playrix.gardenscapes",
 "Dudek",
 "Repair negative stars once"
+],
+[
+"com.playz.tv",
+"GinDoki19",
+"Hide playback controls at stream open"
 ],
 [
 "com.playz.tv",
@@ -19318,6 +19648,11 @@
 "com.poe.android",
 "Hxreborn",
 "Spoof signature"
+],
+[
+"com.pro.cricztv",
+"GinDoki19",
+"Hide playback controls at stream open"
 ],
 [
 "com.pro.cricztv",
@@ -19958,6 +20293,11 @@
 "com.rosteam.gpsemulator",
 "Mlkem",
 "Enable GPS Emulator Pro"
+],
+[
+"com.rp.hypertrophy",
+"CallMeBeyonder",
+"Unlock Premium"
 ],
 [
 "com.rp.hypertrophy",
@@ -20756,6 +21096,21 @@
 ],
 [
 "com.samsung.android.app.notes",
+"Bearinmind",
+"Import and export notes"
+],
+[
+"com.samsung.android.app.notes",
+"Bearinmind",
+"Remove Google services"
+],
+[
+"com.samsung.android.app.notes",
+"Bearinmind",
+"Samsung account sign-in"
+],
+[
+"com.samsung.android.app.notes",
 "Hxdes08",
 "Export PDF vectorized menu"
 ],
@@ -20835,6 +21190,16 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.samsung.android.dialer",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
+"com.samsung.android.email.provider",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
 "com.samsung.android.game.gamehome",
 "RatataBananana-Bit",
 "Hide Events button"
@@ -20873,6 +21238,11 @@
 "com.samsung.android.game.gamehome",
 "RatataBananana-Bit",
 "Use Android game list"
+],
+[
+"com.samsung.android.goodlock",
+"Bearinmind",
+"Enable non-One UI ROM support"
 ],
 [
 "com.samsung.android.goodlock",
@@ -20917,6 +21287,11 @@
 [
 "com.samsung.android.honeyboard",
 "Bearinmind",
+"Always use GIPHY"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
 "Change app name"
 ],
 [
@@ -20932,12 +21307,22 @@
 [
 "com.samsung.android.honeyboard",
 "Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
 "No GIF tracking"
 ],
 [
 "com.samsung.android.honeyboard",
 "Bearinmind",
 "Remove internet permission"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Show GIFs in every region"
 ],
 [
 "com.samsung.android.honeyboard",
@@ -21168,6 +21553,11 @@
 "com.sec.android.gallery3d",
 "Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.sec.android.gallery3d",
+"Bearinmind",
+"Extract text"
 ],
 [
 "com.sec.android.gallery3d",
@@ -21600,6 +21990,16 @@
 "Block Speak-to-Chat gesture"
 ],
 [
+"com.soosu.notialarm",
+"Heval",
+"Disable license check"
+],
+[
+"com.soosu.notialarm",
+"Heval",
+"Enable Premium"
+],
+[
 "com.soulbreakers.mymoveset",
 "Hxreborn",
 "Disable tracking"
@@ -21763,6 +22163,16 @@
 "com.spotify.music",
 "Pablobaro",
 "Block popup ads"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Change package name"
+],
+[
+"com.spotify.music",
+"Pablobaro",
+"Diagnose Spotify client"
 ],
 [
 "com.spotify.music",
@@ -24510,6 +24920,26 @@
 "Skip local quest waits"
 ],
 [
+"com.tippingcanoe.pepper",
+"Daqot-The-real-one",
+"GmsCore support"
+],
+[
+"com.tippingcanoe.pepper",
+"Daqot-The-real-one",
+"Remove ads"
+],
+[
+"com.tippingcanoe.pepper",
+"Daqot-The-real-one",
+"Sanitize deal links"
+],
+[
+"com.tippingcanoe.pepper",
+"Daqot-The-real-one",
+"Sanitize sharing links"
+],
+[
 "com.tippingcanoe.peppernl",
 "Daqot-The-real-one",
 "GmsCore support"
@@ -24997,6 +25427,11 @@
 [
 "com.truecaller",
 "Heval",
+"Hide poor network warning"
+],
+[
+"com.truecaller",
+"Heval",
 "Hide profile menu items"
 ],
 [
@@ -25008,6 +25443,11 @@
 "com.truecaller",
 "Heval",
 "Patch settings"
+],
+[
+"com.truecaller",
+"Heval",
+"Privacy defaults"
 ],
 [
 "com.truecaller",
@@ -25028,6 +25468,11 @@
 "com.truecaller",
 "Heval",
 "Swap call answer and decline buttons"
+],
+[
+"com.truecaller",
+"Heval",
+"Turn off Ad Campaign Analytics"
 ],
 [
 "com.truecaller",
@@ -25358,6 +25803,11 @@
 "com.tumblr",
 "HushTumblr",
 "Reveal allowed mature content"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Sanitize sharing links"
 ],
 [
 "com.tumblr",
@@ -27072,6 +27522,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Stock quad composition"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Stock quad composition (experimental)"
 ],
 [
@@ -27222,6 +27677,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "XR Porting Hub",
+"Stock quad composition"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
 "Stock quad composition (experimental)"
 ],
 [
@@ -27282,7 +27742,27 @@
 [
 "com.viber.voip",
 "Hxreborn",
+"Disable AI features"
+],
+[
+"com.viber.voip",
+"Hxreborn",
 "Disable analytics"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Disable update prompts"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Enable Viber Plus features"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Filter business chats"
 ],
 [
 "com.viber.voip",
@@ -27297,6 +27777,11 @@
 [
 "com.viber.voip",
 "Hxreborn",
+"Hide Viber Out and channel promotions"
+],
+[
+"com.viber.voip",
+"Hxreborn",
 "Hide ads"
 ],
 [
@@ -27307,7 +27792,52 @@
 [
 "com.viber.voip",
 "Hxreborn",
+"Link as secondary device"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Raise folder limit"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Remove chat payment actions"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Remove list gaps"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Remove online status limit"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Remove typing privacy banner"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Save disappearing media"
+],
+[
+"com.viber.voip",
+"Hxreborn",
 "Spoof signature"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Start folder"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Unfiled chats"
 ],
 [
 "com.videoedit.gocut",
@@ -28062,12 +28592,22 @@
 [
 "com.waze",
 "Bearinmind",
+"Hide Work shortcut"
+],
+[
+"com.waze",
+"Bearinmind",
 "Hide ads"
 ],
 [
 "com.waze",
 "Bearinmind",
 "Map skin"
+],
+[
+"com.waze",
+"Bearinmind",
+"Map theme"
 ],
 [
 "com.waze",
@@ -31330,6 +31870,21 @@
 "Enable Premium"
 ],
 [
+"dumbbellworkout.dumbbellapp.homeworkout",
+"byehi98",
+"Firebase Cert Spoof"
+],
+[
+"dumbbellworkout.dumbbellapp.homeworkout",
+"byehi98",
+"Remove Ads"
+],
+[
+"dumbbellworkout.dumbbellapp.homeworkout",
+"byehi98",
+"Signature Spoof"
+],
+[
 "easy.launcher",
 "Heval",
 "Disable ads"
@@ -31432,6 +31987,16 @@
 [
 "eu.livesport.FlashScore_com",
 "Heval",
+"Animation speed"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Block marketing notifications"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
 "Block marketing popups"
 ],
 [
@@ -31457,7 +32022,32 @@
 [
 "eu.livesport.FlashScore_com",
 "Heval",
+"Force edge-to-edge"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
 "Hide betting content"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Patch settings"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Spoof signature"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Use system font"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Use system font (styles)"
 ],
 [
 "fi.twomenandadog.zombiecatchers",
@@ -31483,6 +32073,11 @@
 "fi.twomenandadog.zombiecatchers",
 "Chiggi",
 "Unlimited coins and plutonium"
+],
+[
+"flar2.devcheck",
+"Hxreborn",
+"AMOLED dark theme"
 ],
 [
 "flar2.devcheck",
@@ -31961,6 +32556,26 @@
 ],
 [
 "io.gh.reisxd.tizentube.cobalt",
+"MOD-PROD",
+"Change app name"
+],
+[
+"io.gh.reisxd.tizentube.cobalt",
+"MOD-PROD",
+"Clone app"
+],
+[
+"io.gh.reisxd.tizentube.cobalt",
+"MOD-PROD",
+"Inject Adblocker Userscript"
+],
+[
+"io.gh.reisxd.tizentube.cobalt",
+"MOD-PROD",
+"MOD Icon and Banner"
+],
+[
+"io.gh.reisxd.tizentube.cobalt",
 "Ysamjo",
 "MOD-Kennzeichnung f\u00fcr Icon und Banner"
 ],
@@ -32123,6 +32738,11 @@
 "io.syncapps.lemmy_sync",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"io.syncapps.lemmy_sync",
+"Patcheddit",
+"Sync for Lemmy Morphe settings"
 ],
 [
 "io.unorderly.structured",
@@ -32855,6 +33475,11 @@
 "Unlock Pro and skip onboarding"
 ],
 [
+"kgs.com.addmusictovideos",
+"Heval",
+"Enable Premium"
+],
+[
 "kr.co.nowcom.mobile.afreeca",
 "Ample",
 "Remove Ad Balloon banner"
@@ -32972,12 +33597,22 @@
 [
 "ml.docilealligator.infinityforreddit.plus",
 "Patcheddit",
+"Infinity Morphe settings"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
+"Patcheddit",
 "Log exceptions"
 ],
 [
 "ml.docilealligator.infinityforreddit.plus",
 "Pengusto",
 "Configure custom OAuth for Infinity+"
+],
+[
+"ml.docilealligator.infinityforreddit.plus2",
+"Patcheddit",
+"Infinity Morphe settings"
 ],
 [
 "ml.docilealligator.infinityforreddit.plus2",
@@ -34277,6 +34912,11 @@
 [
 "o.o.joey",
 "Patcheddit",
+"Joey Morphe settings"
+],
+[
+"o.o.joey",
+"Patcheddit",
 "Log exceptions"
 ],
 [
@@ -34638,6 +35278,11 @@
 "org.mozilla.focus",
 "Heval",
 "Hide promotional prompts"
+],
+[
+"org.mozilla.focus",
+"Heval",
+"Move address bar to the bottom"
 ],
 [
 "org.npr.android.news",
@@ -36728,6 +37373,36 @@
 "reddit.news",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"reddit.news",
+"Patcheddit",
+"Relay Morphe settings"
+],
+[
+"ricardonemlopot.nemlopot",
+"Smart123s",
+"ARM64 support"
+],
+[
+"ricardonemlopot.nemlopot",
+"Smart123s",
+"Balance editor"
+],
+[
+"ricardonemlopot.nemlopot",
+"Smart123s",
+"Immersive fullscreen"
+],
+[
+"ricardonemlopot.nemlopot",
+"Smart123s",
+"Landscape rotation"
+],
+[
+"ricardonemlopot.nemlopot",
+"Smart123s",
+"Unlock Bora Bora"
 ],
 [
 "ridmik.keyboard",
