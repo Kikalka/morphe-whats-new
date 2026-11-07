@@ -1947,6 +1947,11 @@
 [
 "com.alibaba.aliexpresshd",
 "JohnInNL",
+"Remove promotions and games"
+],
+[
+"com.alibaba.aliexpresshd",
+"JohnInNL",
 "Remove sponsored items"
 ],
 [
@@ -2535,6 +2540,11 @@
 "Separate Chrome Morphe installation"
 ],
 [
+"com.android.launcher",
+"Bearinmind",
+"Enable non-ColorOS ROM support"
+],
+[
 "com.android.soundrecorder",
 "Bearinmind",
 "Enable non-HyperOS ROM support"
@@ -2866,6 +2876,31 @@
 ],
 [
 "com.apple.android.music",
+"Andersonlucasg3",
+"DiLink: TLS trust"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3",
+"DiLink: hide engine launcher"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3",
+"DiLink: manifest"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3",
+"DiLink: support"
+],
+[
+"com.apple.android.music",
+"Andersonlucasg3",
+"DiLink: web assets"
+],
+[
+"com.apple.android.music",
 "Andersonlucasg3-Glitch",
 "Apple Music DiLink TLS trust"
 ],
@@ -2918,6 +2953,11 @@
 "com.apple.android.music",
 "Andersonlucasg3-Glitch",
 "TV: player expand focus"
+],
+[
+"com.apple.android.music",
+"JohnInNL",
+"Allow custom Android Auto hosts"
 ],
 [
 "com.apple.android.music",
@@ -3113,6 +3153,11 @@
 "com.aspiro.tidal",
 "FinzoYFunzo",
 "Add Rate Your Music search"
+],
+[
+"com.aspiro.tidal",
+"JohnInNL",
+"Allow custom Android Auto hosts"
 ],
 [
 "com.astrapaging.vff",
@@ -4991,6 +5036,131 @@
 ],
 [
 "com.chess",
+"Salmanbappi",
+"AMOLED black"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Accent color"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Arcade animations"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Arrows in games"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Arrows in reviews"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Board colors"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Clone Chess.com"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Customize Home screen"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Customize bottom bar"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Find the computer on the network"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Game Review on your computer"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Global Crash Handler"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Great and Brilliant moves analysis"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Hide Premium-only content"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Lichess Puzzles"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Limits as toasts"
+],
+[
+"com.chess",
+"Salmanbappi",
+"No ads"
+],
+[
+"com.chess",
+"Salmanbappi",
+"No rating prompts"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Quwi's Patches settings"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Stockfish analysis"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Time controls under a minute"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Unlimited Game Review"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Unlimited Play Coach"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Unlock Premium content"
+],
+[
+"com.chess",
+"Salmanbappi",
+"Unlock all bots"
+],
+[
+"com.chess",
 "VenusIsJaded Chess",
 "Ad-Free"
 ],
@@ -5265,6 +5435,16 @@
 "Remove Tracking"
 ],
 [
+"com.crexify.tv",
+"GinDoki19",
+"Hide playback controls at stream open"
+],
+[
+"com.crexify.tv",
+"GinDoki19",
+"Remove configured startup and banner ads"
+],
+[
 "com.cricfytv.sports",
 "CallMeBeyonder",
 "Bypass integrity check"
@@ -5327,7 +5507,22 @@
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
+"Allow screenshots"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
 "Disable telemetry"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Picture-in-Picture"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Playback speed"
 ],
 [
 "com.crunchyroll.crunchyroid",
@@ -5413,6 +5608,46 @@
 "com.darinsoft.vimo",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.dataon.sunfishgo",
+"Ravhirizaldi",
+"Hide developer options and emulator"
+],
+[
+"com.dataon.sunfishgo",
+"Ravhirizaldi",
+"Hide fake GPS apps"
+],
+[
+"com.dataon.sunfishgo",
+"Ravhirizaldi",
+"Hide root"
+],
+[
+"com.dataon.sunfishgo",
+"Ravhirizaldi",
+"Keep the saved point in the app"
+],
+[
+"com.dataon.sunfishgo",
+"Ravhirizaldi",
+"Morphe Settings screen"
+],
+[
+"com.dataon.sunfishgo",
+"Ravhirizaldi",
+"Show Morphe Settings in the menu"
+],
+[
+"com.dataon.sunfishgo",
+"Ravhirizaldi",
+"Skip signature check"
+],
+[
+"com.dataon.sunfishgo",
+"Ravhirizaldi",
+"Use your own location"
 ],
 [
 "com.dealseekorg.dealseek",
@@ -7328,6 +7563,11 @@
 "com.dubox.drive",
 "Hxreborn",
 "Remove recent panel"
+],
+[
+"com.dubox.drive",
+"Hxreborn",
+"Show backup count"
 ],
 [
 "com.dubox.drive",
@@ -9757,7 +9997,22 @@
 [
 "com.github.android",
 "Amfakh",
+"Glass navigation bar"
+],
+[
+"com.github.android",
+"Amfakh",
 "Material You"
+],
+[
+"com.github.android",
+"Amfakh",
+"Navigation bar"
+],
+[
+"com.github.android",
+"Amfakh",
+"Navigation bar on the right"
 ],
 [
 "com.github.android",
@@ -10327,6 +10582,11 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Media panel can be closed"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Network location fallback"
 ],
 [
@@ -10657,6 +10917,11 @@
 [
 "com.google.android.apps.maps",
 "JohnInNL",
+"Use the system voice for navigation"
+],
+[
+"com.google.android.apps.maps",
+"JohnInNL",
 "Waze alerts"
 ],
 [
@@ -10843,6 +11108,11 @@
 "com.google.android.apps.youtube.music",
 "Bartlomiejfornalczyk",
 "Allow external media browser launch"
+],
+[
+"com.google.android.apps.youtube.music",
+"Dyskal",
+"Discord rich presence"
 ],
 [
 "com.google.android.apps.youtube.music",
@@ -11272,6 +11542,11 @@
 [
 "com.google.android.gm",
 "Bearinmind",
+"Change app name"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
 "Hide AI"
 ],
 [
@@ -11288,6 +11563,11 @@
 "com.google.android.gm",
 "Bearinmind",
 "Remove telemetry"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Skip Play Protect screen"
 ],
 [
 "com.google.android.gm",
@@ -12370,6 +12650,11 @@
 "Unlock Pro"
 ],
 [
+"com.hihonor.android.launcher",
+"Bearinmind",
+"Enable non-MagicOS ROM support"
+],
+[
 "com.hihonor.android.totemweather",
 "Bearinmind",
 "Enable non-MagicOS ROM support"
@@ -12435,9 +12720,29 @@
 "Hindustan Times: Block analytics & tracking SDKs"
 ],
 [
+"com.ht.news",
+"Ineednotitle",
+"Hindustan Times: Disable video autoplay (ExoPlayer)"
+],
+[
+"com.ht.news",
+"Ineednotitle",
+"Hindustan Times: Prefer external browser over Custom Tabs"
+],
+[
 "com.htmedia.mint",
 "Ineednotitle",
 "Mint: Block analytics & tracking SDKs"
+],
+[
+"com.htmedia.mint",
+"Ineednotitle",
+"Mint: Disable video autoplay (ExoPlayer)"
+],
+[
+"com.htmedia.mint",
+"Ineednotitle",
+"Mint: Prefer external browser over Custom Tabs"
 ],
 [
 "com.huami.watch.hmwatchmanager",
@@ -13257,6 +13562,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide GIFs in comments"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide Instants"
 ],
 [
@@ -13782,6 +14092,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Swipe through a chat's photos and posts"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Swipe through a chat's reels"
 ],
 [
@@ -13922,6 +14237,11 @@
 [
 "com.instagram.android",
 "Piko",
+"Hide like buttons"
+],
+[
+"com.instagram.android",
+"Piko",
 "Hide save buttons"
 ],
 [
@@ -13943,6 +14263,11 @@
 "com.instagram.android",
 "Piko",
 "Mark as read after reply"
+],
+[
+"com.instagram.android",
+"Piko",
+"Resume Reels after scrolling"
 ],
 [
 "com.instagram.android",
@@ -15827,7 +16152,17 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Anonymous profile viewing"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Block tracking"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Copy text"
 ],
 [
 "com.linkedin.android",
@@ -15918,6 +16253,11 @@
 "com.linkedin.android",
 "Amfakh",
 "Sanitize share links"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Swipe between tabs"
 ],
 [
 "com.linkedin.android",
@@ -16127,7 +16467,72 @@
 [
 "com.linkedin.android",
 "XBadFellaX",
+"AMOLED black bars"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Anonymous profile viewing"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Block tracking"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Copy text"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
 "Customize navigation bar"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Disable double-tap like"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Download media"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Expand posts"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Feed filters"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Glass navigation bar"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"GmsCore support"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Hide Premium upsells"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Hide ads"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Hide bottom tabs"
 ],
 [
 "com.linkedin.android",
@@ -16148,6 +16553,71 @@
 "com.linkedin.android",
 "XBadFellaX",
 "Hide suggested and follow carousels"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Hide suggested posts"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Keep feed on reopen"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Material You"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Messaging"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"More tab"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Navigation bar"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Open links directly"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Post menu items"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Remove gaps and dividers"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Sanitize share links"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Swipe between feeds"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Swipe between tabs"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Tap to hide in viewers"
 ],
 [
 "com.liori.echogram",
@@ -17020,6 +17490,16 @@
 "Enable non-HyperOS ROM support"
 ],
 [
+"com.miui.notes",
+"Bearinmind",
+"Import MIUI backup"
+],
+[
+"com.miui.notes",
+"Bearinmind",
+"Import from Xiaomi Cloud"
+],
+[
 "com.miui.screenrecorder",
 "Bearinmind",
 "Enable non-HyperOS ROM support"
@@ -17138,6 +17618,11 @@
 "com.mobilefootie.wc2010",
 "Heval",
 "Use system font"
+],
+[
+"com.moh.nusukapp",
+"Plyrs1",
+"Bypass Integrity Check"
 ],
 [
 "com.mojang.minecraftpe",
@@ -18493,6 +18978,11 @@
 "com.onelouder.baconreader",
 "JoanComasFdz",
 "Search comments"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Select text"
 ],
 [
 "com.onelouder.baconreader",
@@ -21340,6 +21830,11 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.samsung.android.sidegesturepad",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
 "com.samsung.android.soundassistant",
 "Bearinmind",
 "Disable telemetry"
@@ -21433,6 +21928,26 @@
 "com.scannerradio",
 "Jacobs",
 "Telemetry Kill"
+],
+[
+"com.scoremarks.marks",
+"Hxreborn",
+"Fix edge-to-edge"
+],
+[
+"com.scoremarks.marks",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.scoremarks.marks",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.scoremarks.marks",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.scores365",
@@ -21990,6 +22505,11 @@
 "Block Speak-to-Chat gesture"
 ],
 [
+"com.sonyericsson.music",
+"Bearinmind",
+"Enable non-Xperia ROM support"
+],
+[
 "com.soosu.notialarm",
 "Heval",
 "Disable license check"
@@ -22138,6 +22658,111 @@
 "com.spotify.music",
 "Edoardo9708",
 "Spotify - Previous button diagnostics"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Android Auto Up next"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Android Auto support"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Block popup ads"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Change package name"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Disable ad breaks"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Fix third party launchers widgets"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Force play order"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Hide Premium tab"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Hide ad sections"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Hide download buttons"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Hide playlist ads"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Hide premium context-menu rows"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Hide premium settings sections"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Hide shuffle controls"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Hide video ads"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Hide video shelves (safe)"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Remove shuffle restriction"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Sanitize sharing links"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Show Premium in the account row"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Skip audio ads"
+],
+[
+"com.spotify.music",
+"JohnInNL",
+"Use the Premium plan icon"
 ],
 [
 "com.spotify.music",
@@ -24605,6 +25230,21 @@
 "Spoof carrier"
 ],
 [
+"com.themezy.theme.iconwidgets",
+"Sabrina-Moonlight",
+"Disable Pairip"
+],
+[
+"com.themezy.theme.iconwidgets",
+"Sabrina-Moonlight",
+"Hide Ads"
+],
+[
+"com.themezy.theme.iconwidgets",
+"Sabrina-Moonlight",
+"Unlock Local"
+],
+[
 "com.thesortdapp.sortd",
 "Hxreborn",
 "Enable guest sign-in"
@@ -25523,6 +26163,111 @@
 "com.truecaller",
 "RayBourn",
 "Remove Premium UI"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Disable AI"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Disable forced updates"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Disable update and review prompts"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Fix pictures shown as videos"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Hide Truth+"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Hide crypto and prediction markets"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Route traffic through a proxy"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Save videos"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Show poll results"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Show sensitive media"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.tsumii.trainschedule",
+"GahahaWang",
+"Expand search history"
+],
+[
+"com.tsumii.trainschedule",
+"GahahaWang",
+"Fix recent apps title"
+],
+[
+"com.tsumii.trainschedule",
+"GahahaWang",
+"Fix search history count"
+],
+[
+"com.tsumii.trainschedule",
+"GahahaWang",
+"Hide ads"
+],
+[
+"com.tsumii.trainschedule",
+"GahahaWang",
+"Hide promotions"
+],
+[
+"com.tsumii.trainschedule",
+"GahahaWang",
+"Hide review prompt"
+],
+[
+"com.tsumii.trainschedule",
+"GahahaWang",
+"Hide upgrade button"
+],
+[
+"com.tsumii.trainschedule",
+"GahahaWang",
+"Patch settings"
 ],
 [
 "com.tubitv",
@@ -27757,6 +28502,11 @@
 [
 "com.viber.voip",
 "Hxreborn",
+"Disappearing media privacy"
+],
+[
+"com.viber.voip",
+"Hxreborn",
 "Enable Viber Plus features"
 ],
 [
@@ -29167,6 +29917,11 @@
 [
 "com.waze",
 "JohnInNL",
+"Use the system voice for navigation"
+],
+[
+"com.waze",
+"JohnInNL",
 "YT Music Morphe in Waze"
 ],
 [
@@ -29288,6 +30043,11 @@
 "com.wbd.hbomax",
 "Semicoloncolonel",
 "Remove social sign-in"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel",
+"Remove social sign-in (phone)"
 ],
 [
 "com.wbd.hbomax",
@@ -31306,6 +32066,16 @@
 ],
 [
 "com.zing.zalo",
+"Mnhqngl",
+"Allow Zalo to see Photos (Zalo)"
+],
+[
+"com.zing.zalo",
+"Mnhqngl",
+"Change Photos picker package (Zalo)"
+],
+[
+"com.zing.zalo",
 "Nezumi-2711",
 "Chat heads instead of Android bubbles"
 ],
@@ -31695,6 +32465,11 @@
 "Enable Premium"
 ],
 [
+"deezer.android.app",
+"JohnInNL",
+"Allow custom Android Auto hosts"
+],
+[
 "defense.roguelike.cell.shoot.survivor",
 "Totto357",
 "Bypass Force Update"
@@ -31798,6 +32573,11 @@
 "dev.vodik7.tvquickactions",
 "6zev",
 "ADB server log"
+],
+[
+"dev.vodik7.tvquickactions",
+"6zev",
+"Initialize ADB server Looper"
 ],
 [
 "dev.vodik7.tvquickactions",
@@ -34045,6 +34825,11 @@
 "Unlock hidden feature flags"
 ],
 [
+"net.oneplus.launcher",
+"Bearinmind",
+"Enable non-OxygenOS ROM support"
+],
+[
 "net.oneplus.weather",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
@@ -34343,6 +35128,11 @@
 "nl.flitsmeister",
 "JohnInNL",
 "Unlock Pro"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
+"Use the system voice for navigation"
 ],
 [
 "nl.flitsmeister",
@@ -35423,6 +36213,51 @@
 "org.sinamon.duchinese",
 "MangoTornado",
 "Show reading download errors"
+],
+[
+"org.swiftapps.swiftbackup",
+"Nikhilbadyal",
+"Swift Backup Blacklist Limit"
+],
+[
+"org.swiftapps.swiftbackup",
+"Nikhilbadyal",
+"Swift Backup Cloud Apps Visibility"
+],
+[
+"org.swiftapps.swiftbackup",
+"Nikhilbadyal",
+"Swift Backup Cloud Settings Backup"
+],
+[
+"org.swiftapps.swiftbackup",
+"Nikhilbadyal",
+"Swift Backup Cloud WiFi Backups"
+],
+[
+"org.swiftapps.swiftbackup",
+"Nikhilbadyal",
+"Swift Backup Local Cloud Metadata"
+],
+[
+"org.swiftapps.swiftbackup",
+"Nikhilbadyal",
+"Swift Backup Premium Unlock"
+],
+[
+"org.swiftapps.swiftbackup",
+"Nikhilbadyal",
+"Swift Backup Settings Export and Import"
+],
+[
+"org.swiftapps.swiftbackup",
+"Nikhilbadyal",
+"Swift Backup Tamper Protection"
+],
+[
+"org.swiftapps.swiftbackup",
+"Nikhilbadyal",
+"Swift Backup Web Login"
 ],
 [
 "org.swiftapps.swiftbackup",
@@ -37090,6 +37925,21 @@
 "Unlock Premium"
 ],
 [
+"pl.inpost.inmobile",
+"RikoDEV",
+"Block telemetry"
+],
+[
+"pl.inpost.inmobile",
+"RikoDEV",
+"Hide Von Halsky"
+],
+[
+"pl.inpost.inmobile",
+"RikoDEV",
+"Hide promotional banners"
+],
+[
 "pl.mapa_turystyczna.app",
 "Dudek",
 "Hide Premium prompts"
@@ -37223,6 +38073,26 @@
 "pl.neptis.yanosik.mobi.android",
 "RikoDEV",
 "Unlock Yanosik PRO"
+],
+[
+"pl.orange.mojeorange",
+"RikoDEV",
+"Block telemetry"
+],
+[
+"pl.orange.mojeorange",
+"RikoDEV",
+"Hide notification prompt"
+],
+[
+"pl.orange.mojeorange",
+"RikoDEV",
+"Hide offer carousels"
+],
+[
+"pl.orange.mojeorange",
+"RikoDEV",
+"Hide stories"
 ],
 [
 "pl.wykop.droid",
@@ -38850,6 +39720,11 @@
 "Remove ads"
 ],
 [
+"us.zoom.videomeetings",
+"JohnInNL",
+"Allow all Android Auto hosts"
+],
+[
 "video.downloader.videodownloader",
 "FTL",
 "Fix HLS seek playback"
@@ -38998,6 +39873,36 @@
 "vn.com.misa.sothuchi",
 "Tkiethuynh",
 "Unlock premium"
+],
+[
+"vn.vtv.vtvgo",
+"Toidicakhia",
+"Block Product Ad Banners"
+],
+[
+"vn.vtv.vtvgo",
+"Toidicakhia",
+"Disable Analytics / Telemetry"
+],
+[
+"vn.vtv.vtvgo",
+"Toidicakhia",
+"Remove Ad ID Permissions"
+],
+[
+"vn.vtv.vtvgo",
+"Toidicakhia",
+"Remove Calendar Permissions"
+],
+[
+"vn.vtv.vtvgo",
+"Toidicakhia",
+"Remove Video Ads"
+],
+[
+"vn.vtv.vtvgo",
+"Toidicakhia",
+"Trust User Certificates"
 ],
 [
 "voicechanger.voiceeffects.soundeffects.voiceavatar",
