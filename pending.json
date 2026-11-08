@@ -24,5 +24,8 @@
  "[\"com.pro.cricztv\", \"GinDoki19\", \"Improve Android TV playback controls\"]": "2026-11-07T16:15:32.466417+00:00",
  "[\"com.samsung.android.app.smartcapture\", \"Bearinmind\", \"Change package name\"]": "2026-11-07T16:15:32.466417+00:00",
  "[\"com.samsung.android.app.smartcapture\", \"Bearinmind\", \"Enable non-One UI ROM support\"]": "2026-11-07T16:15:32.466417+00:00",
- "[\"com.sonyericsson.textinput.uxp\", \"Bearinmind\", \"Enable non-Xperia ROM support\"]": "2026-11-07T16:15:32.466417+00:00"
+ "[\"com.sonyericsson.textinput.uxp\", \"Bearinmind\", \"Enable non-Xperia ROM support\"]": "2026-11-07T16:15:32.466417+00:00",
+ "[\"andes.oplus.documentsreader\", \"Bearinmind\", \"Enable non-ColorOS ROM support\"]": "2026-11-08T01:15:25.637346+00:00",
+ "[\"com.oplus.camera\", \"Bearinmind\", \"No background running\"]": "2026-11-08T01:15:25.637346+00:00",
+ "[\"com.oplus.camera\", \"Bearinmind\", \"Remove telemetry\"]": "2026-11-08T01:15:25.637346+00:00"
 }

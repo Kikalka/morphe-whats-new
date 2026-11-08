@@ -1575,6 +1575,21 @@
 "Instant Rewarded Ads"
 ],
 [
+"com.ace.ex.file.manager",
+"Heval",
+"Disable ads"
+],
+[
+"com.ace.ex.file.manager",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.ace.ex.file.manager",
+"Heval",
+"Enable Premium"
+],
+[
 "com.action.consumerapp",
 "Janowakps",
 "Dark Mode"
@@ -2253,6 +2268,11 @@
 "com.amazon.mShop.android.shopping",
 "Debakar",
 "Sort by number of ratings"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Amazon: Stop feed video autoplay"
 ],
 [
 "com.amazon.mShop.android.shopping",
@@ -9917,6 +9937,11 @@
 [
 "com.fyxtech.muslim",
 "Heval",
+"Hide activity banners"
+],
+[
+"com.fyxtech.muslim",
+"Heval",
 "Hide feed clutter"
 ],
 [
@@ -10938,6 +10963,11 @@
 "com.google.android.apps.maps",
 "RhubarbShoelaces",
 "Hybrid Theme (Dark Menus, Light Map)"
+],
+[
+"com.google.android.apps.maps",
+"Shuili1013",
+"Experimental projected CAR two-wheeler routing"
 ],
 [
 "com.google.android.apps.maps",
@@ -12543,6 +12573,16 @@
 "com.harwin.prismatica",
 "Franticg33k",
 "Unlock Pro"
+],
+[
+"com.hbwares.wordfeud.free",
+"Jeroenimo02",
+"Debloat"
+],
+[
+"com.hbwares.wordfeud.free",
+"Jeroenimo02",
+"Remove ads"
 ],
 [
 "com.hbwares.wordfeud.free",
@@ -15697,6 +15737,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Fix subreddit About and Wiki"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Fix video downloads"
 ],
 [
@@ -15742,6 +15787,16 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Show subreddit highlights"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Show subreddit weekly stats"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Spoof client"
 ],
 [
@@ -15763,6 +15818,11 @@
 "com.laurencedawson.reddit_sync",
 "Mix",
 "Use Reddit media uploads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Use Reddit web session"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -15913,6 +15973,11 @@
 "com.laurencedawson.reddit_sync",
 "RashKash103",
 "Show media in a comment where it sits"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Show the feed while a post is swiped away"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -19105,6 +19170,76 @@
 "Enable Pro file-type handling"
 ],
 [
+"com.opera.browser",
+"Vogelkop",
+"Disable Acceptable Ads whitelist"
+],
+[
+"com.opera.browser",
+"Vogelkop",
+"Disable ad modules"
+],
+[
+"com.opera.browser",
+"Vogelkop",
+"Hide broken installation dialog"
+],
+[
+"com.opera.browser",
+"Vogelkop",
+"Ignore browser boot failures"
+],
+[
+"com.opera.browser",
+"Vogelkop",
+"Remove sponsored Speed Dial"
+],
+[
+"com.opera.browser",
+"Vogelkop",
+"Spoof app signature"
+],
+[
+"com.opera.browser.beta",
+"Vogelkop",
+"Disable Acceptable Ads whitelist"
+],
+[
+"com.opera.browser.beta",
+"Vogelkop",
+"Disable ad modules"
+],
+[
+"com.opera.browser.beta",
+"Vogelkop",
+"Hide broken installation dialog"
+],
+[
+"com.opera.browser.beta",
+"Vogelkop",
+"Ignore browser boot failures"
+],
+[
+"com.opera.browser.beta",
+"Vogelkop",
+"Remove sponsored Speed Dial"
+],
+[
+"com.opera.browser.beta",
+"Vogelkop",
+"Spoof app signature"
+],
+[
+"com.opera.gx",
+"Vogelkop",
+"Remove sponsored Speed Dial"
+],
+[
+"com.opera.gx",
+"Vogelkop",
+"Spoof app signature"
+],
+[
 "com.oplus.screenrecorder",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
@@ -20477,6 +20612,11 @@
 [
 "com.reddit.frontpage",
 "Ineednotitle",
+"Reddit: Diagnostic crash log"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
 "Remove ads"
 ],
 [
@@ -21276,6 +21416,131 @@
 ],
 [
 "com.rubenmayayo.reddit",
+"Shikify",
+"Bottom gallery action buttons"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Expand inline comment media"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"HTTP/2 Reddit connection"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Hide horizontal comment dividers"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Hold to peek at media"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Home account avatar"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Improved online check"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Inline flairs"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Instant saved login"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Material You"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Material dialogs"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Material loading animation"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Material notices"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Material search"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Parallel content loading"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Polish comment layout"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Polish media viewer"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Predictive back navigation"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Remove startup request queue"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Show post in comments header"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Sliding screen transitions"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Smaller first page"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Swipe comment actions"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Swipe post actions"
+],
+[
+"com.rubenmayayo.reddit",
+"Shikify",
+"Use system font"
+],
+[
+"com.rubenmayayo.reddit",
 "Titandrive",
 "Boost custom font"
 ],
@@ -22035,6 +22300,36 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.sec.android.app.sbrowser",
+"Bearinmind",
+"Hide scrollbar option"
+],
+[
+"com.sec.android.app.sbrowser",
+"Bearinmind",
+"Hide update badge"
+],
+[
+"com.sec.android.app.sbrowser",
+"Bearinmind",
+"Remove address bar blur"
+],
+[
+"com.sec.android.app.sbrowser",
+"Bearinmind",
+"Remove tab limit"
+],
+[
+"com.sec.android.app.sbrowser",
+"Bearinmind",
+"Remove telemetry"
+],
+[
+"com.sec.android.app.sbrowser",
+"Bearinmind",
+"Theme color on bottom bar"
+],
+[
 "com.sec.android.app.shealth",
 "Bearinmind",
 "Health sharing on non-Samsung phones"
@@ -22417,6 +22712,11 @@
 [
 "com.sofascore.results",
 "Heval",
+"Disable update prompts"
+],
+[
+"com.sofascore.results",
+"Heval",
 "GmsCore support"
 ],
 [
@@ -22438,6 +22738,16 @@
 "com.sofascore.results",
 "Heval",
 "Hide countries"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide main tabs"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide match chat"
 ],
 [
 "com.sofascore.results",
@@ -23037,6 +23347,11 @@
 [
 "com.ss.android.ttmd.video",
 "HushPine",
+"Episodes in full screen"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
 "Expand activity list"
 ],
 [
@@ -23143,6 +23458,11 @@
 "com.ss.android.ttmd.video",
 "HushPine",
 "Keep a streak going"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Keep list position"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -23353,6 +23673,11 @@
 "com.ss.android.ttmd.video",
 "HushPine",
 "Stop search autoplay"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Subtitle and dub preference"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -30065,6 +30390,46 @@
 "Spoof carrier"
 ],
 [
+"com.wbd.stream",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel",
+"Remove social sign-in (phone)"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
 "com.wetter.androidclient",
 "Hxreborn",
 "Unlock premium"
@@ -32467,7 +32832,32 @@
 [
 "deezer.android.app",
 "JohnInNL",
+"Allow any Android Auto host"
+],
+[
+"deezer.android.app",
+"JohnInNL",
 "Allow custom Android Auto hosts"
+],
+[
+"deezer.android.app",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"deezer.android.app",
+"JohnInNL",
+"Enable full streaming"
+],
+[
+"deezer.android.app",
+"JohnInNL",
+"Remove advertising"
+],
+[
+"deezer.android.app",
+"JohnInNL",
+"Remove subscription paywalls"
 ],
 [
 "defense.roguelike.cell.shoot.survivor",
@@ -33218,6 +33608,11 @@
 "in.amazon.mShop.android.shopping",
 "Debakar",
 "Sort by number of ratings"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Amazon: Stop feed video autoplay"
 ],
 [
 "in.amazon.mShop.android.shopping",
@@ -39158,6 +39553,16 @@
 "sinet.startup.inDriver",
 "Proxma",
 "Remove ads"
+],
+[
+"sun.way2sms.hyd.com",
+"Pardhu23",
+"Disable ads"
+],
+[
+"sun.way2sms.hyd.com",
+"Pardhu23",
+"Disable analytics"
 ],
 [
 "tageditor.automatictageditor.audiotagging.audioedit.mp3edit",
