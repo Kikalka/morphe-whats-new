@@ -132,6 +132,11 @@
 [
 "app.marlboroadvance.mpvex",
 "Kyurem39",
+"Independent audio"
+],
+[
+"app.marlboroadvance.mpvex",
+"Kyurem39",
 "Subtitle translation"
 ],
 [
@@ -1705,6 +1710,11 @@
 "Unlock Photoshop Premium"
 ],
 [
+"com.adobe.premiere",
+"MightyMich",
+"Unlock Premiere Premium"
+],
+[
 "com.adobe.reader",
 "Aidan",
 "Remove Ads and Tracking"
@@ -2560,6 +2570,21 @@
 "Separate Chrome Morphe installation"
 ],
 [
+"com.android.contacts",
+"Bearinmind",
+"Change package name"
+],
+[
+"com.android.contacts",
+"Bearinmind",
+"Enable non-ColorOS ROM support"
+],
+[
+"com.android.gallery3d",
+"Bearinmind",
+"Enable non-LG ROM support"
+],
+[
 "com.android.launcher",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
@@ -3012,6 +3037,11 @@
 [
 "com.apple.atve.androidtv.appletv",
 "Semicoloncolonel",
+"Auto-skip (Android TV)"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel",
 "Block analytics & tracking"
 ],
 [
@@ -3023,6 +3053,11 @@
 "com.apple.atve.androidtv.appletv",
 "Semicoloncolonel",
 "Hide device identifiers"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel",
+"Hide rating prompt (Android TV)"
 ],
 [
 "com.apple.atve.androidtv.appletv",
@@ -3190,6 +3225,11 @@
 "Disable license check"
 ],
 [
+"com.asus.launcher",
+"Bearinmind",
+"Enable non-ZenUI ROM support"
+],
+[
 "com.athan",
 "Hxreborn",
 "Dark theme"
@@ -3273,6 +3313,16 @@
 "com.audiobookshelf.app",
 "M4TH1EU",
 "Allow Veloce media browsing"
+],
+[
+"com.audiomack",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.audiomack",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.avinside",
@@ -3398,6 +3448,26 @@
 "com.bah.r1smobile",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.bambuna.podcastaddict",
+"Way-Lo",
+"Playlist swipe to remove"
+],
+[
+"com.bambuna.podcastaddict",
+"Way-Lo",
+"Swipe to add/remove on new episodes"
+],
+[
+"com.bambuna.podcastaddict",
+"Way-Lo",
+"Swipe to add/remove on recent episodes"
+],
+[
+"com.bambuna.podcastaddict",
+"Way-Lo",
+"Swipe to remove from playlist"
 ],
 [
 "com.bamnetworks.mobile.android.gameday.atbat",
@@ -5462,6 +5532,11 @@
 [
 "com.crexify.tv",
 "GinDoki19",
+"Improve Android TV playback controls"
+],
+[
+"com.crexify.tv",
+"GinDoki19",
 "Remove configured startup and banner ads"
 ],
 [
@@ -5488,6 +5563,11 @@
 "com.cricfytv.sports",
 "GinDoki19",
 "Hide playback controls at stream open"
+],
+[
+"com.cricfytv.sports",
+"GinDoki19",
+"Improve Android TV playback controls"
 ],
 [
 "com.cricfytv.sports",
@@ -5628,6 +5708,11 @@
 "com.darinsoft.vimo",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.dashdramas",
+"MightyMich",
+"Unlock Premium"
 ],
 [
 "com.dataon.sunfishgo",
@@ -7525,6 +7610,11 @@
 "Spoof carrier"
 ],
 [
+"com.dramawave.app",
+"MightyMich",
+"Unlock Premium"
+],
+[
 "com.dreamplug.androidapp",
 "aapam",
 "Disable Spying & Security Checks"
@@ -8362,6 +8452,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Clone install under another package name"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Comment sheet options"
 ],
 [
@@ -8888,6 +8983,71 @@
 "com.facebook.katana",
 "Hushfacebook",
 "View stories anonymously"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Block Instant Games ads"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Block ad telemetry"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Block background ad prefetch"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Dark mode on tablets"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Disable Audience Network"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Hide affiliate product links"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Hide sponsored Marketplace listings"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Hide sponsored posts"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Hide sponsored profile posts"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Hide sponsored reels"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Hide sponsored search results"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Hide sponsored stories"
+],
+[
+"com.facebook.katana",
+"Just-a-lurker",
+"Install beside Meta's apps"
 ],
 [
 "com.facebook.katana",
@@ -9560,6 +9720,16 @@
 "Unlock premium"
 ],
 [
+"com.finch.finch",
+"MightyMich",
+"Disable telemetry"
+],
+[
+"com.finch.finch",
+"MightyMich",
+"Unlock Plus"
+],
+[
 "com.fingersoft.hillclimb",
 "Legendsciber",
 "Hill Climb Racing Ad Removal"
@@ -10178,6 +10348,11 @@
 "com.gmail.jmartindev.timetune",
 "Heval",
 "Enable Premium"
+],
+[
+"com.gooddrama.idrama",
+"MightyMich",
+"Unlock Premium"
 ],
 [
 "com.gooded.essential",
@@ -10967,7 +11142,42 @@
 [
 "com.google.android.apps.maps",
 "Shuili1013",
+"Add microG-RE support"
+],
+[
+"com.google.android.apps.maps",
+"Shuili1013",
+"Allow any travel mode on Android Auto"
+],
+[
+"com.google.android.apps.maps",
+"Shuili1013",
+"Always two-wheeler on Android Auto"
+],
+[
+"com.google.android.apps.maps",
+"Shuili1013",
+"Bypass Play Services checks"
+],
+[
+"com.google.android.apps.maps",
+"Shuili1013",
+"Change package name"
+],
+[
+"com.google.android.apps.maps",
+"Shuili1013",
 "Experimental projected CAR two-wheeler routing"
+],
+[
+"com.google.android.apps.maps",
+"Shuili1013",
+"Native navigation for Gearslip and Android Auto"
+],
+[
+"com.google.android.apps.maps",
+"Shuili1013",
+"Skip private Android Auto car connection"
 ],
 [
 "com.google.android.apps.maps",
@@ -12735,6 +12945,11 @@
 "Enable non-MagicOS ROM support"
 ],
 [
+"com.hihonor.screenrecorder",
+"Bearinmind",
+"Enable non-MagicOS ROM support"
+],
+[
 "com.hihonor.soundrecorder",
 "Bearinmind",
 "Enable non-MagicOS ROM support"
@@ -13522,6 +13737,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Double tap to skip on Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Download any reel"
 ],
 [
@@ -13603,6 +13823,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide GIFs in comments"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide Instagram Plus prompts"
 ],
 [
 "com.instagram.android",
@@ -13717,6 +13942,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide the 2x popup on Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide the Explore grid"
 ],
 [
@@ -13773,6 +14003,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide your active status"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hold for 2x on feed videos"
 ],
 [
 "com.instagram.android",
@@ -13972,6 +14207,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Search comments"
+],
+[
+"com.instagram.android",
+"HushGram",
 "See who a story mentions"
 ],
 [
@@ -14043,6 +14283,11 @@
 "com.instagram.android",
 "HushGram",
 "Speed button on stories"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Split the notes row"
 ],
 [
 "com.instagram.android",
@@ -14383,6 +14628,16 @@
 "com.instagram.android",
 "Virzak",
 "Download media"
+],
+[
+"com.instagram.android",
+"Wagg13Patch",
+"Restore trust on re-signed builds"
+],
+[
+"com.instagram.android",
+"Wagg13Patch",
+"Story like history"
 ],
 [
 "com.instagram.android",
@@ -15070,6 +15325,11 @@
 "Unlock Premium"
 ],
 [
+"com.joincarbon.nutrition",
+"CallMeBeyonder",
+"Unlock Premium"
+],
+[
 "com.joshua.jptt",
 "JPTT",
 "Disable Play license check"
@@ -15198,6 +15458,16 @@
 "com.kabbik.app",
 "Media",
 "Temp user"
+],
+[
+"com.kairosvector.pikiewalker",
+"Pigfoot",
+"PikieWalker rewards without video ads"
+],
+[
+"com.kairosvector.pikiewalker",
+"Pigfoot",
+"PikieWalker: Skip Google Play install check"
 ],
 [
 "com.kakao.talk",
@@ -16006,6 +16276,31 @@
 ],
 [
 "com.laurencedawson.reddit_sync",
+"Sazap10",
+"Default posts sort: Best"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Sazap10",
+"Disable Crashlytics"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Sazap10",
+"Log crashes"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Sazap10",
+"Skip onboarding"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Sazap10",
+"Target SDK 36"
+],
+[
+"com.laurencedawson.reddit_sync",
 "Trulow",
 "Fix Reddit galleries"
 ],
@@ -16198,6 +16493,11 @@
 "com.life360.android.safetymapd",
 "Doom",
 "Material You themed icon"
+],
+[
+"com.lihkg.app",
+"GhostKnow",
+"Always plus member"
 ],
 [
 "com.lingodeer",
@@ -16657,6 +16957,11 @@
 [
 "com.linkedin.android",
 "XBadFellaX",
+"Pitch black"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
 "Post menu items"
 ],
 [
@@ -16698,6 +17003,11 @@
 "com.live.sktechtv",
 "GinDoki19",
 "Hide playback controls at stream open"
+],
+[
+"com.live.sktechtv",
+"GinDoki19",
+"Improve Android TV playback controls"
 ],
 [
 "com.live.sktechtv",
@@ -17058,6 +17368,21 @@
 "com.medium.reader",
 "RayBourn",
 "Freedium"
+],
+[
+"com.meesho.shopping",
+"Ineednotitle",
+"Meesho: Block analytics & tracking SDKs"
+],
+[
+"com.meesho.shopping",
+"Ineednotitle",
+"Meesho: Disable video autoplay (ExoPlayer)"
+],
+[
+"com.meesho.shopping",
+"Ineednotitle",
+"Meesho: Prefer external browser over Custom Tabs"
 ],
 [
 "com.meesho.supply",
@@ -17530,6 +17855,11 @@
 "Enable non-HyperOS ROM support"
 ],
 [
+"com.miui.home",
+"Bearinmind",
+"Enable non-HyperOS ROM support"
+],
+[
 "com.miui.mediaeditor",
 "Bearinmind",
 "Enable non-HyperOS ROM support"
@@ -17728,6 +18058,11 @@
 "com.moodle.moodlemobile",
 "AlonResearch",
 "Add browser login option"
+],
+[
+"com.motorola.launcher3",
+"Bearinmind",
+"Enable non-Motorola ROM support"
 ],
 [
 "com.moviebase",
@@ -18630,6 +18965,11 @@
 "Enable non-Nothing OS ROM support"
 ],
 [
+"com.nothing.ntscreenshot",
+"Bearinmind",
+"Enable non-Nothing OS ROM support"
+],
+[
 "com.nothing.soundrecorder",
 "Bearinmind",
 "Enable non-Nothing OS ROM support"
@@ -19182,6 +19522,11 @@
 [
 "com.opera.browser",
 "Vogelkop",
+"Disable analytics & tracking"
+],
+[
+"com.opera.browser",
+"Vogelkop",
 "Hide broken installation dialog"
 ],
 [
@@ -19192,12 +19537,22 @@
 [
 "com.opera.browser",
 "Vogelkop",
+"Remove ad & tracking permissions"
+],
+[
+"com.opera.browser",
+"Vogelkop",
 "Remove sponsored Speed Dial"
 ],
 [
 "com.opera.browser",
 "Vogelkop",
 "Spoof app signature"
+],
+[
+"com.opera.browser",
+"Vogelkop",
+"Startup diagnostics"
 ],
 [
 "com.opera.browser.beta",
@@ -19212,6 +19567,11 @@
 [
 "com.opera.browser.beta",
 "Vogelkop",
+"Disable analytics & tracking"
+],
+[
+"com.opera.browser.beta",
+"Vogelkop",
 "Hide broken installation dialog"
 ],
 [
@@ -19222,6 +19582,11 @@
 [
 "com.opera.browser.beta",
 "Vogelkop",
+"Remove ad & tracking permissions"
+],
+[
+"com.opera.browser.beta",
+"Vogelkop",
 "Remove sponsored Speed Dial"
 ],
 [
@@ -19230,6 +19595,21 @@
 "Spoof app signature"
 ],
 [
+"com.opera.browser.beta",
+"Vogelkop",
+"Startup diagnostics"
+],
+[
+"com.opera.gx",
+"Vogelkop",
+"Disable analytics & tracking"
+],
+[
+"com.opera.gx",
+"Vogelkop",
+"Remove ad & tracking permissions"
+],
+[
 "com.opera.gx",
 "Vogelkop",
 "Remove sponsored Speed Dial"
@@ -19238,6 +19618,11 @@
 "com.opera.gx",
 "Vogelkop",
 "Spoof app signature"
+],
+[
+"com.opera.gx",
+"Vogelkop",
+"Startup diagnostics"
 ],
 [
 "com.oplus.screenrecorder",
@@ -20190,6 +20575,11 @@
 "Remove PDALIFE config assets"
 ],
 [
+"com.playdigious.tmnt",
+"byehi98",
+"Full Game Unlock"
+],
+[
 "com.playfy.tv",
 "GinDoki19",
 "Hide playback controls at stream open"
@@ -20208,6 +20598,11 @@
 "com.playz.tv",
 "GinDoki19",
 "Hide playback controls at stream open"
+],
+[
+"com.playz.tv",
+"GinDoki19",
+"Improve Android TV playback controls"
 ],
 [
 "com.playz.tv",
@@ -20278,6 +20673,11 @@
 "com.pro.cricztv",
 "GinDoki19",
 "Hide playback controls at stream open"
+],
+[
+"com.pro.cricztv",
+"GinDoki19",
+"Improve Android TV playback controls"
 ],
 [
 "com.pro.cricztv",
@@ -20673,6 +21073,21 @@
 "com.release.arylive",
 "Hammadhassan94",
 "Hide ads"
+],
+[
+"com.release.arylive",
+"Kamander700",
+"Bypass license check"
+],
+[
+"com.release.arylive",
+"Kamander700",
+"Hide app ads"
+],
+[
+"com.release.arylive",
+"Kamander700",
+"Hide video ads"
 ],
 [
 "com.remi.widget",
@@ -21840,6 +22255,11 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.samsung.android.app.homestar",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
 "com.samsung.android.app.notes",
 "Bearinmind",
 "Disable telemetry"
@@ -21936,6 +22356,16 @@
 ],
 [
 "com.samsung.android.app.routines",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
+"com.samsung.android.app.smartcapture",
+"Bearinmind",
+"Change package name"
+],
+[
+"com.samsung.android.app.smartcapture",
 "Bearinmind",
 "Enable non-One UI ROM support"
 ],
@@ -22115,6 +22545,11 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.samsung.android.wonderland.wallpaper",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
 "com.sankakucomplex.channel.black",
 "HellveticaStandard",
 "Hide Trending Tags Section"
@@ -22213,6 +22648,11 @@
 "com.scoremarks.marks",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.scoremarks.marks",
+"Hxreborn",
+"Unlock question filters"
 ],
 [
 "com.scores365",
@@ -22372,10 +22812,25 @@
 [
 "com.sec.android.gallery3d",
 "Bearinmind",
+"Remove Google services"
+],
+[
+"com.sec.android.gallery3d",
+"Bearinmind",
+"Search by content"
+],
+[
+"com.sec.android.gallery3d",
+"Bearinmind",
 "Stop remote updates"
 ],
 [
 "com.sec.android.mimage.photoretouching",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
+"com.sec.app.screenrecorder",
 "Bearinmind",
 "Enable non-One UI ROM support"
 ],
@@ -22815,7 +23270,22 @@
 "Block Speak-to-Chat gesture"
 ],
 [
+"com.sonyericsson.album",
+"Bearinmind",
+"Enable non-Xperia ROM support"
+],
+[
 "com.sonyericsson.music",
+"Bearinmind",
+"Enable non-Xperia ROM support"
+],
+[
+"com.sonyericsson.textinput.uxp",
+"Bearinmind",
+"Enable non-Xperia ROM support"
+],
+[
+"com.sonymobile.launcher",
 "Bearinmind",
 "Enable non-Xperia ROM support"
 ],
@@ -24285,6 +24755,11 @@
 "Unlock premium"
 ],
 [
+"com.storymatrix.drama",
+"MightyMich",
+"Unlock Premium"
+],
+[
 "com.storywise.storywise",
 "Hxreborn",
 "GmsCore support"
@@ -24398,6 +24873,16 @@
 "com.strava",
 "Mwbra130",
 "Local route privacy trim"
+],
+[
+"com.strava",
+"SeveriT",
+"Custom accent color"
+],
+[
+"com.strava",
+"SeveriT",
+"Custom map route color"
 ],
 [
 "com.streamdev.aiostreamer",
@@ -25515,6 +26000,11 @@
 "Select TAGTHAi text"
 ],
 [
+"com.theappninjas.fakegpsjoystick",
+"Pigfoot",
+"GPS JoyStick: Premium"
+],
+[
 "com.thehomedepot",
 "Semicoloncolonel",
 "Block Bluetooth scanning"
@@ -25827,7 +26317,37 @@
 [
 "com.tinder",
 "Wagg13Patch",
+"Tinder Block User Button"
+],
+[
+"com.tinder",
+"Wagg13Patch",
+"Tinder Disable Consent Prompt"
+],
+[
+"com.tinder",
+"Wagg13Patch",
+"Tinder Disable Paywall Flow"
+],
+[
+"com.tinder",
+"Wagg13Patch",
+"Tinder Disable Watch-an-Ad Sheet"
+],
+[
+"com.tinder",
+"Wagg13Patch",
+"Tinder Distance First"
+],
+[
+"com.tinder",
+"Wagg13Patch",
 "Tinder Remove Ads"
+],
+[
+"com.tinder",
+"Wagg13Patch",
+"Tinder Remove Upsell Dialogs"
 ],
 [
 "com.tinder",
@@ -26623,6 +27143,11 @@
 "com.tubitv",
 "Semicoloncolonel",
 "Hide sign-in prompts"
+],
+[
+"com.tubitv",
+"Semicoloncolonel",
+"Highest quality"
 ],
 [
 "com.tubitv",
@@ -28887,6 +29412,11 @@
 [
 "com.viber.voip",
 "Hxreborn",
+"Remove locked Plus items"
+],
+[
+"com.viber.voip",
+"Hxreborn",
 "Remove online status limit"
 ],
 [
@@ -29458,6 +29988,11 @@
 "com.waccliu.taiwanrail",
 "Pigfoot",
 "RailsGo sideload startup compatibility"
+],
+[
+"com.waccliu.taiwanrail",
+"Pigfoot",
+"RailsGo: Skip Google Play install check"
 ],
 [
 "com.wakeup.howear",
@@ -30435,6 +30970,46 @@
 "Unlock premium"
 ],
 [
+"com.whatsapp",
+"MightyMich",
+"App icon"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"Keep deleted messages"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"Mods settings entry"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"Mods settings resources"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"Read receipts"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"Typing indicator"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"Usage data"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"View once media"
+],
+[
 "com.whereismytrain.android",
 "Shuhaibnc",
 "Amoled Dark"
@@ -30581,6 +31156,16 @@
 ],
 [
 "com.x8bit.bitwarden",
+"Aayy-Dev",
+"No screen lock passkey"
+],
+[
+"com.x8bit.bitwarden",
+"Aayy-Dev",
+"Trust re-signed browsers for passkeys"
+],
+[
+"com.x8bit.bitwarden",
 "Stylus",
 "Custom font"
 ],
@@ -30628,6 +31213,16 @@
 "com.xinesoft.notifications",
 "Wagg13Patch",
 "Remove ads and video blocking"
+],
+[
+"com.xm.csee",
+"Wagg13Patch",
+"iCSee Remove Ads"
+],
+[
+"com.xm.csee",
+"Wagg13Patch",
+"iCSee Remove Pop-ups"
 ],
 [
 "com.xs2theworld.weeronline",
@@ -32492,6 +33087,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Keep recalled messages"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Native signature fix"
 ],
 [
@@ -32773,6 +33373,16 @@
 "de.pixelhouse",
 "0x0day-0wl",
 "Remove tracking"
+],
+[
+"de.pixelhouse",
+"Drtgrf",
+"Remove Banner Ads"
+],
+[
+"de.pixelhouse",
+"Drtgrf",
+"Remove Sponsored Recommendations"
 ],
 [
 "de.prosiebensat1digital.seventv",
@@ -33970,6 +34580,46 @@
 "Unlock premium"
 ],
 [
+"ir.ilmili.telegraph",
+"Wagg13Patch",
+"Keep timed media"
+],
+[
+"ir.ilmili.telegraph",
+"Wagg13Patch",
+"Remove Telegraph ads"
+],
+[
+"ir.ilmili.telegraph",
+"Wagg13Patch",
+"Remove Telegraph trackers"
+],
+[
+"ir.ilmili.telegraph",
+"Wagg13Patch",
+"Remove forced update"
+],
+[
+"ir.ilmili.telegraph",
+"Wagg13Patch",
+"Remove restrictions"
+],
+[
+"ir.ilmili.telegraph",
+"Wagg13Patch",
+"Remove third-party ad SDKs"
+],
+[
+"ir.ilmili.telegraph",
+"Wagg13Patch",
+"Spoof Telegraph signature"
+],
+[
+"ir.ilmili.telegraph",
+"Wagg13Patch",
+"Unlock Telegraph Premium"
+],
+[
 "it.papalillo.moviestowatch",
 "Cinemaniac",
 "Disable Advertising ID"
@@ -34617,6 +35267,11 @@
 [
 "jp.pxv.android",
 "Piracola",
+"Pixiv Novel Text Copy"
+],
+[
+"jp.pxv.android",
+"Piracola",
 "Pixiv OLED Dark Theme"
 ],
 [
@@ -34678,6 +35333,11 @@
 "me.aap.fermatamod.dear.google.why.bingo2.rec",
 "Hxreborn",
 "Disable tracking"
+],
+[
+"me.aap.fermatamod.dear.google.why.bingo2.rec",
+"Hxreborn",
+"Full Android Auto screen"
 ],
 [
 "me.aap.fermatamod.dear.google.why.bingo2.rec",
@@ -34973,6 +35633,11 @@
 "net.daylio",
 "Epxec",
 "Enable Premium"
+],
+[
+"net.daylio",
+"GinDoki19",
+"Enable premium (experimental)"
 ],
 [
 "net.dinglisch.android.taskerm",
@@ -35278,6 +35943,16 @@
 "net.quetta.browser",
 "Weird-Aftertaste",
 "Strip vendor tracking endpoints"
+],
+[
+"net.simplyadvanced.ltediscovery",
+"Jzl1",
+"Unlock Pro"
+],
+[
+"net.simplyadvanced.ltediscovery",
+"Jzl1",
+"Unlock Pro Plus / Donate"
 ],
 [
 "net.smartwod.timer",
@@ -36595,6 +37270,11 @@
 "Speech rate slider"
 ],
 [
+"org.readera",
+"Hxreborn",
+"Text-to-speech filter"
+],
+[
 "org.sinamon.duchinese",
 "MangoTornado",
 "Enable local Premium controls"
@@ -36703,6 +37383,11 @@
 "org.telegram.messenger",
 "HushTelegram",
 "Black and white launch logo"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Bot token sign-in"
 ],
 [
 "org.telegram.messenger",
@@ -36968,6 +37653,11 @@
 "org.telegram.messenger",
 "HushTelegram",
 "Swipe back on profiles"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Test server sign-in"
 ],
 [
 "org.telegram.messenger",
@@ -37287,6 +37977,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Bot token sign-in"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Change sticker size"
 ],
 [
@@ -37548,6 +38243,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Swipe back on profiles"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Test server sign-in"
 ],
 [
 "org.telegram.messenger.web",
@@ -38315,6 +39015,16 @@
 "Unlock Premium (Experimental)"
 ],
 [
+"pl.edu.vulcan.hebe.ce",
+"RikoDEV",
+"Block telemetry"
+],
+[
+"pl.edu.vulcan.hebe.ce",
+"RikoDEV",
+"Unlock premium"
+],
+[
 "pl.guteklabs.phototime",
 "Riky",
 "Unlock Premium"
@@ -38508,6 +39218,16 @@
 "pl.wykop.droid",
 "HagiaHaya",
 "Remove ads"
+],
+[
+"pl.zabka.apb2c",
+"RikoDEV",
+"Block telemetry"
+],
+[
+"pl.zabka.apb2c",
+"RikoDEV",
+"Spoof signing certificate"
 ],
 [
 "premom.eh.com.ehpremomapp",
