@@ -80,6 +80,11 @@
 "eppy"
 ],
 [
+"andes.oplus.documentsreader",
+"Bearinmind",
+"Enable non-ColorOS ROM support"
+],
+[
 "app.alextran.immich",
 "Titandrive",
 "Immich Catppuccin"
@@ -1665,6 +1670,26 @@
 "\u89e3\u7d04\u6642\u306e\u5f15\u304d\u6b62\u3081\u753b\u9762\u3092\u30b9\u30ad\u30c3\u30d7"
 ],
 [
+"com.addatimes.Addatimes",
+"Media",
+"Access content"
+],
+[
+"com.addatimes.Addatimes",
+"Media",
+"Anonymous user"
+],
+[
+"com.addatimes.Addatimes",
+"Media",
+"Default source"
+],
+[
+"com.addatimes.Addatimes",
+"Media",
+"Play button"
+],
+[
 "com.adithya.memoneet",
 "Hxreborn",
 "GmsCore support"
@@ -3033,6 +3058,11 @@
 "com.apple.android.music",
 "Nich87",
 "Liquid Glass bottom bar"
+],
+[
+"com.apple.android.music",
+"Nich87",
+"Repair Japanese library metadata"
 ],
 [
 "com.apple.atve.androidtv.appletv",
@@ -4700,6 +4730,11 @@
 "Enable Pro"
 ],
 [
+"com.canaldigital.go",
+"Heval",
+"Disable telemetry"
+],
+[
 "com.cardfeed.video_public",
 "Hxreborn",
 "Disable tracking"
@@ -5673,6 +5708,21 @@
 "com.cvs.launchers.cvs",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.cylonid.nativealpha",
+"Aayy-Dev",
+"Keep shortcut icon shape"
+],
+[
+"com.cylonid.nativealpha",
+"Aayy-Dev",
+"Open web apps from other apps"
+],
+[
+"com.cylonid.nativealpha",
+"Aayy-Dev",
+"Persist web app logins"
 ],
 [
 "com.dailywire.thedailywire",
@@ -11195,6 +11245,11 @@
 "Keyword message filter"
 ],
 [
+"com.google.android.apps.messaging",
+"Mwbra130",
+"OLED black mode"
+],
+[
 "com.google.android.apps.photos",
 "Akash Sriram",
 "AMOLED dark theme"
@@ -13060,6 +13115,16 @@
 "Unlock PRO"
 ],
 [
+"com.hush.yamby",
+"Jzl1",
+"Hide Pro row"
+],
+[
+"com.hush.yamby",
+"Jzl1",
+"Unlock Pro"
+],
+[
 "com.hypenet.focused",
 "Hxreborn",
 "Free parachutes"
@@ -13837,6 +13902,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide Made with Edits"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide Meta AI"
 ],
 [
@@ -13883,6 +13953,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide highlights"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide lives in Reels"
 ],
 [
 "com.instagram.android",
@@ -14197,6 +14272,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Save in the post menu"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Save profile picture"
 ],
 [
@@ -14443,6 +14523,11 @@
 "com.instagram.android",
 "HushGram",
 "View stories anonymously"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Watch again in the feed"
 ],
 [
 "com.instagram.android",
@@ -14997,6 +15082,16 @@
 [
 "com.instagram.barcelona",
 "HushThreads",
+"Change app name"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Change package name"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
 "Change version code"
 ],
 [
@@ -15023,6 +15118,11 @@
 "com.instagram.barcelona",
 "HushThreads",
 "Filter comments"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
+"Full size profile pictures"
 ],
 [
 "com.instagram.barcelona",
@@ -15800,6 +15900,31 @@
 "Third-party emotes"
 ],
 [
+"com.kick.mobile",
+"SeyTheGamer Kick TV",
+"CHAT SIZE"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Kick TV",
+"CHAT TEXT SIZE"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Kick TV",
+"EMOTES"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Kick TV",
+"EXPAND CHAT"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Kick TV",
+"SEYTTINGS"
+],
+[
 "com.kiloo.subwaysurf",
 "Legendsciber",
 "Subway Surfers Currency Hack"
@@ -15808,6 +15933,16 @@
 "com.kiloo.subwaysurf",
 "Legendsciber",
 "Subway Surfers Free IAP"
+],
+[
+"com.kiloo.subwaysurf",
+"Legendsciber",
+"Subway Surfers Instant Rewarded Ads"
+],
+[
+"com.kiloo.subwaysurf",
+"Legendsciber",
+"Subway Surfers Remove Ads"
 ],
 [
 "com.kleientertainment.doNotStarvePocket",
@@ -16258,6 +16393,11 @@
 "com.laurencedawson.reddit_sync",
 "RashKash103",
 "Spoof client"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Stop the toolbar menus closing the app"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -17213,6 +17353,26 @@
 "com.mb.android",
 "XBadFellaX",
 "Emby remove Firebase and DataTransport"
+],
+[
+"com.mecom.Berlingske",
+"Heval",
+"Disable ads"
+],
+[
+"com.mecom.Berlingske",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.mecom.bt",
+"Heval",
+"Disable ads"
+],
+[
+"com.mecom.bt",
+"Heval",
+"Disable telemetry"
 ],
 [
 "com.mecom.ed.nl",
@@ -18920,6 +19080,11 @@
 "Zoom article images"
 ],
 [
+"com.nordiskfilmplus.android",
+"Heval",
+"Disable telemetry"
+],
+[
 "com.nostalgiatv",
 "Franticg33k",
 "Remove License Activity"
@@ -19623,6 +19788,16 @@
 "com.opera.gx",
 "Vogelkop",
 "Startup diagnostics"
+],
+[
+"com.oplus.camera",
+"Bearinmind",
+"No background running"
+],
+[
+"com.oplus.camera",
+"Bearinmind",
+"Remove telemetry"
 ],
 [
 "com.oplus.screenrecorder",
@@ -23238,6 +23413,11 @@
 "com.sofascore.results",
 "Heval",
 "Spoof signature"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Unlock developer options"
 ],
 [
 "com.sofascore.results",
@@ -33467,6 +33647,11 @@
 [
 "deezer.android.app",
 "JohnInNL",
+"Remove premium upsell UI"
+],
+[
+"deezer.android.app",
+"JohnInNL",
 "Remove subscription paywalls"
 ],
 [
@@ -33610,6 +33795,21 @@
 "Free content"
 ],
 [
+"dk.aasmain.areader",
+"Heval",
+"Disable ads"
+],
+[
+"dk.aasmain.areader",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.aasmain.areader",
+"Heval",
+"Unlock articles"
+],
+[
 "dk.bold",
 "Heval",
 "Disable ads"
@@ -33635,6 +33835,86 @@
 "Disable telemetry"
 ],
 [
+"dk.ekstrabladet.breakingnews",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.fyensstifts.areader",
+"Heval",
+"Disable ads"
+],
+[
+"dk.fyensstifts.areader",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.fyensstifts.areader",
+"Heval",
+"Unlock articles"
+],
+[
+"dk.herningfolkeblad.areader",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.information.areader",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.jydskevestkystenmain.areader",
+"Heval",
+"Disable ads"
+],
+[
+"dk.jydskevestkystenmain.areader",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.jydskevestkystenmain.areader",
+"Heval",
+"Unlock articles"
+],
+[
+"dk.jyllandsposten.jp",
+"Heval",
+"Disable ads"
+],
+[
+"dk.jyllandsposten.jp",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.nordjyske.reader",
+"Heval",
+"Disable ads"
+],
+[
+"dk.nordjyske.reader",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.nordjyske.reader",
+"Heval",
+"Unlock articles"
+],
+[
+"dk.pol.news",
+"Heval",
+"Disable ads"
+],
+[
+"dk.pol.news",
+"Heval",
+"Disable telemetry"
+],
+[
 "dk.tacit.android.foldersync.lite",
 "Kirby1997",
 "Disable AdMob banners"
@@ -33643,6 +33923,36 @@
 "dk.tacit.android.foldersync.lite",
 "Kirby1997",
 "Disable AdMob interstitials"
+],
+[
+"dk.tdc.blockbuster.nordic",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.tipsbladet.tipsbladet",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.tv2.nyhedscenter",
+"Heval",
+"Disable ads"
+],
+[
+"dk.tv2.nyhedscenter",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.tv2.tv2play",
+"Heval",
+"Disable telemetry"
+],
+[
+"dk.weekendavisen.areader",
+"Heval",
+"Disable telemetry"
 ],
 [
 "droom.sleepIfUCan",
@@ -37847,6 +38157,11 @@
 [
 "org.telegram.messenger",
 "Rahul9999xda",
+"Morphe Settings"
+],
+[
+"org.telegram.messenger",
+"Rahul9999xda",
 "Remove ads"
 ],
 [
@@ -38432,6 +38747,11 @@
 [
 "org.telegram.messenger.web",
 "Rahul9999xda",
+"Morphe Settings"
+],
+[
+"org.telegram.messenger.web",
+"Rahul9999xda",
 "Remove ads"
 ],
 [
@@ -39013,6 +39333,11 @@
 "photo.editor.polarr",
 "MightyMich",
 "Unlock Premium (Experimental)"
+],
+[
+"pl.edu.vulcan.hebe.ce",
+"RikoDEV",
+"Block eduVULCAN telemetry"
 ],
 [
 "pl.edu.vulcan.hebe.ce",
@@ -40826,6 +41151,21 @@
 ],
 [
 "tv.twitch.android.app",
+"SeyTheGamer Twitch",
+"EMOTES"
+],
+[
+"tv.twitch.android.app",
+"SeyTheGamer Twitch",
+"EXPAND CHAT"
+],
+[
+"tv.twitch.android.app",
+"SeyTheGamer Twitch",
+"SEYTTINGS"
+],
+[
+"tv.twitch.android.app",
 "aRandomHooman",
 "Fix notifications"
 ],
@@ -41183,5 +41523,10 @@
 "xyz.rtrvr.pillo",
 "Santodan",
 "Pillo - Weight in Progress"
+],
+[
+"yiuo.mobile.tv",
+"Heval",
+"Disable telemetry"
 ]
 ]
