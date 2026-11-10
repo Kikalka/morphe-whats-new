@@ -4912,6 +4912,16 @@
 [
 "com.cardfeed.video_public",
 "Hxreborn",
+"Disable video preloading"
+],
+[
+"com.cardfeed.video_public",
+"Hxreborn",
+"Follow system theme"
+],
+[
+"com.cardfeed.video_public",
+"Hxreborn",
 "GmsCore support"
 ],
 [
@@ -7627,12 +7637,27 @@
 [
 "com.diskwalaapp",
 "Mwbra130",
+"Disable ads"
+],
+[
+"com.diskwalaapp",
+"Mwbra130",
+"Disable forced update"
+],
+[
+"com.diskwalaapp",
+"Mwbra130",
 "Enable Premium"
 ],
 [
 "com.diskwalaapp",
 "Mwbra130",
 "Patch native libraries"
+],
+[
+"com.diskwalaapp",
+"Mwbra130",
+"Unlock premium"
 ],
 [
 "com.disney.disneyplus",
@@ -8165,6 +8190,51 @@
 "Disable Ads"
 ],
 [
+"com.dynanic.ultimea",
+"Hxreborn",
+"Accent color"
+],
+[
+"com.dynanic.ultimea",
+"Hxreborn",
+"Dark theme"
+],
+[
+"com.dynanic.ultimea",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.dynanic.ultimea",
+"Hxreborn",
+"Fine equalizer"
+],
+[
+"com.dynanic.ultimea",
+"Hxreborn",
+"Local equalizer presets"
+],
+[
+"com.dynanic.ultimea",
+"Hxreborn",
+"Remove distractions"
+],
+[
+"com.dynanic.ultimea",
+"Hxreborn",
+"Remove popups"
+],
+[
+"com.dynanic.ultimea",
+"Hxreborn",
+"Stop firmware reminders"
+],
+[
+"com.dynanic.ultimea",
+"Hxreborn",
+"Xupmix"
+],
+[
 "com.ea.game.pvzfree_row",
 "byehi98",
 "PvZ FREE Ad Removal & Free Rewards"
@@ -8238,6 +8308,26 @@
 "com.elink.fittrackhealth.pro",
 "braiNtropy",
 "Unlock Premium"
+],
+[
+"com.enflick.android.TextNow",
+"Madushas",
+"Disable ad SDK"
+],
+[
+"com.enflick.android.TextNow",
+"Madushas",
+"Disable tracker components"
+],
+[
+"com.enflick.android.TextNow",
+"Madushas",
+"Disable trackers"
+],
+[
+"com.enflick.android.TextNow",
+"Madushas",
+"Remove ads"
 ],
 [
 "com.enzuredigital.weatherbomb",
@@ -10115,6 +10205,16 @@
 "Auto-claim free data"
 ],
 [
+"com.fitbit.FitbitMobile",
+"Madushas",
+"Disable trackers"
+],
+[
+"com.fitbit.FitbitMobile",
+"Madushas",
+"Remove ads"
+],
+[
 "com.fivemobile.thescore",
 "Nm-nvan",
 "Hide Leagues tab sections"
@@ -10423,6 +10523,11 @@
 "com.foxnews.android",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.free.vpn.super.hotspot.open",
+"Hxreborn",
+"Disconnect from notification"
 ],
 [
 "com.frontrow.vlog",
@@ -14397,6 +14502,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide the Community Standards reminder"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide the Explore grid"
 ],
 [
@@ -16390,6 +16500,21 @@
 "Subway Surfers Remove Ads"
 ],
 [
+"com.king.candycrushsodasaga",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.king.candycrushsodasaga",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.king.candycrushsodasaga",
+"JohnInNL",
+"Parked app for Android Auto"
+],
+[
 "com.kleientertainment.doNotStarvePocket",
 "Steeepaaaan",
 "Neutralize PDALIFE JNI_OnLoad (universal)"
@@ -16913,6 +17038,11 @@
 "com.ledblinker",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.lemon.lvoverseas",
+"Chiggi",
+"Allow Functional Network Hosts"
 ],
 [
 "com.lemon.lvoverseas",
@@ -17723,6 +17853,16 @@
 "com.lonelycatgames.Xplore",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.lonelycatgames.Xplore",
+"Mwbra130",
+"Bypass PairIP signature check"
+],
+[
+"com.lonelycatgames.Xplore",
+"Mwbra130",
+"Enable Premium"
 ],
 [
 "com.losslessvideocutter",
@@ -19520,6 +19660,26 @@
 "Unlock premium"
 ],
 [
+"com.nike.plusgps",
+"Madushas",
+"Disable tracker components"
+],
+[
+"com.nike.plusgps",
+"Madushas",
+"Disable trackers"
+],
+[
+"com.nike.plusgps",
+"Madushas",
+"Enable dark mode"
+],
+[
+"com.nike.plusgps",
+"Madushas",
+"Remove ads"
+],
+[
 "com.nikkei.asia",
 "XBadFellaX",
 "Nikkei Asia premium reading"
@@ -19985,6 +20145,21 @@
 "AMOLED dark theme"
 ],
 [
+"com.omobio.etisalatone",
+"Madushas",
+"Disable SSL pinning"
+],
+[
+"com.omobio.etisalatone",
+"Madushas",
+"Disable security checks"
+],
+[
+"com.omobio.etisalatone",
+"Madushas",
+"Disable trackers"
+],
+[
 "com.one4studio.one4home",
 "Hxreborn",
 "Unlock premium"
@@ -20413,6 +20588,11 @@
 "com.oplus.screenrecorder",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
+],
+[
+"com.optimageeks.vehico_app",
+"Mwbra130",
+"Remove ads"
 ],
 [
 "com.orange.coloring.learn.kids",
@@ -23025,6 +23205,31 @@
 "Unlock Premium"
 ],
 [
+"com.runtastic.android",
+"Madushas",
+"Bypass PairIP"
+],
+[
+"com.runtastic.android",
+"Madushas",
+"Disable tracker components"
+],
+[
+"com.runtastic.android",
+"Madushas",
+"Disable trackers"
+],
+[
+"com.runtastic.android",
+"Madushas",
+"Enable dark mode"
+],
+[
+"com.runtastic.android",
+"Madushas",
+"Remove ads"
+],
+[
 "com.saban.glassy.glasswidgets.themes",
 "Sabrina-Moonlight",
 "Local Premium"
@@ -23833,6 +24038,16 @@
 "com.shervinkoushan.anyTracker",
 "Hxreborn",
 "Unlock Platinum"
+],
+[
+"com.shrey_businessx.android",
+"Mwbra130",
+"Change installer source"
+],
+[
+"com.shrey_businessx.android",
+"Mwbra130",
+"Enable Premium"
 ],
 [
 "com.sidelineswap.android",
@@ -30395,6 +30610,21 @@
 "Controller angular world to local"
 ],
 [
+"com.vectorunit.purple.googleplay",
+"JohnInNL",
+"Disable tracking"
+],
+[
+"com.vectorunit.purple.googleplay",
+"JohnInNL",
+"Hide ads"
+],
+[
+"com.vectorunit.purple.googleplay",
+"JohnInNL",
+"Parked app for Android Auto"
+],
+[
 "com.viaplay.android",
 "Heval",
 "Disable telemetry"
@@ -32533,6 +32763,16 @@
 "com.yazio.android",
 "DasCarstel",
 "Trust user certificates"
+],
+[
+"com.yinyang.launcher",
+"Mwbra130",
+"Change installer source"
+],
+[
+"com.yinyang.launcher",
+"Mwbra130",
+"Enable Premium"
 ],
 [
 "com.yodo1.crossyroad",
@@ -41678,6 +41918,16 @@
 "tech.simha.androidtvremote",
 "XBadFellaX",
 "Remote ATV ad-free"
+],
+[
+"to.freedom.android2",
+"Hxreborn",
+"Remove upsells"
+],
+[
+"to.freedom.android2",
+"Hxreborn",
+"Unlock Locked Mode"
 ],
 [
 "todolist.scheduleplanner.dailyplanner.todo.reminders",
