@@ -335,6 +335,16 @@
 "Hide ads"
 ],
 [
+"au.com.kayosports",
+"AzizPatel786",
+"Kayo Mobile quality & performance"
+],
+[
+"au.com.kayosports.tv",
+"AzizPatel786",
+"Kayo Android TV 4K quality & performance"
+],
+[
 "au.com.shiftyjelly.pocketcasts",
 "Titandrive",
 "Pocket Casts custom font"
@@ -1697,7 +1707,17 @@
 [
 "com.addatimes.Addatimes",
 "Media",
+"Access content (TV)"
+],
+[
+"com.addatimes.Addatimes",
+"Media",
 "Anonymous user"
+],
+[
+"com.addatimes.Addatimes",
+"Media",
+"Anonymous user (TV)"
 ],
 [
 "com.addatimes.Addatimes",
@@ -1813,6 +1833,16 @@
 "com.advasoft.touchretouch.plus",
 "Sabbirexist",
 "Unlock premium"
+],
+[
+"com.aeroloom.fylofilemanager",
+"Santodan",
+"Fylo - Enable Pro"
+],
+[
+"com.aeroloom.fylofilemanager",
+"Santodan",
+"Fylo - Enable Pro (Experimental, any version)"
 ],
 [
 "com.aftership.AfterShip",
@@ -2712,12 +2742,27 @@
 [
 "com.anghami",
 "Kero309x",
+"Allow screenshots"
+],
+[
+"com.anghami",
+"Kero309x",
 "Block Audio Ads"
 ],
 [
 "com.anghami",
 "Kero309x",
 "Block Promotional Popups"
+],
+[
+"com.anghami",
+"Kero309x",
+"Block ads between tracks"
+],
+[
+"com.anghami",
+"Kero309x",
+"Block promotional popups"
 ],
 [
 "com.anghami",
@@ -2737,12 +2782,37 @@
 [
 "com.anghami",
 "Kero309x",
+"Disable analytics"
+],
+[
+"com.anghami",
+"Kero309x",
+"Disable first-party Silo telemetry"
+],
+[
+"com.anghami",
+"Kero309x",
+"Disable forced shuffle"
+],
+[
+"com.anghami",
+"Kero309x",
+"Disable the rating prompt"
+],
+[
+"com.anghami",
+"Kero309x",
 "Expand Download Limits"
 ],
 [
 "com.anghami",
 "Kero309x",
 "Hide Gold Upsell"
+],
+[
+"com.anghami",
+"Kero309x",
+"Hide Gold upsell"
 ],
 [
 "com.anghami",
@@ -2762,6 +2832,46 @@
 [
 "com.anghami",
 "Kero309x",
+"Hide in-feed ad banners"
+],
+[
+"com.anghami",
+"Kero309x",
+"Hide premium feature buttons"
+],
+[
+"com.anghami",
+"Kero309x",
+"Hide shuffle badges"
+],
+[
+"com.anghami",
+"Kero309x",
+"Hide sponsored content"
+],
+[
+"com.anghami",
+"Kero309x",
+"Hide upgrade banners"
+],
+[
+"com.anghami",
+"Kero309x",
+"Ignore the forced update requirement"
+],
+[
+"com.anghami",
+"Kero309x",
+"Lift download limits"
+],
+[
+"com.anghami",
+"Kero309x",
+"Plus entitlement state"
+],
+[
+"com.anghami",
+"Kero309x",
 "Remove Sponsored Content"
 ],
 [
@@ -2772,12 +2882,27 @@
 [
 "com.anghami",
 "Kero309x",
+"Show profile Plus badge"
+],
+[
+"com.anghami",
+"Kero309x",
 "Spoof App Signature"
 ],
 [
 "com.anghami",
 "Kero309x",
+"Stock signature assertion"
+],
+[
+"com.anghami",
+"Kero309x",
 "Unlimited Track Skips"
+],
+[
+"com.anghami",
+"Kero309x",
+"Unlimited track skips"
 ],
 [
 "com.anghami",
@@ -2788,6 +2913,11 @@
 "com.anghami",
 "Kero309x",
 "Unlock Plus Experience"
+],
+[
+"com.anghami",
+"Kero309x",
+"Unlock lyrics"
 ],
 [
 "com.anghami",
@@ -2900,6 +3030,41 @@
 "Unlock playback limits"
 ],
 [
+"com.angkin.keyflow",
+"Globberry",
+"Keyflow f6olX Goto Fix"
+],
+[
+"com.angkin.keyflow",
+"Globberry",
+"PairIP License Check"
+],
+[
+"com.angkin.keyflow",
+"Globberry",
+"Pro Unlock"
+],
+[
+"com.angkin.keyflow",
+"Globberry",
+"Signer Identity"
+],
+[
+"com.angkin.keyflow",
+"Globberry",
+"[ALL] PairIP License Check"
+],
+[
+"com.angkin.keyflow",
+"Globberry",
+"[ALL] Pro Unlock"
+],
+[
+"com.angkin.keyflow",
+"Globberry",
+"[ALL] Signer Identity"
+],
+[
 "com.anthropic.claude",
 "Ineednotitle",
 "Block Sentry telemetry"
@@ -2932,7 +3097,27 @@
 [
 "com.app.nobrokerhood",
 "Srinath1848",
+"NoBrokerHood: Default browser, block known ad hosts (experimental)"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
 "NoBrokerHood: Hide app-bar banners (experimental)"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide app-bar island row (test)"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide app-bar response cards (experimental)"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide default post-approval card (experimental)"
 ],
 [
 "com.app.nobrokerhood",
@@ -2957,7 +3142,27 @@
 [
 "com.app.nobrokerhood",
 "Srinath1848",
+"NoBrokerHood: Hide floating promotional sidebar"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide home-discover carousel (experimental)"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide homepage billboard"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
 "NoBrokerHood: Hide homepage top ads (experimental)"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Hide island promotional strip (experimental)"
 ],
 [
 "com.app.nobrokerhood",
@@ -2967,12 +3172,32 @@
 [
 "com.app.nobrokerhood",
 "Srinath1848",
+"NoBrokerHood: Hide post-approval multimedia ads"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
 "NoBrokerHood: Hide promotional popups"
 ],
 [
 "com.app.nobrokerhood",
 "Srinath1848",
+"NoBrokerHood: Hide promotional side tab (experimental)"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
 "NoBrokerHood: Hide visitor-flow ads"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Stop full-screen permission nag"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Stop promotional browser launches from notifications"
 ],
 [
 "com.appgenix.bizcal",
@@ -5892,6 +6117,11 @@
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
+"AniList sync"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
 "Disable background services"
 ],
 [
@@ -7750,6 +7980,11 @@
 "Free Store"
 ],
 [
+"com.dnddream.headsoccer.android",
+"byehi98",
+"Unlock Collab Characters"
+],
+[
 "com.dogbytegames.offtheroad",
 "byehi98",
 "Free Rewarded Ads"
@@ -8308,6 +8543,46 @@
 "com.elink.fittrackhealth.pro",
 "braiNtropy",
 "Unlock Premium"
+],
+[
+"com.emeint.android.myservices",
+"Kero309x",
+"Disable certificate pinning"
+],
+[
+"com.emeint.android.myservices",
+"Kero309x",
+"Disable the forced update requirement"
+],
+[
+"com.emeint.android.myservices",
+"Kero309x",
+"Disable usage tracking"
+],
+[
+"com.emeint.android.myservices",
+"Kero309x",
+"Hide the promotional card"
+],
+[
+"com.emeint.android.myservices",
+"Kero309x",
+"Ignore the server's remote wipe and forced logout"
+],
+[
+"com.emeint.android.myservices",
+"Kero309x",
+"Keep the password of each account"
+],
+[
+"com.emeint.android.myservices",
+"Kero309x",
+"Remove the saved account limit"
+],
+[
+"com.emeint.android.myservices",
+"Kero309x",
+"Skip the store licence check"
 ],
 [
 "com.enflick.android.TextNow",
@@ -12821,6 +13096,36 @@
 ],
 [
 "com.google.android.youtube.tv",
+"Jair1c",
+"Custom branding"
+],
+[
+"com.google.android.youtube.tv",
+"Jair1c",
+"Disable start on boot"
+],
+[
+"com.google.android.youtube.tv",
+"Jair1c",
+"FaroTV settings and scripts"
+],
+[
+"com.google.android.youtube.tv",
+"Jair1c",
+"GmsCore support"
+],
+[
+"com.google.android.youtube.tv",
+"Jair1c",
+"Run without Google Play Services"
+],
+[
+"com.google.android.youtube.tv",
+"Jair1c",
+"Spoof device"
+],
+[
+"com.google.android.youtube.tv",
 "Ysamjo",
 "Cobalt-Start-URL \u00e4ndern"
 ],
@@ -12933,6 +13238,21 @@
 "com.gpsmapcamera.geotagginglocationonphoto",
 "Rudrakshrajpurohit417",
 "Premium Unlocked"
+],
+[
+"com.grandgames.magicsort",
+"byehi98",
+"Free IAP"
+],
+[
+"com.grandgames.magicsort",
+"byehi98",
+"Instant Rewarded Ads"
+],
+[
+"com.grandgames.magicsort",
+"byehi98",
+"Remove Ads"
 ],
 [
 "com.graymatrix.did",
@@ -14627,6 +14947,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Keep story buttons below the story"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Keep the Reels top bar"
 ],
 [
@@ -15048,6 +15373,11 @@
 "com.instagram.android",
 "Piko",
 "Custom font"
+],
+[
+"com.instagram.android",
+"Piko",
+"Disable Play Store updates"
 ],
 [
 "com.instagram.android",
@@ -15785,6 +16115,11 @@
 "CamScanner restore trust on re-signed builds"
 ],
 [
+"com.inwepo.apkinstaller",
+"Sabbirdj",
+"Remove ads (APKS Installer)"
+],
+[
 "com.iptvprostreamplayer.v1.fr",
 "IPTV",
 "Unlock Pro (IPTV)"
@@ -16213,6 +16548,21 @@
 "com.kakarod.bighunter",
 "Chiggi",
 "Remove ads"
+],
+[
+"com.kanopy",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.kanopy",
+"Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.kanopy",
+"Semicoloncolonel",
+"Hide survey"
 ],
 [
 "com.kasikorn.retail.mbanking.wap",
@@ -17572,6 +17922,11 @@
 [
 "com.linkedin.android",
 "Loki",
+"Dark app icon"
+],
+[
+"com.linkedin.android",
+"Loki",
 "Disable double-tap like"
 ],
 [
@@ -18226,6 +18581,21 @@
 ],
 [
 "com.medium.reader",
+"Kenny201",
+"Bypass Play Store Check"
+],
+[
+"com.medium.reader",
+"Kenny201",
+"Bypass paywall"
+],
+[
+"com.medium.reader",
+"Kenny201",
+"Translate articles"
+],
+[
+"com.medium.reader",
 "RayBourn",
 "Freedium"
 ],
@@ -18390,9 +18760,24 @@
 "Own premium plan"
 ],
 [
+"com.merriamwebster",
+"Mhs11294",
+"Add to Anki"
+],
+[
 "com.meteoblue.droid",
 "o0b",
 "Unlock Premium"
+],
+[
+"com.metservice.kryten",
+"WindWanderer",
+"MetService Premium"
+],
+[
+"com.metservice.kryten",
+"WindWanderer",
+"MetService Remove Splash Delay"
 ],
 [
 "com.mi.earphone",
@@ -18981,6 +19366,11 @@
 ],
 [
 "com.mtv.sai",
+"Sabbirdj",
+"Unlock SAI Premium"
+],
+[
+"com.mtv.sai",
 "TorbenStriegel",
 "Remove Play Store redirect"
 ],
@@ -19328,6 +19718,11 @@
 "com.nbaimd.gametime.nba2011",
 "Semicoloncolonel",
 "Disable auto-updates"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel",
+"Hide League Pass upsells"
 ],
 [
 "com.nbaimd.gametime.nba2011",
@@ -19713,6 +20108,21 @@
 "com.ninegag.android.app",
 "ggYasin",
 "Remove 9GAG ads, promoted posts and trackers (8.23.0)"
+],
+[
+"com.noctuasoftware.stellarium_free",
+"WindWanderer",
+"Stellarium Extended Catalog"
+],
+[
+"com.noctuasoftware.stellarium_free",
+"WindWanderer",
+"Stellarium Extended Catalog (ZIP support)"
+],
+[
+"com.noctuasoftware.stellarium_free",
+"WindWanderer",
+"Stellarium Premium"
 ],
 [
 "com.nokoprint",
@@ -20118,6 +20528,16 @@
 "com.ogestudio.strukpertamini",
 "Plyrs1",
 "Remove Ads"
+],
+[
+"com.okampro.oksmart",
+"Joelmzj",
+"Bypass O-KAM Pro Signature Check"
+],
+[
+"com.okampro.oksmart",
+"Joelmzj",
+"Remove O-KAM Pro Ads"
 ],
 [
 "com.olx.pk",
@@ -20675,6 +21095,21 @@
 "Unlock Premium"
 ],
 [
+"com.overdrive.mobile.android.libby",
+"Tomveloper",
+"Custom reading font"
+],
+[
+"com.overdrive.mobile.android.libby",
+"Tomveloper",
+"Enable WebView debugging"
+],
+[
+"com.overdrive.mobile.android.libby",
+"Tomveloper",
+"Shared web routes"
+],
+[
 "com.overlook.android.fing",
 "Pigfoot",
 "Fing local premium features"
@@ -20688,6 +21123,11 @@
 "com.ovz.carscanner",
 "Santodan",
 "Car Scanner - Premium status"
+],
+[
+"com.ovz.carscanner",
+"Santodan",
+"Car Scanner - Premium status (Experimental)"
 ],
 [
 "com.ovz.carscanner",
@@ -21977,6 +22417,11 @@
 [
 "com.reddit.frontpage",
 "Bin0culars",
+"Content-type filter"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
 "Post side panel"
 ],
 [
@@ -22022,7 +22467,32 @@
 [
 "com.reddit.frontpage",
 "Ineednotitle",
+"Disable Reddit video autoplay"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
 "Employee Debug Flags"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Hide crossposts"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Hide live streams"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Hide read posts"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Open Reddit links in external browser"
 ],
 [
 "com.reddit.frontpage",
@@ -22038,6 +22508,11 @@
 "com.reddit.frontpage",
 "Ineednotitle",
 "Show deleted comments"
+],
+[
+"com.reddit.frontpage",
+"Ineednotitle",
+"Show deleted posts and comments"
 ],
 [
 "com.reddit.frontpage",
@@ -23900,6 +24375,21 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.sega.sonicdash",
+"byehi98",
+"Free Ad Rewards"
+],
+[
+"com.sega.sonicdash",
+"byehi98",
+"Free Store Purchases"
+],
+[
+"com.sega.sonicdash",
+"byehi98",
+"Remove Ads"
+],
+[
 "com.serializdmobile",
 "Hxreborn",
 "Disable tracking"
@@ -24448,6 +24938,11 @@
 "com.soundcloud.android",
 "JohnInNL",
 "Home in Android Auto"
+],
+[
+"com.soundcloud.android",
+"JohnInNL",
+"Ignore device limit"
 ],
 [
 "com.spaceship.screen.textcopy",
@@ -26345,6 +26840,31 @@
 "Unlock Premium"
 ],
 [
+"com.syncme.syncmeapp",
+"SledgeSune",
+"Disable tracking"
+],
+[
+"com.syncme.syncmeapp",
+"SledgeSune",
+"Hide ads"
+],
+[
+"com.syncme.syncmeapp",
+"SledgeSune",
+"Hide upgrade prompts"
+],
+[
+"com.syncme.syncmeapp",
+"SledgeSune",
+"Keep navigation bar"
+],
+[
+"com.syncme.syncmeapp",
+"SledgeSune",
+"Skip app promotions"
+],
+[
 "com.talabat",
 "AltF4G0x",
 "Allow screenshots"
@@ -27245,6 +27765,11 @@
 "Unlock premium"
 ],
 [
+"com.thetransitapp.droid",
+"Oliver-Leung",
+"GO Live Update"
+],
+[
 "com.thinkdirty.thinkdirtyapp",
 "Dowjames",
 "Unlock premium"
@@ -27778,6 +28303,26 @@
 "com.todoist",
 "Titandrive",
 "Todoist custom font"
+],
+[
+"com.touchtype.swiftkey",
+"M1zir",
+"Customise toolbar"
+],
+[
+"com.touchtype.swiftkey",
+"M1zir",
+"Disable cloud sign-in prompt"
+],
+[
+"com.touchtype.swiftkey",
+"M1zir",
+"Disable telemetry"
+],
+[
+"com.touchtype.swiftkey",
+"M1zir",
+"Keep clipboard history forever"
 ],
 [
 "com.touchtype.swiftkey",
@@ -29236,6 +29781,11 @@
 ],
 [
 "com.twitter.android",
+"Piko",
+"Disable Play Store updates"
+],
+[
+"com.twitter.android",
 "Piko NewX",
 "NewX: Browse tweet object"
 ],
@@ -29983,6 +30533,11 @@
 "com.twodoor.bookly",
 "Heval",
 "Enable Premium"
+],
+[
+"com.twtapp",
+"WindWanderer",
+"Unlock Subscription"
 ],
 [
 "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
@@ -32168,6 +32723,16 @@
 "com.waze",
 "Pomee4",
 "GmsCore support"
+],
+[
+"com.waze",
+"SledgeSune",
+"Disable reroute auto-accept"
+],
+[
+"com.waze",
+"SledgeSune",
+"Trip history"
 ],
 [
 "com.waze",
@@ -34457,6 +35022,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Hide feed ads"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Hide read receipts"
 ],
 [
@@ -34512,7 +35082,17 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"AMOLED dark theme"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Bypass Zalo Drive Contacts permission gate"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Change Zalo app icon"
 ],
 [
 "com.zing.zalo",
@@ -34547,12 +35127,22 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"Hide Newsfeed promotions"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Hide chat list ads"
 ],
 [
 "com.zing.zalo",
 "Zeldris",
 "Hide navigation tabs"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Keep recalled messages"
 ],
 [
 "com.zing.zalo",
@@ -34693,6 +35283,16 @@
 "cz.mroczis.netmonster",
 "Proxma",
 "Google Maps API key (NetMonster)"
+],
+[
+"cz.mroczis.netmonster",
+"Sabbirdj",
+"Fix map via MicroG-RE"
+],
+[
+"cz.mroczis.netmonster",
+"Sabbirdj",
+"Unlock NetMonster Premium"
 ],
 [
 "cz.mroczis.netmonster",
@@ -34860,6 +35460,11 @@
 "Remove subscription paywalls"
 ],
 [
+"deezer.android.app",
+"LuckyTheCookie",
+"Unison bridge"
+],
+[
 "defense.roguelike.cell.shoot.survivor",
 "Totto357",
 "Bypass Force Update"
@@ -34968,6 +35573,11 @@
 "dev.vodik7.tvquickactions",
 "6zev",
 "Initialize ADB server Looper"
+],
+[
+"dev.vodik7.tvquickactions",
+"6zev",
+"Input without the ADB server"
 ],
 [
 "dev.vodik7.tvquickactions",
@@ -36268,6 +36878,16 @@
 "jp.co.airfront.android.a2chMate",
 "Haiagaru",
 "\u753b\u50cf\u53d6\u5f97\u5c02\u7528VPN\uff08\u5b9f\u9a13\u7528\u30fb\u691c\u8a3c\u4e2d\uff09"
+],
+[
+"jp.co.canon.ic.cameraconnect",
+"Rajdave69",
+"Choose Canon ID sign-in browser"
+],
+[
+"jp.co.canon.ic.cameraconnect",
+"Rajdave69",
+"Optional Canon ID Login"
 ],
 [
 "jp.co.celsys.clipstudiopaint.googleplay",
@@ -42723,6 +43343,21 @@
 "wibuku.app.wibuku",
 "Fynnaly",
 "Premium"
+],
+[
+"works.jubilee.timetree",
+"Rico957",
+"Disable ad slot flags"
+],
+[
+"works.jubilee.timetree",
+"Rico957",
+"Remove in-app ads"
+],
+[
+"works.jubilee.timetree",
+"Rico957",
+"Remove splash/open ads"
 ],
 [
 "wp.wattpad",
