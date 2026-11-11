@@ -160,6 +160,21 @@
 "Preserve excluded Default-category downloads"
 ],
 [
+"app.modprod.apkbase",
+"MOD-PROD",
+"ModProd App"
+],
+[
+"app.modprod.apkbase",
+"MOD-PROD",
+"ModProd R\u00e9glages"
+],
+[
+"app.modprod.atvlink.base",
+"MOD-PROD",
+"ATV Launcher"
+],
+[
 "app.myspoti.stable",
 "JohnInNL",
 "Android Auto Up next"
@@ -3065,6 +3080,21 @@
 "[ALL] Signer Identity"
 ],
 [
+"com.angkin.keyflow",
+"Globberry",
+"[Export] 12 Purchase Allow"
+],
+[
+"com.angkin.keyflow",
+"Globberry",
+"[Export] 8 Diagnostics"
+],
+[
+"com.angkin.keyflow",
+"Globberry",
+"[Export] 9 Toast"
+],
+[
 "com.anthropic.claude",
 "Ineednotitle",
 "Block Sentry telemetry"
@@ -3093,6 +3123,21 @@
 "com.apnatunnel.lite",
 "Hxreborn",
 "Remove ads"
+],
+[
+"com.app.mlounge",
+"AbShaheen184",
+"Disable background service relaunch receivers"
+],
+[
+"com.app.mlounge",
+"AbShaheen184",
+"Neutralize Appsalt reward service"
+],
+[
+"com.app.mlounge",
+"AbShaheen184",
+"Neutralize Hopmn bandwidth sharing"
 ],
 [
 "com.app.nobrokerhood",
@@ -3187,7 +3232,17 @@
 [
 "com.app.nobrokerhood",
 "Srinath1848",
+"NoBrokerHood: Hide visitor promotional island"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
 "NoBrokerHood: Hide visitor-flow ads"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Skip post-approval ad container (experimental)"
 ],
 [
 "com.app.nobrokerhood",
@@ -3303,6 +3358,11 @@
 "com.apple.android.music",
 "Andersonlucasg3-Glitch",
 "TV: player expand focus"
+],
+[
+"com.apple.android.music",
+"JacksonJones2003",
+"Origin Island music card"
 ],
 [
 "com.apple.android.music",
@@ -4840,6 +4900,21 @@
 "Brave Origin"
 ],
 [
+"com.brave.browser",
+"Zimza1abim",
+"Brave auto-hide toolbar with accessibility services"
+],
+[
+"com.brave.browser",
+"Zimza1abim",
+"Brave custom webpage fonts"
+],
+[
+"com.brave.browser",
+"Zimza1abim",
+"Brave font picker in settings"
+],
+[
 "com.brave.browser_beta",
 "Brave",
 "Brave AMOLED theme"
@@ -5088,6 +5163,11 @@
 "com.bydeluxe.d3.android.program.starz",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.c25k",
+"CallMeBeyonder",
+"Unlock Premium"
 ],
 [
 "com.caltopo.android",
@@ -6080,6 +6160,11 @@
 "Remove ads, proxy & restrictions"
 ],
 [
+"com.crrepa.band.dafit",
+"Sayan201",
+"Remove ads"
+],
+[
 "com.crunchyroll.crunchyroid",
 "Ikuradachi",
 "Disable Datadog telemetry setup"
@@ -6197,6 +6282,11 @@
 [
 "com.cvs.launchers.cvs",
 "Semicoloncolonel",
+"Hide sponsored listings"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel",
 "Spoof carrier"
 ],
 [
@@ -6300,6 +6390,66 @@
 "Use your own location"
 ],
 [
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Block Bluetooth scanning"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Block ads"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Block background location"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Disable Pairip license check"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Hide Wi-Fi networks"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Hide cell tower info"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Hide pop-ups"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
 "com.dealseekorg.dealseek",
 "Semicoloncolonel",
 "Block Bluetooth scanning"
@@ -6313,6 +6463,11 @@
 "com.dealseekorg.dealseek",
 "Semicoloncolonel",
 "Block background location"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel",
+"Dark mode"
 ],
 [
 "com.dealseekorg.dealseek",
@@ -6338,6 +6493,11 @@
 "com.dealseekorg.dealseek",
 "Semicoloncolonel",
 "Hide device identifiers"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel",
+"Hide editor articles"
 ],
 [
 "com.dealseekorg.dealseek",
@@ -9122,6 +9282,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Ask before a like"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Badge and logo colors"
 ],
 [
@@ -9568,6 +9733,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Sanitize sharing links"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Saved button in search"
 ],
 [
 "com.facebook.katana",
@@ -10622,6 +10792,11 @@
 [
 "com.fmkorea.m.fmk",
 "Dongmin8350",
+"Collapse FMKorea ad spaces"
+],
+[
+"com.fmkorea.m.fmk",
+"Dongmin8350",
 "Remove FMKorea splash logo"
 ],
 [
@@ -11060,6 +11235,26 @@
 "Unlock premium (foodpanda)"
 ],
 [
+"com.global.foodpanda.android",
+"Saadbinyousaf1",
+"Bypass anti-tamper (foodpanda)"
+],
+[
+"com.global.foodpanda.android",
+"Saadbinyousaf1",
+"Force dark mode"
+],
+[
+"com.global.foodpanda.android",
+"Saadbinyousaf1",
+"Remove ads"
+],
+[
+"com.global.foodpanda.android",
+"Saadbinyousaf1",
+"Spoof signature (maps fix)"
+],
+[
 "com.glu.android.zombsniper",
 "ComoEstaisAmigos",
 "Hidden weapons"
@@ -11323,6 +11518,11 @@
 "com.google.android.GoogleCameraEng",
 "Kekimurus",
 "Video Boost startup state"
+],
+[
+"com.google.android.apps.bard",
+"Johannes7k75",
+"Open cloned Google app"
 ],
 [
 "com.google.android.apps.books",
@@ -11852,6 +12052,11 @@
 [
 "com.google.android.apps.maps",
 "JohnInNL",
+"Native navigation for any Android Auto host"
+],
+[
+"com.google.android.apps.maps",
+"JohnInNL",
 "Offline saved places"
 ],
 [
@@ -11863,6 +12068,11 @@
 "com.google.android.apps.maps",
 "JohnInNL",
 "Proxy"
+],
+[
+"com.google.android.apps.maps",
+"JohnInNL",
+"Receive alerts from a third-party application"
 ],
 [
 "com.google.android.apps.maps",
@@ -12391,6 +12601,26 @@
 ],
 [
 "com.google.android.apps.youtube.music",
+"JacksonJones2003",
+"Jovi voice requests"
+],
+[
+"com.google.android.apps.youtube.music",
+"JacksonJones2003",
+"Lyrics in player"
+],
+[
+"com.google.android.apps.youtube.music",
+"JacksonJones2003",
+"Origin Island music card"
+],
+[
+"com.google.android.apps.youtube.music",
+"JacksonJones2003",
+"Pause on fold"
+],
+[
+"com.google.android.apps.youtube.music",
 "JohnInNL",
 "Gearslip music browser support"
 ],
@@ -12623,6 +12853,31 @@
 "com.google.android.gm",
 "Mlkem",
 "Gmail account visibility"
+],
+[
+"com.google.android.googlequicksearchbox",
+"Johannes7k75",
+"Allow work profile"
+],
+[
+"com.google.android.googlequicksearchbox",
+"Johannes7k75",
+"Request microG permissions"
+],
+[
+"com.google.android.googlequicksearchbox",
+"Johannes7k75",
+"Skip uncertified device warning"
+],
+[
+"com.google.android.googlequicksearchbox",
+"Johannes7k75",
+"Unlock update-required chats"
+],
+[
+"com.google.android.googlequicksearchbox",
+"Johannes7k75",
+"microG support"
 ],
 [
 "com.google.android.googlequicksearchbox",
@@ -13093,6 +13348,21 @@
 "com.google.android.youtube",
 "DanielTheManiel",
 "Current Frame Media Artwork"
+],
+[
+"com.google.android.youtube",
+"JacksonJones2003",
+"Comments under the video"
+],
+[
+"com.google.android.youtube",
+"JacksonJones2003",
+"Origin Island music card"
+],
+[
+"com.google.android.youtube",
+"JacksonJones2003",
+"Pause on fold"
 ],
 [
 "com.google.android.youtube",
@@ -14517,6 +14787,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Ask before a follow"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Ask before a like"
 ],
 [
@@ -14787,6 +15062,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide profile banners"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide profile tabs"
 ],
 [
@@ -14957,6 +15237,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Keep photo locations from Instagram"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Keep playing in the background"
 ],
 [
@@ -15028,6 +15313,11 @@
 "com.instagram.android",
 "HushGram",
 "Open links in external browser"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Open reel links on that reel"
 ],
 [
 "com.instagram.android",
@@ -16620,6 +16910,16 @@
 "Unlock price increase tracking"
 ],
 [
+"com.keepeetron.sobosuba",
+"Elouangrimm",
+"Clone app (Sobosuba)"
+],
+[
+"com.keepeetron.sobosuba",
+"Elouangrimm",
+"Enable debug mode (Sobosuba)"
+],
+[
 "com.kick.mobile",
 "JordanWoodson",
 "AMOLED black"
@@ -16822,7 +17122,17 @@
 [
 "com.kick.mobile",
 "SeyTheGamer Android TV",
+"HIDE PINNED"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Android TV",
 "SEYTTINGS"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Android TV",
+"SKIP 18+ WARNING"
 ],
 [
 "com.kick.mobile",
@@ -17272,6 +17582,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "RashKash103",
+"Keep your place in a feed"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
 "Load threads whose text contains a dollar sign"
 ],
 [
@@ -17668,6 +17983,21 @@
 "com.letterboxd.letterboxd",
 "Letterboxd",
 "Hide Spotlight Ad"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
+"Custom artwork"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
+"Hide sponsored content"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
+"Smooth film credits tabs"
 ],
 [
 "com.letterboxd.letterboxd",
@@ -18132,6 +18462,11 @@
 [
 "com.linkedin.android",
 "XBadFellaX",
+"Always show navigation bar"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
 "Anonymous profile viewing"
 ],
 [
@@ -18142,12 +18477,22 @@
 [
 "com.linkedin.android",
 "XBadFellaX",
+"Copy post text"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
 "Copy text"
 ],
 [
 "com.linkedin.android",
 "XBadFellaX",
 "Customize navigation bar"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Dark app icon"
 ],
 [
 "com.linkedin.android",
@@ -18222,6 +18567,11 @@
 [
 "com.linkedin.android",
 "XBadFellaX",
+"Icon-only post actions"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
 "Install next to LinkedIn"
 ],
 [
@@ -18233,6 +18583,11 @@
 "com.linkedin.android",
 "XBadFellaX",
 "Material You"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Material icons in the bottom bar"
 ],
 [
 "com.linkedin.android",
@@ -18343,6 +18698,56 @@
 "com.losslessvideocutter",
 "Mwbra130",
 "Remove ads"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Block Bluetooth scanning"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Block background location"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Disable AI"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Hide Wi-Fi networks"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Hide cell tower info"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Hide sponsored listings"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.lucky_apps.RainViewer",
@@ -19790,6 +20195,16 @@
 "Unlock premium"
 ],
 [
+"com.naturalmotion.csrracing",
+"byehi98",
+"Unlimited Cash"
+],
+[
+"com.naturalmotion.csrracing",
+"byehi98",
+"Unlimited Gold"
+],
+[
 "com.navercorp.game.android.community",
 "Snowyegret23",
 "Auto claim TongPow"
@@ -19993,6 +20408,11 @@
 "com.netease.cloudmusic",
 "Sas-News",
 "\u65e5\u672c\u8a9e\u5316 (Japanese UI)"
+],
+[
+"com.netflix.ninja",
+"Android TV",
+"Remove Netflix ads (legacy engine)"
 ],
 [
 "com.newleaf.app.android.victor",
@@ -20686,6 +21106,11 @@
 ],
 [
 "com.omobio.etisalatone",
+"Jzl1",
+"Remove environment checks"
+],
+[
+"com.omobio.etisalatone",
 "Madushas",
 "Disable SSL pinning"
 ],
@@ -20893,6 +21318,11 @@
 "com.onelouder.baconreader",
 "JoanComasFdz",
 "Spoof client"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Swipe through albums"
 ],
 [
 "com.onelouder.baconreader",
@@ -21653,6 +22083,11 @@
 "com.pika.dynamicisland",
 "Mwbra130",
 "Enable Lifetime VIP"
+],
+[
+"com.pika.dynamicisland",
+"Mwbra130",
+"Spoof app signature"
 ],
 [
 "com.pikpok.dr2.play",
@@ -24200,6 +24635,11 @@
 "nicoid Re"
 ],
 [
+"com.sbs.diet",
+"CallMeBeyonder",
+"Unlock Premium (Root)"
+],
+[
 "com.sbs.ondemand.android",
 "Supperelias2 SBS",
 "Prefer direct VOD stream"
@@ -26725,6 +27165,11 @@
 "Material You theme"
 ],
 [
+"com.streetwriters.notesnook",
+"Zimza1abim",
+"Notesnook custom font"
+],
+[
 "com.stremio.one",
 "Azksama",
 "Stremio AniSkip"
@@ -27852,6 +28297,11 @@
 [
 "com.thehomedepot",
 "Semicoloncolonel",
+"Hide sponsored listings"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel",
 "Spoof carrier"
 ],
 [
@@ -28448,6 +28898,11 @@
 "com.touchtype.swiftkey",
 "M1zir",
 "Keep clipboard history forever"
+],
+[
+"com.touchtype.swiftkey",
+"M1zir",
+"Restore Arabic 123 legacy layout"
 ],
 [
 "com.touchtype.swiftkey",
@@ -30867,6 +31322,16 @@
 [
 "com.usablenet.mobile.walgreen",
 "Semicoloncolonel",
+"Hide sponsored products"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel",
+"Hide surveys and rating prompt"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel",
 "Spoof carrier"
 ],
 [
@@ -32112,6 +32577,11 @@
 [
 "com.walmart.android",
 "Semicoloncolonel",
+"Hide sponsored listings"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel",
 "Spoof carrier"
 ],
 [
@@ -32607,6 +33077,11 @@
 [
 "com.waze",
 "JohnInNL",
+"Allow any Android Auto host"
+],
+[
+"com.waze",
+"JohnInNL",
 "Allow high refresh rate"
 ],
 [
@@ -32877,6 +33352,16 @@
 [
 "com.waze",
 "SledgeSune",
+"Keep Waze alive"
+],
+[
+"com.waze",
+"SledgeSune",
+"Remove ads"
+],
+[
+"com.waze",
+"SledgeSune",
 "Trip history"
 ],
 [
@@ -33023,6 +33508,76 @@
 "com.wetter.androidclient",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Block Bluetooth scanning"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Block background location"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Dark mode"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Disable Pairip license check"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Hide Wi-Fi networks"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Hide cell tower info"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Hide surveys"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Remove location access"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.whatsapp",
@@ -33190,6 +33745,56 @@
 "Windy local premium features"
 ],
 [
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Block Bluetooth scanning"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Block ads"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Block background location"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Hide Wi-Fi networks"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Hide cell tower info"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Skip tutorials"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
 "com.withopal.opal",
 "Hxreborn",
 "Skip sign-in"
@@ -33238,6 +33843,21 @@
 "com.x8bit.bitwarden",
 "Stylus",
 "Force system font"
+],
+[
+"com.x8bit.bitwarden",
+"Zimza1abim",
+"Bitwarden custom special characters"
+],
+[
+"com.x8bit.bitwarden",
+"Zimza1abim",
+"Bitwarden passphrase total length"
+],
+[
+"com.x8bit.bitwarden",
+"Zimza1abim",
+"Bitwarden trust re-signed browsers for passkeys"
 ],
 [
 "com.xfinity.digitalhome",
@@ -35162,6 +35782,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Hide OA accounts in Messages"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Hide delivery receipts"
 ],
 [
@@ -35238,6 +35863,11 @@
 "com.zing.zalo",
 "Zeldris",
 "Change Zalo app icon"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Chat reaction picker"
 ],
 [
 "com.zing.zalo",
@@ -36420,6 +37050,26 @@
 "Spoof carrier"
 ],
 [
+"health.shohay.pregnancy",
+"Sabbirdj",
+"MicroG RE Google Sign-In"
+],
+[
+"health.shohay.pregnancy",
+"Sabbirdj",
+"MicroG signature spoof"
+],
+[
+"health.shohay.pregnancy",
+"Sabbirdj",
+"Spoof installer source (Play Store)"
+],
+[
+"health.shohay.pregnancy",
+"Sabbirdj",
+"Unlock Premium"
+],
+[
 "heartratemonitor.heartrate.pulse.pulseapp",
 "Sabbirexist",
 "Block tracking & analytics"
@@ -36665,6 +37315,11 @@
 "Unlock premium"
 ],
 [
+"io.anytype.app",
+"Zimza1abim",
+"Anytype custom font"
+],
+[
 "io.gh.reisxd.tizentube.cobalt",
 "MOD-PROD",
 "Change app name"
@@ -36718,6 +37373,26 @@
 "io.github.jqssun.helium",
 "Brave",
 "Titanium AMOLED theme"
+],
+[
+"io.github.jqssun.helium",
+"Zimza1abim",
+"Auto-hide toolbar with accessibility services"
+],
+[
+"io.github.jqssun.helium",
+"Zimza1abim",
+"Hide tab close undo snackbar"
+],
+[
+"io.github.jqssun.helium",
+"Zimza1abim",
+"Titanium custom webpage fonts"
+],
+[
+"io.github.jqssun.helium",
+"Zimza1abim",
+"Titanium font picker in settings"
 ],
 [
 "io.github.sds100.keymapper",
@@ -37312,12 +37987,192 @@
 [
 "jp.naver.line.android",
 "Uta-a",
+"AMOLED theme targets"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
 "AMOLED \u30c6\u30fc\u30de\u306e\u5bfe\u8c61"
 ],
 [
 "jp.naver.line.android",
 "Uta-a",
+"Agent i in chat information"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Agent i in chat list search"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Agent i in chat plus menu"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Agent i in home header"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Agent i in message box"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Agent i in settings"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Agent i in wallet header"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Automatic read receipts"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Backup account picker via MicroG-RE"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Bottom tabs"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Chat backup via MicroG-RE"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Chat backup via MicroG-RE (manifest)"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Chat list header icons"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Chat plus menu items"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Explicit mark as read"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Google sign-in via MicroG-RE"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Group readers"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Home ads"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Home featured collections"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Home feed live streams"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Home feed loading indicator"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Home feed post cards"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Home recent history"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Home recommendations"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Home trending"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"LINE AI beside image messages"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"LINE AI in message context menu"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"LINE AI in photo and video viewer"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
 "Linimal"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal bootstrap"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal extension"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal patch probe"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal patch status"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal settings component"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal settings entry"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Linimal settings strings"
 ],
 [
 "jp.naver.line.android",
@@ -37357,6 +38212,36 @@
 [
 "jp.naver.line.android",
 "Uta-a",
+"Manual read caller"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Manual read handoff"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Manual read permit"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Manual read while reading without receipt"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Mark as read on send"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"MicroG-RE auth error notification"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
 "MicroG-RE \u3067 Google \u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30ed\u30b0\u30a4\u30f3\u3092\u884c\u3046"
 ],
 [
@@ -37378,6 +38263,76 @@
 "jp.naver.line.android",
 "Uta-a",
 "MicroG-RE \u306e\u8a8d\u8a3c\u30a8\u30e9\u30fc\u3092\u901a\u77e5\u3059\u308b"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Open links in external browser"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Premium in settings"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Premium prompt in scroll preview"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Premium prompt on unsend"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Push notifications while closed"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Read without receipt"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Read without receipt (scroll preview)"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Read without receipt from notifications"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Read without receipt receipt block"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Read without receipt session"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Read without receipt strings"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Read without receipt unread keep"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Scrollable preview"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Smart Channel ads"
 ],
 [
 "jp.naver.line.android",
@@ -37632,12 +38587,22 @@
 [
 "jp.pxv.android",
 "Piracola",
+"Pixiv Popular Search Trial"
+],
+[
+"jp.pxv.android",
+"Piracola",
 "Pixiv Popular Search Unlock"
 ],
 [
 "jp.pxv.android",
 "Piracola",
 "Pixiv Premium Features"
+],
+[
+"jp.pxv.android",
+"Piracola",
+"Pixiv Search Ranking"
 ],
 [
 "jp.pxv.android",
@@ -37673,6 +38638,51 @@
 "lequipe.fr",
 "Heval",
 "Disable ads"
+],
+[
+"lk.bhasha.helakuru",
+"Bhashanaliyanage",
+"Diagnostic No-op (no app changes)"
+],
+[
+"lk.bhasha.helakuru",
+"Bhashanaliyanage",
+"Live Keyboard Background Blur"
+],
+[
+"lk.bhasha.helakuru.lite",
+"Bhashanaliyanage",
+"Frosted Glass (Helakuru Lite)"
+],
+[
+"lk.bhasha.helakuru.lite",
+"Bhashanaliyanage",
+"Glass Press Effect (Helakuru Lite)"
+],
+[
+"lk.bhasha.helakuru.lite",
+"Bhashanaliyanage",
+"Helakuru Lite Diagnostic No-op (no app changes)"
+],
+[
+"lk.bhasha.helakuru.lite",
+"Bhashanaliyanage",
+"Keyboard Settings Import/Export (Helakuru Lite)"
+],
+[
+"lk.bhasha.helakuru.lite",
+"Bhashanaliyanage",
+"Keypress Haptics and Sound (Helakuru Lite)"
+],
+[
+"lk.bhasha.helakuru.lite",
+"Bhashanaliyanage",
+"Personal Photo Themes (Helakuru Lite)"
+],
+[
+"lk.bhasha.helakuru.lite",
+"Bhashanaliyanage",
+"Spacebar Cursor Control (Helakuru Lite)"
 ],
 [
 "ltd.anti.clink",
@@ -37988,6 +38998,11 @@
 "net.aasuited.universalscoretracker",
 "Mubelotix",
 "Remove ads"
+],
+[
+"net.cozic.joplin",
+"Zimza1abim",
+"Joplin zero-flash custom font"
 ],
 [
 "net.daylio",
@@ -38317,12 +39332,72 @@
 [
 "net.simplyadvanced.ltediscovery",
 "Jzl1",
+"Disable emulator check"
+],
+[
+"net.simplyadvanced.ltediscovery",
+"Jzl1",
 "Unlock Pro"
 ],
 [
 "net.simplyadvanced.ltediscovery",
 "Jzl1",
 "Unlock Pro Plus / Donate"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Block Bluetooth scanning"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Block ads"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Block background location"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Hide Wi-Fi networks"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Hide cell tower info"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Hide sign-up prompts"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "net.smartwod.timer",
@@ -38523,6 +39598,11 @@
 "nl.dumpert",
 "ns1207",
 "dumpert-premium"
+],
+[
+"nl.flitsmeister",
+"JohnInNL",
+"Allow any Android Auto host"
 ],
 [
 "nl.flitsmeister",
@@ -39235,6 +40315,26 @@
 "Keep Bare Extensions Child Processes Alive"
 ],
 [
+"org.barebrowser",
+"Zimza1abim",
+"Bare auto-hide toolbar with accessibility services"
+],
+[
+"org.barebrowser",
+"Zimza1abim",
+"Bare custom webpage fonts"
+],
+[
+"org.barebrowser",
+"Zimza1abim",
+"Bare font picker in settings"
+],
+[
+"org.barebrowser",
+"Zimza1abim",
+"Skip Bare welcome screens"
+],
+[
 "org.cris.aikyam",
 "VipinVIP",
 "Allow screenshots"
@@ -39727,6 +40827,16 @@
 [
 "org.swiftapps.swiftbackup",
 "byehi98",
+"Swift Backup Cloud Backup Without Sign-In"
+],
+[
+"org.swiftapps.swiftbackup",
+"byehi98",
+"Swift Backup Local Account Backup"
+],
+[
+"org.swiftapps.swiftbackup",
+"byehi98",
 "Swift Backup Local Cloud Metadata"
 ],
 [
@@ -39992,6 +41102,11 @@
 [
 "org.telegram.messenger",
 "HushTelegram",
+"Keep captions with their photos"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
 "Keep deleted messages"
 ],
 [
@@ -40003,6 +41118,11 @@
 "org.telegram.messenger",
 "HushTelegram",
 "Message times with seconds"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Never send an uncropped photo"
 ],
 [
 "org.telegram.messenger",
@@ -40612,6 +41732,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Keep captions with their photos"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Keep deleted messages"
 ],
 [
@@ -40623,6 +41748,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Message times with seconds"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Never send an uncropped photo"
 ],
 [
 "org.telegram.messenger.web",
@@ -43332,7 +44462,17 @@
 [
 "tv.twitch.android.app",
 "SeyTheGamer Android TV",
+"HIDE PINNED"
+],
+[
+"tv.twitch.android.app",
+"SeyTheGamer Android TV",
 "SEYTTINGS"
+],
+[
+"tv.twitch.android.app",
+"SeyTheGamer Android TV",
+"SKIP 18+ WARNING"
 ],
 [
 "tv.twitch.android.app",
