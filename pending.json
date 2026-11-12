@@ -1,7 +1,10 @@
 {
- "[\"app.vela\", \"JohnInNL\", \"Receive alerts from a third-party application\"]": "2026-11-11T17:49:32.374655+00:00",
- "[\"com.lastwave.app\", \"JacksonJones2003\", \"Origin Island music card\"]": "2026-11-11T17:49:32.374655+00:00",
- "[\"com.lastwave.app\", \"JacksonJones2003\", \"Pause on fold\"]": "2026-11-11T17:49:32.374655+00:00",
- "[\"com.samsung.android.app.galaxyraw\", \"ShortEnigma0\", \"Disable post-processing\"]": "2026-11-11T17:49:32.374655+00:00",
- "[\"com.samsung.android.app.galaxyraw\", \"ShortEnigma0\", \"Samsung signature compatibility\"]": "2026-11-11T17:49:32.374655+00:00"
+ "[\"com.brenpoly.cardboardxr\", \"Hinatara\", \"Force ARCore availability: SUPPORTED_INSTALLED (CardboardXR)\"]": "2026-11-12T18:05:48.182015+00:00",
+ "[\"com.discovery.discoveryplus.firetv\", \"RoboRoads\", \"Auto-skip ads\"]": "2026-11-12T18:05:48.182015+00:00",
+ "[\"com.unbrokensoftware.launchbox\", \"Hxreborn\", \"Unlock premium\"]": "2026-11-12T18:05:48.182015+00:00",
+ "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Allow screenshots\"]": "2026-11-12T18:05:48.182015+00:00",
+ "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Disable app lock\"]": "2026-11-12T18:05:48.182015+00:00",
+ "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Disable clipboard auto-clear\"]": "2026-11-12T18:05:48.182015+00:00",
+ "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Suppress telemetry\"]": "2026-11-12T18:05:48.182015+00:00",
+ "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Unlock Unlimited Plan\"]": "2026-11-12T18:05:48.182015+00:00"
 }

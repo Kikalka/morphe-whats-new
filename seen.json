@@ -310,6 +310,11 @@
 "External speed controls"
 ],
 [
+"app.vela",
+"JohnInNL",
+"Receive alerts from a third-party application"
+],
+[
 "app.wuplay.android",
 "JohnInNL",
 "Add Gearslip car interface"
@@ -333,6 +338,16 @@
 "apps.automan.blurwallpaper",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"apps.ijp.coverscreenos",
+"Amfakh",
+"Disable analytics"
+],
+[
+"apps.ijp.coverscreenos",
+"Amfakh",
+"Premium unlock"
 ],
 [
 "at.mann.usenetpanda",
@@ -1138,6 +1153,21 @@
 "ch.protonvpn.android",
 "Ineednotitle",
 "Unlock VPN Plus"
+],
+[
+"ch.protonvpn.android",
+"Madushas",
+"Disable telemetry (Sentry)"
+],
+[
+"ch.protonvpn.android",
+"Madushas",
+"Remove server-change delay"
+],
+[
+"ch.protonvpn.android",
+"Madushas",
+"Unlock Proton Plus features"
 ],
 [
 "ch.protonvpn.android",
@@ -3222,6 +3252,11 @@
 [
 "com.app.nobrokerhood",
 "Srinath1848",
+"NoBrokerHood: Hide post-approval sponsored media"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
 "NoBrokerHood: Hide promotional popups"
 ],
 [
@@ -3238,6 +3273,11 @@
 "com.app.nobrokerhood",
 "Srinath1848",
 "NoBrokerHood: Hide visitor-flow ads"
+],
+[
+"com.app.nobrokerhood",
+"Srinath1848",
+"NoBrokerHood: Sanitize entry/exit notification ad links"
 ],
 [
 "com.app.nobrokerhood",
@@ -4025,6 +4065,16 @@
 "VPN active"
 ],
 [
+"com.banglatech.bangladeshvpn",
+"Sabbirdj",
+"Spoof installer source (Play Store)"
+],
+[
+"com.banglatech.bangladeshvpn",
+"Sabbirdj",
+"Unlock VIP"
+],
+[
 "com.bardi.smart.home",
 "Amfakh",
 "GmsCore support"
@@ -4207,6 +4257,11 @@
 [
 "com.bergfex.tour",
 "Mirbyte",
+"Force live tracking"
+],
+[
+"com.bergfex.tour",
+"Mirbyte",
 "Randomize Reteno device ID (currently no effect, kept for future reference)"
 ],
 [
@@ -4273,6 +4328,16 @@
 "com.bigwinepot.nwdn.international",
 "MightyMich",
 "Unlock Premium (Experimental)"
+],
+[
+"com.bimiboo.kids.doctor.games",
+"Sabrina-Moonlight",
+"Unlock subscription"
+],
+[
+"com.bimiboo.kids.doctor.games",
+"Sabrina-Moonlight",
+"Unlock subscription (IL2CPP native)"
 ],
 [
 "com.biobird.exvee",
@@ -5193,6 +5258,81 @@
 "com.c25k",
 "CallMeBeyonder",
 "Unlock Premium"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Block Bluetooth scanning"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Block ads"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Block background location"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Block location tracking"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Dark mode"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Disable auto-updates"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"GmsCore support"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Hide Wi-Fi networks"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Hide cell tower info"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Hide pop-ups"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Show gas offers on OpenStreetMap"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.c51",
+"Semicoloncolonel",
+"Strip affiliate links"
 ],
 [
 "com.caltopo.android",
@@ -6473,6 +6613,11 @@
 "com.dealnews.android.ui",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel",
+"Strip affiliate links"
 ],
 [
 "com.dealseekorg.dealseek",
@@ -9992,6 +10137,11 @@
 [
 "com.facebook.lite",
 "BlazeFTL Facebook",
+"Double tap to seek"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
 "Hide sponsored posts"
 ],
 [
@@ -10003,6 +10153,21 @@
 "com.facebook.lite",
 "BlazeFTL Facebook",
 "Morphe settings"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
+"Open profile when no reels"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
+"Seek bar for short videos"
+],
+[
+"com.facebook.lite",
+"BlazeFTL Facebook",
+"Skip creator's Reels page"
 ],
 [
 "com.facebook.lite",
@@ -10827,6 +10992,11 @@
 [
 "com.fmkorea.m.fmk",
 "Dongmin8350",
+"Remove FMKorea ads and spaces"
+],
+[
+"com.fmkorea.m.fmk",
+"Dongmin8350",
 "Remove FMKorea splash logo"
 ],
 [
@@ -11092,6 +11262,11 @@
 [
 "com.fyxtech.muslim",
 "Heval",
+"Hide Ummah tab"
+],
+[
+"com.fyxtech.muslim",
+"Heval",
 "Hide activity banners"
 ],
 [
@@ -11103,6 +11278,11 @@
 "com.fyxtech.muslim",
 "Heval",
 "Hide premium banners"
+],
+[
+"com.fyxtech.muslim",
+"Heval",
+"Hide shortcut promotions"
 ],
 [
 "com.garnesapps.strukpom",
@@ -11243,6 +11423,31 @@
 "com.gkfriend.gpsmapcameraeditor",
 "Heval",
 "Spoof signature"
+],
+[
+"com.glassdoor.app",
+"Madushas",
+"Bypass PairIP"
+],
+[
+"com.glassdoor.app",
+"Madushas",
+"Disable AppsFlyer"
+],
+[
+"com.glassdoor.app",
+"Madushas",
+"Disable tracker components"
+],
+[
+"com.glassdoor.app",
+"Madushas",
+"Fix launcher theme (PairIP VM)"
+],
+[
+"com.glassdoor.app",
+"Madushas",
+"Remove ads"
 ],
 [
 "com.global.foodpanda.android",
@@ -11553,6 +11758,11 @@
 "com.google.android.apps.bard",
 "Johannes7k75",
 "Open cloned Google app"
+],
+[
+"com.google.android.apps.bard",
+"Ryuya0124",
+"Automatic Clone Setup"
 ],
 [
 "com.google.android.apps.books",
@@ -12912,6 +13122,16 @@
 [
 "com.google.android.googlequicksearchbox",
 "Ryuya0124",
+"Automatic Clone Setup"
+],
+[
+"com.google.android.googlequicksearchbox",
+"Ryuya0124",
+"GmsCore Bytecode Redirect (MicroG RE)"
+],
+[
+"com.google.android.googlequicksearchbox",
+"Ryuya0124",
 "MicroG Device Compliance Redirect"
 ],
 [
@@ -13097,6 +13317,11 @@
 [
 "com.google.android.inputmethod.latin",
 "Ineednotitle",
+"Disable Bluetooth voice routing"
+],
+[
+"com.google.android.inputmethod.latin",
+"Ineednotitle",
 "Offline-only voice typing & telemetry reduction"
 ],
 [
@@ -13167,12 +13392,32 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Rambler app context"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Rambler contact names"
 ],
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Rambler cursor-aware editing"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Rambler custom instructions"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Rambler personal dictionary"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Rambler stop after silence (experimental)"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -14702,12 +14947,22 @@
 [
 "com.instagram.android",
 "Aic0d3r",
+"Notes tray"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
 "Oxbow icon"
 ],
 [
 "com.instagram.android",
 "Aic0d3r",
 "Popup hiding"
+],
+[
+"com.instagram.android",
+"Aic0d3r",
+"Preserve post caption"
 ],
 [
 "com.instagram.android",
@@ -14728,6 +14983,16 @@
 "com.instagram.android",
 "Aic0d3r",
 "Suggested accounts in the story tray"
+],
+[
+"com.instagram.android",
+"Brandonp2412",
+"Hide notification prompts"
+],
+[
+"com.instagram.android",
+"DanielTheManiel",
+"Apple emojis everywhere"
 ],
 [
 "com.instagram.android",
@@ -16595,6 +16860,11 @@
 "Remove Pairip Protection"
 ],
 [
+"com.jndapp.glass.widgets",
+"Sabrina-Moonlight",
+"Unlock premium"
+],
+[
 "com.jndapp.minimal.widgets",
 "Sabrina-Moonlight",
 "Disable Pairip"
@@ -16603,6 +16873,11 @@
 "com.jndapp.minimal.widgets",
 "Sabrina-Moonlight",
 "Local Preference"
+],
+[
+"com.jndapp.minimal.widgets",
+"Sabrina-Moonlight",
+"Unlock premium"
 ],
 [
 "com.jndapp.nothing.widgets.pack",
@@ -17298,6 +17573,16 @@
 "com.lagguy.wallpapers",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.lastwave.app",
+"JacksonJones2003",
+"Origin Island music card"
+],
+[
+"com.lastwave.app",
+"JacksonJones2003",
+"Pause on fold"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -18038,6 +18323,11 @@
 "com.letterboxd.letterboxd",
 "Mvaishak",
 "Hide sponsored content"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
+"IMDb trivia (personal)"
 ],
 [
 "com.letterboxd.letterboxd",
@@ -19615,6 +19905,21 @@
 "Unlock 365 Family"
 ],
 [
+"com.microsoft.teams",
+"Madushas",
+"Disable AppCenter telemetry"
+],
+[
+"com.microsoft.teams",
+"Madushas",
+"Remove ads"
+],
+[
+"com.microsoft.teams",
+"Madushas",
+"Unbloat (trim manifest)"
+],
+[
 "com.mightygamesgroup.shootyskies",
 "byehi98",
 "Shooty Skies Ad-Free (Ads blocked + instant rewards)"
@@ -20108,6 +20413,11 @@
 "com.muzudre.jump.rope.training.challenges.jumprope",
 "CallMeBeyonder",
 "Unlock Premium"
+],
+[
+"com.mventus.selfcare.activity",
+"Hxmst",
+"Disable RASP"
 ],
 [
 "com.mxtech.videoplayer.ad",
@@ -21087,6 +21397,11 @@
 [
 "com.oceanwing.battery.cam",
 "Mlkem",
+"Auto-confirm Eufy mobile-data streaming"
+],
+[
+"com.oceanwing.battery.cam",
+"Mlkem",
 "Hide Eufy Discover, Smart and Shop"
 ],
 [
@@ -21123,6 +21438,31 @@
 "com.okampro.oksmart",
 "Joelmzj",
 "Remove O-KAM Pro Ads"
+],
+[
+"com.olaelectric.companion",
+"Hxmst",
+"Allow Plaintext HTTP Traffic"
+],
+[
+"com.olaelectric.companion",
+"Hxmst",
+"Bypass Root Detection"
+],
+[
+"com.olaelectric.companion",
+"Hxmst",
+"Disable SSL Pinning"
+],
+[
+"com.olaelectric.companion",
+"Hxmst",
+"Disable TLS Validation"
+],
+[
+"com.olaelectric.companion",
+"Hxmst",
+"Reroute API Calls to Self-Hosted Server"
 ],
 [
 "com.olx.pk",
@@ -21303,6 +21643,11 @@
 "com.onelouder.baconreader",
 "JoanComasFdz",
 "Markdown editor"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
+"Open web pages in the browser"
 ],
 [
 "com.onelouder.baconreader",
@@ -22585,6 +22930,26 @@
 "Saiyan007"
 ],
 [
+"com.piyush.island",
+"Madushas",
+"Bypass PairIP"
+],
+[
+"com.piyush.island",
+"Madushas",
+"Disable trackers"
+],
+[
+"com.piyush.island",
+"Madushas",
+"Remove ads"
+],
+[
+"com.piyush.island",
+"Madushas",
+"Unlock Pro"
+],
+[
 "com.piyush.pie",
 "AsrOfficialDev",
 "Sensu Pro"
@@ -23183,6 +23548,11 @@
 "com.remi.widget",
 "Sabrina-Moonlight",
 "Local Features"
+],
+[
+"com.remi.widget",
+"Sabrina-Moonlight",
+"Unlock premium"
 ],
 [
 "com.renshuu.renshuu_org",
@@ -24315,6 +24685,11 @@
 "Local Premium"
 ],
 [
+"com.saban.glassy.glasswidgets.themes",
+"Sabrina-Moonlight",
+"Unlock premium"
+],
+[
 "com.sadpuppy.lemmings",
 "byehi98",
 "Lemmings: Free Store"
@@ -24373,6 +24748,16 @@
 "com.samsung.android.app.contacts",
 "Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.samsung.android.app.galaxyraw",
+"ShortEnigma0",
+"Disable post-processing"
+],
+[
+"com.samsung.android.app.galaxyraw",
+"ShortEnigma0",
+"Samsung signature compatibility"
 ],
 [
 "com.samsung.android.app.homestar",
@@ -25452,6 +25837,11 @@
 [
 "com.sofascore.results",
 "Heval",
+"Turn off video autoplay"
+],
+[
+"com.sofascore.results",
+"Heval",
 "Unlock developer options"
 ],
 [
@@ -25553,6 +25943,11 @@
 "com.soundcloud.android",
 "JohnInNL",
 "Ignore device limit"
+],
+[
+"com.spaceship.screen.textcopy",
+"MightyMich",
+"Bypass Play install gate"
 ],
 [
 "com.spaceship.screen.textcopy",
@@ -27092,6 +27487,11 @@
 [
 "com.strava",
 "Madushas",
+"Remove upsells & promos"
+],
+[
+"com.strava",
+"Madushas",
 "Unlock Premium"
 ],
 [
@@ -28015,6 +28415,16 @@
 "Hide ads"
 ],
 [
+"com.taobao.idlefish",
+"Hxreborn",
+"Allow sharing without login"
+],
+[
+"com.taobao.idlefish",
+"Hxreborn",
+"Skip login prompts"
+],
+[
 "com.taobao.taobao",
 "GoodLight999",
 "TaobaoLingo: Enable English for Japan picker (experimental)"
@@ -28362,7 +28772,17 @@
 [
 "com.themezy.theme.iconwidgets",
 "Sabrina-Moonlight",
+"Hide ads"
+],
+[
+"com.themezy.theme.iconwidgets",
+"Sabrina-Moonlight",
 "Unlock Local"
+],
+[
+"com.themezy.theme.iconwidgets",
+"Sabrina-Moonlight",
+"Unlock premium"
 ],
 [
 "com.thesortdapp.sortd",
@@ -29573,6 +29993,11 @@
 "com.tubitv",
 "Semicoloncolonel",
 "Hide sign-in prompts"
+],
+[
+"com.tubitv",
+"Semicoloncolonel",
+"Hide update prompts"
 ],
 [
 "com.tubitv",
@@ -31965,6 +32390,31 @@
 "Unfiled chats"
 ],
 [
+"com.viber.voip",
+"Kal-xyz",
+"Anti-delete messages"
+],
+[
+"com.viber.voip",
+"Kal-xyz",
+"Clean UI"
+],
+[
+"com.viber.voip",
+"Kal-xyz",
+"Ghost mode"
+],
+[
+"com.viber.voip",
+"Kal-xyz",
+"Hide ads"
+],
+[
+"com.viber.voip",
+"Kal-xyz",
+"Secondary device mode"
+],
+[
 "com.videoedit.gocut",
 "Shuhaibnc",
 "Unlock GoCut Pro"
@@ -32455,6 +32905,11 @@
 "Unlock premium"
 ],
 [
+"com.vsco.cam",
+"Rov3r",
+"Download posts"
+],
+[
 "com.vvv.velvetreel.treel",
 "Vitorhubdev",
 "Disable telemetry"
@@ -32607,7 +33062,17 @@
 [
 "com.walmart.android",
 "Semicoloncolonel",
+"Hide Walmart+ promotions"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel",
 "Hide Wi-Fi networks"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel",
+"Hide card offers"
 ],
 [
 "com.walmart.android",
@@ -32617,7 +33082,17 @@
 [
 "com.walmart.android",
 "Semicoloncolonel",
+"Hide creator videos"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel",
 "Hide device identifiers"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel",
+"Hide pop-ups"
 ],
 [
 "com.walmart.android",
@@ -33630,6 +34105,11 @@
 "Spoof carrier"
 ],
 [
+"com.whaleshark.retailmenot",
+"Semicoloncolonel",
+"Strip affiliate links"
+],
+[
 "com.whatsapp",
 "MightyMich",
 "App icon"
@@ -33653,6 +34133,11 @@
 "com.whatsapp",
 "MightyMich",
 "Read receipts"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"Remove Meta AI"
 ],
 [
 "com.whatsapp",
@@ -33843,6 +34328,11 @@
 "com.wishabi.flipp",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel",
+"Strip affiliate links"
 ],
 [
 "com.withopal.opal",
@@ -34105,6 +34595,36 @@
 "Yahoo Finance - microG login A5"
 ],
 [
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel",
+"Disable AI"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel",
+"GmsCore support"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel",
+"Hide Plus upsells"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel",
+"Hide pop-ups"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel",
+"Skip ads"
+],
+[
 "com.yahoo.mobile.client.android.sportacular",
 "Heval",
 "Disable ads"
@@ -34113,6 +34633,51 @@
 "com.yahoo.mobile.client.android.sportacular",
 "Heval",
 "Hide betting promotions"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel",
+"Customize bottom bar"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel",
+"Disable AI"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel",
+"Disable video autoplay"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel",
+"GmsCore support"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel",
+"Hide pop-ups"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel",
+"Hide reading streaks"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel",
+"Show unreleased features"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel",
+"Skip ads"
 ],
 [
 "com.yandex.bank",
@@ -36260,6 +36825,11 @@
 "Pro Options"
 ],
 [
+"de.twokit.screen.recording.app",
+"Sabrina-Moonlight",
+"Unlock pro"
+],
+[
 "de.wetteronline.wetterapp",
 "TorbenStriegel",
 "Enable Premium"
@@ -36928,6 +37498,11 @@
 "free.zona",
 "PerfLite Zona",
 "Video buffer"
+],
+[
+"gg.sunday.hamsterescape",
+"Sabrina-Moonlight",
+"Unlock purchases"
 ],
 [
 "ginlemon.flowerfree",
@@ -37745,6 +38320,26 @@
 "Hide Ads Preference"
 ],
 [
+"it.simonesestito.ntiles",
+"Sabrina-Moonlight",
+"Hide ads"
+],
+[
+"jooble.org",
+"Madushas",
+"Disable AppsFlyer"
+],
+[
+"jooble.org",
+"Madushas",
+"Disable trackers"
+],
+[
+"jooble.org",
+"Madushas",
+"Remove ads"
+],
+[
 "jp.co.airfront.android.a2chMate",
 "Haiagaru",
 "Haiagaru \u5e83\u544a\u3060\u3051\u306e\u8d85\u8efd\u91cf\u69cb\u6210\uff08\u691c\u8a3c\u7528\uff09"
@@ -37783,6 +38378,11 @@
 "jp.co.canon.ic.cameraconnect",
 "Rajdave69",
 "Optional Canon ID Login"
+],
+[
+"jp.co.celsys.clipstudiopaint.googleplay",
+"Hxreborn",
+"Open drawing on launch"
 ],
 [
 "jp.co.celsys.clipstudiopaint.googleplay",
@@ -38113,6 +38713,11 @@
 "jp.naver.line.android",
 "Uta-a",
 "Chat plus menu items"
+],
+[
+"jp.naver.line.android",
+"Uta-a",
+"Disable chat preview"
 ],
 [
 "jp.naver.line.android",
@@ -38608,6 +39213,11 @@
 "jp.pxv.android",
 "Piracola",
 "Pixiv Adblocker"
+],
+[
+"jp.pxv.android",
+"Piracola",
+"Pixiv Bookmark Threshold"
 ],
 [
 "jp.pxv.android",
@@ -39235,6 +39845,11 @@
 "Disable Ads"
 ],
 [
+"net.mm2d.android.orientationfaker",
+"Sabrina-Moonlight",
+"Hide ads"
+],
+[
 "net.mobigame.zombietsunami",
 "Legendsciber",
 "Zombie Tsunami Free IAP"
@@ -39448,6 +40063,11 @@
 "net.slickdeals.android",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel",
+"Strip affiliate links"
 ],
 [
 "net.smartwod.timer",
@@ -40752,12 +41372,27 @@
 [
 "org.readera",
 "Hxreborn",
+"Accent color"
+],
+[
+"org.readera",
+"Hxreborn",
+"App theme"
+],
+[
+"org.readera",
+"Hxreborn",
 "Background listening"
 ],
 [
 "org.readera",
 "Hxreborn",
 "Colored quotes"
+],
+[
+"org.readera",
+"Hxreborn",
+"Copy with source"
 ],
 [
 "org.readera",
@@ -40782,12 +41417,42 @@
 [
 "org.readera",
 "Hxreborn",
+"Full book descriptions"
+],
+[
+"org.readera",
+"Hxreborn",
 "Library full screen"
 ],
 [
 "org.readera",
 "Hxreborn",
 "Library view modes"
+],
+[
+"org.readera",
+"Hxreborn",
+"Lock screen on Read chapter aloud"
+],
+[
+"org.readera",
+"Hxreborn",
+"Material 3 controls"
+],
+[
+"org.readera",
+"Hxreborn",
+"More sleep timer choices"
+],
+[
+"org.readera",
+"Hxreborn",
+"Omit words and symbols"
+],
+[
+"org.readera",
+"Hxreborn",
+"Page counter in long chapters"
 ],
 [
 "org.readera",
@@ -40802,7 +41467,37 @@
 [
 "org.readera",
 "Hxreborn",
+"Read aloud from selection"
+],
+[
+"org.readera",
+"Hxreborn",
+"Read aloud notification controls"
+],
+[
+"org.readera",
+"Hxreborn",
+"Read chapter aloud"
+],
+[
+"org.readera",
+"Hxreborn",
+"Read footnotes aloud"
+],
+[
+"org.readera",
+"Hxreborn",
+"Search selection in book"
+],
+[
+"org.readera",
+"Hxreborn",
 "Skip headers and footers"
+],
+[
+"org.readera",
+"Hxreborn",
+"Speech pitch slider"
 ],
 [
 "org.readera",
@@ -40962,6 +41657,11 @@
 [
 "org.telegram.messenger",
 "HushTelegram",
+"Chat preview buttons"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
 "Disable analytics"
 ],
 [
@@ -41013,6 +41713,11 @@
 "org.telegram.messenger",
 "HushTelegram",
 "Folders by chat type"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Free proxies"
 ],
 [
 "org.telegram.messenger",
@@ -41167,7 +41872,17 @@
 [
 "org.telegram.messenger",
 "HushTelegram",
+"Lyrics and song dates"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
 "Message times with seconds"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"My messages"
 ],
 [
 "org.telegram.messenger",
@@ -41243,6 +41958,11 @@
 "org.telegram.messenger",
 "HushTelegram",
 "Test server sign-in"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
+"Text direction"
 ],
 [
 "org.telegram.messenger",
@@ -41597,6 +42317,11 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Chat preview buttons"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Disable analytics"
 ],
 [
@@ -41648,6 +42373,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Folders by chat type"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Free proxies"
 ],
 [
 "org.telegram.messenger.web",
@@ -41802,7 +42532,17 @@
 [
 "org.telegram.messenger.web",
 "HushTelegram",
+"Lyrics and song dates"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
 "Message times with seconds"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"My messages"
 ],
 [
 "org.telegram.messenger.web",
@@ -41878,6 +42618,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Test server sign-in"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Text direction"
 ],
 [
 "org.telegram.messenger.web",
@@ -42987,6 +43732,26 @@
 [
 "proton.android.pass",
 "Ineednotitle",
+"Allow screenshots"
+],
+[
+"proton.android.pass",
+"Ineednotitle",
+"Disable app lock"
+],
+[
+"proton.android.pass",
+"Ineednotitle",
+"Disable clipboard auto-clear"
+],
+[
+"proton.android.pass",
+"Ineednotitle",
+"Suppress telemetry"
+],
+[
+"proton.android.pass",
+"Ineednotitle",
 "Unlock Unlimited Plan"
 ],
 [
@@ -43263,6 +44028,11 @@
 "ru.nspk.mirpay",
 "Basil-AS",
 "Disable analytics manifest components"
+],
+[
+"ru.ok.android",
+"Hxreborn",
+"Remove ads"
 ],
 [
 "ru.oneme.app",
@@ -43925,6 +44695,46 @@
 "Spoof signature"
 ],
 [
+"se.scmv.morocco",
+"Nizarberyan",
+"Change installer source"
+],
+[
+"se.scmv.morocco",
+"Nizarberyan",
+"Clone app"
+],
+[
+"se.scmv.morocco",
+"Nizarberyan",
+"Disable Play Store updates"
+],
+[
+"se.scmv.morocco",
+"Nizarberyan",
+"Hide ads"
+],
+[
+"se.scmv.morocco",
+"Nizarberyan",
+"Hide shop listings"
+],
+[
+"se.scmv.morocco",
+"Nizarberyan",
+"Hide sponsored campaigns"
+],
+[
+"se.scmv.morocco",
+"Nizarberyan",
+"Override certificate pinning"
+],
+[
+"se.scmv.morocco",
+"Nizarberyan",
+"Spoof signature"
+],
+[
 "sharefiles.sharemusic.shareapps.filetransfer",
 "Sabbirexist",
 "Remove ads"
@@ -43978,6 +44788,11 @@
 "todolist.scheduleplanner.dailyplanner.todo.reminders",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"torrent.search.revolutionv2",
+"XBadFellaX",
+"Torrent Search Revolution local Pro"
 ],
 [
 "tr.com.nowtv.android",
