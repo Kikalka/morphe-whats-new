@@ -4185,6 +4185,31 @@
 "Show friends' posts before posting"
 ],
 [
+"com.bergfex.tour",
+"Mirbyte",
+"Disable Firebase Analytics collection"
+],
+[
+"com.bergfex.tour",
+"Mirbyte",
+"Disable advertising ID"
+],
+[
+"com.bergfex.tour",
+"Mirbyte",
+"Disable trackers"
+],
+[
+"com.bergfex.tour",
+"Mirbyte",
+"Force Pro status"
+],
+[
+"com.bergfex.tour",
+"Mirbyte",
+"Randomize Reteno device ID (currently no effect, kept for future reference)"
+],
+[
 "com.bestbuy.android",
 "Semicoloncolonel",
 "Block Bluetooth scanning"
@@ -8765,6 +8790,11 @@
 "Skip the store licence check"
 ],
 [
+"com.emeint.android.myservices",
+"Kero309x",
+"Use the current connection for Vodafone Cash"
+],
+[
 "com.enflick.android.TextNow",
 "Madushas",
 "Disable ad SDK"
@@ -13133,6 +13163,21 @@
 "com.google.android.inputmethod.latin",
 "JohnInNL",
 "Parakeet voice typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Rambler contact names"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Rambler personal dictionary"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Rambler voice typing"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -29490,6 +29535,11 @@
 "Patch settings"
 ],
 [
+"com.tsumii.trainschedule",
+"GahahaWang",
+"premium"
+],
+[
 "com.tubitv",
 "Android TV",
 "Block analytics & tracking"
@@ -41137,6 +41187,11 @@
 [
 "org.telegram.messenger",
 "HushTelegram",
+"Proxy in the chat list menu"
+],
+[
+"org.telegram.messenger",
+"HushTelegram",
 "Quiet contacts nag"
 ],
 [
@@ -41763,6 +41818,11 @@
 "org.telegram.messenger.web",
 "HushTelegram",
 "Play voice messages one at a time"
+],
+[
+"org.telegram.messenger.web",
+"HushTelegram",
+"Proxy in the chat list menu"
 ],
 [
 "org.telegram.messenger.web",
