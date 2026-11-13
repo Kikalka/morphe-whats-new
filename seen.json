@@ -11765,6 +11765,11 @@
 "Automatic Clone Setup"
 ],
 [
+"com.google.android.apps.bard",
+"Ryuya0124",
+"Compatible Play Store Update Blocking"
+],
+[
 "com.google.android.apps.books",
 "Sevenzip2",
 "Attributed copy fallback"
@@ -13127,6 +13132,11 @@
 [
 "com.google.android.googlequicksearchbox",
 "Ryuya0124",
+"Compatible Play Store Update Blocking"
+],
+[
+"com.google.android.googlequicksearchbox",
+"Ryuya0124",
 "GmsCore Bytecode Redirect (MicroG RE)"
 ],
 [
@@ -13387,6 +13397,11 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Parakeet personal dictionary"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Parakeet voice typing"
 ],
 [
@@ -13413,6 +13428,11 @@
 "com.google.android.inputmethod.latin",
 "JohnInNL",
 "Rambler personal dictionary"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Rambler stop after silence"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -17500,6 +17520,16 @@
 "Subway Surfers Remove Ads"
 ],
 [
+"com.kiloo.subwaysurf",
+"Mwbra130",
+"Unlimited coins and keys"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Add boosters"
+],
+[
 "com.king.candycrushsodasaga",
 "JohnInNL",
 "Disable tracking"
@@ -17657,6 +17687,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Diagnostics"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Disable Sync for Lemmy bottom sheet"
 ],
 [
@@ -17682,6 +17717,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Fix GIF decoding"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Fix Image Post Selftext"
 ],
 [
@@ -17702,6 +17742,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Fix image link detection"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Fix imgur links"
 ],
 [
@@ -17718,6 +17763,11 @@
 "com.laurencedawson.reddit_sync",
 "Mix",
 "Fix r/random"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Fix redirected threads"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -21800,6 +21850,11 @@
 "Privacy: no mic or camera"
 ],
 [
+"com.openai.chatgpt",
+"XBadFellaX",
+"Install next to ChatGPT"
+],
+[
 "com.openbubbles.messaging",
 "MrCool-888",
 "Classic reply menu"
@@ -25752,7 +25807,22 @@
 [
 "com.sofascore.results",
 "Heval",
+"Clean shared links"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Compact match lists"
+],
+[
+"com.sofascore.results",
+"Heval",
 "Disable rating prompts"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Disable screenshot prompt"
 ],
 [
 "com.sofascore.results",
@@ -25813,6 +25883,11 @@
 "com.sofascore.results",
 "Heval",
 "Hide sports"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Keep screen on"
 ],
 [
 "com.sofascore.results",
@@ -29397,6 +29472,11 @@
 [
 "com.tradingview.tradingviewapp",
 "Hxreborn",
+"Fix Google sign-in"
+],
+[
+"com.tradingview.tradingviewapp",
+"Hxreborn",
 "GmsCore support"
 ],
 [
@@ -29743,6 +29823,11 @@
 "com.truecaller",
 "Heval",
 "Hide important senders"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide inbox cards"
 ],
 [
 "com.truecaller",
@@ -34857,6 +34942,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Fix Spotify login"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Freeze TikTok's experiments"
 ],
 [
@@ -38287,6 +38377,11 @@
 [
 "it.quadronica.leghe",
 "Edoardo9708",
+"Leghe FC - Ignora aggiornamento obbligatorio [LAB 13.2.3]"
+],
+[
+"it.quadronica.leghe",
+"Edoardo9708",
 "Leghe FC - Sblocca formazione suggerita e comparatore"
 ],
 [
@@ -40922,6 +41017,11 @@
 [
 "o.o.joey",
 "ZoomSass",
+"Fix collapsed replies"
+],
+[
+"o.o.joey",
+"ZoomSass",
 "Fix login page"
 ],
 [
@@ -43388,6 +43488,11 @@
 "pdb.app",
 "Madushas",
 "Unlock Pro"
+],
+[
+"photo.editor.photoeditor.photoeditorpro",
+"Hxreborn",
+"Disable push notifications"
 ],
 [
 "photo.editor.photoeditor.photoeditorpro",
