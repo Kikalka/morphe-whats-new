@@ -886,6 +886,11 @@
 ],
 [
 "bitpit.launcher",
+"Theodotdot",
+"Niagara Button on the left"
+],
+[
+"bitpit.launcher",
 "d0nj",
 "Custom weather provider"
 ],
@@ -1188,6 +1193,11 @@
 "ch.protonvpn.android.reproducible",
 "Rahaaatul",
 "Unlock VPN Plus"
+],
+[
+"chk.kingnet.app",
+"Pigfoot",
+"\u667a\u751f\u6d3b: Remove ads and marketing messages"
 ],
 [
 "cn.nubia.gamelauncher",
@@ -2343,6 +2353,16 @@
 "com.amazon.amazonvideo.livingroom",
 "Sudeepcapri",
 "Skip ads"
+],
+[
+"com.amazon.atozm",
+"XiONDiGiTaL",
+"Clone package"
+],
+[
+"com.amazon.atozm",
+"XiONDiGiTaL",
+"Force dark mode"
 ],
 [
 "com.amazon.avod.thirdpartyclient",
@@ -5255,7 +5275,22 @@
 "Spoof carrier"
 ],
 [
+"com.c10kforpink",
+"CallMeBeyonder",
+"Unlock Premium"
+],
+[
+"com.c13_1forpink2",
+"CallMeBeyonder",
+"Unlock Premium"
+],
+[
 "com.c25k",
+"CallMeBeyonder",
+"Unlock Premium"
+],
+[
+"com.c26_2forpink",
 "CallMeBeyonder",
 "Unlock Premium"
 ],
@@ -5988,6 +6023,11 @@
 "com.chessable.chessable",
 "JCapretta",
 "Enable offline mode"
+],
+[
+"com.chessbook.android",
+"Thebugsmith",
+"Chessbook local gates"
 ],
 [
 "com.chimbori.hermitcrab",
@@ -6753,6 +6793,21 @@
 "com.dev47apps.obsdroidcam",
 "Mwbra130",
 "Unlock Pro"
+],
+[
+"com.devolutions.remotedesktopmanager",
+"Toidicakhia",
+"Disable Analytics / Telemetry"
+],
+[
+"com.devolutions.remotedesktopmanager",
+"Toidicakhia",
+"Disable SSL Pinning"
+],
+[
+"com.devolutions.remotedesktopmanager",
+"Toidicakhia",
+"Remove Ad ID Permissions"
 ],
 [
 "com.devone.filetreesize",
@@ -8168,6 +8223,11 @@
 "com.discord",
 "VenusIsJaded Discord",
 "Voice channel options"
+],
+[
+"com.discovery.discoveryplus.firetv",
+"RoboRoads",
+"Auto-skip ads"
 ],
 [
 "com.diskwalaapp",
@@ -11790,6 +11850,31 @@
 "GmsCore support"
 ],
 [
+"com.google.android.apps.googlevoice",
+"Abegumbo-ui",
+"Call recording"
+],
+[
+"com.google.android.apps.googlevoice",
+"Abegumbo-ui",
+"Debug log"
+],
+[
+"com.google.android.apps.googlevoice",
+"Abegumbo-ui",
+"Default phone app"
+],
+[
+"com.google.android.apps.googlevoice",
+"Abegumbo-ui",
+"GmsCore support"
+],
+[
+"com.google.android.apps.googlevoice",
+"Abegumbo-ui",
+"Incoming call fix"
+],
+[
 "com.google.android.apps.maps",
 "Bartlomiejfornalczyk",
 "Add microG support"
@@ -13372,6 +13457,16 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"AI Writing Tools"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Add Gboard Signature Bypass"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Change package name"
 ],
 [
@@ -13387,12 +13482,37 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Custom Theme"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Custom branding"
 ],
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Enable OCR / Scan Text"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Frosted Glass"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"G Logo on Spacebar"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Incognito Mode Toggle"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Key Shape Selection"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -13443,6 +13563,11 @@
 "com.google.android.inputmethod.latin",
 "JohnInNL",
 "Rambler voice typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Rounded Keyboard Panel"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -13723,6 +13848,16 @@
 "com.google.android.youtube.tv",
 "Jair1c",
 "Spoof device"
+],
+[
+"com.google.android.youtube.tv",
+"Semicoloncolonel",
+"Skip injected ads"
+],
+[
+"com.google.android.youtube.tv",
+"Ysamjo",
+"Back-Taste \u2192 App beenden"
 ],
 [
 "com.google.android.youtube.tv",
@@ -16657,6 +16792,11 @@
 [
 "com.instagram.barcelona",
 "HushThreads",
+"Spoof SIM region"
+],
+[
+"com.instagram.barcelona",
+"HushThreads",
 "Trust user-added certificates"
 ],
 [
@@ -17897,6 +18037,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "RashKash103",
+"Choose what the bottom bar shows"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
 "Disable Sync for Lemmy bottom sheet"
 ],
 [
@@ -18363,6 +18508,16 @@
 "com.letterboxd.letterboxd",
 "Letterboxd",
 "Hide Spotlight Ad"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
+"Change app icon"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
+"Copy lists"
 ],
 [
 "com.letterboxd.letterboxd",
@@ -20820,6 +20975,31 @@
 "Remove Netflix ads (legacy engine)"
 ],
 [
+"com.newchat.setlog",
+"Uta-a",
+"MicroG-RE Google \u30ed\u30b0\u30a4\u30f3"
+],
+[
+"com.newchat.setlog",
+"Uta-a",
+"\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u5143\u30c1\u30a7\u30c3\u30af"
+],
+[
+"com.newchat.setlog",
+"Uta-a",
+"\u30d5\u30a1\u30a4\u30eb\u304b\u3089\u6295\u7a3f"
+],
+[
+"com.newchat.setlog",
+"Uta-a",
+"\u6295\u7a3f\u524d\u7de8\u96c6"
+],
+[
+"com.newchat.setlog",
+"Uta-a",
+"\u64ae\u5f71\u79d2\u6570\u306e\u9078\u629e"
+],
+[
 "com.newleaf.app.android.victor",
 "MightyMich",
 "Unlock Premium Features"
@@ -22495,6 +22675,21 @@
 "Hide Explore section"
 ],
 [
+"com.picoai.languageapp.android",
+"Thebugsmith",
+"Pingo Google login"
+],
+[
+"com.picoai.languageapp.android",
+"Thebugsmith",
+"Pingo Google login (manifest)"
+],
+[
+"com.picoai.languageapp.android",
+"Thebugsmith",
+"Pingo Premium"
+],
+[
 "com.picolo.android",
 "Mubelotix",
 "Activates premium features"
@@ -23268,6 +23463,61 @@
 "com.qbis.guessthecountry",
 "Shuhaibnc",
 "Unlock World Map Quiz Premium Mode and Disable Ads"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Custom fonts"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Disable Firebase Analytics"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Disable reader reward timer"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"GmsCore support (MicroG)"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Hide ads"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Hide popups"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Main navigation controls"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Material You colors"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Provide Original app certificate"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Spoof app signature"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"WebNovel GmsCore compatibility"
 ],
 [
 "com.qqlabs.minimalistlauncher",
@@ -24710,6 +24960,11 @@
 "Unlock Premium"
 ],
 [
+"com.runbuddy.prod",
+"CallMeBeyonder",
+"Unlock Premium"
+],
+[
 "com.runtastic.android",
 "Madushas",
 "Bypass PairIP"
@@ -25303,6 +25558,11 @@
 "com.scores365",
 "non7043",
 "Unlock premium"
+],
+[
+"com.screenzen",
+"Warreth",
+"Add Vanadium and Cromite support"
 ],
 [
 "com.sec.android.app.clockpackage",
@@ -26698,6 +26958,11 @@
 "com.ss.android.ttmd.video",
 "HushPine",
 "Open external links directly"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
+"Open on Home"
 ],
 [
 "com.ss.android.ttmd.video",
@@ -30045,6 +30310,11 @@
 "premium"
 ],
 [
+"com.ttxapps.autosync",
+"Xtra",
+"Unlock Premium"
+],
+[
 "com.tubitv",
 "Android TV",
 "Block analytics & tracking"
@@ -33266,6 +33536,11 @@
 ],
 [
 "com.waze",
+"Avano",
+"Disable Android Auto turn-by-turn"
+],
+[
+"com.waze",
 "Bearinmind",
 "Alert distances"
 ],
@@ -34843,6 +35118,11 @@
 "com.yunyi.smartcamera",
 "Hxreborn",
 "Hide ads"
+],
+[
+"com.zenlabs.challenge.pushups",
+"CallMeBeyonder",
+"Unlock Premium"
 ],
 [
 "com.zensms.app",
@@ -36492,6 +36772,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Hide ads in Messages"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Hide delivery receipts"
 ],
 [
@@ -36627,7 +36912,17 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"Mark Zalo conversation read from notifications"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Native backup interval settings"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Save Zalo stories"
 ],
 [
 "com.zing.zalo",
@@ -36793,6 +37088,41 @@
 "de.app.flighttracker",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"de.hafas.android.db",
+"Henr1klmb",
+"AMOLED dark mode"
+],
+[
+"de.hafas.android.db",
+"Henr1klmb",
+"Disable Adjust tracking"
+],
+[
+"de.hafas.android.db",
+"Henr1klmb",
+"Disable Instana tracking"
+],
+[
+"de.hafas.android.db",
+"Henr1klmb",
+"Disable Optimizely A/B testing"
+],
+[
+"de.hafas.android.db",
+"Henr1klmb",
+"Disable Qualtrics tracking"
+],
+[
+"de.hafas.android.db",
+"Henr1klmb",
+"Disable Tealium tracking"
+],
+[
+"de.hafas.android.db",
+"Henr1klmb",
+"Enable screenshots"
 ],
 [
 "de.klassikradio.app",
