@@ -1107,6 +1107,11 @@
 [
 "ch.protonvpn.android",
 "Hxreborn",
+"Frosted glass"
+],
+[
+"ch.protonvpn.android",
+"Hxreborn",
 "Hide upgrade promotions"
 ],
 [
@@ -1193,6 +1198,21 @@
 "ch.protonvpn.android.reproducible",
 "Rahaaatul",
 "Unlock VPN Plus"
+],
+[
+"ch.sbb.mobile.android.b2c",
+"Henr1klmb",
+"Disable ads"
+],
+[
+"ch.sbb.mobile.android.b2c",
+"Henr1klmb",
+"Disable tracking"
+],
+[
+"ch.sbb.mobile.android.b2c",
+"Henr1klmb",
+"Enable screenshots"
 ],
 [
 "chk.kingnet.app",
@@ -1373,6 +1393,16 @@
 "cn.vr4p.oculus4xvrplayerov",
 "XR Porting Hub",
 "libplacebo HDR pipeline (4XVR)"
+],
+[
+"cn.wps.moffice_eng",
+"GinDoki19",
+"Google sign-in via MicroG RE"
+],
+[
+"cn.wps.moffice_eng",
+"GinDoki19",
+"Unlock premium features"
 ],
 [
 "co.beeline",
@@ -3143,6 +3173,16 @@
 "com.angkin.keyflow",
 "Globberry",
 "[Export] 9 Toast"
+],
+[
+"com.ansangha.drdriving",
+"Oyasumi",
+"Disable ads"
+],
+[
+"com.ansangha.drdriving",
+"Oyasumi",
+"Unlimited coins"
 ],
 [
 "com.anthropic.claude",
@@ -5065,6 +5105,11 @@
 "Custom NTP wallpaper"
 ],
 [
+"com.brenpoly.cardboardxr",
+"Hinatara",
+"Force ARCore availability: SUPPORTED_INSTALLED (CardboardXR)"
+],
+[
 "com.bstar.intl",
 "Ikuradachi",
 "Clean Me page"
@@ -6038,6 +6083,21 @@
 "com.citynav.jakdojade.pl.android",
 "Mubelotix",
 "Activates premium features"
+],
+[
+"com.cjin.pokegenie.standard",
+"DanielTheManiel",
+"Strip PairIP"
+],
+[
+"com.cjin.pokegenie.standard",
+"DanielTheManiel",
+"Unlock All IAPs"
+],
+[
+"com.cjin.pokegenie.standard",
+"DanielTheManiel",
+"microG-RE support (Google sign-in)"
 ],
 [
 "com.cloudflare.cloudflareoneagent",
@@ -8940,6 +9000,31 @@
 "Sanitize sharing links"
 ],
 [
+"com.eet.settings.launcher",
+"Semicoloncolonel",
+"Block ads"
+],
+[
+"com.eet.settings.launcher",
+"Semicoloncolonel",
+"Block analytics & tracking"
+],
+[
+"com.eet.settings.launcher",
+"Semicoloncolonel",
+"Disable Pairip license check"
+],
+[
+"com.eet.settings.launcher",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.eet.settings.launcher",
+"Semicoloncolonel",
+"Spoof carrier"
+],
+[
 "com.eisterhues_media_2",
 "TorbenStriegel",
 "Unlock Premium"
@@ -9857,6 +9942,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Keep playing in the background"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Keep post dates"
 ],
 [
@@ -10317,6 +10407,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Blur behind menus"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Bold and italic text"
 ],
 [
@@ -10343,6 +10438,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Fix shared videos with xHE-AAC sound"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Fix videos in chat heads"
 ],
 [
 "com.facebook.orca",
@@ -10403,6 +10503,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Hide Reels badge"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Hide Stories tab"
 ],
 [
 "com.facebook.orca",
@@ -10572,6 +10677,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Live captions on calls"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Mark as read button"
 ],
 [
@@ -10657,6 +10767,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Send Instants from your gallery"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Send photos at original quality"
 ],
 [
@@ -10673,6 +10788,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Slide chats in and out"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Special contacts"
 ],
 [
 "com.facebook.orca",
@@ -12232,6 +12352,11 @@
 [
 "com.google.android.apps.maps",
 "Fangkampanat BYD",
+"Android 9 (API 28)"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
 "BYD battery (EV)"
 ],
 [
@@ -12963,6 +13088,11 @@
 "com.google.android.apps.youtube.music",
 "Mormislaw",
 "DHU adapter"
+],
+[
+"com.google.android.apps.youtube.music",
+"Mwbra130",
+"Remove background playback restrictions"
 ],
 [
 "com.google.android.apps.youtube.unplugged",
@@ -13773,6 +13903,21 @@
 "com.google.android.inputmethod.latin",
 "Titandrive",
 "Gboard custom font"
+],
+[
+"com.google.android.inputmethod.latin",
+"TwelveHouse",
+"Change package name"
+],
+[
+"com.google.android.inputmethod.latin",
+"TwelveHouse",
+"iOS QWERTY layout"
+],
+[
+"com.google.android.inputmethod.latin",
+"TwelveHouse",
+"iOS flick layout"
 ],
 [
 "com.google.android.projection.gearhead",
@@ -14588,6 +14733,21 @@
 "com.huanxiu.HXAweme",
 "MightyMich",
 "Unlock SVIP Features"
+],
+[
+"com.huawei.maps.app",
+"PetalMaps",
+"Skip HMS Core checks"
+],
+[
+"com.hulu.livingroomplus",
+"Semicoloncolonel",
+"Block analytics & tracking (experimental)"
+],
+[
+"com.hulu.livingroomplus",
+"Semicoloncolonel",
+"Skip ads (experimental)"
 ],
 [
 "com.hulu.plus",
@@ -16277,6 +16437,11 @@
 [
 "com.instagram.android",
 "Southstar21dev",
+"Conscious gate"
+],
+[
+"com.instagram.android",
+"Southstar21dev",
 "Disable Reels"
 ],
 [
@@ -16333,6 +16498,11 @@
 "com.instagram.android",
 "Warleysr",
 "Keep screen on while playing video"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"AMOLED theme"
 ],
 [
 "com.instagram.android",
@@ -16447,6 +16617,11 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Disable swipe to camera"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Disable swipe to create"
 ],
 [
@@ -16472,6 +16647,11 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Downloads"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "External downloader"
 ],
 [
@@ -16492,6 +16672,11 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Ghost mode"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Hide Instants view"
 ],
 [
@@ -16502,12 +16687,22 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Hide feed ads"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Hide group creation button on sharesheet"
 ],
 [
 "com.instagram.android",
 "Xboyrex",
 "Hide notes tray"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide reels and stories ads"
 ],
 [
 "com.instagram.android",
@@ -17670,6 +17865,61 @@
 "Add boosters"
 ],
 [
+"com.king.candycrushsaga",
+"Hxreborn",
+"Add extra moves"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Disable events"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Disable notifications"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Hide ads"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Parked app for Android Auto"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Remove ad offers"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Remove offer pop-ups"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Remove rating prompts"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Unlimited lives"
+],
+[
+"com.king.candycrushsaga",
+"Hxreborn",
+"Unlock booster slots"
+],
+[
 "com.king.candycrushsodasaga",
 "JohnInNL",
 "Disable tracking"
@@ -18512,6 +18762,11 @@
 [
 "com.letterboxd.letterboxd",
 "Mvaishak",
+"Adult posters"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
 "Change app icon"
 ],
 [
@@ -18533,6 +18788,16 @@
 "com.letterboxd.letterboxd",
 "Mvaishak",
 "IMDb trivia (personal)"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
+"Profile badge"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
+"Rating slider haptics"
 ],
 [
 "com.letterboxd.letterboxd",
@@ -19468,6 +19733,26 @@
 "com.mb.android",
 "XBadFellaX",
 "Emby remove Firebase and DataTransport"
+],
+[
+"com.mcu.reolink",
+"JohnInNL",
+"Change package name"
+],
+[
+"com.mcu.reolink",
+"JohnInNL",
+"Custom branding"
+],
+[
+"com.mcu.reolink",
+"JohnInNL",
+"Custom layout for Android Auto"
+],
+[
+"com.mcu.reolink",
+"JohnInNL",
+"Parked app for Android Auto"
 ],
 [
 "com.mecom.Berlingske",
@@ -20997,6 +21282,31 @@
 [
 "com.newchat.setlog",
 "Uta-a",
+"\u64ae\u5f71\u79d2\u6570\u306e\u9078\u629e"
+],
+[
+"com.newchat.setlog",
+"Uta-a Cutlog",
+"MicroG-RE Google \u30ed\u30b0\u30a4\u30f3"
+],
+[
+"com.newchat.setlog",
+"Uta-a Cutlog",
+"\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u5143\u30c1\u30a7\u30c3\u30af"
+],
+[
+"com.newchat.setlog",
+"Uta-a Cutlog",
+"\u30d5\u30a1\u30a4\u30eb\u304b\u3089\u6295\u7a3f"
+],
+[
+"com.newchat.setlog",
+"Uta-a Cutlog",
+"\u6295\u7a3f\u524d\u7de8\u96c6"
+],
+[
+"com.newchat.setlog",
+"Uta-a Cutlog",
 "\u64ae\u5f71\u79d2\u6570\u306e\u9078\u629e"
 ],
 [
@@ -26280,6 +26590,46 @@
 "Ignore device limit"
 ],
 [
+"com.soundcloud.android",
+"Longthree1",
+"AMOLED dark theme"
+],
+[
+"com.soundcloud.android",
+"Longthree1",
+"Disable analytics"
+],
+[
+"com.soundcloud.android",
+"Longthree1",
+"Disable consent popup"
+],
+[
+"com.soundcloud.android",
+"Longthree1",
+"Enable SoundCloud Go+ (experimental)"
+],
+[
+"com.soundcloud.android",
+"Longthree1",
+"Hide Cast icon"
+],
+[
+"com.soundcloud.android",
+"Longthree1",
+"Home in Android Auto"
+],
+[
+"com.soundcloud.android",
+"Longthree1",
+"Remove ads and upsells"
+],
+[
+"com.soundcloud.android",
+"Longthree1",
+"Vietnamese language"
+],
+[
 "com.spaceship.screen.textcopy",
 "MightyMich",
 "Bypass Play install gate"
@@ -26298,6 +26648,11 @@
 "com.sparkine.widgets",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.spocky.projengmenu",
+"Hyzor",
+"Unlock Premium"
 ],
 [
 "com.spocky.projengmenu",
@@ -30720,6 +31075,11 @@
 "Spoof signature"
 ],
 [
+"com.tuya.smart",
+"JohnInNL",
+"Allow any Android Auto host"
+],
+[
 "com.tuya.smartlife",
 "Amfakh",
 "Disable analytics"
@@ -31995,6 +32355,11 @@
 "Local TTS Pro"
 ],
 [
+"com.unbrokensoftware.launchbox",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.unicornsonlsd.finamp",
 "Pengusto",
 "Finamp Complete"
@@ -32367,6 +32732,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Native quad far plane (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Network Optimizations"
 ],
 [
@@ -32518,6 +32888,11 @@
 "com.valvesoftware.steamlinkvr",
 "XR Porting Hub",
 "Native quad composition (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Native quad far plane (experimental)"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -37122,7 +37497,27 @@
 [
 "de.hafas.android.db",
 "Henr1klmb",
+"Disable tracking"
+],
+[
+"de.hafas.android.db",
+"Henr1klmb",
 "Enable screenshots"
+],
+[
+"de.hafas.android.oebb",
+"Henr1klmb",
+"Disable ads"
+],
+[
+"de.hafas.android.oebb",
+"Henr1klmb",
+"Disable tracking"
+],
+[
+"de.hafas.android.oebb",
+"Henr1klmb",
+"Spoof signature"
 ],
 [
 "de.klassikradio.app",
@@ -37558,6 +37953,11 @@
 "dk.pol.news",
 "Heval",
 "Disable telemetry"
+],
+[
+"dk.tacit.android.foldersync.lite",
+"Hyzor",
+"Unlock Premium"
 ],
 [
 "dk.tacit.android.foldersync.lite",
@@ -38415,9 +38815,19 @@
 "Custom icon"
 ],
 [
+"io.github.artcraftandroid.pdfcraft",
+"JohnInNL",
+"Custom branding"
+],
+[
 "io.github.jqssun.helium",
 "Brave",
 "Titanium AMOLED theme"
+],
+[
+"io.github.jqssun.helium",
+"JohnInNL",
+"Custom branding"
 ],
 [
 "io.github.jqssun.helium",
@@ -38448,6 +38858,11 @@
 "io.github.xororz.localdream",
 "JPTT",
 "Batch upscale"
+],
+[
+"io.homeassistant.companion.android",
+"JohnInNL",
+"Allow any Android Auto host"
 ],
 [
 "io.homeassistant.companion.android",
@@ -39620,6 +40035,291 @@
 "\u901a\u77e5\u304b\u3089\u65e2\u8aad\u3092\u3064\u3051\u305a\u306b\u958b\u304f"
 ],
 [
+"jp.naver.line.android",
+"Uta-a Linimal",
+"AMOLED theme targets"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Agent i in chat information"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Agent i in chat list search"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Agent i in chat plus menu"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Agent i in home header"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Agent i in message box"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Agent i in settings"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Agent i in wallet header"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Automatic read receipts"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Backup account picker via MicroG-RE"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Bottom tabs"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Chat backup via MicroG-RE"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Chat backup via MicroG-RE (manifest)"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Chat list header icons"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Chat plus menu items"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Disable chat preview"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Explicit mark as read"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Google sign-in via MicroG-RE"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Group readers"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Home ads"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Home featured collections"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Home feed live streams"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Home feed loading indicator"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Home feed post cards"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Home recent history"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Home recommendations"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Home trending"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"LINE AI beside image messages"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"LINE AI in message context menu"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"LINE AI in photo and video viewer"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Linimal bootstrap"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Linimal extension"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Linimal patch probe"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Linimal patch status"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Linimal settings component"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Linimal settings entry"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Linimal settings strings"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Manual read caller"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Manual read handoff"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Manual read permit"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Manual read while reading without receipt"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Mark as read on send"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"MicroG-RE auth error notification"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Open links in external browser"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Premium in settings"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Premium prompt in scroll preview"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Premium prompt on unsend"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Push notifications while closed"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Read without receipt"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Read without receipt (scroll preview)"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Read without receipt from notifications"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Read without receipt receipt block"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Read without receipt session"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Read without receipt strings"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Read without receipt unread keep"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Scrollable preview"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Smart Channel ads"
+],
+[
 "jp.ne.ibis.ibispaintx.app",
 "Kveld9 Extra",
 "Enable Prime membership"
@@ -39818,6 +40518,11 @@
 "me.piebridge.brevent",
 "Heval",
 "Enable Premium"
+],
+[
+"me.pou.app",
+"MightyMich",
+"Unlimited Coins"
 ],
 [
 "me.pou.app",
@@ -40248,6 +40953,11 @@
 "net.mbc.shahid",
 "Hxreborn",
 "Remove root detection"
+],
+[
+"net.mbc.shahid",
+"Hxreborn",
+"Unlock Full HD"
 ],
 [
 "net.mbc.shahid",
@@ -41798,6 +42508,11 @@
 "org.parcello",
 "V4n1X",
 "Disable ads"
+],
+[
+"org.quantumbadger.redreader",
+"Hxreborn",
+"Filter posts"
 ],
 [
 "org.readera",
@@ -44030,6 +44745,11 @@
 "Hide stories"
 ],
 [
+"pl.solidexplorer2",
+"Hyzor",
+"Enable Pro"
+],
+[
 "pl.wykop.droid",
 "HagiaHaya",
 "Fix sidebar layout"
@@ -44186,6 +44906,31 @@
 ],
 [
 "proton.android.pass",
+"Ineednotitle",
+"Unlock Unlimited Plan"
+],
+[
+"proton.android.pass.fdroid",
+"Ineednotitle",
+"Allow screenshots"
+],
+[
+"proton.android.pass.fdroid",
+"Ineednotitle",
+"Disable app lock"
+],
+[
+"proton.android.pass.fdroid",
+"Ineednotitle",
+"Disable clipboard auto-clear"
+],
+[
+"proton.android.pass.fdroid",
+"Ineednotitle",
+"Suppress telemetry"
+],
+[
+"proton.android.pass.fdroid",
 "Ineednotitle",
 "Unlock Unlimited Plan"
 ],
@@ -46148,6 +46893,11 @@
 "xyz.quaver.pupil",
 "Rikunode Pupil",
 "Favorites random shortcut"
+],
+[
+"xyz.rtrvr.pillo",
+"Kondratjev",
+"Edit paused medications"
 ],
 [
 "xyz.rtrvr.pillo",

@@ -1,11 +1,4 @@
 {
- "[\"com.brenpoly.cardboardxr\", \"Hinatara\", \"Force ARCore availability: SUPPORTED_INSTALLED (CardboardXR)\"]": "2026-11-12T18:05:48.182015+00:00",
- "[\"com.unbrokensoftware.launchbox\", \"Hxreborn\", \"Unlock premium\"]": "2026-11-12T18:05:48.182015+00:00",
- "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Allow screenshots\"]": "2026-11-12T18:05:48.182015+00:00",
- "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Disable app lock\"]": "2026-11-12T18:05:48.182015+00:00",
- "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Disable clipboard auto-clear\"]": "2026-11-12T18:05:48.182015+00:00",
- "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Suppress telemetry\"]": "2026-11-12T18:05:48.182015+00:00",
- "[\"proton.android.pass.fdroid\", \"Ineednotitle\", \"Unlock Unlimited Plan\"]": "2026-11-12T18:05:48.182015+00:00",
  "[\"com.oplus.camera\", \"Bearinmind\", \"Open photos in your gallery app\"]": "2026-11-13T02:30:09.840654+00:00",
  "[\"app.myspoti.stable\", \"JohnInNL\", \"Allow any Android Auto host\"]": "2026-11-13T17:36:52.226433+00:00",
  "[\"app.orpheon.beta\", \"JohnInNL\", \"Allow any Android Auto host\"]": "2026-11-13T17:36:52.226433+00:00",
@@ -23,5 +16,16 @@
  "[\"com.samsung.systemui.lockstar\", \"Sebsebseb9b\", \"Center lock screen clock\"]": "2026-11-13T17:36:52.226433+00:00",
  "[\"com.samsung.systemui.lockstar\", \"Sebsebseb9b\", \"Re-sign only (test)\"]": "2026-11-13T17:36:52.226433+00:00",
  "[\"com.samsung.systemui.lockstar\", \"Sebsebseb9b\", \"Use default clock position\"]": "2026-11-13T17:36:52.226433+00:00",
- "[\"io.gh.reisxd.tizentube.cobalt\", \"Ysamjo\", \"Back-Taste \\u2192 App beenden\"]": "2026-11-13T17:36:52.226433+00:00"
+ "[\"io.gh.reisxd.tizentube.cobalt\", \"Ysamjo\", \"Back-Taste \\u2192 App beenden\"]": "2026-11-13T17:36:52.226433+00:00",
+ "[\"app.netmirror.netmirrornew\", \"Henr1klmb\", \"Custom icon\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"app.netmirror.netmirrornew\", \"Henr1klmb\", \"Disable ads\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"app.netmirror.netmirrornew\", \"Henr1klmb\", \"Disable trackers\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"bin.mt.plus\", \"MightyMich\", \"Skip MT account login (Experimental)\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"bin.mt.plus\", \"MightyMich\", \"Unlock Premium (Experimental)\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"io.github.artcraftandroid.gridcraft\", \"JohnInNL\", \"Custom branding\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"io.github.artcraftandroid.lightcraft\", \"JohnInNL\", \"Custom branding\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"io.github.artcraftandroid.wordcraft\", \"JohnInNL\", \"Custom branding\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"moe.rukamori.archivetune\", \"Timtkdb\", \"Show all brand accounts\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"moe.rukamori.archivetune\", \"Timtkdb\", \"Sign in with microG\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"org.quantumbadger.redreaderalpha\", \"Hxreborn\", \"Filter posts\"]": "2026-11-14T02:10:41.253624+00:00"
 }
