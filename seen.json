@@ -1730,6 +1730,21 @@
 "Weekly Deals Sorting"
 ],
 [
+"com.actionlauncher.playstore",
+"Heval",
+"Disable ads"
+],
+[
+"com.actionlauncher.playstore",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.actionlauncher.playstore",
+"Heval",
+"Enable Premium"
+],
+[
 "com.adamrocker.android.input.simeji",
 "Ayufa",
 "AI\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u306e\u30a2\u30a4\u30b3\u30f3\u3092\u975e\u8868\u793a"
@@ -1813,6 +1828,11 @@
 "com.addatimes.Addatimes",
 "Media",
 "Play button"
+],
+[
+"com.adguard.android",
+"GinDoki19",
+"Unlock AdGuard Premium"
 ],
 [
 "com.adithya.memoneet",
@@ -3645,6 +3665,11 @@
 "DNS Changer - Force Pro test D2"
 ],
 [
+"com.appsfornexus.dailysciencenews",
+"XBadFellaX",
+"Science News Daily local subscription"
+],
+[
 "com.appsomniacs.mmc",
 "Satwik-Miyyapuram",
 "Remove ad SDK auto-start"
@@ -3793,6 +3818,11 @@
 "com.atlogis.atlomaps",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.atmfee",
+"Xtra",
+"Disable Telemetry"
 ],
 [
 "com.atomic.apps.ringtone.cutter",
@@ -4137,6 +4167,21 @@
 [
 "com.bardi.smart.home",
 "Amfakh",
+"Dark device panels"
+],
+[
+"com.bardi.smart.home",
+"Amfakh",
+"Glass cards"
+],
+[
+"com.bardi.smart.home",
+"Amfakh",
+"Glass navigation bar"
+],
+[
+"com.bardi.smart.home",
+"Amfakh",
 "GmsCore support"
 ],
 [
@@ -4178,6 +4223,31 @@
 "com.beeper.android",
 "CharlesAttend",
 "Inbox order option"
+],
+[
+"com.beeper.android",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.beeper.android",
+"Heval",
+"Enable Premium"
+],
+[
+"com.beeper.android",
+"Heval",
+"GmsCore support"
+],
+[
+"com.beint.zangi",
+"Xtra",
+"Backup & Restore"
+],
+[
+"com.beint.zangi",
+"Xtra",
+"Unlock Premium"
 ],
 [
 "com.benimaru.official",
@@ -5447,6 +5517,26 @@
 [
 "com.camerasideas.trimmer",
 "Heval",
+"Disable ads"
+],
+[
+"com.camerasideas.trimmer",
+"Heval",
+"Disable native signature check"
+],
+[
+"com.camerasideas.trimmer",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.camerasideas.trimmer",
+"Heval",
+"Enable Premium"
+],
+[
+"com.camerasideas.trimmer",
+"Heval",
 "Enable Pro"
 ],
 [
@@ -6592,6 +6682,11 @@
 [
 "com.dailywire.thedailywire",
 "Semicoloncolonel",
+"Hide promo banners"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel",
 "Hide rating prompt"
 ],
 [
@@ -6783,6 +6878,11 @@
 "com.dealseekorg.dealseek",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel",
+"Stop behavioral tracking"
 ],
 [
 "com.dealseekorg.dealseek",
@@ -11510,6 +11610,31 @@
 "Unlock premium"
 ],
 [
+"com.generalmagic.magicearth",
+"JohnInNL",
+"Allow custom Android Auto hosts"
+],
+[
+"com.generalmagic.magicearth",
+"JohnInNL",
+"Disable GEM telemetry dispatch"
+],
+[
+"com.generalmagic.magicearth",
+"JohnInNL",
+"Disable Google telemetry transport"
+],
+[
+"com.generalmagic.magicearth",
+"JohnInNL",
+"Enable TV launcher"
+],
+[
+"com.generalmagic.magicearth",
+"JohnInNL",
+"Enable local feature controls"
+],
+[
 "com.getaloa.app",
 "Hxreborn",
 "GmsCore support"
@@ -12212,7 +12337,17 @@
 [
 "com.google.android.apps.maps",
 "Bearinmind",
+"Light map"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
 "Location provider toggle"
+],
+[
+"com.google.android.apps.maps",
+"Bearinmind",
+"Map region"
 ],
 [
 "com.google.android.apps.maps",
@@ -12607,6 +12742,11 @@
 [
 "com.google.android.apps.maps",
 "Shuili1013",
+"Android Auto template-only app"
+],
+[
+"com.google.android.apps.maps",
+"Shuili1013",
 "Bypass Play Services checks"
 ],
 [
@@ -12743,6 +12883,26 @@
 "com.google.android.apps.photos",
 "Akash Sriram",
 "Spoof features"
+],
+[
+"com.google.android.apps.photos",
+"Bearinmind",
+"Add microG-RE support"
+],
+[
+"com.google.android.apps.photos",
+"Bearinmind",
+"Hide AI"
+],
+[
+"com.google.android.apps.photos",
+"Bearinmind",
+"Hide promos"
+],
+[
+"com.google.android.apps.photos",
+"Bearinmind",
+"Remove telemetry"
 ],
 [
 "com.google.android.apps.photos",
@@ -13088,6 +13248,16 @@
 "com.google.android.apps.youtube.music",
 "Mormislaw",
 "DHU adapter"
+],
+[
+"com.google.android.apps.youtube.music",
+"Mwbra130",
+"Disable network telemetry"
+],
+[
+"com.google.android.apps.youtube.music",
+"Mwbra130",
+"GmsCore support"
 ],
 [
 "com.google.android.apps.youtube.music",
@@ -13588,6 +13758,11 @@
 "com.google.android.inputmethod.latin",
 "JohnInNL",
 "AI Writing Tools"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"AMOLED dark keyboard"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -14815,6 +14990,11 @@
 "Unlock Pro"
 ],
 [
+"com.hutchgames.smashbandits",
+"byehi98",
+"Free Store Purchases"
+],
+[
 "com.hypenet.focused",
 "Hxreborn",
 "Free parachutes"
@@ -15427,6 +15607,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Auto scroll in Home"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Back leaves Home"
 ],
 [
@@ -15478,6 +15663,11 @@
 "com.instagram.android",
 "HushGram",
 "Control taps and volume on Reels"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Control the reel above comments"
 ],
 [
 "com.instagram.android",
@@ -16517,6 +16707,21 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Ask before a call"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Ask before a follow"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Ask before a like"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Change like animation"
 ],
 [
@@ -16562,6 +16767,11 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Disable Play Store updates"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Disable Reels scrolling"
 ],
 [
@@ -16578,6 +16788,11 @@
 "com.instagram.android",
 "Xboyrex",
 "Disable comments"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Disable disappearing messages swipe"
 ],
 [
 "com.instagram.android",
@@ -16667,6 +16882,11 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Force SDR display"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Friendship status indicator"
 ],
 [
@@ -16677,7 +16897,22 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Hidden Home in Back history"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hidden chats"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Hide Instants view"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide Meta AI"
 ],
 [
 "com.instagram.android",
@@ -16692,12 +16927,32 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Hide feed posts"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Hide group creation button on sharesheet"
 ],
 [
 "com.instagram.android",
 "Xboyrex",
+"Hide hidden requests"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide like buttons"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Hide notes tray"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Hide reels and stories ad pods"
 ],
 [
 "com.instagram.android",
@@ -16727,6 +16982,11 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Hide story follow button"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Hide suggested content"
 ],
 [
@@ -16742,7 +17002,22 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Install-packages permission"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Limit feed to following profiles"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Liquid Glass UI & Navigation"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Long press to zoom"
 ],
 [
 "com.instagram.android",
@@ -16753,6 +17028,11 @@
 "com.instagram.android",
 "Xboyrex",
 "Make ephemeral media permanent"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Mark as read after reply"
 ],
 [
 "com.instagram.android",
@@ -16777,12 +17057,47 @@
 [
 "com.instagram.android",
 "Xboyrex",
+"Pinch to zoom on Reels"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Popup hiding"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Preserve post caption"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Private screen dimmer & notification filter"
+],
+[
+"com.instagram.android",
+"Xboyrex",
 "Recommended flags"
 ],
 [
 "com.instagram.android",
 "Xboyrex",
 "Remove empty bottom space"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Restart relay"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Restore trust on re-signed builds"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Resume Reels after scrolling"
 ],
 [
 "com.instagram.android",
@@ -16803,6 +17118,26 @@
 "com.instagram.android",
 "Xboyrex",
 "Save media comment"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Signature check bypass"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Start videos, reels and stories with sound"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Story like history"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"Story mention indicator"
 ],
 [
 "com.instagram.android",
@@ -16828,6 +17163,11 @@
 "com.instagram.android",
 "Xboyrex",
 "View DMs anonymously"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"View Instants anonymously"
 ],
 [
 "com.instagram.android",
@@ -17108,6 +17448,16 @@
 "com.isarinteractive.skat.android.ad",
 "TorbenStriegel",
 "Remove Play Store redirect"
+],
+[
+"com.iternio.abrpapp",
+"JohnInNL",
+"Allow custom Android Auto hosts"
+],
+[
+"com.iternio.abrpapp",
+"JohnInNL",
+"Unlock Premium"
 ],
 [
 "com.jaindarshan.panchangtithi",
@@ -17921,6 +18271,66 @@
 ],
 [
 "com.king.candycrushsodasaga",
+"Hxreborn",
+"Add boosters"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Add extra moves"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Disable events"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Disable notifications"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Hide ads"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Parked app for Android Auto"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Remove ad offers"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Remove offer pop-ups"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Remove rating prompts"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Unlimited lives"
+],
+[
+"com.king.candycrushsodasaga",
+"Hxreborn",
+"Unlock booster slots"
+],
+[
+"com.king.candycrushsodasaga",
 "JohnInNL",
 "Disable tracking"
 ],
@@ -17978,6 +18388,11 @@
 "com.klevico.monet",
 "Santodan",
 "Monet - Unlock premium (Experimental, any version)"
+],
+[
+"com.krillsson.monitee",
+"GitGitro",
+"Unlock pro"
 ],
 [
 "com.ktwapps.soundmeter",
@@ -19660,6 +20075,11 @@
 "Hide upsells"
 ],
 [
+"com.marsvard.stickermakerforwhatsapp",
+"GitGitro",
+"Unlock Premium"
+],
+[
 "com.martinmagni.fancade",
 "byehi98",
 "Free IAP"
@@ -20680,6 +21100,11 @@
 "Add browser login option"
 ],
 [
+"com.mordiastudio.simurelayfree",
+"Xtra",
+"Unlock All Features"
+],
+[
 "com.motorola.launcher3",
 "Bearinmind",
 "Enable non-Motorola ROM support"
@@ -21253,6 +21678,51 @@
 "com.netease.cloudmusic",
 "Sas-News",
 "\u65e5\u672c\u8a9e\u5316 (Japanese UI)"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel",
+"Browse hidden categories"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel",
+"Bypass tamper protection"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel",
+"Disable autoplay"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel",
+"Hide VPN connection"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel",
+"Hide device identifiers"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel",
+"Keep screen brightness"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel",
+"Remove bottom tabs"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel",
+"Report Wi-Fi connection"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel",
+"Spoof carrier"
 ],
 [
 "com.netflix.ninja",
@@ -22487,6 +22957,11 @@
 [
 "com.oplus.camera",
 "Bearinmind",
+"Open photos in your gallery app"
+],
+[
+"com.oplus.camera",
+"Bearinmind",
 "Remove telemetry"
 ],
 [
@@ -22835,6 +23310,11 @@
 "Remove app prompts"
 ],
 [
+"com.pawxy.browser",
+"Sqzass",
+"Unlock premium"
+],
+[
 "com.pbs.video",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -23142,6 +23622,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Change package name"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Disable analytics"
 ],
 [
@@ -23188,6 +23673,11 @@
 "com.pinterest",
 "HushPinterest",
 "Hide Assistant"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide Inbox updates"
 ],
 [
 "com.pinterest",
@@ -23428,6 +23918,21 @@
 "com.pinterest",
 "Wagg13Patch",
 "Trash bubble on pin long press"
+],
+[
+"com.piriform.ccleaner",
+"Heval",
+"Disable ads"
+],
+[
+"com.piriform.ccleaner",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.piriform.ccleaner",
+"Heval",
+"Enable Premium"
 ],
 [
 "com.piriform.ccleaner",
@@ -24028,6 +24533,11 @@
 "com.reddit.frontpage",
 "Bryceaspringfield",
 "Say subreddits"
+],
+[
+"com.reddit.frontpage",
+"Henr1klmb",
+"Hide AutoModerator comments"
 ],
 [
 "com.reddit.frontpage",
@@ -25640,6 +26150,101 @@
 "Stop remote updates"
 ],
 [
+"com.samsung.android.honeyboard",
+"Heval",
+"Always incognito"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Always use GIPHY"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Autofill in any field"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Bigger clipboard history"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Change app name"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Change package name"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Clipboard columns"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Enable non-One UI ROM support"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"No GIF tracking"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"One-handed keyboard"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Patch settings"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Remove internet permission"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Restore key vibration"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Show GIFs in every region"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Stop remote updates"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Swipe cursor control"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Swipe down to dismiss"
+],
+[
+"com.samsung.android.honeyboard",
+"Heval",
+"Toolbar item count"
+],
+[
 "com.samsung.android.messaging",
 "Bearinmind",
 "Enable non-One UI ROM support"
@@ -25758,6 +26363,36 @@
 "com.scannerradio",
 "Jacobs",
 "Telemetry Kill"
+],
+[
+"com.scatterlab.messenger",
+"Kubobeem2",
+"Block Ads"
+],
+[
+"com.scatterlab.messenger",
+"Kubobeem2",
+"Bypass PairIP License Paywall"
+],
+[
+"com.scatterlab.messenger",
+"Kubobeem2",
+"Clone Zeta (Change Package Name)"
+],
+[
+"com.scatterlab.messenger",
+"Kubobeem2",
+"Hermes Persistent Memory"
+],
+[
+"com.scatterlab.messenger",
+"Kubobeem2",
+"LLM Tokens Per Second Monitor"
+],
+[
+"com.scatterlab.messenger",
+"Kubobeem2",
+"Unlock Client Restrictions"
 ],
 [
 "com.scoremarks.marks",
@@ -30112,6 +30747,16 @@
 [
 "com.tradingview.tradingviewapp",
 "Hxreborn",
+"Skip sign-up screen"
+],
+[
+"com.tradingview.tradingviewapp",
+"Hxreborn",
+"Unlock chart features"
+],
+[
+"com.tradingview.tradingviewapp",
+"Hxreborn",
 "Unlock multi-chart layouts"
 ],
 [
@@ -30497,6 +31142,11 @@
 [
 "com.truecaller",
 "Heval",
+"Tap call history to call"
+],
+[
+"com.truecaller",
+"Heval",
 "Turn off Ad Campaign Analytics"
 ],
 [
@@ -30847,6 +31497,11 @@
 [
 "com.tumblr",
 "HushTumblr",
+"Hide reblogs of your posts"
+],
+[
+"com.tumblr",
+"HushTumblr",
 "Hide suggested blogs"
 ],
 [
@@ -31002,6 +31657,11 @@
 [
 "com.tumblr",
 "HushTumblr",
+"Tags open the blog's tag search"
+],
+[
+"com.tumblr",
+"HushTumblr",
 "Turn off screenshot sharing"
 ],
 [
@@ -31022,7 +31682,22 @@
 [
 "com.tuya.smart",
 "Amfakh",
+"Dark device panels"
+],
+[
+"com.tuya.smart",
+"Amfakh",
 "Disable analytics"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Glass cards"
+],
+[
+"com.tuya.smart",
+"Amfakh",
+"Glass navigation bar"
 ],
 [
 "com.tuya.smart",
@@ -31082,7 +31757,22 @@
 [
 "com.tuya.smartlife",
 "Amfakh",
+"Dark device panels"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
 "Disable analytics"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Glass cards"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Glass navigation bar"
 ],
 [
 "com.tuya.smartlife",
@@ -32023,6 +32713,11 @@
 "com.twitter.android",
 "Xboyrex",
 "Delete from database"
+],
+[
+"com.twitter.android",
+"Xboyrex",
+"Disable Play Store updates"
 ],
 [
 "com.twitter.android",
@@ -34763,6 +35458,11 @@
 "com.wbd.stream",
 "Semicoloncolonel",
 "Video quality"
+],
+[
+"com.wellocution.androidapp",
+"XBadFellaX",
+"BoldVoice subscription features"
 ],
 [
 "com.wetter.androidclient",
@@ -39095,6 +39795,36 @@
 "Unlock Telegraph Premium"
 ],
 [
+"it.octogram.android",
+"Vippium",
+"Anti-delete messages"
+],
+[
+"it.octogram.android",
+"Vippium",
+"Anti-disappearing media"
+],
+[
+"it.octogram.android",
+"Vippium",
+"Bypass content restrictions"
+],
+[
+"it.octogram.android",
+"Vippium",
+"Enable premium"
+],
+[
+"it.octogram.android",
+"Vippium",
+"Hide typing indicator"
+],
+[
+"it.octogram.android",
+"Vippium",
+"Remove sponsored messages"
+],
+[
 "it.papalillo.moviestowatch",
 "Cinemaniac",
 "Disable Advertising ID"
@@ -39362,6 +40092,11 @@
 [
 "jp.naver.line.android",
 "AndrewLiang25",
+"[Fix] Restore Google login via MicroG-RE"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
 "[Fix] Restore biometric login"
 ],
 [
@@ -39377,7 +40112,17 @@
 [
 "jp.naver.line.android",
 "AndrewLiang25",
+"[General] Enable themes on sub devices"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
 "[General] Hide Agent i buttons"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
+"[General] Hide LINE AI image editing"
 ],
 [
 "jp.naver.line.android",
@@ -40780,6 +41525,11 @@
 "Unlock Premium Features"
 ],
 [
+"name.antonsmirnov.android.arduinodroid2",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "net.aasuited.tarotscore",
 "Mubelotix",
 "Remove ads"
@@ -41145,6 +41895,16 @@
 "Unlock Pro Plus / Donate"
 ],
 [
+"net.sjava.officereader",
+"Vippium",
+"AMOLED theme"
+],
+[
+"net.sjava.officereader",
+"Vippium",
+"Unlock premium"
+],
+[
 "net.slickdeals.android",
 "Semicoloncolonel",
 "Block Bluetooth scanning"
@@ -41348,6 +42108,11 @@
 "net.zedge.android",
 "Heval",
 "Disable ads"
+],
+[
+"nextapp.fx",
+"Heval",
+"Enable Premium"
 ],
 [
 "nl.bright.pro",
@@ -42513,6 +43278,11 @@
 "org.quantumbadger.redreader",
 "Hxreborn",
 "Filter posts"
+],
+[
+"org.quantumbadger.redreader",
+"Hxreborn",
+"Fix login"
 ],
 [
 "org.readera",

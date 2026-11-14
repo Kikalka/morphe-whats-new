@@ -1,5 +1,4 @@
 {
- "[\"com.oplus.camera\", \"Bearinmind\", \"Open photos in your gallery app\"]": "2026-11-13T02:30:09.840654+00:00",
  "[\"app.myspoti.stable\", \"JohnInNL\", \"Allow any Android Auto host\"]": "2026-11-13T17:36:52.226433+00:00",
  "[\"app.orpheon.beta\", \"JohnInNL\", \"Allow any Android Auto host\"]": "2026-11-13T17:36:52.226433+00:00",
  "[\"app.orpheon.beta\", \"JohnInNL\", \"Android Auto Up next\"]": "2026-11-13T17:36:52.226433+00:00",
@@ -27,5 +26,11 @@
  "[\"io.github.artcraftandroid.wordcraft\", \"JohnInNL\", \"Custom branding\"]": "2026-11-14T02:10:41.253624+00:00",
  "[\"moe.rukamori.archivetune\", \"Timtkdb\", \"Show all brand accounts\"]": "2026-11-14T02:10:41.253624+00:00",
  "[\"moe.rukamori.archivetune\", \"Timtkdb\", \"Sign in with microG\"]": "2026-11-14T02:10:41.253624+00:00",
- "[\"org.quantumbadger.redreaderalpha\", \"Hxreborn\", \"Filter posts\"]": "2026-11-14T02:10:41.253624+00:00"
+ "[\"org.quantumbadger.redreaderalpha\", \"Hxreborn\", \"Filter posts\"]": "2026-11-14T02:10:41.253624+00:00",
+ "[\"com.samsung.android.videolist\", \"Bearinmind\", \"Disable telemetry\"]": "2026-11-14T16:29:18.524116+00:00",
+ "[\"com.samsung.android.videolist\", \"Bearinmind\", \"Enable non-One UI ROM support\"]": "2026-11-14T16:29:18.524116+00:00",
+ "[\"com.samsung.android.videolist\", \"Bearinmind\", \"Hide end of support notice\"]": "2026-11-14T16:29:18.524116+00:00",
+ "[\"org.ironfoxoss.ironfox\", \"Dorfandiysoftware\", \"Material 3 settings\"]": "2026-11-14T16:29:18.524116+00:00",
+ "[\"org.mozilla.fennec_fdroid\", \"JohnInNL\", \"Custom branding\"]": "2026-11-14T16:29:18.524116+00:00",
+ "[\"org.quantumbadger.redreaderalpha\", \"Hxreborn\", \"Fix login\"]": "2026-11-14T16:29:18.524116+00:00"
 }
