@@ -22,12 +22,57 @@
 [
 "ai.x.grok",
 "XXLC",
+"Copy prompt"
+],
+[
+"ai.x.grok",
+"XXLC",
+"Disable telemetry"
+],
+[
+"ai.x.grok",
+"XXLC",
 "Download all (library)"
 ],
 [
 "ai.x.grok",
 "XXLC",
 "Download all (post)"
+],
+[
+"ai.x.grok",
+"XXLC",
+"Download best video quality"
+],
+[
+"ai.x.grok",
+"XXLC",
+"Download file names"
+],
+[
+"ai.x.grok",
+"XXLC",
+"Download folders"
+],
+[
+"ai.x.grok",
+"XXLC",
+"Hide upgrade prompts"
+],
+[
+"ai.x.grok",
+"XXLC",
+"Keep screen on"
+],
+[
+"ai.x.grok",
+"XXLC",
+"Share file"
+],
+[
+"ai.x.grok",
+"XXLC",
+"Skip delete confirmation"
 ],
 [
 "air.com.vudu.air.DownloaderTablet",
@@ -193,6 +238,21 @@
 "app.myspoti.stable",
 "JohnInNL",
 "Gearslip personal library"
+],
+[
+"app.netmirror.netmirrornew",
+"Henr1klmb",
+"Custom icon"
+],
+[
+"app.netmirror.netmirrornew",
+"Henr1klmb",
+"Disable ads"
+],
+[
+"app.netmirror.netmirrornew",
+"Henr1klmb",
+"Disable trackers"
 ],
 [
 "app.orpheon.beta",
@@ -888,6 +948,16 @@
 "be.tweedehands.m",
 "JohnInNL",
 "Skip consent screens"
+],
+[
+"bin.mt.plus",
+"MightyMich",
+"Skip MT account login (Experimental)"
+],
+[
+"bin.mt.plus",
+"MightyMich",
+"Unlock Premium (Experimental)"
 ],
 [
 "bitpit.launcher",
@@ -2832,6 +2902,11 @@
 [
 "com.andrewshu.android.reddit",
 "Patcheddit",
+"Fix Redgifs API"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
 "Fix loading more comments"
 ],
 [
@@ -3798,6 +3873,16 @@
 "com.appums.music_pitcher_radio",
 "MightyMich",
 "Unlock Pro Features"
+],
+[
+"com.artingames.opheliasparadise",
+"byehi98",
+"Bypass PairIP license check"
+],
+[
+"com.artingames.opheliasparadise",
+"byehi98",
+"Unlock full version"
 ],
 [
 "com.asanayoga.asanarebel",
@@ -6300,6 +6385,11 @@
 "microG-RE support (Google sign-in)"
 ],
 [
+"com.classdojo.android",
+"Hxreborn",
+"Unlock progress reports"
+],
+[
 "com.cloudflare.cloudflareoneagent",
 "0xBaselessProjects",
 "Remove Firebase & Telemetry"
@@ -7097,7 +7187,17 @@
 [
 "com.devolutions.remotedesktopmanager",
 "Toidicakhia",
+"Faster Startup"
+],
+[
+"com.devolutions.remotedesktopmanager",
+"Toidicakhia",
 "Remove Ad ID Permissions"
+],
+[
+"com.devolutions.remotedesktopmanager",
+"Toidicakhia",
+"Skip Age Verification"
 ],
 [
 "com.devone.filetreesize",
@@ -9198,6 +9298,31 @@
 "com.ea.gp.bej3",
 "6jarjar6",
 "Telemetry-disabled"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"[Experimental] Ad-free"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"[Experimental] Crash-guard"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"[Experimental] Cross-promo-redirect"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"[Experimental] Network-cut"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"[Experimental] Telemetry-disabled"
 ],
 [
 "com.eab.se",
@@ -14952,7 +15077,22 @@
 [
 "com.heytap.headset",
 "Sarvottam99",
+"Change installer source"
+],
+[
+"com.heytap.headset",
+"Sarvottam99",
 "Dark mode"
+],
+[
+"com.heytap.headset",
+"Sarvottam99",
+"Disable Play Store updates"
+],
+[
+"com.heytap.headset",
+"Sarvottam99",
+"Spoof signature"
 ],
 [
 "com.hihonor.android.launcher",
@@ -15283,6 +15423,16 @@
 "com.ihad.ptt",
 "Pigfoot",
 "PiTT local sponsored features"
+],
+[
+"com.ilovepdf.www",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.ilovepdf.www",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.imaginecurve.curve.prd",
@@ -16763,6 +16913,16 @@
 "com.instagram.android",
 "Kveld9 Extra",
 "MLKit Vision Slimmer"
+],
+[
+"com.instagram.android",
+"Oxbow",
+"Notes tray"
+],
+[
+"com.instagram.android",
+"Oxbow",
+"Preserve post caption"
 ],
 [
 "com.instagram.android",
@@ -19052,6 +19212,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "RashKash103",
+"Fix the video position bar falling behind"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
 "Fix video downloads"
 ],
 [
@@ -20213,6 +20378,16 @@
 "com.livescore",
 "Heval",
 "Hide betting content"
+],
+[
+"com.lmr.lfm",
+"Legendsciber",
+"Premium"
+],
+[
+"com.locket.Locket",
+"Toidicakhia",
+"Unlock Locket Gold"
 ],
 [
 "com.lonelycatgames.Xplore",
@@ -22315,6 +22490,11 @@
 "Web Ad Blocker"
 ],
 [
+"com.nhn.android.nmap",
+"Ocel07",
+"NAVER Map high-rate GNSS"
+],
+[
 "com.nianticlabs.pokemongo",
 "Belalsalah74",
 "Enhanced throw"
@@ -22682,6 +22862,11 @@
 [
 "com.nuvio.tv",
 "Santodan",
+"NuvioTV - Metadata add-on selection"
+],
+[
+"com.nuvio.tv",
+"Santodan",
 "NuvioTV - Preferred source add-on"
 ],
 [
@@ -22748,6 +22933,11 @@
 "com.nytimes.android",
 "Semicoloncolonel",
 "Hide upsell pop-ups"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel",
+"Incognito reading"
 ],
 [
 "com.nytimes.android",
@@ -26790,6 +26980,21 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.samsung.android.videolist",
+"Bearinmind",
+"Disable telemetry"
+],
+[
+"com.samsung.android.videolist",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
+"com.samsung.android.videolist",
+"Bearinmind",
+"Hide end of support notice"
+],
+[
 "com.samsung.android.wonderland.wallpaper",
 "Bearinmind",
 "Enable non-One UI ROM support"
@@ -27918,6 +28123,11 @@
 "com.spotify.music",
 "Edoardo9708",
 "Spotify - Previous button diagnostics"
+],
+[
+"com.spotify.music",
+"Farbener",
+"Shuffle+"
 ],
 [
 "com.spotify.music",
@@ -33666,6 +33876,21 @@
 ],
 [
 "com.unknownprojectx.pi",
+"Jo-Patches",
+"Bypass PairIP license check"
+],
+[
+"com.unknownprojectx.pi",
+"Jo-Patches",
+"Remove cross-promotion (Prime Button and game icons)"
+],
+[
+"com.unknownprojectx.pi",
+"Jo-Patches",
+"Remove home screen ads"
+],
+[
+"com.unknownprojectx.pi",
 "JoPatches",
 "Bypass PairIP license check"
 ],
@@ -33972,6 +34197,11 @@
 [
 "com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
+"Microphone input recovery"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"Steam Link GalaxyXR",
 "Native quad composition (experimental)"
 ],
 [
@@ -34128,6 +34358,11 @@
 "com.valvesoftware.steamlinkvr",
 "XR Porting Hub",
 "Microphone input preset"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"XR Porting Hub",
+"Microphone input recovery"
 ],
 [
 "com.valvesoftware.steamlinkvr",
@@ -35117,7 +35352,17 @@
 [
 "com.washingtonpost.android",
 "Semicoloncolonel",
+"Hide paywall sheet"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel",
 "Hide rating prompt"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel",
+"Incognito reading"
 ],
 [
 "com.washingtonpost.android",
@@ -36353,6 +36598,11 @@
 "com.x8bit.bitwarden",
 "Aayy-Dev",
 "Trust re-signed browsers for passkeys"
+],
+[
+"com.x8bit.bitwarden",
+"Pigfoot",
+"Bitwarden: Trust re-signed browsers for passkeys"
 ],
 [
 "com.x8bit.bitwarden",
@@ -38492,6 +38742,16 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"Custom Zalo call ringtone"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Customize Zalo accent color"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Enable Google Drive photo backup"
 ],
 [
@@ -38528,6 +38788,11 @@
 "com.zing.zalo",
 "Zeldris",
 "Hide navigation tabs"
+],
+[
+"com.zing.zalo",
+"Zeldris",
+"Hide zStyle conversation"
 ],
 [
 "com.zing.zalo",
@@ -40022,6 +40287,16 @@
 [
 "in.startv.hotstar",
 "Vippium",
+"Hide player buttons"
+],
+[
+"in.startv.hotstar",
+"Vippium",
+"Hide watch page elements"
+],
+[
+"in.startv.hotstar",
+"Vippium",
 "Monochrome icon support"
 ],
 [
@@ -40100,6 +40375,16 @@
 "Werbe-Blocker-Userscript einspritzen"
 ],
 [
+"io.github.artcraftandroid.gridcraft",
+"JohnInNL",
+"Custom branding"
+],
+[
+"io.github.artcraftandroid.lightcraft",
+"JohnInNL",
+"Custom branding"
+],
+[
 "io.github.artcraftandroid.pdfcraft",
 "Bearinmind",
 "Change app name"
@@ -40111,6 +40396,11 @@
 ],
 [
 "io.github.artcraftandroid.pdfcraft",
+"JohnInNL",
+"Custom branding"
+],
+[
+"io.github.artcraftandroid.wordcraft",
 "JohnInNL",
 "Custom branding"
 ],
@@ -40673,6 +40963,26 @@
 "jp.hamitv.hamiand1",
 "Yuubinnkyoku",
 "TVer: suppress player ads (7.2.1)"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
+"[Call] Auto-record calls"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
+"[Call] Record calls without notifying"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
+"[Call] Remove recording time limit"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
+"[Call] Save recordings to device"
 ],
 [
 "jp.naver.line.android",
@@ -42105,6 +42415,16 @@
 "Skip onboarding"
 ],
 [
+"moe.rukamori.archivetune",
+"Timtkdb",
+"Show all brand accounts"
+],
+[
+"moe.rukamori.archivetune",
+"Timtkdb",
+"Sign in with microG"
+],
+[
 "mp3videoconverter.videotomp3.videotomp3converter",
 "Shuhaibnc",
 "Unlock Premium of Video to MP3"
@@ -42138,6 +42458,11 @@
 "net.cozic.joplin",
 "Zimza1abim",
 "Joplin zero-flash custom font"
+],
+[
+"net.daum.android.map",
+"Ocel07",
+"KakaoMap high-rate GNSS"
 ],
 [
 "net.daylio",
@@ -43442,6 +43767,11 @@
 [
 "o.o.joey",
 "ZoomSass",
+"Arctic Shift restore"
+],
+[
+"o.o.joey",
+"ZoomSass",
 "Backup and restore"
 ],
 [
@@ -43690,6 +44020,11 @@
 "Prefer each track's embedded cover"
 ],
 [
+"org.ironfoxoss.ironfox",
+"Dorfandiysoftware",
+"Material 3 settings"
+],
+[
 "org.lds.ldssa",
 "Rubenaaroncalahorra",
 "Force fullscreen"
@@ -43748,6 +44083,11 @@
 "org.mozilla.fenix",
 "FTL",
 "Tab scroll button"
+],
+[
+"org.mozilla.fennec_fdroid",
+"JohnInNL",
+"Custom branding"
 ],
 [
 "org.mozilla.firefox",
@@ -43926,6 +44266,16 @@
 ],
 [
 "org.quantumbadger.redreader",
+"Hxreborn",
+"Fix login"
+],
+[
+"org.quantumbadger.redreaderalpha",
+"Hxreborn",
+"Filter posts"
+],
+[
+"org.quantumbadger.redreaderalpha",
 "Hxreborn",
 "Fix login"
 ],
@@ -46366,6 +46716,41 @@
 ],
 [
 "reddit.news",
+"DrBushyTop",
+"Fix GIF sound"
+],
+[
+"reddit.news",
+"DrBushyTop",
+"Fix video crashes"
+],
+[
+"reddit.news",
+"DrBushyTop",
+"Night theme like OLED, grey in dim light"
+],
+[
+"reddit.news",
+"DrBushyTop",
+"Open Reddit images in the image viewer"
+],
+[
+"reddit.news",
+"DrBushyTop",
+"Prefer high refresh rate"
+],
+[
+"reddit.news",
+"DrBushyTop",
+"Reject ad consent"
+],
+[
+"reddit.news",
+"DrBushyTop",
+"Show comment images inline"
+],
+[
+"reddit.news",
 "Patcheddit",
 "Fix Reddit API lookups"
 ],
@@ -47841,6 +48226,26 @@
 ],
 [
 "tv.twitch.android.app",
+"Overhypedcat",
+"Patch settings"
+],
+[
+"tv.twitch.android.app",
+"Overhypedcat",
+"Patch switches in the vertical view"
+],
+[
+"tv.twitch.android.app",
+"Overhypedcat",
+"Quality unlock"
+],
+[
+"tv.twitch.android.app",
+"Overhypedcat",
+"Song removal"
+],
+[
+"tv.twitch.android.app",
 "Ryykitty",
 "7TV, FFZ, Chatterino and DankChat badges"
 ],
@@ -47923,6 +48328,11 @@
 "tv.twitch.android.app",
 "SeyTheGamer Android TV",
 "AMOLED"
+],
+[
+"tv.twitch.android.app",
+"SeyTheGamer Android TV",
+"DEFAULT HOME TAB"
 ],
 [
 "tv.twitch.android.app",
@@ -48175,6 +48585,11 @@
 "Trust User Certificates"
 ],
 [
+"vn.vtv.vtvgo",
+"Toidicakhia",
+"Video quality control"
+],
+[
 "voicechanger.voiceeffects.soundeffects.voiceavatar",
 "MightyMich",
 "Unlock Premium Features"
@@ -48268,6 +48683,11 @@
 "wsj.reader_sp",
 "Semicoloncolonel",
 "Hide rating prompt"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel",
+"Incognito reading"
 ],
 [
 "wsj.reader_sp",
