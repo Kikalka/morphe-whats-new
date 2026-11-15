@@ -177,6 +177,11 @@
 [
 "app.myspoti.stable",
 "JohnInNL",
+"Allow any Android Auto host"
+],
+[
+"app.myspoti.stable",
+"JohnInNL",
 "Android Auto Up next"
 ],
 [
@@ -188,6 +193,21 @@
 "app.myspoti.stable",
 "JohnInNL",
 "Gearslip personal library"
+],
+[
+"app.orpheon.beta",
+"JohnInNL",
+"Allow any Android Auto host"
+],
+[
+"app.orpheon.beta",
+"JohnInNL",
+"Android Auto Up next"
+],
+[
+"app.orpheon.beta",
+"JohnInNL",
+"Custom branding"
 ],
 [
 "app.pinya.mango",
@@ -572,6 +592,11 @@
 [
 "be.persgroep.android.news.mobiledm",
 "JohnInNL",
+"Android Auto nieuws"
+],
+[
+"be.persgroep.android.news.mobiledm",
+"JohnInNL",
 "Disable tracking"
 ],
 [
@@ -618,6 +643,11 @@
 "be.persgroep.android.news.mobiledm",
 "Johnneerdael",
 "Skip consent screens"
+],
+[
+"be.persgroep.android.news.mobilehln",
+"JohnInNL",
+"Android Auto nieuws"
 ],
 [
 "be.persgroep.android.news.mobilehln",
@@ -1611,6 +1641,31 @@
 ],
 [
 "com.Splitwise.SplitwiseMobile",
+"Loki",
+"AMOLED black (Splitwise)"
+],
+[
+"com.Splitwise.SplitwiseMobile",
+"Loki",
+"Enable premium features (Splitwise)"
+],
+[
+"com.Splitwise.SplitwiseMobile",
+"Loki",
+"GmsCore support (Splitwise)"
+],
+[
+"com.Splitwise.SplitwiseMobile",
+"Loki",
+"Hide Pro ads and upsells"
+],
+[
+"com.Splitwise.SplitwiseMobile",
+"Loki",
+"Remove analytics and crash reporting"
+],
+[
+"com.Splitwise.SplitwiseMobile",
 "RayBourn",
 "Unlock Pro"
 ],
@@ -2465,6 +2520,56 @@
 "Spoof carrier"
 ],
 [
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Amazon: Stop feed video autoplay"
+],
+[
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Dark mode"
+],
+[
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Disable screenshot detection"
+],
+[
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Disable search suggestions tracking"
+],
+[
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Disable video autoplay"
+],
+[
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Fix Amazon manifest conflicts"
+],
+[
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Hide Rufus tab"
+],
+[
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Open links in browser"
+],
+[
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Price history charts"
+],
+[
+"com.amazon.mShop.android.business.shopping",
+"Ineednotitle",
+"Remove ads"
+],
+[
 "com.amazon.mShop.android.shopping",
 "Debakar",
 "Install alongside original"
@@ -2483,6 +2588,11 @@
 "com.amazon.mShop.android.shopping",
 "Ineednotitle",
 "Dark mode"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Ineednotitle",
+"Disable screenshot detection"
 ],
 [
 "com.amazon.mShop.android.shopping",
@@ -6591,6 +6701,26 @@
 ],
 [
 "com.cv.docscanner",
+"Loki",
+"Allow clone"
+],
+[
+"com.cv.docscanner",
+"Loki",
+"Declutter"
+],
+[
+"com.cv.docscanner",
+"Loki",
+"Enable premium features"
+],
+[
+"com.cv.docscanner",
+"Loki",
+"GmsCore support (Doc Scanner)"
+],
+[
+"com.cv.docscanner",
 "byehi98",
 "Doc Scanner Premium"
 ],
@@ -9410,6 +9540,11 @@
 "Hide partner promotions"
 ],
 [
+"com.everycircuit.free",
+"Xtra",
+"Unlock Premium"
+],
+[
 "com.excelliance.multiaccounts",
 "Kveld9 Extra",
 "Block Telemetry & Trackers"
@@ -10133,6 +10268,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Post action buttons"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Post menu items"
 ],
 [
 "com.facebook.katana",
@@ -13447,6 +13587,11 @@
 [
 "com.google.android.gm",
 "Bearinmind",
+"Extra compact list"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
 "Hide AI"
 ],
 [
@@ -13458,6 +13603,11 @@
 "com.google.android.gm",
 "Bearinmind",
 "Hide upsells"
+],
+[
+"com.google.android.gm",
+"Bearinmind",
+"Mark as read in notifications"
 ],
 [
 "com.google.android.gm",
@@ -14798,6 +14948,11 @@
 "com.hevy",
 "Kveld9 Extra",
 "Unlock Pro"
+],
+[
+"com.heytap.headset",
+"Sarvottam99",
+"Dark mode"
 ],
 [
 "com.hihonor.android.launcher",
@@ -16471,6 +16626,121 @@
 ],
 [
 "com.instagram.android",
+"Ineednotitle",
+"Bypass signature check"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Change like animation"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Clone"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Disable Reels scrolling"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Disable story auto flipping"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Disable video autoplay"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Ghost mode"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide Instants"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide Reels save button"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide Threads profile button"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide ads"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide all stories"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide explore feed"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide feed content"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide navigation buttons"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide notes tray"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide reshare button"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Hide suggested content"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Limit feed to following profiles"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Proteus settings"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Reels double-tap seek"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Reels playback speed menu"
+],
+[
+"com.instagram.android",
+"Ineednotitle",
+"Remove build expired popup"
+],
+[
+"com.instagram.android",
 "Kveld9 Extra",
 "AR Effects Slimmer"
 ],
@@ -18137,6 +18407,11 @@
 [
 "com.kick.mobile",
 "SeyTheGamer Android TV",
+"DEFAULT HOME DESTINATION"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Android TV",
 "EMOTES"
 ],
 [
@@ -18158,6 +18433,11 @@
 "com.kick.mobile",
 "SeyTheGamer Android TV",
 "SKIP 18+ WARNING"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Android TV",
+"STOP ON MINIMIZE"
 ],
 [
 "com.kick.mobile",
@@ -18367,7 +18647,22 @@
 [
 "com.klevico.monet",
 "JohnInNL",
+"Individual Nuvio catalog rows"
+],
+[
+"com.klevico.monet",
+"JohnInNL",
 "Individual Wuplay catalog rows"
+],
+[
+"com.klevico.monet",
+"JohnInNL",
+"Unlimited displayed cards"
+],
+[
+"com.klevico.monet",
+"JohnInNL",
+"Unlock Premium"
 ],
 [
 "com.klevico.monet",
@@ -18707,6 +19002,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "RashKash103",
+"Clone Sync app"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
 "Disable Sync for Lemmy bottom sheet"
 ],
 [
@@ -18802,12 +19102,22 @@
 [
 "com.laurencedawson.reddit_sync",
 "RashKash103",
+"Play a YouTube video where Sync's player cannot"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
 "Recover post thumbnails from the archive"
 ],
 [
 "com.laurencedawson.reddit_sync",
 "RashKash103",
 "Redirect Gfycat links to RedGifs"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Repair a gallery Reddit says has failed"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -18838,6 +19148,11 @@
 "com.laurencedawson.reddit_sync",
 "RashKash103",
 "Spoof client"
+],
+[
+"com.laurencedawson.reddit_sync",
+"RashKash103",
+"Stack a link post's picture over its title in columns"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -19890,6 +20205,16 @@
 "Remove ads, telemetry & restrictions"
 ],
 [
+"com.livescore",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.livescore",
+"Heval",
+"Hide betting content"
+],
+[
 "com.lonelycatgames.Xplore",
 "Hxreborn",
 "GmsCore support"
@@ -20428,6 +20753,21 @@
 "com.meesho.supply",
 "Ineednotitle",
 "Lock exported share-in / bank-link activities"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Meesho: Block analytics & tracking SDKs"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Meesho: Disable video autoplay (ExoPlayer)"
+],
+[
+"com.meesho.supply",
+"Ineednotitle",
+"Meesho: Prefer external browser over Custom Tabs"
 ],
 [
 "com.meesho.supply",
@@ -21730,6 +22070,36 @@
 "Remove Netflix ads (legacy engine)"
 ],
 [
+"com.netflix.ninja",
+"Ineednotitle",
+"Clone Netflix"
+],
+[
+"com.netflix.ninja",
+"Ineednotitle",
+"Disable Netflix CertCheck"
+],
+[
+"com.netflix.ninja",
+"Ineednotitle",
+"Minimize Network Fingerprint"
+],
+[
+"com.netflix.ninja",
+"Ineednotitle",
+"Remove Netflix ads (bundle engine)"
+],
+[
+"com.netflix.ninja",
+"Ineednotitle",
+"Remove Netflix ads (loader)"
+],
+[
+"com.netflix.ninja",
+"Ineednotitle",
+"Suppress Household Prompt"
+],
+[
 "com.newchat.setlog",
 "Uta-a",
 "MicroG-RE Google \u30ed\u30b0\u30a4\u30f3"
@@ -21883,6 +22253,41 @@
 "com.nexstar.newsnation",
 "Semicoloncolonel",
 "Skip ads (phone)"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
+"Auto sync reading history"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
+"Background reading"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
+"Fix Google login"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
+"Resume listening position"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
+"Show chapter titles"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
+"TTS media controls"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
+"TTS reliability"
 ],
 [
 "com.nhl.gc1112.free",
@@ -22787,6 +23192,16 @@
 [
 "com.onesports.score",
 "Heval",
+"Disable ads"
+],
+[
+"com.onesports.score",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.onesports.score",
+"Heval",
 "Enable Premium"
 ],
 [
@@ -23647,6 +24062,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Expand board list"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Filter feed"
 ],
 [
@@ -23723,6 +24143,11 @@
 "com.pinterest",
 "HushPinterest",
 "Hide shopping and product pins"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide suggested boards"
 ],
 [
 "com.pinterest",
@@ -24118,6 +24543,11 @@
 "com.podcast.podcasts",
 "Heval",
 "Disable ads"
+],
+[
+"com.podimo",
+"JohnInNL",
+"Android Auto show grid browse"
 ],
 [
 "com.podimo",
@@ -25880,6 +26310,11 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.samsung.android.app.galaxyfinder",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
 "com.samsung.android.app.galaxyraw",
 "ShortEnigma0",
 "Disable post-processing"
@@ -26112,6 +26547,16 @@
 [
 "com.samsung.android.honeyboard",
 "Bearinmind",
+"Bigger size range"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Build SBoard"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
 "Change app name"
 ],
 [
@@ -26132,7 +26577,77 @@
 [
 "com.samsung.android.honeyboard",
 "Bearinmind",
+"Faster backspace"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Faster suggestion animations"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Hide Bitmoji and mojitok"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Hide Galaxy AI"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Hide Samsung Pass"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Hide Translate"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Hide new badges"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Hide store links"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Hide tips"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Key vibration length"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"More toolbar buttons"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
 "No GIF tracking"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"No contacts access"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"One-handed keyboard on every phone"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Pure black theme"
 ],
 [
 "com.samsung.android.honeyboard",
@@ -26278,6 +26793,26 @@
 "com.samsung.android.wonderland.wallpaper",
 "Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.samsung.app.newtrim",
+"Bearinmind",
+"Enable non-One UI ROM support"
+],
+[
+"com.samsung.systemui.lockstar",
+"Sebsebseb9b",
+"Center lock screen clock"
+],
+[
+"com.samsung.systemui.lockstar",
+"Sebsebseb9b",
+"Re-sign only (test)"
+],
+[
+"com.samsung.systemui.lockstar",
+"Sebsebseb9b",
+"Use default clock position"
 ],
 [
 "com.sankakucomplex.channel.black",
@@ -27573,6 +28108,11 @@
 "com.spotify.music",
 "Pablobaro",
 "Sanitize sharing links"
+],
+[
+"com.spotify.music",
+"Southstar21dev",
+"Liquid Glass navigation bar"
 ],
 [
 "com.spotify.music",
@@ -31153,6 +31693,16 @@
 "com.truecaller",
 "Heval",
 "Use SMS for verification codes"
+],
+[
+"com.truecaller",
+"Loki",
+"Enable premium features (Truecaller)"
+],
+[
+"com.truecaller",
+"Loki",
+"GmsCore support (Truecaller)"
 ],
 [
 "com.truecaller",
@@ -38251,6 +38801,16 @@
 ],
 [
 "de.motain.iliga",
+"Heval",
+"Disable telemetry"
+],
+[
+"de.motain.iliga",
+"Heval",
+"Hide betting content"
+],
+[
+"de.motain.iliga",
 "TorbenStriegel",
 "Disable ads"
 ],
@@ -38822,6 +39382,11 @@
 [
 "eu.livesport.FlashScore_com",
 "Heval",
+"AMOLED black"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
 "Animation speed"
 ],
 [
@@ -38867,7 +39432,27 @@
 [
 "eu.livesport.FlashScore_com",
 "Heval",
+"Hide competitions"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Hide match polls"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Hide news"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
 "Patch settings"
+],
+[
+"eu.livesport.FlashScore_com",
+"Heval",
+"Spoiler-free mode"
 ],
 [
 "eu.livesport.FlashScore_com",
@@ -39337,6 +39922,11 @@
 [
 "in.amazon.mShop.android.shopping",
 "Ineednotitle",
+"Disable screenshot detection"
+],
+[
+"in.amazon.mShop.android.shopping",
+"Ineednotitle",
 "Disable search suggestions tracking"
 ],
 [
@@ -39483,6 +40073,11 @@
 "io.gh.reisxd.tizentube.cobalt",
 "MOD-PROD",
 "MOD Icon and Banner"
+],
+[
+"io.gh.reisxd.tizentube.cobalt",
+"Ysamjo",
+"Back-Taste \u2192 App beenden"
 ],
 [
 "io.gh.reisxd.tizentube.cobalt",
@@ -42512,7 +43107,27 @@
 [
 "nl.rtl.videoland.v2",
 "JohnInNL",
+"Disable tracking (Android - v116.4)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Disable tracking (Android TV - v118)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
 "Hide ads"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Hide ads (Android - v116.4)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Hide ads (Android TV - v118)"
 ],
 [
 "nl.rtl.videoland.v2",
@@ -42522,7 +43137,17 @@
 [
 "nl.rtl.videoland.v2",
 "JohnInNL",
+"Hide unavailable content (Android TV - v118)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
 "Skip consent screens"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Skip consent screens (Android - v116.4)"
 ],
 [
 "nl.rtl.videoland.v2",
@@ -42643,6 +43268,11 @@
 "nl.uitzendinggemist",
 "JohnInNL",
 "Disable tracking"
+],
+[
+"nl.uitzendinggemist",
+"JohnInNL",
+"Disable tracking (Android & Android TV - v48.2-2405)"
 ],
 [
 "nl.uitzendinggemist",
@@ -42652,7 +43282,17 @@
 [
 "nl.uitzendinggemist",
 "JohnInNL",
+"Fix PairIP startup (Android & Android TV - v48.2-2405)"
+],
+[
+"nl.uitzendinggemist",
+"JohnInNL",
 "Hide ads"
+],
+[
+"nl.uitzendinggemist",
+"JohnInNL",
+"Hide ads (Android & Android TV - v48.2-2405)"
 ],
 [
 "nl.uitzendinggemist",
@@ -42858,6 +43498,11 @@
 "o.o.joey",
 "ZoomSass",
 "Search auto open keyboard"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Seasonal sidebar banner"
 ],
 [
 "o.o.joey",
@@ -46465,6 +47110,11 @@
 "Disable review prompts"
 ],
 [
+"ru.vk.store",
+"RuStore privacy",
+"Disable web games"
+],
+[
 "ru.vtb24.mobilebanking.android",
 "Basil-AS",
 "Disable AppsFlyer"
@@ -47478,6 +48128,11 @@
 "vidma.video.editor.videomaker",
 "Shuhaibnc",
 "Unlock Vip Of Vidma"
+],
+[
+"vivekagarwal.playwithdb",
+"Ineednotitle",
+"Table Notes: Unlock premium"
 ],
 [
 "vn.com.misa.sothuchi",
