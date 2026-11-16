@@ -115,6 +115,11 @@
 "Spoof carrier"
 ],
 [
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel",
+"Translate ad break screen"
+],
+[
 "ak.alizandro.smartaudiobookplayer",
 "Epabafree",
 "Material You theme"
@@ -1800,6 +1805,11 @@
 "Spoof carrier"
 ],
 [
+"com.abc.abcnews",
+"Semicoloncolonel",
+"Translate ad break screen"
+],
+[
 "com.abi.colony.flow",
 "Totto357",
 "Bypass License Check & Auto-Restore Save Data"
@@ -2485,6 +2495,16 @@
 "Unlock premium"
 ],
 [
+"com.alphaprogression.alphaprogression",
+"CallMeBeyonder",
+"Bypass PairIP checks"
+],
+[
+"com.alphaprogression.alphaprogression",
+"CallMeBeyonder",
+"Unlock Pro"
+],
+[
 "com.alticelabs.meo.androidtv",
 "Santodan",
 "MEO - Side-by-side installation"
@@ -2918,6 +2938,11 @@
 "com.andrewshu.android.reddit",
 "Patcheddit",
 "RIF Morphe settings"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Reddit API fixes"
 ],
 [
 "com.androholic.wallpapersdepthpix",
@@ -4285,6 +4310,11 @@
 "Spoof carrier"
 ],
 [
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel",
+"Translate ad break screen"
+],
+[
 "com.bandcamp.android",
 "Nai64 Extra",
 "Allow Mobile Downloads"
@@ -5375,6 +5405,11 @@
 "Force ARCore availability: SUPPORTED_INSTALLED (CardboardXR)"
 ],
 [
+"com.brother.printservice",
+"Pholcroft",
+"Faster print previews"
+],
+[
 "com.bstar.intl",
 "Ikuradachi",
 "Clean Me page"
@@ -5783,6 +5818,16 @@
 "com.cbs.app",
 "Semicoloncolonel",
 "Disable auto-updates"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel",
+"Enable picture-in-picture"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel",
+"Force highest quality"
 ],
 [
 "com.cbs.app",
@@ -6563,6 +6608,31 @@
 "com.columnapp.column",
 "Danieleavolio",
 "Unlock Premium"
+],
+[
+"com.community.mbox.tv",
+"CallMeBeyonder",
+"Custom seek step"
+],
+[
+"com.community.mbox.tv",
+"CallMeBeyonder",
+"Disable forced update"
+],
+[
+"com.community.mbox.tv",
+"CallMeBeyonder",
+"Prefer highest resolution"
+],
+[
+"com.community.mbox.tv",
+"CallMeBeyonder",
+"Serve requested resolution"
+],
+[
+"com.community.mbox.tv",
+"CallMeBeyonder",
+"Unlock VIP"
 ],
 [
 "com.community.mbox.tv",
@@ -8733,6 +8803,11 @@
 "com.djezzy.internet",
 "Oyasumi",
 "Force Walk & Win steps to 10000"
+],
+[
+"com.dmm.app.oculusgearplayer",
+"JPTT",
+"Hand tracking"
 ],
 [
 "com.dnddream.HeadBasketball",
@@ -13517,7 +13592,22 @@
 [
 "com.google.android.apps.youtube.music",
 "Mwbra130",
+"Disable QUIC protocol"
+],
+[
+"com.google.android.apps.youtube.music",
+"Mwbra130",
+"Disable audio ducking"
+],
+[
+"com.google.android.apps.youtube.music",
+"Mwbra130",
 "Disable network telemetry"
+],
+[
+"com.google.android.apps.youtube.music",
+"Mwbra130",
+"Enable downloads"
 ],
 [
 "com.google.android.apps.youtube.music",
@@ -13528,6 +13618,16 @@
 "com.google.android.apps.youtube.music",
 "Mwbra130",
 "Remove background playback restrictions"
+],
+[
+"com.google.android.apps.youtube.music",
+"Mwbra130",
+"Skip silence"
+],
+[
+"com.google.android.apps.youtube.music",
+"Mwbra130",
+"Spoof app version"
 ],
 [
 "com.google.android.apps.youtube.unplugged",
@@ -13578,6 +13678,11 @@
 "com.google.android.apps.youtube.unplugged",
 "Semicoloncolonel",
 "Start at high quality"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel",
+"Translate ad break screen"
 ],
 [
 "com.google.android.apps.youtube.vr.oculus",
@@ -14968,6 +15073,11 @@
 "com.hbwares.wordfeud.free",
 "Jeroenimo02",
 "Remove ads"
+],
+[
+"com.hbwares.wordfeud.free",
+"Jeroenimo02",
+"Word Finder overlay"
 ],
 [
 "com.hbwares.wordfeud.free",
@@ -18375,6 +18485,11 @@
 "Enable debug mode (Sobosuba)"
 ],
 [
+"com.kevinforeman.nzb360",
+"Hyzor",
+"Unlock All Access"
+],
+[
 "com.kick.mobile",
 "JordanWoodson",
 "AMOLED black"
@@ -19133,6 +19248,11 @@
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Reddit API fixes"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -20668,6 +20788,11 @@
 "com.mcu.reolink",
 "JohnInNL",
 "Custom layout for Android Auto"
+],
+[
+"com.mcu.reolink",
+"JohnInNL",
+"Fix push notification registration"
 ],
 [
 "com.mcu.reolink",
@@ -22495,6 +22620,31 @@
 "NAVER Map high-rate GNSS"
 ],
 [
+"com.nianticlabs.campfire",
+"DanielTheManiel",
+"Live chat reconnect"
+],
+[
+"com.nianticlabs.campfire",
+"DanielTheManiel",
+"Map post age filter"
+],
+[
+"com.nianticlabs.campfire",
+"DanielTheManiel",
+"Material You Theme"
+],
+[
+"com.nianticlabs.campfire",
+"DanielTheManiel",
+"Open game links directly"
+],
+[
+"com.nianticlabs.campfire",
+"DanielTheManiel",
+"microG-RE support (Google sign-in)"
+],
+[
 "com.nianticlabs.pokemongo",
 "Belalsalah74",
 "Enhanced throw"
@@ -23348,6 +23498,11 @@
 "com.onelouder.baconreader",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
+"Reddit API fixes"
 ],
 [
 "com.oneplus.calculator",
@@ -24902,6 +25057,16 @@
 [
 "com.qidian.Int.reader",
 "Solo",
+"AMOLED dark theme"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Copy and translate"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
 "Custom fonts"
 ],
 [
@@ -25123,6 +25288,11 @@
 "com.reddit.frontpage",
 "Bin0culars",
 "Content-type filter"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
+"Feed auto-scroll"
 ],
 [
 "com.reddit.frontpage",
@@ -25968,6 +26138,11 @@
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Readable Boost flair labels"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Reddit API fixes"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -29445,6 +29620,11 @@
 "Unlimited Downloads"
 ],
 [
+"com.stealthcopter.portdroid",
+"Sqzass",
+"Bypass signature check"
+],
+[
 "com.steinberg.cubasisle3",
 "Hxreborn",
 "Disable telemetry"
@@ -31423,6 +31603,21 @@
 "com.todoist",
 "Titandrive",
 "Todoist custom font"
+],
+[
+"com.tomtom.gplay.navapp",
+"Georgewoodall82 TomTom",
+"My POIs"
+],
+[
+"com.tomtom.gplay.navapp",
+"Georgewoodall82 TomTom",
+"Unlock Premium Subscription"
+],
+[
+"com.tomtom.gplay.navapp",
+"Georgewoodall82 TomTom",
+"Unlock Truck Profile"
 ],
 [
 "com.touchtype.swiftkey",
@@ -35487,6 +35682,11 @@
 [
 "com.waze",
 "Bearinmind",
+"Patched YouTube Music"
+],
+[
+"com.waze",
+"Bearinmind",
 "Remove permissions"
 ],
 [
@@ -36798,6 +36998,11 @@
 "com.xumo.xumo",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel",
+"Translate ad break screen"
 ],
 [
 "com.xumo.xumo.tv",
@@ -40822,6 +41027,11 @@
 [
 "jp.co.airfront.android.a2chMate",
 "Haiagaru",
+"\u6210\u4eba\u5411\u3051\u30fb\u30b0\u30ed\u753b\u50cf\u306e\u81ea\u52d5\u691c\u51fa"
+],
+[
+"jp.co.airfront.android.a2chMate",
+"Haiagaru",
 "\u753b\u50cf\u53d6\u5f97\u5c02\u7528VPN\uff08\u5b9f\u9a13\u7528\u30fb\u691c\u8a3c\u4e2d\uff09"
 ],
 [
@@ -42246,6 +42456,11 @@
 ],
 [
 "ml.docilealligator.infinityforreddit.plus",
+"Patcheddit",
+"Reddit API fixes"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
 "Pengusto",
 "Configure custom OAuth for Infinity+"
 ],
@@ -42263,6 +42478,11 @@
 "ml.docilealligator.infinityforreddit.plus2",
 "Patcheddit",
 "Modify login WebView"
+],
+[
+"ml.docilealligator.infinityforreddit.plus2",
+"Patcheddit",
+"Reddit API fixes"
 ],
 [
 "ml.docilealligator.infinityforreddit.plus2",
@@ -43763,6 +43983,11 @@
 "o.o.joey",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"o.o.joey",
+"Patcheddit",
+"Reddit API fixes"
 ],
 [
 "o.o.joey",
@@ -46767,6 +46992,11 @@
 [
 "reddit.news",
 "Patcheddit",
+"Reddit API fixes"
+],
+[
+"reddit.news",
+"Patcheddit",
 "Relay Morphe settings"
 ],
 [
@@ -47858,6 +48088,21 @@
 "tv.pluto.android",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel",
+"Translate ad break screen"
+],
+[
+"tv.trakt.trakt",
+"Hyzor",
+"Fix sign-in"
+],
+[
+"tv.trakt.trakt",
+"Hyzor",
+"Unlock VIP"
 ],
 [
 "tv.trakt.trakt",
