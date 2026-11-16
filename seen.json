@@ -120,6 +120,51 @@
 "Translate ad break screen"
 ],
 [
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel Mobile",
+"Mask ads"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel Mobile",
+"Translate ad break screen"
+],
+[
 "ak.alizandro.smartaudiobookplayer",
 "Epabafree",
 "Material You theme"
@@ -148,6 +193,21 @@
 "app.alextran.immich",
 "Titandrive",
 "Immich custom font"
+],
+[
+"app.contentcam.android",
+"Mwbra130",
+"Bypass PairIP license check"
+],
+[
+"app.contentcam.android",
+"Mwbra130",
+"Enable Premium"
+],
+[
+"app.contentcam.android",
+"Mwbra130",
+"Remove telemetry"
 ],
 [
 "app.expert.player",
@@ -478,6 +538,11 @@
 "bbc.mobile.news.ww",
 "Heval",
 "Disable ads"
+],
+[
+"bbc.mobile.news.ww",
+"Heval",
+"Spoof signature"
 ],
 [
 "be.concentra.gva.MediaApp",
@@ -1810,6 +1875,56 @@
 "Translate ad break screen"
 ],
 [
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Mask live ad breaks"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Translate ad break screen"
+],
+[
 "com.abi.colony.flow",
 "Totto357",
 "Bypass License Check & Auto-Restore Save Data"
@@ -2516,6 +2631,16 @@
 ],
 [
 "com.amazon.amazonvideo.livingroom",
+"Semicoloncolonel TV",
+"Force highest quality"
+],
+[
+"com.amazon.amazonvideo.livingroom",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"com.amazon.amazonvideo.livingroom",
 "Sudeepcapri",
 "Bundle native ad-strip hook"
 ],
@@ -2607,6 +2732,56 @@
 [
 "com.amazon.avod.thirdpartyclient",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
+"Rename shared permissions"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.amazon.avod.thirdpartyclient",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -2770,6 +2945,56 @@
 "Spoof carrier"
 ],
 [
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Hide sponsored listings"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.amazon.spiderpork",
 "Blazko381",
 "Luna Low Latency Codecs"
@@ -2817,6 +3042,51 @@
 [
 "com.amcplus.amcfullepisodes",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.amcplus.amcfullepisodes",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.amcplus.amcfullepisodes",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.amcplus.amcfullepisodes",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.amcplus.amcfullepisodes",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.amcplus.amcfullepisodes",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.amcplus.amcfullepisodes",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.amcplus.amcfullepisodes",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.amcplus.amcfullepisodes",
+"Semicoloncolonel Mobile",
+"Skip launch video"
+],
+[
+"com.amcplus.amcfullepisodes",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -2923,6 +3193,11 @@
 "com.andrewshu.android.reddit",
 "Patcheddit",
 "Fix Redgifs API"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Fix escaped URLs"
 ],
 [
 "com.andrewshu.android.reddit",
@@ -3805,6 +4080,116 @@
 "Spoof carrier"
 ],
 [
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Auto-skip"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Auto-skip (Android TV)"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking (Android TV)"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Disable up next"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Hide player overlays"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Hide rating prompt (Android TV)"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Show release times"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Show release times (Android TV)"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel TV",
+"Auto-skip"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel TV",
+"Auto-skip (Android TV)"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel TV",
+"Block analytics & tracking (Android TV)"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel TV",
+"Hide rating prompt (Android TV)"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel TV",
+"Show release times"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel TV",
+"Show release times (Android TV)"
+],
+[
 "com.application.zomato.district",
 "Ineednotitle",
 "Block analytics & data collection"
@@ -4090,6 +4475,41 @@
 "Hide rating prompt"
 ],
 [
+"com.att.myWireless",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.att.myWireless",
+"Semicoloncolonel Mobile",
+"Block background network reports"
+],
+[
+"com.att.myWireless",
+"Semicoloncolonel Mobile",
+"Block session recording"
+],
+[
+"com.att.myWireless",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.att.myWireless",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.att.myWireless",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.att.myWireless",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
 "com.audiobookshelf.app",
 "M4TH1EU",
 "Allow Veloce media browsing"
@@ -4230,6 +4650,41 @@
 "Spoof carrier"
 ],
 [
+"com.bah.r1smobile",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.bah.r1smobile",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.bah.r1smobile",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.bah.r1smobile",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.bah.r1smobile",
+"Semicoloncolonel Mobile",
+"Show hidden details"
+],
+[
+"com.bah.r1smobile",
+"Semicoloncolonel Mobile",
+"Skip location on open"
+],
+[
+"com.bah.r1smobile",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.bambuna.podcastaddict",
 "Way-Lo",
 "Playlist swipe to remove"
@@ -4312,6 +4767,111 @@
 [
 "com.bamnetworks.mobile.android.gameday.atbat",
 "Semicoloncolonel",
+"Translate ad break screen"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Hide betting odds"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Hide surveys and rating prompt"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Mask live ad breaks"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Translate ad break screen"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel TV",
+"Hide betting odds"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel TV",
+"Mask live ad breaks"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel TV",
 "Translate ad break screen"
 ],
 [
@@ -4670,6 +5230,56 @@
 "Spoof carrier"
 ],
 [
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Hide sponsored listings"
+],
+[
+"com.bestbuy.android",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.bhoos.marriage",
 "Franticg33k",
 "Reward when the ad fails to load"
@@ -4701,6 +5311,11 @@
 ],
 [
 "com.biobird.exvee",
+"Hxreborn",
+"Unlock premium"
+],
+[
+"com.bittorrent.client",
 "Hxreborn",
 "Unlock premium"
 ],
@@ -5620,6 +6235,101 @@
 "Spoof carrier"
 ],
 [
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Remove social sign-in"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Skip launch video"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Skip pre-roll promo"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel TV",
+"Hide VPN connection"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel TV",
+"Remove social sign-in"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel TV",
+"Report Wi-Fi connection"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel TV",
+"Skip pre-roll promo"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel TV",
+"Spoof carrier"
+],
+[
 "com.c10kforpink",
 "CallMeBeyonder",
 "Unlock Premium"
@@ -5712,6 +6422,81 @@
 [
 "com.c51",
 "Semicoloncolonel",
+"Strip affiliate links"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Block ads"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Block location tracking"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Dark mode"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Hide pop-ups"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Show gas offers on OpenStreetMap"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
 "Strip affiliate links"
 ],
 [
@@ -5862,6 +6647,61 @@
 [
 "com.cbs.app",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Enable picture-in-picture"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Force highest quality"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
+"Skip launch video"
+],
+[
+"com.cbs.app",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -6515,6 +7355,41 @@
 "Skip ads"
 ],
 [
+"com.cnbc.client",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel Mobile",
+"Dark mode"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel Mobile",
+"Fix launch with DNS blockers"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel Mobile",
+"Hide newsletter pop-ups"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel Mobile",
+"Hide premium promotions"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
 "com.cnn.indonesia",
 "Amfakh",
 "Disable analytics"
@@ -6583,6 +7458,76 @@
 "com.cnn.mobile.android.phone",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Faster launch"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Opt out of data sale & sharing"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Remove social sign-in"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.codeswitch.drapes",
+"Mwbra130",
+"Bypass PairIP license check"
+],
+[
+"com.codeswitch.drapes",
+"Mwbra130",
+"Enable Pro"
+],
+[
+"com.codeswitch.drapes",
+"Mwbra130",
+"Remove telemetry"
 ],
 [
 "com.coloros.compass2",
@@ -6712,6 +7657,21 @@
 [
 "com.costco.app.android",
 "Semicoloncolonel",
+"Hide sponsored products"
+],
+[
+"com.costco.app.android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.costco.app.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.costco.app.android",
+"Semicoloncolonel Mobile",
 "Hide sponsored products"
 ],
 [
@@ -6935,6 +7895,56 @@
 "Spoof carrier"
 ],
 [
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Hide sponsored listings"
+],
+[
+"com.cvs.launchers.cvs",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.cylonid.nativealpha",
 "Aayy-Dev",
 "Keep shortcut icon shape"
@@ -6982,6 +7992,41 @@
 [
 "com.dailywire.thedailywire",
 "Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel Mobile",
+"Hide promo banners"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -7105,6 +8150,71 @@
 "Strip affiliate links"
 ],
 [
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Block ads"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Disable Pairip license check"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Hide pop-ups"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
+"Strip affiliate links"
+],
+[
 "com.dealseekorg.dealseek",
 "Semicoloncolonel",
 "Block Bluetooth scanning"
@@ -7177,6 +8287,81 @@
 [
 "com.dealseekorg.dealseek",
 "Semicoloncolonel",
+"Strip affiliate links"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Dark mode"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Disable Pairip license check"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Hide editor articles"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Hide pop-ups"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Stop behavioral tracking"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
 "Strip affiliate links"
 ],
 [
@@ -8795,6 +9980,96 @@
 "Spoof carrier"
 ],
 [
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
+"Skip launch video"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel TV",
+"Hide VPN connection"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel TV",
+"Report Wi-Fi connection"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel TV",
+"Skip launch video"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel TV",
+"Spoof carrier"
+],
+[
 "com.divum.MoneyControl",
 "Heval",
 "Disable ads"
@@ -9015,6 +10290,41 @@
 "Spoof carrier"
 ],
 [
+"com.dramafever.docclub",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.dramafever.docclub",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.dramafever.shudder",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -9047,6 +10357,41 @@
 [
 "com.dramafever.shudder",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.dramafever.shudder",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -9327,7 +10672,17 @@
 [
 "com.dynanic.ultimea",
 "XBadFellaX",
+"Accent color"
+],
+[
+"com.dynanic.ultimea",
+"XBadFellaX",
 "Custom font"
+],
+[
+"com.dynanic.ultimea",
+"XBadFellaX",
+"Disable tracking"
 ],
 [
 "com.dynanic.ultimea",
@@ -9338,6 +10693,26 @@
 "com.dynanic.ultimea",
 "XBadFellaX",
 "Pitch black"
+],
+[
+"com.dynanic.ultimea",
+"XBadFellaX",
+"Remove distractions"
+],
+[
+"com.dynanic.ultimea",
+"XBadFellaX",
+"Remove popups"
+],
+[
+"com.dynanic.ultimea",
+"XBadFellaX",
+"Ultimea Black Mode"
+],
+[
+"com.dynanic.ultimea",
+"XBadFellaX",
+"Ultimea Hide Explorer Tab"
 ],
 [
 "com.ea.game.pvzfree_row",
@@ -9383,6 +10758,11 @@
 "com.ea.gp.bej3",
 "6jarjar6",
 "[Experimental] Crash-guard"
+],
+[
+"com.ea.gp.bej3",
+"6jarjar6",
+"[Experimental] Cross-promo-button-text"
 ],
 [
 "com.ea.gp.bej3",
@@ -9452,6 +10832,31 @@
 [
 "com.eet.settings.launcher",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.eet.settings.launcher",
+"Semicoloncolonel Mobile",
+"Block ads"
+],
+[
+"com.eet.settings.launcher",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.eet.settings.launcher",
+"Semicoloncolonel Mobile",
+"Disable Pairip license check"
+],
+[
+"com.eet.settings.launcher",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.eet.settings.launcher",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -9625,6 +11030,96 @@
 "Spoof carrier"
 ],
 [
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Disable MGM+ AI"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Remove social sign-in"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Skip lion intro"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Skip pre-roll promo"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel TV",
+"Disable MGM+ AI"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel TV",
+"Skip lion intro"
+],
+[
 "com.ertanto.kompas.official",
 "Amfakh",
 "Disable analytics"
@@ -9693,6 +11188,76 @@
 "com.espn.score_center",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Hide betting"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel TV",
+"Skip ads"
 ],
 [
 "com.estrongs.android.pop",
@@ -10847,6 +12412,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Block screenshots in chats"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Blur behind menus"
 ],
 [
@@ -11097,6 +12667,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Keep a renamed copy working"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Keep chat pop-ups"
 ],
 [
@@ -11127,6 +12702,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Mark chats read on this phone"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Material You theme"
 ],
 [
@@ -11148,6 +12728,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Open your gallery app"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Paste a photo into the chat"
 ],
 [
 "com.facebook.orca",
@@ -11223,6 +12808,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Show People tab"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Show settings tab"
 ],
 [
 "com.facebook.orca",
@@ -11545,6 +13135,26 @@
 "Hide rating prompt"
 ],
 [
+"com.fivemobile.thescore",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.fivemobile.thescore",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.fivemobile.thescore",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.fivemobile.thescore",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
 "com.flightconnections",
 "Duy",
 "Remove ads"
@@ -11710,6 +13320,81 @@
 "Spoof carrier"
 ],
 [
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Disable Pairip license check"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel TV",
+"Disable Pairip license check"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
 "com.fox.fts.android",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -11757,6 +13442,56 @@
 [
 "com.fox.fts.android",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
+"Hide pop-ups and rating prompts"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
+"Opt out of data sale & sharing"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -11812,6 +13547,61 @@
 [
 "com.foxnews.android",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Enable developer menu"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Hide prediction markets"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Opt out of data sale & sharing"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -11988,6 +13778,11 @@
 "com.getupnote.android",
 "Heval",
 "Enable Premium"
+],
+[
+"com.giamping.sevpn",
+"Mwbra130",
+"Enable premium"
 ],
 [
 "com.git.agriconnect",
@@ -13685,6 +15480,61 @@
 "Translate ad break screen"
 ],
 [
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Block telemetry"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Change app name"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Fix picture-in-picture"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Hide membership upsell"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Hide prompts and promos"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Mask live ad breaks"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Start at high quality"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Translate ad break screen"
+],
+[
 "com.google.android.apps.youtube.vr.oculus",
 "Commit-Regrets",
 "App name"
@@ -14521,6 +16371,26 @@
 ],
 [
 "com.google.android.youtube.tv",
+"Android TV",
+"Client context hook"
+],
+[
+"com.google.android.youtube.tv",
+"Android TV",
+"Clone YouTube (Android TV)"
+],
+[
+"com.google.android.youtube.tv",
+"Android TV",
+"GmsCore support"
+],
+[
+"com.google.android.youtube.tv",
+"Android TV",
+"Skip ads"
+],
+[
+"com.google.android.youtube.tv",
 "Jair1c",
 "Custom branding"
 ],
@@ -14552,6 +16422,16 @@
 [
 "com.google.android.youtube.tv",
 "Semicoloncolonel",
+"Skip injected ads"
+],
+[
+"com.google.android.youtube.tv",
+"Semicoloncolonel Mobile",
+"Skip injected ads"
+],
+[
+"com.google.android.youtube.tv",
+"Semicoloncolonel TV",
 "Skip injected ads"
 ],
 [
@@ -14670,6 +16550,76 @@
 "Spoof carrier"
 ],
 [
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel TV",
+"Reject tracking consent"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
 "com.gpsmapcamera.geotagginglocationonphoto",
 "Rudrakshrajpurohit417",
 "Premium Unlocked"
@@ -14723,6 +16673,21 @@
 "com.gregacucnik.fishingpoints",
 "Heval",
 "Enable Premium"
+],
+[
+"com.greycastel.waypoint",
+"0x11DFE",
+"Disable PairIP license check"
+],
+[
+"com.greycastel.waypoint",
+"0x11DFE",
+"Skip Waypoint onboarding paywall"
+],
+[
+"com.greycastel.waypoint",
+"0x11DFE",
+"Unlock Waypoint Pro"
 ],
 [
 "com.groundspeak.geocaching.intro",
@@ -14888,6 +16853,11 @@
 "com.guardian",
 "Heval",
 "Disable telemetry"
+],
+[
+"com.guardian",
+"Heval",
+"Spoof signature"
 ],
 [
 "com.guochao.faceshow",
@@ -15317,6 +17287,11 @@
 [
 "com.huawei.maps.app",
 "PetalMaps",
+"Free rotation"
+],
+[
+"com.huawei.maps.app",
+"PetalMaps",
 "Skip HMS Core checks"
 ],
 [
@@ -15327,6 +17302,16 @@
 [
 "com.hulu.livingroomplus",
 "Semicoloncolonel",
+"Skip ads (experimental)"
+],
+[
+"com.hulu.livingroomplus",
+"Semicoloncolonel TV",
+"Block analytics & tracking (experimental)"
+],
+[
+"com.hulu.livingroomplus",
+"Semicoloncolonel TV",
 "Skip ads (experimental)"
 ],
 [
@@ -15367,6 +17352,46 @@
 [
 "com.hulu.plus",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.hulu.plus",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.hulu.plus",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.hulu.plus",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.hulu.plus",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.hulu.plus",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.hulu.plus",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.hulu.plus",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.hulu.plus",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -15488,6 +17513,11 @@
 "com.idntimes.idntimes",
 "Amfakh",
 "Disable analytics"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Fix server error after idle"
 ],
 [
 "com.idntimes.idntimes",
@@ -16022,6 +18052,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Ask for VP9 instead of AV1"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Auto scroll in Home"
 ],
 [
@@ -16467,6 +18502,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Keep online history"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Keep photo locations from Instagram"
 ],
 [
@@ -16483,6 +18523,11 @@
 "com.instagram.android",
 "HushGram",
 "Keep story buttons below the story"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Keep story viewers"
 ],
 [
 "com.instagram.android",
@@ -16662,6 +18707,16 @@
 [
 "com.instagram.android",
 "HushGram",
+"Sent follow requests"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Shorter Active now"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Show a post's exact time"
 ],
 [
@@ -16713,6 +18768,11 @@
 "com.instagram.android",
 "HushGram",
 "Smooth story opening"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Sort reels on profiles"
 ],
 [
 "com.instagram.android",
@@ -16838,6 +18898,11 @@
 "com.instagram.android",
 "HushGram",
 "Thicker story progress bar"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Three-dot menu items"
 ],
 [
 "com.instagram.android",
@@ -17228,6 +19293,11 @@
 "com.instagram.android",
 "Warleysr",
 "Keep screen on while playing video"
+],
+[
+"com.instagram.android",
+"Xboyrex",
+"AMOLED Blur UI & Navigation"
 ],
 [
 "com.instagram.android",
@@ -18230,6 +20300,16 @@
 "Enable Premium"
 ],
 [
+"com.jtsstrength.juggernautai",
+"CallMeBeyonder",
+"Disable Expo OTA updates"
+],
+[
+"com.jtsstrength.juggernautai",
+"CallMeBeyonder",
+"Unlock Premium"
+],
+[
 "com.judu",
 "Vakarux12",
 "raid.lt inspectors"
@@ -18287,6 +20367,116 @@
 [
 "com.justwatch.justwatch",
 "Semicoloncolonel",
+"Streaming titles only"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Block ads"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Hide sponsored titles"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Hide unavailable titles"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Hide watched titles"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Streaming titles only"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"Block ads"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"GmsCore support"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"Hide sponsored titles"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"Hide unavailable titles"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"Hide watched titles"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
+"Spoof carrier"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel TV",
 "Streaming titles only"
 ],
 [
@@ -18437,6 +20627,21 @@
 [
 "com.kanopy",
 "Semicoloncolonel",
+"Hide survey"
+],
+[
+"com.kanopy",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.kanopy",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.kanopy",
+"Semicoloncolonel Mobile",
 "Hide survey"
 ],
 [
@@ -18632,6 +20837,16 @@
 [
 "com.kick.mobile",
 "JordanWoodson",
+"Player gestures"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Refresh stream"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
 "Remove tracking permissions"
 ],
 [
@@ -18663,6 +20878,11 @@
 "com.kick.mobile",
 "JordanWoodson",
 "Stay on channel when it hosts"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Third-party badges"
 ],
 [
 "com.kick.mobile",
@@ -19242,7 +21462,17 @@
 [
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
+"Fix escaped URLs"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
 "Fix loading more comments"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Fix swipe back transparency"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -20590,6 +22820,56 @@
 "Spoof carrier"
 ],
 [
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Hide sponsored listings"
+],
+[
+"com.lowes.android",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.lucky_apps.RainViewer",
 "JohnInNL",
 "Disable tracking"
@@ -20788,6 +23068,11 @@
 "com.mcu.reolink",
 "JohnInNL",
 "Custom layout for Android Auto"
+],
+[
+"com.mcu.reolink",
+"JohnInNL",
+"Doorbell calls through Android Auto"
 ],
 [
 "com.mcu.reolink",
@@ -21795,6 +24080,66 @@
 "Spoof carrier"
 ],
 [
+"com.moviebase",
+"Semicoloncolonel Mobile",
+"Block ads"
+],
+[
+"com.moviebase",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.moviebase",
+"Semicoloncolonel Mobile",
+"Disable Pairip license check"
+],
+[
+"com.moviebase",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.moviebase",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.moviebase",
+"Semicoloncolonel Mobile",
+"Hide Premium upsell"
+],
+[
+"com.moviebase",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.moviebase",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.moviebase",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.movielab.mobile",
+"PerfLite MovieLab",
+"\u041e\u0442\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0440\u0435\u043a\u043b\u0430\u043c\u044b"
+],
+[
+"com.movielab.mobile",
+"PerfLite MovieLab",
+"\u041e\u0442\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0442\u0435\u043b\u0435\u043c\u0435\u0442\u0440\u0438\u0438"
+],
+[
+"com.movielab.mobile",
+"PerfLite MovieLab",
+"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c (\u043a\u043b\u043e\u043d)"
+],
+[
 "com.mtv.sai",
 "Sabbirdj",
 "Unlock SAI Premium"
@@ -22200,6 +24545,86 @@
 "Spoof carrier"
 ],
 [
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Disable Ask NBA AI"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Hide League Pass upsells"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel TV",
+"Reject tracking consent"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
 "com.nbcnews.msnbc.mobile",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -22237,6 +24662,46 @@
 [
 "com.nbcnews.msnbc.mobile",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel Mobile",
+"Opt out of data sale & sharing"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -22310,6 +24775,11 @@
 "Unlock premium"
 ],
 [
+"com.netbiscuits.kicker",
+"RebuildXoxo",
+"Hide ads"
+],
+[
 "com.netease.cloudmusic",
 "Sas-News",
 "\u30b3\u30e1\u30f3\u30c8\u7ffb\u8a33 (Comment translate)"
@@ -22363,6 +24833,36 @@
 "com.netflix.mediaclient",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
+"Browse hidden categories"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
+"Bypass tamper protection"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
+"Disable autoplay"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
+"Keep screen brightness"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
+"Remove bottom tabs"
 ],
 [
 "com.netflix.ninja",
@@ -22553,6 +25053,76 @@
 "com.nexstar.newsnation",
 "Semicoloncolonel",
 "Skip ads (phone)"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel Mobile",
+"Hide rating prompt (Android TV)"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel Mobile",
+"Skip ads (Android TV)"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel Mobile",
+"Skip ads (phone)"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel TV",
+"Hide rating prompt (Android TV)"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel TV",
+"Skip ads (Android TV)"
 ],
 [
 "com.ngoctieucac.itruyenchu",
@@ -23110,6 +25680,61 @@
 "Spoof carrier"
 ],
 [
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Hide upsell pop-ups"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Incognito reading"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Remove social sign-in"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.nytimes.crossword",
 "Hyzor",
 "AMOLED Black"
@@ -23148,6 +25773,21 @@
 "com.oakever.meowdoku",
 "TheDefaultState",
 "Block telemetry"
+],
+[
+"com.oceangalaxy.camera.new",
+"Mwbra130",
+"Enable Plus"
+],
+[
+"com.oceangalaxy.camera.new",
+"Mwbra130",
+"Remove telemetry"
+],
+[
+"com.oceangalaxy.camera.new",
+"Mwbra130",
+"Spoof watermark location"
 ],
 [
 "com.oceanwing.battery.cam",
@@ -23322,6 +25962,11 @@
 [
 "com.onelouder.baconreader",
 "JoanComasFdz",
+"Export and import settings"
+],
+[
+"com.onelouder.baconreader",
+"JoanComasFdz",
 "Fix Imgur API"
 ],
 [
@@ -23488,6 +26133,11 @@
 "com.onelouder.baconreader",
 "Patcheddit",
 "Fix Reddit API lookups"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
+"Fix escaped URLs"
 ],
 [
 "com.onelouder.baconreader",
@@ -24030,6 +26680,81 @@
 "Spoof carrier"
 ],
 [
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Block installed-app scan"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Disable NewsBreak AI"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Hide AI summaries"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Hide My Town intro"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Hide Premium upsells"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.patreon.android",
 "Hxreborn",
 "Disable Quips and autoplay"
@@ -24068,6 +26793,16 @@
 "com.patreon.android",
 "Hxreborn",
 "Remove app prompts"
+],
+[
+"com.pawxy.browser",
+"Sqzass",
+"Enable media sniffer"
+],
+[
+"com.pawxy.browser",
+"Sqzass",
+"Rate-us popup"
 ],
 [
 "com.pawxy.browser",
@@ -24113,6 +26848,71 @@
 "com.pbs.video",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel TV",
+"Skip ads"
 ],
 [
 "com.peacocktv.peacockandroid",
@@ -24163,6 +26963,76 @@
 "com.peacocktv.peacockandroid",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
+"Disable Xfinity auto sign-in"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel TV",
+"Skip ads"
 ],
 [
 "com.pengyou.cloneapp",
@@ -24473,6 +27343,11 @@
 "com.pinterest",
 "HushPinterest",
 "Hide navigation buttons"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide pop-up banners"
 ],
 [
 "com.pinterest",
@@ -24876,6 +27751,46 @@
 ],
 [
 "com.plexapp.android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.plexapp.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.plexapp.android",
+"Semicoloncolonel Mobile",
+"Hide sponsored content"
+],
+[
+"com.plexapp.android",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.plexapp.android",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.plexapp.android",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.plexapp.android",
+"Semicoloncolonel TV",
+"Hide sponsored content"
+],
+[
+"com.plexapp.android",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"com.plexapp.android",
 "UnkyBadTouch",
 "Premium unlock"
 ],
@@ -25023,6 +27938,11 @@
 "com.pushpress.memberportal",
 "Mlkem",
 "Workouts: force CrossFit class"
+],
+[
+"com.putmask.facefilter",
+"Mandy54994",
+"Unlock Premium"
 ],
 [
 "com.pzolee.bluetoothscanner",
@@ -25298,6 +28218,11 @@
 "com.reddit.frontpage",
 "Bin0culars",
 "Post side panel"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
+"Share post content"
 ],
 [
 "com.reddit.frontpage",
@@ -25608,6 +28533,11 @@
 "com.rockstargames.gtasa.de",
 "RAZORRZR0",
 "Add mod menu"
+],
+[
+"com.rockstargames.gtasa.de",
+"RAZORRZR0",
+"Add online co-op"
 ],
 [
 "com.rockstargames.gtasa.de",
@@ -26097,6 +29027,11 @@
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
+"Fix escaped URLs"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
 "Fix loading more comments"
 ],
 [
@@ -26152,6 +29087,11 @@
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
+"Repeat Boost thread level colors"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
 "Restore Boost sidebar Trending today"
 ],
 [
@@ -26168,6 +29108,11 @@
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Show inline Giphy previews in comments"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Show strip query parameters option"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -26382,6 +29327,11 @@
 [
 "com.rumble.battles",
 "JordanWoodson",
+"Anonymous chat"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
 "Background audio by default"
 ],
 [
@@ -26563,6 +29513,11 @@
 "com.rumble.battles",
 "JordanWoodson",
 "Show exact counts"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Show video stats"
 ],
 [
 "com.rumble.battles",
@@ -27817,6 +30772,31 @@
 [
 "com.sirius",
 "Semicoloncolonel",
+"Mask live ad breaks"
+],
+[
+"com.sirius",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.sirius",
+"Semicoloncolonel Mobile",
+"Hide Howard tab"
+],
+[
+"com.sirius",
+"Semicoloncolonel Mobile",
+"Hide content"
+],
+[
+"com.sirius",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.sirius",
+"Semicoloncolonel Mobile",
 "Mask live ad breaks"
 ],
 [
@@ -29787,6 +32767,11 @@
 [
 "com.strava",
 "Mwbra130",
+"Liquid Glass navigation"
+],
+[
+"com.strava",
+"Mwbra130",
 "Local route privacy trim"
 ],
 [
@@ -30007,6 +32992,36 @@
 [
 "com.substack.app",
 "Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.substack.app",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.substack.app",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.substack.app",
+"Semicoloncolonel Mobile",
+"Disable screenshot detection"
+],
+[
+"com.substack.app",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.substack.app",
+"Semicoloncolonel Mobile",
+"Hide follow upsell"
+],
+[
+"com.substack.app",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -30805,6 +33820,56 @@
 "Spoof carrier"
 ],
 [
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Hide sponsored listings"
+],
+[
+"com.target.ui",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.techkitlabs.movieparadise",
 "Hiosdra",
 "Movie Paradise - Force RevenueCat entitlement (experimental)"
@@ -31020,6 +34085,56 @@
 "Spoof carrier"
 ],
 [
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Hide sponsored listings"
+],
+[
+"com.thehomedepot",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.themezy.theme.iconwidgets",
 "Sabrina-Moonlight",
 "Disable Pairip"
@@ -31073,6 +34188,46 @@
 "com.thinkdirty.thinkdirtyapp",
 "Dowjames",
 "Unlock premium"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
+"Customize bottom bar"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
+"Hide promotions"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
+"Move Today section"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
+"Skip ads"
 ],
 [
 "com.ticktick.task",
@@ -31162,7 +34317,17 @@
 [
 "com.tiktok.lite.go",
 "Kveld9",
+"Feed Ad Blocker"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
 "Feed Ads & Content Filter"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Feed Content & Bloat Filter"
 ],
 [
 "com.tiktok.lite.go",
@@ -31173,6 +34338,16 @@
 "com.tiktok.lite.go",
 "Kveld9",
 "Friends & Suggestions Filter"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Hide AI-Generated Content"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Hide Sponsored & Paid Partnership"
 ],
 [
 "com.tiktok.lite.go",
@@ -31395,6 +34570,21 @@
 "Skip local quest waits"
 ],
 [
+"com.tippingcanoe.mydealz",
+"Henr1klmb",
+"Disable tracking"
+],
+[
+"com.tippingcanoe.mydealz",
+"Henr1klmb",
+"Hide popups"
+],
+[
+"com.tippingcanoe.mydealz",
+"Henr1klmb",
+"Hide sponsored deals"
+],
+[
 "com.tippingcanoe.pepper",
 "Daqot-The-real-one",
 "GmsCore support"
@@ -31545,6 +34735,36 @@
 "Hide stories"
 ],
 [
+"com.tmobile.m1",
+"Semicoloncolonel Mobile",
+"Block TV discovery"
+],
+[
+"com.tmobile.m1",
+"Semicoloncolonel Mobile",
+"Block ads"
+],
+[
+"com.tmobile.m1",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.tmobile.m1",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.tmobile.m1",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.tmobile.m1",
+"Semicoloncolonel Mobile",
+"Hide stories"
+],
+[
 "com.tmobile.tuesdays",
 "Semicoloncolonel",
 "Block Bluetooth scanning"
@@ -31592,6 +34812,56 @@
 [
 "com.tmobile.tuesdays",
 "Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Block location tracking"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Block session recording"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -31867,6 +35137,61 @@
 [
 "com.treemolabs.apps.cbsnews",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Disable signature check"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Hide surveys"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Opt out of data sale & sharing"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -32225,6 +35550,76 @@
 "Skip ads"
 ],
 [
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Disable forced updates"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Disable update and review prompts"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Fix pictures shown as videos"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Hide Truth+"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Hide crypto and prediction markets"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Save videos"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Show poll results"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Show sensitive media"
+],
+[
+"com.truthsocial.android.app",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
 "com.tsumii.trainschedule",
 "GahahaWang",
 "Expand search history"
@@ -32337,6 +35732,126 @@
 [
 "com.tubitv",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Hide sign-in prompts"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Hide update prompts"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Highest quality"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Remove social sign-in"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Hide VPN connection"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Hide sign-in prompts"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Hide update prompts"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Highest quality"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Remove social sign-in"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Report Wi-Fi connection"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"com.tubitv",
+"Semicoloncolonel TV",
 "Spoof carrier"
 ],
 [
@@ -34195,6 +37710,56 @@
 "Spoof carrier"
 ],
 [
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Hide sponsored products"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Hide surveys and rating prompt"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.usatoday.android.news",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -34225,6 +37790,46 @@
 "Skip ads"
 ],
 [
+"com.usatoday.android.news",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel Mobile",
+"Hide subscription prompts"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.utorrent.client",
+"Hxreborn",
+"AMOLED dark theme"
+],
+[
+"com.utorrent.client",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.uvnv.mintsim",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -34237,6 +37842,21 @@
 [
 "com.uvnv.mintsim",
 "Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.uvnv.mintsim",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.uvnv.mintsim",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.uvnv.mintsim",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -34900,6 +38520,36 @@
 "Hide rating prompt"
 ],
 [
+"com.visiblemobile.flagship",
+"Semicoloncolonel Mobile",
+"Block ads"
+],
+[
+"com.visiblemobile.flagship",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.visiblemobile.flagship",
+"Semicoloncolonel Mobile",
+"Block session recording"
+],
+[
+"com.visiblemobile.flagship",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.visiblemobile.flagship",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.visiblemobile.flagship",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
 "com.vitastudio.mahjong",
 "byehi98",
 "Vita Mahjong Remove Ads"
@@ -35365,6 +39015,36 @@
 "Hide rating prompt"
 ],
 [
+"com.vzw.hss.myverizon",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel Mobile",
+"Block session recording"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.vzw.hss.myverizon",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
 "com.waccliu.taiwanrail",
 "Pigfoot",
 "Change package name"
@@ -35515,9 +39195,84 @@
 "Spoof carrier"
 ],
 [
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Hide Walmart+ promotions"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Hide card offers"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Hide creator videos"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Hide pop-ups"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Hide sponsored listings"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.wanderlog.android",
 "XBadFellaX",
 "Wanderlog Pro features"
+],
+[
+"com.wangzan101.mika2",
+"Razor573",
+"Mika 2 installer"
 ],
 [
 "com.washingtonpost.android",
@@ -35575,6 +39330,61 @@
 "Spoof carrier"
 ],
 [
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Hide marketing pop-ups"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Hide paywall sheet"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Incognito reading"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.watchit.vod",
 "Hxreborn",
 "Disable tracking"
@@ -35593,6 +39403,11 @@
 "com.wave.aphelion",
 "Legendsciber",
 "Aphelion Installer Source Fix"
+],
+[
+"com.waze",
+"Ak800i",
+"Voice pack import and export"
 ],
 [
 "com.waze",
@@ -35933,6 +39748,11 @@
 "com.waze",
 "Forsigh",
 "Report speed limit"
+],
+[
+"com.waze",
+"Forsigh",
+"Resume drive prompt"
 ],
 [
 "com.waze",
@@ -36405,6 +40225,106 @@
 "Video quality"
 ],
 [
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Force decode capability (experimental)"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Remove social sign-in (phone)"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
+"Video quality"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel TV",
+"Hide VPN connection"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel TV",
+"Report Wi-Fi connection"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel TV",
+"Spoof carrier"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel TV",
+"Video quality"
+],
+[
 "com.wbd.stream",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -36452,6 +40372,106 @@
 [
 "com.wbd.stream",
 "Semicoloncolonel",
+"Video quality"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Force decode capability (experimental)"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Remove social sign-in (phone)"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Video quality"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel TV",
+"Hide VPN connection"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel TV",
+"Report Wi-Fi connection"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel TV",
+"Spoof carrier"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel TV",
 "Video quality"
 ],
 [
@@ -36537,6 +40557,81 @@
 [
 "com.whaleshark.retailmenot",
 "Semicoloncolonel",
+"Strip affiliate links"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Dark mode"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Disable Pairip license check"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Hide surveys"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Remove location access"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
 "Strip affiliate links"
 ],
 [
@@ -36765,6 +40860,61 @@
 "Strip affiliate links"
 ],
 [
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Block ads"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Skip tutorials"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"Strip affiliate links"
+],
+[
 "com.withopal.opal",
 "Hxreborn",
 "Skip sign-in"
@@ -36862,6 +41012,36 @@
 [
 "com.xfinity.digitalhome",
 "Semicoloncolonel",
+"Hide rating prompt"
+],
+[
+"com.xfinity.digitalhome",
+"Semicoloncolonel Mobile",
+"Block Advanced Security telemetry"
+],
+[
+"com.xfinity.digitalhome",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.xfinity.digitalhome",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.xfinity.digitalhome",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.xfinity.digitalhome",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.xfinity.digitalhome",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -37005,6 +41185,56 @@
 "Translate ad break screen"
 ],
 [
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Mask live ad breaks"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"com.xumo.xumo",
+"Semicoloncolonel Mobile",
+"Translate ad break screen"
+],
+[
 "com.xumo.xumo.tv",
 "Android TV",
 "Skip ads"
@@ -37065,6 +41295,36 @@
 "Skip ads"
 ],
 [
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel Mobile",
+"Hide Plus upsells"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel Mobile",
+"Hide pop-ups"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
 "com.yahoo.mobile.client.android.sportacular",
 "Heval",
 "Disable ads"
@@ -37117,6 +41377,51 @@
 [
 "com.yahoo.mobile.client.android.yahoo",
 "Semicoloncolonel",
+"Skip ads"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"Customize bottom bar"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"Disable video autoplay"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"Hide pop-ups"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"Hide reading streaks"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"Show unreleased features"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -37717,7 +42022,17 @@
 [
 "com.zhiliaoapp.musically",
 "Kveld9",
+"Feed Ad Blocker"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
 "Feed Ads & Content Filter"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Feed Content & Bloat Filter"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -37793,6 +42108,11 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Hide Seen Videos"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9",
+"Hide Sponsored & Paid Partnership"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -39085,6 +43405,56 @@
 "Spoof carrier"
 ],
 [
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Hide surveys and rating prompt"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Opt out of data sale & sharing"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "com.zvooq.openplay",
 "Basil-AS",
 "Disable AppsFlyer"
@@ -39237,6 +43607,11 @@
 [
 "de.hafas.android.oebb",
 "Henr1klmb",
+"Enable OSM map"
+],
+[
+"de.hafas.android.oebb",
+"Henr1klmb",
 "Spoof signature"
 ],
 [
@@ -39263,6 +43638,16 @@
 "de.mm20.launcher2.release",
 "Pengusto",
 "Restore widget editing from the search menu"
+],
+[
+"de.mm20.launcher2.release",
+"Sircoderin",
+"Instant search dismiss"
+],
+[
+"de.mm20.launcher2.release",
+"Sircoderin",
+"Search fade-in"
 ],
 [
 "de.motain.iliga",
@@ -39513,6 +43898,11 @@
 "dev.goodwy.rphone",
 "GitGitro",
 "Unlock premium"
+],
+[
+"dev.sasikanth.rss.reader",
+"Mandy54994",
+"Unlock Premium"
 ],
 [
 "dev.vodik7.atvtools",
@@ -40115,6 +44505,21 @@
 "Hide rating prompt"
 ],
 [
+"gov.dhs.tsa.mytsa",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"gov.dhs.tsa.mytsa",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"gov.dhs.tsa.mytsa",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
 "gov.fema.mobile.android",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -40137,6 +44542,31 @@
 [
 "gov.fema.mobile.android",
 "Semicoloncolonel",
+"Save content for offline use"
+],
+[
+"gov.fema.mobile.android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"gov.fema.mobile.android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"gov.fema.mobile.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"gov.fema.mobile.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"gov.fema.mobile.android",
+"Semicoloncolonel Mobile",
 "Save content for offline use"
 ],
 [
@@ -40170,6 +44600,36 @@
 "Spoof carrier"
 ],
 [
+"gov.nps.mobileapp",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"gov.nps.mobileapp",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"gov.nps.mobileapp",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"gov.nps.mobileapp",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"gov.nps.mobileapp",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"gov.nps.mobileapp",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "gov.usda.fs.nfg",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -40197,6 +44657,36 @@
 [
 "gov.usda.fs.nfg",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"gov.usda.fs.nfg",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"gov.usda.fs.nfg",
+"Semicoloncolonel Mobile",
+"Disable Pairip license check"
+],
+[
+"gov.usda.fs.nfg",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"gov.usda.fs.nfg",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"gov.usda.fs.nfg",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"gov.usda.fs.nfg",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -40247,6 +44737,56 @@
 [
 "gov.whitehouse.app",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
+"Disable Pairip license check"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
+"Hide promotions"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
+"Hide social feeds"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
+"Remove microphone access"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
+"Skip launch video"
+],
+[
+"gov.whitehouse.app",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -42447,6 +46987,11 @@
 [
 "ml.docilealligator.infinityforreddit.plus",
 "Patcheddit",
+"Fix escaped URLs"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
+"Patcheddit",
 "Infinity Morphe settings"
 ],
 [
@@ -42463,6 +47008,11 @@
 "ml.docilealligator.infinityforreddit.plus",
 "Pengusto",
 "Configure custom OAuth for Infinity+"
+],
+[
+"ml.docilealligator.infinityforreddit.plus2",
+"Patcheddit",
+"Fix escaped URLs"
 ],
 [
 "ml.docilealligator.infinityforreddit.plus2",
@@ -42542,6 +47092,61 @@
 [
 "mnn.Android",
 "Semicoloncolonel",
+"Spoof carrier"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"Hide donate button"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"mnn.Android",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -43102,6 +47707,66 @@
 [
 "net.slickdeals.android",
 "Semicoloncolonel",
+"Strip affiliate links"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Block Bluetooth scanning"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Block ads"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Block background location"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Hide Wi-Fi networks"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Hide cell tower info"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Hide sign-up prompts"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
 "Strip affiliate links"
 ],
 [
@@ -43972,7 +48637,22 @@
 [
 "o.o.joey",
 "Patcheddit",
+"Fix Redgifs API"
+],
+[
+"o.o.joey",
+"Patcheddit",
+"Fix escaped URLs"
+],
+[
+"o.o.joey",
+"Patcheddit",
 "Fix loading more comments"
+],
+[
+"o.o.joey",
+"Patcheddit",
+"Fix swipe back transparency"
 ],
 [
 "o.o.joey",
@@ -44033,6 +48713,11 @@
 "o.o.joey",
 "ZoomSass",
 "Log in with your own client ID"
+],
+[
+"o.o.joey",
+"ZoomSass",
+"Media enhancements"
 ],
 [
 "o.o.joey",
@@ -44172,6 +48857,36 @@
 [
 "org.cspan.app",
 "Semicoloncolonel",
+"Skip ads"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel Mobile",
+"Hide promo banners"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -44480,6 +49195,71 @@
 "Spoof carrier"
 ],
 [
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Fix media connection crash"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Hide Waze bar"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Hide donate buttons"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Opt out of data sale & sharing"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"org.npr.android.news",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "org.parcello",
 "V4n1X",
 "Disable ads"
@@ -44658,6 +49438,16 @@
 "org.sinamon.duchinese",
 "MangoTornado",
 "Show reading download errors"
+],
+[
+"org.skvalex.cr",
+"Mwbra130",
+"Enable Lifetime"
+],
+[
+"org.skvalex.cr",
+"Mwbra130",
+"Remove telemetry"
 ],
 [
 "org.swiftapps.swiftbackup",
@@ -46925,6 +51715,16 @@
 "Unlock Unlimited Plan"
 ],
 [
+"pt.cp.mobiapp",
+"SledgeSune",
+"Allow sideloading"
+],
+[
+"pt.cp.mobiapp",
+"SledgeSune",
+"Dark mode"
+],
+[
 "reddit.news",
 "Brealorg",
 "Fix /s/ links"
@@ -46978,6 +51778,16 @@
 "reddit.news",
 "Patcheddit",
 "Fix Reddit API lookups"
+],
+[
+"reddit.news",
+"Patcheddit",
+"Fix Redgifs API"
+],
+[
+"reddit.news",
+"Patcheddit",
+"Fix escaped URLs"
 ],
 [
 "reddit.news",
@@ -47885,6 +52695,16 @@
 "Skip Public Zone Rewarded Ad"
 ],
 [
+"scadica.aq",
+"Mwbra130",
+"Enable Professional"
+],
+[
+"scadica.aq",
+"Mwbra130",
+"Remove telemetry"
+],
+[
 "se.footballaddicts.livescore",
 "Heval",
 "Disable ads"
@@ -47908,6 +52728,11 @@
 "se.footballaddicts.livescore",
 "Heval",
 "Spoof signature"
+],
+[
+"se.hedekonsult.sparkle",
+"Hyzor",
+"Enable Plus"
 ],
 [
 "se.scmv.morocco",
@@ -48095,6 +52920,116 @@
 "Translate ad break screen"
 ],
 [
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Mask live ad breaks"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Skip launch video"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
+"Translate ad break screen"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Hide VPN connection"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Hide rating prompt"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Mask live ad breaks"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Report Wi-Fi connection"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Skip launch video"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Spoof carrier"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel TV",
+"Translate ad break screen"
+],
+[
 "tv.trakt.trakt",
 "Hyzor",
 "Fix sign-in"
@@ -48222,6 +53157,11 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Block update prompts"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Change app name"
 ],
 [
@@ -48283,6 +53223,11 @@
 "tv.twitch.android.app",
 "JordanWoodson",
 "Disable autoplay"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Don't save searches"
 ],
 [
 "tv.twitch.android.app",
@@ -48403,6 +53348,11 @@
 "tv.twitch.android.app",
 "JordanWoodson",
 "Show deleted messages"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Show exact counts"
 ],
 [
 "tv.twitch.android.app",
@@ -48950,6 +53900,61 @@
 "Spoof carrier"
 ],
 [
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Hide VPN connection"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Hide marketing pop-ups"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Hide prediction markets"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Incognito reading"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Report Wi-Fi connection"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Spoof carrier"
+],
+[
 "xyz.blueskyweb.app",
 "Ffejhog",
 "Bypass age verification gate"
@@ -49023,5 +54028,20 @@
 "yiuo.mobile.tv",
 "Heval",
 "Disable telemetry"
+],
+[
+"zank.remote",
+"Yogeshchavan-jd",
+"Disable signature check"
+],
+[
+"zank.remote",
+"Yogeshchavan-jd",
+"Remove Ads"
+],
+[
+"zank.remote",
+"Yogeshchavan-jd",
+"Unlock Pro"
 ]
 ]
