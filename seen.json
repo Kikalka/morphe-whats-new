@@ -1,5 +1,20 @@
 [
 [
+"ai.moises",
+"Mwbra130",
+"Bypass PairIP signature check"
+],
+[
+"ai.moises",
+"Mwbra130",
+"Enable Pro"
+],
+[
+"ai.moises",
+"Mwbra130",
+"Remove telemetry"
+],
+[
 "ai.perplexity.app.android",
 "Hxreborn",
 "Disable tracking"
@@ -1043,6 +1058,11 @@
 "bitpit.launcher",
 "Heval",
 "Fix home screen numbers tile"
+],
+[
+"bitpit.launcher",
+"Mlkem",
+"Automatic app folders"
 ],
 [
 "bitpit.launcher",
@@ -2310,6 +2330,16 @@
 "Remove ads"
 ],
 [
+"com.akshat.comparify",
+"Henr1klmb",
+"Disable ads"
+],
+[
+"com.akshat.comparify",
+"Henr1klmb",
+"Disable tracking"
+],
+[
 "com.alarmclock.xtreme.free",
 "Heval",
 "Disable ads"
@@ -2628,6 +2658,21 @@
 "com.alticelabs.meo.androidtv",
 "Santodan",
 "MEO - Spoof supported device"
+],
+[
+"com.amazon.amazonvideo.livingroom",
+"Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.amazon.amazonvideo.livingroom",
+"Semicoloncolonel Mobile",
+"Force highest quality"
+],
+[
+"com.amazon.amazonvideo.livingroom",
+"Semicoloncolonel Mobile",
+"Skip ads"
 ],
 [
 "com.amazon.amazonvideo.livingroom",
@@ -3220,6 +3265,11 @@
 "Reddit API fixes"
 ],
 [
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Spoof client"
+],
+[
 "com.androholic.wallpapersdepthpix",
 "Hxreborn",
 "GmsCore support"
@@ -3720,6 +3770,21 @@
 "Remove ads"
 ],
 [
+"com.app.cy.hellofitpro",
+"Henr1klmb",
+"Disable ads"
+],
+[
+"com.app.cy.hellofitpro",
+"Henr1klmb",
+"Disable tracking"
+],
+[
+"com.app.cy.hellofitpro",
+"Henr1klmb",
+"Enable custom watchfaces"
+],
+[
 "com.app.mlounge",
 "AbShaheen184",
 "Disable background service relaunch receivers"
@@ -4078,6 +4143,11 @@
 "com.apple.atve.androidtv.appletv",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
+"Android TV source notice"
 ],
 [
 "com.apple.atve.androidtv.appletv",
@@ -4772,6 +4842,11 @@
 [
 "com.bamnetworks.mobile.android.gameday.atbat",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -4793,6 +4868,11 @@
 "com.bamnetworks.mobile.android.gameday.atbat",
 "Semicoloncolonel Mobile",
 "Hide betting odds"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Hide betting odds (Android TV)"
 ],
 [
 "com.bamnetworks.mobile.android.gameday.atbat",
@@ -4988,6 +5068,11 @@
 "com.bardi.smart.home",
 "Amfakh",
 "Spoof signature"
+],
+[
+"com.bardi.smart.home",
+"Amfakh",
+"Swipe between tabs"
 ],
 [
 "com.beatxp.dafit",
@@ -5966,6 +6051,81 @@
 ],
 [
 "com.brave.browser",
+"Kveld9 Brave",
+"Block Motion Sensors"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Block Popups & Ratings"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Block Telemetry"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Brave Origin"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Clean New Tab"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Close Tab In Group Order"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Custom Brave theme"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Custom NTP wallpaper"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Keep All Tabs Loaded"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Remove Extra Languages"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Remove Unused AI & VPN"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Skip Welcome Screens"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Stop Background Wakeups"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Stop Promo Notifications"
+],
+[
+"com.brave.browser",
+"Kveld9 Brave",
+"Stop Text Sharing with System"
+],
+[
+"com.brave.browser",
 "RayBourn",
 "Brave Origin"
 ],
@@ -6243,6 +6403,11 @@
 "com.bydeluxe.d3.android.program.starz",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.bydeluxe.d3.android.program.starz",
+"Semicoloncolonel Mobile",
+"Android TV source notice"
 ],
 [
 "com.bydeluxe.d3.android.program.starz",
@@ -6723,6 +6888,16 @@
 "com.cbs.app",
 "Semicoloncolonel Mobile",
 "Spoof carrier"
+],
+[
+"com.channel4.ondemand",
+"Henr1klmb",
+"Disable ads"
+],
+[
+"com.channel4.ondemand",
+"Henr1klmb",
+"Disable tracking"
 ],
 [
 "com.checkitt",
@@ -7802,6 +7977,11 @@
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
+"1080p download quality"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
 "Allow screenshots"
 ],
 [
@@ -7812,12 +7992,22 @@
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
+"Auto-skip segments"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
 "Disable background services"
 ],
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
 "Disable telemetry"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Manual video quality"
 ],
 [
 "com.crunchyroll.crunchyroid",
@@ -10002,6 +10192,11 @@
 [
 "com.disney.disneyplus",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.disney.disneyplus",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -11052,6 +11247,11 @@
 [
 "com.epix.epix.now",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.epix.epix.now",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -11212,6 +11412,11 @@
 [
 "com.espn.score_center",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -11248,6 +11453,11 @@
 "com.espn.score_center",
 "Semicoloncolonel Mobile",
 "Skip ads"
+],
+[
+"com.espn.score_center",
+"Semicoloncolonel Mobile",
+"Skip ads (Android TV)"
 ],
 [
 "com.espn.score_center",
@@ -11742,6 +11952,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Fold long text"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Following feed on Home"
 ],
 [
@@ -12127,6 +12342,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Skip location prompts"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Skip silent parts"
 ],
 [
@@ -12417,6 +12637,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Appear offline"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Ask before a call"
 ],
 [
@@ -12622,6 +12847,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hide messages with your words"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide pictures on the Blocked list"
 ],
 [
@@ -12638,6 +12868,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Hide tab badges"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Hide tab labels"
 ],
 [
 "com.facebook.orca",
@@ -12673,6 +12908,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Install beside Meta apps"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Invisible buttons"
 ],
 [
 "com.facebook.orca",
@@ -12737,6 +12977,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Offer View once in every chat"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Open settings from menu"
 ],
 [
@@ -12762,6 +13007,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Play video links in the chat"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Preview chats on long press"
 ],
 [
@@ -12773,6 +13023,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Quiet incoming calls"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Quiet mode"
 ],
 [
 "com.facebook.orca",
@@ -12837,6 +13092,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Skip passkey sign-in"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Slide chats in and out"
 ],
 [
@@ -12877,6 +13137,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Stop attention time logging"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Stop inbox and ad link logging"
 ],
 [
@@ -12892,7 +13157,22 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Swipe between tabs"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Translucent chat bars"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Turn off the swipe up for disappearing messages"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Typing in your chat list"
 ],
 [
 "com.facebook.orca",
@@ -12928,6 +13208,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Your own home header"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Your own tab icons"
 ],
 [
 "com.facebook.orca",
@@ -13338,6 +13623,11 @@
 "com.fox.foxone",
 "Semicoloncolonel",
 "Spoof carrier"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel Mobile",
+"Android TV source notice"
 ],
 [
 "com.fox.foxone",
@@ -16266,6 +16556,66 @@
 ],
 [
 "com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Block App Hijacking"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Block Trackers"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Disable Cloud Backup"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Disable Play Services"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Install a Copy"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Keyboard Settings"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Offline Only"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Remove Extra Files"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Remove Permissions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Remove Translate Limit"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Stop Background Sync"
+],
+[
+"com.google.android.inputmethod.latin",
+"Kveld9 Brave",
+"Stop Remote Updates"
+],
+[
+"com.google.android.inputmethod.latin",
 "Markpaul099",
 "Change app name"
 ],
@@ -16333,6 +16683,11 @@
 "com.google.android.inputmethod.latin",
 "TwelveHouse",
 "Change package name"
+],
+[
+"com.google.android.inputmethod.latin",
+"TwelveHouse",
+"Immediate globe key"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -16427,7 +16782,17 @@
 [
 "com.google.android.youtube.tv",
 "Jair1c",
+"Fix volume keys"
+],
+[
+"com.google.android.youtube.tv",
+"Jair1c",
 "GmsCore support"
+],
+[
+"com.google.android.youtube.tv",
+"Jair1c",
+"Performance diagnostics"
 ],
 [
 "com.google.android.youtube.tv",
@@ -16447,12 +16812,27 @@
 [
 "com.google.android.youtube.tv",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.google.android.youtube.tv",
+"Semicoloncolonel Mobile",
 "Skip injected ads"
+],
+[
+"com.google.android.youtube.tv",
+"Semicoloncolonel Mobile",
+"YT TV+ (ad-free YouTube TV)"
 ],
 [
 "com.google.android.youtube.tv",
 "Semicoloncolonel TV",
 "Skip injected ads"
+],
+[
+"com.google.android.youtube.tv",
+"Semicoloncolonel TV",
+"YT TV+ (ad-free YouTube TV)"
 ],
 [
 "com.google.android.youtube.tv",
@@ -16478,6 +16858,16 @@
 "com.google.android.youtube.tv",
 "Ysamjo TV",
 "Werbe-Blocker-Userscript einspritzen"
+],
+[
+"com.google.android.youtube.tvunplugged",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.google.android.youtube.tvunplugged",
+"Semicoloncolonel TV",
+"Skip ads"
 ],
 [
 "com.gotipath.deeptotv",
@@ -16572,6 +16962,11 @@
 [
 "com.gotv.nflgamecenter.us.lite",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -16593,6 +16988,11 @@
 "com.gotv.nflgamecenter.us.lite",
 "Semicoloncolonel Mobile",
 "Hide rating prompt"
+],
+[
+"com.gotv.nflgamecenter.us.lite",
+"Semicoloncolonel Mobile",
+"Reject tracking consent"
 ],
 [
 "com.gotv.nflgamecenter.us.lite",
@@ -17322,6 +17722,21 @@
 [
 "com.hulu.livingroomplus",
 "Semicoloncolonel",
+"Skip ads (experimental)"
+],
+[
+"com.hulu.livingroomplus",
+"Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.hulu.livingroomplus",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking (experimental)"
+],
+[
+"com.hulu.livingroomplus",
+"Semicoloncolonel Mobile",
 "Skip ads (experimental)"
 ],
 [
@@ -18177,6 +18592,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Don't send feed view history"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Don't send reel watch history"
 ],
 [
@@ -18707,6 +19127,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Search blocked accounts"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Search comments"
 ],
 [
@@ -19147,6 +19572,11 @@
 [
 "com.instagram.android",
 "Piko",
+"Disable onboarding permission prompts"
+],
+[
+"com.instagram.android",
+"Piko",
 "Disable telemetry"
 ],
 [
@@ -19312,6 +19742,16 @@
 [
 "com.instagram.android",
 "Warleysr",
+"Keep screen on while playing video"
+],
+[
+"com.instagram.android",
+"Warleysr Instagram",
+"Carousel auto scroll"
+],
+[
+"com.instagram.android",
+"Warleysr Instagram",
 "Keep screen on while playing video"
 ],
 [
@@ -20090,6 +20530,16 @@
 "Unlock Premium"
 ],
 [
+"com.ivoox.app",
+"Hxreborn",
+"Remove rating prompts"
+],
+[
+"com.ivoox.app",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.jaindarshan.panchangtithi",
 "Adish08",
 "Premium unlock"
@@ -20388,6 +20838,11 @@
 "com.justwatch.justwatch",
 "Semicoloncolonel",
 "Streaming titles only"
+],
+[
+"com.justwatch.justwatch",
+"Semicoloncolonel Mobile",
+"Android TV source notice"
 ],
 [
 "com.justwatch.justwatch",
@@ -21200,6 +21655,76 @@
 "Monet - Unlock premium (Experimental, any version)"
 ],
 [
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Disable AI"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Hide pop-ups"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Hide promo code countdown"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Hide rewards"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Hide sponsored cards"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Keep new-user promo codes"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Show promo codes"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Stop behavioral tracking"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
+"Strip affiliate links"
+],
+[
 "com.krillsson.monitee",
 "GitGitro",
 "Unlock pro"
@@ -21503,6 +22028,11 @@
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
 "Reddit API fixes"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Spoof client"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -22217,12 +22747,22 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Dark app icon"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Disable analytics"
 ],
 [
 "com.linkedin.android",
 "Amfakh",
 "Disable double-tap like"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Disable screenshot share sheet"
 ],
 [
 "com.linkedin.android",
@@ -22277,7 +22817,22 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Hide top bar buttons"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Keep feed on reopen"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Material You"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Material icons in the navigation bar"
 ],
 [
 "com.linkedin.android",
@@ -22318,6 +22873,16 @@
 "com.linkedin.android",
 "Amfakh",
 "Swipe between tabs"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Tap to hide controls in viewers"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Video tab"
 ],
 [
 "com.linkedin.android",
@@ -24396,6 +24961,16 @@
 ],
 [
 "com.mxtech.videoplayer.pro",
+"Loki",
+"All codecs"
+],
+[
+"com.mxtech.videoplayer.pro",
+"Loki",
+"Skip license check"
+],
+[
+"com.mxtech.videoplayer.pro",
 "MightyMich",
 "Unlock MX Player Pro"
 ],
@@ -24572,6 +25147,11 @@
 [
 "com.nbaimd.gametime.nba2011",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -24607,12 +25187,22 @@
 [
 "com.nbaimd.gametime.nba2011",
 "Semicoloncolonel Mobile",
+"Reject tracking consent"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
 "Report Wi-Fi connection"
 ],
 [
 "com.nbaimd.gametime.nba2011",
 "Semicoloncolonel Mobile",
 "Skip ads"
+],
+[
+"com.nbaimd.gametime.nba2011",
+"Semicoloncolonel Mobile",
+"Skip ads (Android TV)"
 ],
 [
 "com.nbaimd.gametime.nba2011",
@@ -25078,6 +25668,11 @@
 "com.nexstar.newsnation",
 "Semicoloncolonel",
 "Skip ads (phone)"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel Mobile",
+"Android TV source notice"
 ],
 [
 "com.nexstar.newsnation",
@@ -25891,6 +26486,21 @@
 ],
 [
 "com.olx.pk",
+"Mwbra130",
+"Plain listings only"
+],
+[
+"com.olx.pk",
+"Mwbra130",
+"Remove ads"
+],
+[
+"com.olx.pk",
+"Mwbra130",
+"Remove telemetry"
+],
+[
+"com.olx.pk",
 "Proxma",
 "Force dark mode"
 ],
@@ -26183,6 +26793,11 @@
 "com.onelouder.baconreader",
 "Patcheddit",
 "Reddit API fixes"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
+"Spoof client"
 ],
 [
 "com.oneplus.calculator",
@@ -26882,6 +27497,11 @@
 [
 "com.pbs.video",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.pbs.video",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -26997,6 +27617,11 @@
 [
 "com.peacocktv.peacockandroid",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.peacocktv.peacockandroid",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -27083,6 +27708,21 @@
 "com.pengyou.cloneapp",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.peoplefun.wordcross",
+"Henr1klmb",
+"Disable ads"
+],
+[
+"com.peoplefun.wordcross",
+"Henr1klmb",
+"Disable tracking"
+],
+[
+"com.peoplefun.wordcross",
+"Henr1klmb",
+"Enable instant rewards"
 ],
 [
 "com.peptalk.app",
@@ -27620,6 +28260,16 @@
 "Trash bubble on pin long press"
 ],
 [
+"com.pioneerdj.WeDJ",
+"Toidicakhia",
+"Disable Analytics / Telemetry"
+],
+[
+"com.pioneerdj.WeDJ",
+"Toidicakhia",
+"Unlock Unlimited Playback"
+],
+[
 "com.piriform.ccleaner",
 "Heval",
 "Disable ads"
@@ -27803,6 +28453,11 @@
 "com.plexapp.android",
 "Semicoloncolonel",
 "Skip ads"
+],
+[
+"com.plexapp.android",
+"Semicoloncolonel Mobile",
+"Android TV source notice"
 ],
 [
 "com.plexapp.android",
@@ -28410,6 +29065,11 @@
 "Block NSFW content"
 ],
 [
+"com.reddit.frontpage",
+"Warleysr Reddit",
+"Block NSFW content"
+],
+[
 "com.release.arylive",
 "Hammadhassan94",
 "Bypass PairIP license check"
@@ -28563,6 +29223,21 @@
 "com.robtopx.geometrydashworld",
 "Dieroboter",
 "Strip ad tracking permissions"
+],
+[
+"com.rockstargames.gtactw",
+"RAZORRZR0",
+"Add cheat menu"
+],
+[
+"com.rockstargames.gtactw",
+"RAZORRZR0",
+"Download HD texture pack"
+],
+[
+"com.rockstargames.gtactw",
+"RAZORRZR0",
+"Load texture and radio packs"
 ],
 [
 "com.rockstargames.gtasa.de",
@@ -29168,6 +29843,11 @@
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Show strip query parameters option"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Spoof client"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -29782,6 +30462,11 @@
 [
 "com.samsung.android.app.notes",
 "Jibon-K",
+"Samsung account sign-in"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
 "Samsung framework compatibility"
 ],
 [
@@ -29793,6 +30478,11 @@
 "com.samsung.android.app.notes",
 "Jibon-K",
 "Turn off Samsung cloud components"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"Turn off telemetry"
 ],
 [
 "com.samsung.android.app.reminder",
@@ -30905,6 +31595,21 @@
 "ACall suppress nonessential analytics"
 ],
 [
+"com.skylum.luminar",
+"Mwbra130",
+"Bypass PairIP license check"
+],
+[
+"com.skylum.luminar",
+"Mwbra130",
+"Enable Lifetime"
+],
+[
+"com.skylum.luminar",
+"Mwbra130",
+"Remove telemetry"
+],
+[
 "com.slowlyapp",
 "Beetle",
 "Slowly disable device inspection checks"
@@ -31097,6 +31802,11 @@
 [
 "com.songsterr",
 "Georgewoodall82",
+"Unlock Premium"
+],
+[
+"com.songsterr",
+"Georgewoodall82 Songsterr",
 "Unlock Premium"
 ],
 [
@@ -34352,6 +35062,16 @@
 [
 "com.tiktok.lite.go",
 "Kveld9",
+"Declutter Navigation Bar"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
+"Declutter Video Interface"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
 "Disable History Recording"
 ],
 [
@@ -34452,6 +35172,116 @@
 [
 "com.tiktok.lite.go",
 "Kveld9",
+"Strip Sensitive Permissions"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Battery & Resource Saver"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Block Popups & Prompts"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Block Trackers"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Block Trackers (Setup)"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Bypass Mandatory Login"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Clean Share Links"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Declutter Navigation Bar"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Declutter Video Interface"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Disable Push Notifications"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Disable QUIC"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Feed Ad Blocker"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Feed Content & Bloat Filter"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Hide AI-Generated Content"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Hide Sponsored & Paid Partnership"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Playback & Display Governor"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Remember Clear Display"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Remember Playback Speed"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"SIM Region Selector"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Show Exact Counts"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Show Seekbar"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Stop Video Looping"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
 "Strip Sensitive Permissions"
 ],
 [
@@ -35797,6 +36627,11 @@
 [
 "com.tubitv",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.tubitv",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -36281,6 +37116,11 @@
 ],
 [
 "com.tuya.smart",
+"Amfakh",
+"Swipe between tabs"
+],
+[
+"com.tuya.smart",
 "JohnInNL",
 "Allow any Android Auto host"
 ],
@@ -36353,6 +37193,11 @@
 "com.tuya.smartlife",
 "Amfakh",
 "Spoof signature"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Swipe between tabs"
 ],
 [
 "com.tuya.smartlife",
@@ -36773,6 +37618,261 @@
 "com.twitter.android",
 "Piko",
 "Disable Play Store updates"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Browse tweet object"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Clone"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Crash logs"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Custom font"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Custom sharing domain"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Customize drawer items"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Customize inline actions"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Customize media menu items"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Customize navigation bar"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Customize post menu items"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Customize profile tabs"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Customize timeline tabs"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Disable automatic timeline refresh"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Disable blur effects"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Disable video player scrolling"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Enable quality-of-life feature flags"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Feature switch overrides"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Filter For You by topic"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Filter posts by keyword"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Gallery profile Photos tab"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide AI-generated posts"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide Discover more"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide Spaces bar"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide compose button"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide new posts pill"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide post author actions"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide post dividers"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide post reply bar"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide posts by verified account type"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide premium upsell"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide timeline tabs bar"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Hide who to follow"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Inline download button"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Open canonical URLs"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Permanent share links"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Redirect downloads to chosen folder"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Remove ads"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Remove share tracking parameters"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Restore Twitter branding"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Restore pinned home tab"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Restore timeline position"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Server error logging"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Set default media tab"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Set default profile post sorting"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Set default reply sorting"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Show poll results"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Show sensitive media"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Theme"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Translator"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Unlock color customization"
+],
+[
+"com.twitter.android",
+"Piko",
+"NewX: Unlock downloads"
 ],
 [
 "com.twitter.android",
@@ -37926,6 +39026,46 @@
 ],
 [
 "com.valvesoftware.steamlinkvr",
+"4uva4ek",
+"Controller grip haptics through Shizuku"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"4uva4ek",
+"Controller pose extrapolation"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"4uva4ek",
+"Controller pose time (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"4uva4ek",
+"Controller throw angle (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"4uva4ek",
+"Controller tracking from the controller HAL through Shizuku"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"4uva4ek",
+"Controller velocity frame"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"4uva4ek",
+"Galaxy XR SteamVR driver (galaxyxr)"
+],
+[
+"com.valvesoftware.steamlinkvr",
+"4uva4ek",
+"OpenXR CPU and GPU BOOST (experimental)"
+],
+[
+"com.valvesoftware.steamlinkvr",
 "Steam Link GalaxyXR",
 "Alpha-0 high-resolution trigger"
 ],
@@ -38417,6 +39557,11 @@
 [
 "com.viber.voip",
 "Hxreborn",
+"Hide image remix"
+],
+[
+"com.viber.voip",
+"Hxreborn",
 "Hide navigation buttons"
 ],
 [
@@ -38438,6 +39583,11 @@
 "com.viber.voip",
 "Hxreborn",
 "Remove chat payment actions"
+],
+[
+"com.viber.voip",
+"Hxreborn",
+"Remove deleted message notices"
 ],
 [
 "com.viber.voip",
@@ -40292,6 +41442,11 @@
 [
 "com.wbd.hbomax",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"com.wbd.hbomax",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -40438,6 +41593,11 @@
 "com.wbd.stream",
 "Semicoloncolonel",
 "Video quality"
+],
+[
+"com.wbd.stream",
+"Semicoloncolonel Mobile",
+"Android TV source notice"
 ],
 [
 "com.wbd.stream",
@@ -40701,6 +41861,46 @@
 ],
 [
 "com.whatsapp",
+"BOPBOP-glitch",
+"Anti Detector"
+],
+[
+"com.whatsapp",
+"BOPBOP-glitch",
+"Anti Revoke"
+],
+[
+"com.whatsapp",
+"BOPBOP-glitch",
+"Anti View Once"
+],
+[
+"com.whatsapp",
+"BOPBOP-glitch",
+"Freeze Last Seen"
+],
+[
+"com.whatsapp",
+"BOPBOP-glitch",
+"HD Media"
+],
+[
+"com.whatsapp",
+"BOPBOP-glitch",
+"Hide Read Receipts"
+],
+[
+"com.whatsapp",
+"BOPBOP-glitch",
+"Hide Typing"
+],
+[
+"com.whatsapp",
+"BOPBOP-glitch",
+"Login Fix"
+],
+[
+"com.whatsapp",
 "MightyMich",
 "App icon"
 ],
@@ -40943,6 +42143,11 @@
 "com.wishabi.flipp",
 "Semicoloncolonel Mobile",
 "Disable auto-updates"
+],
+[
+"com.wishabi.flipp",
+"Semicoloncolonel Mobile",
+"GmsCore support"
 ],
 [
 "com.wishabi.flipp",
@@ -41682,6 +42887,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Group likes per comment"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Hide Play Store update offer"
 ],
 [
@@ -41792,6 +43002,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Play original audio"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Prefer H.264 playback"
 ],
 [
@@ -41857,6 +43072,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Split activity list"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Stay on the video in full screen"
 ],
 [
@@ -41903,6 +43123,11 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Use system font"
+],
+[
+"com.zhiliaoapp.musically",
+"Inxomnyaa",
+"TikTok Tweaks"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -42338,6 +43563,276 @@
 "com.zhiliaoapp.musically",
 "Kveld9",
 "Voice & Speech Engine De-bloat"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Allow Screenshots"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Always Show Publish Date"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Auto-Pause First Video"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Battery & Resource Saver"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Block P2P Video Relay"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Block Popups & Prompts"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Block Trackers"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Block Trackers (Setup)"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Bypass Mandatory Login"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Camera & Microphone Indicator"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Clean Share Links"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Comment Customizer"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Custom Share Sheet"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Customize Search"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Declutter Direct Messages"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Declutter Navigation Bar"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Declutter Video Interface"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Device Privacy Guard"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Disable History Recording"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Disable Live Gift Effects"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Disable On-Device AI"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Disable Push Notifications"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Disable QUIC"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Download Without Watermark"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Enable Profile Banner"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Feed Ad Blocker"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Feed Content & Bloat Filter"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Force Auto-Scroll"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Friends & Suggestions Filter"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Hide AI-Generated Content"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Hide Inbox Promos & Alerts"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Hide Inbox Story Tray"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Hide Sponsored & Paid Partnership"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"In-App Browser Privacy Guard"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Instant Launch"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Login Compatibility Fix"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Offline Video Limit"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Playback & Display Governor"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Remember Clear Display"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Remember Playback Speed"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Remove Creator Tools"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Remove Extra Files"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Remove Extra Languages"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Remove Live Stream Files"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Remove Voice Tools"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Resume Video After Scroll"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"SIM Region Selector"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Show Author Region"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Show Exact Counts"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Show Seekbar"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Stop Video Looping"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Strip Sensitive Permissions"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Use System Font"
+],
+[
+"com.zhiliaoapp.musically",
+"Kveld9 Brave",
+"Video Fit Mode"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -43715,6 +45210,26 @@
 "Search fade-in"
 ],
 [
+"de.mobile.android.app",
+"Henr1klmb",
+"Disable tracking"
+],
+[
+"de.mobile.android.app",
+"Henr1klmb",
+"Hide AI"
+],
+[
+"de.mobile.android.app",
+"Henr1klmb",
+"Hide CHECK24 insurance"
+],
+[
+"de.mobile.android.app",
+"Henr1klmb",
+"Hide sponsored ads"
+],
+[
 "de.motain.iliga",
 "Heval",
 "Disable ads"
@@ -44967,12 +46482,22 @@
 [
 "im.thebot.messenger",
 "Hxreborn",
+"Hide All tab"
+],
+[
+"im.thebot.messenger",
+"Hxreborn",
 "Hide Home tab"
 ],
 [
 "im.thebot.messenger",
 "Hxreborn",
 "Remove Home sections"
+],
+[
+"im.thebot.messenger",
+"Hxreborn",
+"Remove botim AI"
 ],
 [
 "im.thebot.messenger",
@@ -45777,7 +47302,17 @@
 [
 "jp.hamitv.hamiand1",
 "Yuubinnkyoku",
+"TVer: Android system PiP (7.2.1/7.4.1)"
+],
+[
+"jp.hamitv.hamiand1",
+"Yuubinnkyoku",
 "TVer: Nico comment overlay prototype (7.2.1)"
+],
+[
+"jp.hamitv.hamiand1",
+"Yuubinnkyoku",
+"TVer: Nico comment overlay prototype (7.2.1/7.4.1)"
 ],
 [
 "jp.hamitv.hamiand1",
@@ -45787,7 +47322,17 @@
 [
 "jp.hamitv.hamiand1",
 "Yuubinnkyoku",
+"TVer: resolution quality picker (7.2.1/7.4.1)"
+],
+[
+"jp.hamitv.hamiand1",
+"Yuubinnkyoku",
 "TVer: suppress player ads (7.2.1)"
+],
+[
+"jp.hamitv.hamiand1",
+"Yuubinnkyoku",
+"TVer: suppress player ads (7.2.1/7.4.1)"
 ],
 [
 "jp.naver.line.android",
@@ -47081,6 +48626,11 @@
 ],
 [
 "ml.docilealligator.infinityforreddit.plus",
+"Patcheddit",
+"Spoof client"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
 "Pengusto",
 "Configure custom OAuth for Infinity+"
 ],
@@ -47378,6 +48928,21 @@
 "net.daylio",
 "GinDoki19",
 "Enable premium (experimental)"
+],
+[
+"net.daylio",
+"GinDoki19",
+"Google Drive backup via MicroG RE"
+],
+[
+"net.daylio",
+"GinDoki19",
+"Remove promos & partner ads"
+],
+[
+"net.daylio",
+"GinDoki19",
+"Remove tracking & marketing"
 ],
 [
 "net.dinglisch.android.taskerm",
@@ -48748,6 +50313,11 @@
 "o.o.joey",
 "Patcheddit",
 "Reddit API fixes"
+],
+[
+"o.o.joey",
+"Patcheddit",
+"Spoof client"
 ],
 [
 "o.o.joey",
@@ -51890,6 +53460,11 @@
 "Relay Morphe settings"
 ],
 [
+"reddit.news",
+"Patcheddit",
+"Spoof client"
+],
+[
 "ricardonemlopot.nemlopot",
 "Smart123s",
 "ARM64 support"
@@ -53002,6 +54577,11 @@
 [
 "tv.pluto.android",
 "Semicoloncolonel Mobile",
+"Android TV source notice"
+],
+[
+"tv.pluto.android",
+"Semicoloncolonel Mobile",
 "Block analytics & tracking"
 ],
 [
@@ -54108,6 +55688,21 @@
 "yiuo.mobile.tv",
 "Heval",
 "Disable telemetry"
+],
+[
+"yqtrack.app",
+"Rimixyz",
+"Fix Firebase after re-signing"
+],
+[
+"yqtrack.app",
+"Rimixyz",
+"Force Premium membership"
+],
+[
+"yqtrack.app",
+"Rimixyz",
+"Remove Deals ads"
 ],
 [
 "zank.remote",
