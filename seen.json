@@ -5317,6 +5317,16 @@
 [
 "com.bittorrent.client",
 "Hxreborn",
+"AMOLED dark theme"
+],
+[
+"com.bittorrent.client",
+"Hxreborn",
+"Fix screen insets"
+],
+[
+"com.bittorrent.client",
+"Hxreborn",
 "Unlock premium"
 ],
 [
@@ -6567,6 +6577,11 @@
 [
 "com.cardfeed.video_public",
 "Hxreborn",
+"Disable trailer autoplay"
+],
+[
+"com.cardfeed.video_public",
+"Hxreborn",
 "Disable video preloading"
 ],
 [
@@ -6593,6 +6608,11 @@
 "com.cardfeed.video_public",
 "Hxreborn",
 "Remove screenshot restriction"
+],
+[
+"com.cardfeed.video_public",
+"Hxreborn",
+"Remove startup animation"
 ],
 [
 "com.cbs.app",
@@ -22150,6 +22170,11 @@
 "Material You themed icon"
 ],
 [
+"com.lifeonair.postparty",
+"Sqzass",
+"Remove clip bumper"
+],
+[
 "com.lihkg.app",
 "GhostKnow",
 "Always plus member"
@@ -25777,6 +25802,11 @@
 [
 "com.oceangalaxy.camera.new",
 "Mwbra130",
+"Enable Business"
+],
+[
+"com.oceangalaxy.camera.new",
+"Mwbra130",
 "Enable Plus"
 ],
 [
@@ -27095,6 +27125,11 @@
 "Hide Explore section"
 ],
 [
+"com.phlox.simpleserver.marketless",
+"Hxreborn",
+"Unlock PLUS"
+],
+[
 "com.picoai.languageapp.android",
 "Thebugsmith",
 "Pingo Google login"
@@ -27257,6 +27292,16 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Custom save sound"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Custom splash logo"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Disable analytics"
 ],
 [
@@ -27337,6 +27382,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Hide creator name on pins"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Hide header buttons"
 ],
 [
@@ -27348,6 +27398,11 @@
 "com.pinterest",
 "HushPinterest",
 "Hide pop-up banners"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide related pins"
 ],
 [
 "com.pinterest",
@@ -34942,6 +34997,11 @@
 [
 "com.tradingview.tradingviewapp",
 "Hxreborn",
+"Disable analytics"
+],
+[
+"com.tradingview.tradingviewapp",
+"Hxreborn",
 "Fix Google sign-in"
 ],
 [
@@ -37823,6 +37883,11 @@
 "com.utorrent.client",
 "Hxreborn",
 "AMOLED dark theme"
+],
+[
+"com.utorrent.client",
+"Hxreborn",
+"Fix screen insets"
 ],
 [
 "com.utorrent.client",
@@ -44902,6 +44967,16 @@
 [
 "im.thebot.messenger",
 "Hxreborn",
+"Hide Home tab"
+],
+[
+"im.thebot.messenger",
+"Hxreborn",
+"Remove Home sections"
+],
+[
+"im.thebot.messenger",
+"Hxreborn",
 "Spoof signature"
 ],
 [
@@ -47733,6 +47808,11 @@
 "net.slickdeals.android",
 "Semicoloncolonel Mobile",
 "Disable auto-updates"
+],
+[
+"net.slickdeals.android",
+"Semicoloncolonel Mobile",
+"GmsCore support"
 ],
 [
 "net.slickdeals.android",
