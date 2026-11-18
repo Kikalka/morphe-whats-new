@@ -180,6 +180,36 @@
 "Translate ad break screen"
 ],
 [
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel TV",
+"Force highest quality"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel TV",
+"Mask ads"
+],
+[
+"air.com.vudu.air.DownloaderTablet",
+"Semicoloncolonel TV",
+"Translate ad break screen"
+],
+[
 "ak.alizandro.smartaudiobookplayer",
 "Epabafree",
 "Material You theme"
@@ -1840,6 +1870,21 @@
 "Unlock expansions"
 ],
 [
+"com.a0soft.gphone.uninstaller",
+"byehi98",
+"Bypass PairIP license check"
+],
+[
+"com.a0soft.gphone.uninstaller",
+"byehi98",
+"Spoof original signature"
+],
+[
+"com.a0soft.gphone.uninstaller",
+"byehi98",
+"Unlock premium"
+],
+[
 "com.a3.sgt",
 "Pilahito",
 "Remove ads"
@@ -1943,6 +1988,36 @@
 "com.abc.abcnews",
 "Semicoloncolonel Mobile",
 "Translate ad break screen"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel TV",
+"Force highest quality"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel TV",
+"Hide update prompt"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel TV",
+"Skip ads"
 ],
 [
 "com.abi.colony.flow",
@@ -3231,6 +3306,141 @@
 ],
 [
 "com.andrewshu.android.reddit",
+"Edbfi",
+"Disable ads"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Enable golden platinum"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Fix /s/ links"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Fix Imgur"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Fix Redgifs"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Fix YouTube player"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Fix galleries"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Fix load more comments"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Fix markdown links"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Fix media links"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Keep typed text in view"
+],
+[
+"com.andrewshu.android.reddit",
+"Edbfi",
+"Spoof client"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Explain Reddit blocks"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Fix YouTube videos"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Fix broken markdown links"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Fix comment video links"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Fix history import"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Fix share links"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Hide blocked mod comments"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Inline comment images"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Keep reply box above keyboard"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Post to profile"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Reddit image hosting"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Repair broken gallery images"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"YouTube player controls"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Block ads"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Explain Reddit blocks"
+],
+[
+"com.andrewshu.android.reddit",
 "Patcheddit",
 "Fix Reddit API lookups"
 ],
@@ -3242,7 +3452,22 @@
 [
 "com.andrewshu.android.reddit",
 "Patcheddit",
+"Fix broken markdown links"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Fix comment video links"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
 "Fix escaped URLs"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Fix history import"
 ],
 [
 "com.andrewshu.android.reddit",
@@ -3253,6 +3478,11 @@
 "com.andrewshu.android.reddit",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Post to profile"
 ],
 [
 "com.andrewshu.android.reddit",
@@ -4192,6 +4422,11 @@
 [
 "com.apple.atve.androidtv.appletv",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.apple.atve.androidtv.appletv",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -4378,6 +4613,11 @@
 "com.asanayoga.asanarebel",
 "AlexandreL",
 "Unlock Asana Rebel Pro"
+],
+[
+"com.ascent",
+"Foxxo",
+"Unlock premium"
 ],
 [
 "com.ashtoncofer.Buzz",
@@ -4737,6 +4977,11 @@
 [
 "com.bah.r1smobile",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.bah.r1smobile",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -4878,6 +5123,11 @@
 "com.bamnetworks.mobile.android.gameday.atbat",
 "Semicoloncolonel Mobile",
 "Hide device identifiers"
+],
+[
+"com.bamnetworks.mobile.android.gameday.atbat",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
 ],
 [
 "com.bamnetworks.mobile.android.gameday.atbat",
@@ -6657,6 +6907,11 @@
 [
 "com.c51",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.c51",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -6888,6 +7143,41 @@
 "com.cbs.app",
 "Semicoloncolonel Mobile",
 "Spoof carrier"
+],
+[
+"com.cbsnews.ott",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.cbsnews.ott",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.cbsnews.ott",
+"Semicoloncolonel TV",
+"Force highest quality"
+],
+[
+"com.cbsnews.ott",
+"Semicoloncolonel TV",
+"Hide \"Are you still watching?\""
+],
+[
+"com.cbsnews.ott",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.cbsnews.ott",
+"Semicoloncolonel TV",
+"Opt out of data sale & sharing"
+],
+[
+"com.cbsnews.ott",
+"Semicoloncolonel TV",
+"Skip ads"
 ],
 [
 "com.channel4.ondemand",
@@ -7577,11 +7867,36 @@
 [
 "com.cnbc.client",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
 "com.cnbc.client",
 "Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel TV",
 "Skip ads"
 ],
 [
@@ -7708,6 +8023,26 @@
 "com.cnn.mobile.android.phone",
 "Semicoloncolonel Mobile",
 "Spoof carrier"
+],
+[
+"com.cnn.mobile.android.tv",
+"Semicoloncolonel TV",
+"Allow screenshots"
+],
+[
+"com.cnn.mobile.android.tv",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.cnn.mobile.android.tv",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.cnn.mobile.android.tv",
+"Semicoloncolonel TV",
+"Hide device identifiers"
 ],
 [
 "com.codeswitch.drapes",
@@ -7997,12 +8332,27 @@
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
+"Controls auto-hide timeout"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
 "Disable background services"
 ],
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
 "Disable telemetry"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Hide feed & show promos"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Hide maturity rating overlay"
 ],
 [
 "com.crunchyroll.crunchyroid",
@@ -8027,7 +8377,27 @@
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
+"Seek interval"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Skip animated splash"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
 "Suppress bloat workers"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Suppress modals & prompts"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Up Next banner window"
 ],
 [
 "com.cv.docscanner",
@@ -8047,7 +8417,17 @@
 [
 "com.cv.docscanner",
 "Loki",
+"Enable premium features (Doc Scanner)"
+],
+[
+"com.cv.docscanner",
+"Loki",
 "GmsCore support (Doc Scanner)"
+],
+[
+"com.cv.docscanner",
+"Loki",
+"Hide ads (Doc Scanner)"
 ],
 [
 "com.cv.docscanner",
@@ -8232,6 +8612,11 @@
 [
 "com.dailywire.thedailywire",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -8412,6 +8797,11 @@
 [
 "com.dealnews.android.ui",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.dealnews.android.ui",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -8553,6 +8943,11 @@
 "com.dealseekorg.dealseek",
 "Semicoloncolonel Mobile",
 "Hide pop-ups"
+],
+[
+"com.dealseekorg.dealseek",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
 ],
 [
 "com.dealseekorg.dealseek",
@@ -10687,6 +11082,21 @@
 [
 "com.dubox.drive",
 "Toidicakhia",
+"Auto claim Benefits tasks"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
+"Auto reward ads"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
+"Bypass SSL pinning"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
 "Clone app"
 ],
 [
@@ -10713,6 +11123,11 @@
 "com.dubox.drive",
 "Toidicakhia",
 "Hide video recommendations"
+],
+[
+"com.dubox.drive",
+"Toidicakhia",
+"Spoof signature"
 ],
 [
 "com.dubox.drive",
@@ -13022,6 +13437,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Put your words above the photo"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Quiet incoming calls"
 ],
 [
@@ -13805,6 +14225,31 @@
 "Spoof carrier"
 ],
 [
+"com.fox.fts.android",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel TV",
+"Force highest quality"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel TV",
+"Opt out of data sale & sharing"
+],
+[
 "com.foxnews.android",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -13913,6 +14358,36 @@
 "com.foxnews.android",
 "Semicoloncolonel Mobile",
 "Spoof carrier"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel TV",
+"Force highest quality"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel TV",
+"Opt out of data sale & sharing"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel TV",
+"Skip ads"
 ],
 [
 "com.free.vpn.super.hotspot.open",
@@ -14295,6 +14770,31 @@
 "Unlimited currency"
 ],
 [
+"com.glu.ckzombies2",
+"ComoEstaisAmigos",
+"Disable telemetry"
+],
+[
+"com.glu.ckzombies2",
+"ComoEstaisAmigos",
+"Modern Android compatibility"
+],
+[
+"com.glu.ckzombies2",
+"ComoEstaisAmigos",
+"Play intro once"
+],
+[
+"com.glu.ckzombies2",
+"ComoEstaisAmigos",
+"Unlimited ammo"
+],
+[
+"com.glu.ckzombies2",
+"ComoEstaisAmigos",
+"Unlimited currency"
+],
+[
 "com.gm.shadhin",
 "Media",
 "Access content"
@@ -14563,6 +15063,16 @@
 "com.google.android.apps.googlevoice",
 "Abegumbo-ui",
 "Incoming call fix"
+],
+[
+"com.google.android.apps.magazines",
+"Way-Lo",
+"Enable CustomTabs"
+],
+[
+"com.google.android.apps.magazines",
+"Way-Lo",
+"GmsCore support"
 ],
 [
 "com.google.android.apps.maps",
@@ -15161,6 +15671,46 @@
 ],
 [
 "com.google.android.apps.maps",
+"Johnnycyan",
+"ElevenLabs voice for navigation"
+],
+[
+"com.google.android.apps.maps",
+"Lamphung-Phuc",
+"BYD navigation audio routing"
+],
+[
+"com.google.android.apps.maps",
+"Lamphung-Phuc",
+"Device certification fix"
+],
+[
+"com.google.android.apps.maps",
+"Lamphung-Phuc",
+"Google Maps for MicroG-RE"
+],
+[
+"com.google.android.apps.maps",
+"Lamphung-Phuc",
+"NMAX icon"
+],
+[
+"com.google.android.apps.maps",
+"Lamphung-Phuc",
+"Navigation speech and TTS startup"
+],
+[
+"com.google.android.apps.maps",
+"Lamphung-Phuc",
+"NmaxConnect dash map"
+],
+[
+"com.google.android.apps.maps",
+"Lamphung-Phuc",
+"Picture-in-picture setting"
+],
+[
+"com.google.android.apps.maps",
 "RhubarbShoelaces",
 "Custom Cartographic Region"
 ],
@@ -15735,6 +16285,11 @@
 "Spoof app version"
 ],
 [
+"com.google.android.apps.youtube.music",
+"Southstar21dev",
+"Liquid Glass navigation bar"
+],
+[
 "com.google.android.apps.youtube.unplugged",
 "Semicoloncolonel",
 "Block telemetry"
@@ -16068,6 +16623,11 @@
 "com.google.android.googlequicksearchbox",
 "Ryuya0124",
 "MicroG Device Compliance Redirect"
+],
+[
+"com.google.android.inputmethod.latin",
+"Adobo",
+"Hide incognito icon"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -21112,6 +21672,11 @@
 [
 "com.kanopy",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.kanopy",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -21692,6 +22257,11 @@
 [
 "com.kouponai",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.kouponai",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -21813,6 +22383,81 @@
 "com.laurencedawson.reddit_sync",
 "Burakdede0",
 "Predictive back gesture"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Disable Sync for Lemmy bottom sheet"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Disable ads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Enable Sync Ultra"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Fix /s/ links"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Fix Imgur"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Fix Other discussions"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Fix Redgifs"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Fix Tenor previews"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Fix View more comments"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Fix galleries"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Fix post thumbnails"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Fix video downloads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Hide Gfycat link previews"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Spoof client"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Edbfi",
+"Use /user/ endpoint"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -22003,6 +22648,11 @@
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
 "Fix Reddit API lookups"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Fix broken markdown links"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -23027,6 +23677,11 @@
 [
 "com.linkedin.android",
 "Loki",
+"GmsCore support (LinkedIn)"
+],
+[
+"com.linkedin.android",
+"Loki",
 "Hide Premium upsells"
 ],
 [
@@ -23142,6 +23797,11 @@
 [
 "com.linkedin.android",
 "XBadFellaX",
+"Disable screenshot share sheet"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
 "Download media"
 ],
 [
@@ -23203,6 +23863,11 @@
 "com.linkedin.android",
 "XBadFellaX",
 "Hide suggested posts"
+],
+[
+"com.linkedin.android",
+"XBadFellaX",
+"Hide top bar buttons"
 ],
 [
 "com.linkedin.android",
@@ -23285,6 +23950,11 @@
 "Tap to hide in viewers"
 ],
 [
+"com.linkedin.android",
+"XBadFellaX",
+"Video tab"
+],
+[
 "com.liori.echogram",
 "Hxreborn",
 "Unlock premium"
@@ -23323,6 +23993,11 @@
 "com.lmr.lfm",
 "Legendsciber",
 "Premium"
+],
+[
+"com.locket.Locket",
+"Toidicakhia",
+"Spoofer server"
 ],
 [
 "com.locket.Locket",
@@ -24331,6 +25006,16 @@
 ],
 [
 "com.microsoft.teams",
+"BuzzCraft",
+"Desktop User-Agent for Login"
+],
+[
+"com.microsoft.teams",
+"BuzzCraft",
+"Privacy Enhancements"
+],
+[
+"com.microsoft.teams",
 "Madushas",
 "Disable AppCenter telemetry"
 ],
@@ -24730,6 +25415,51 @@
 "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c (\u043a\u043b\u043e\u043d)"
 ],
 [
+"com.moviesanywhere.goo",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.moviesanywhere.goo",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.moviesanywhere.goo",
+"Semicoloncolonel Mobile",
+"Force highest quality"
+],
+[
+"com.moviesanywhere.goo",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.moviesanywhere.goo",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.moviesanywhere.goo",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.moviesanywhere.goo",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.moviesanywhere.goo",
+"Semicoloncolonel TV",
+"Force highest quality"
+],
+[
+"com.moviesanywhere.goo",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
 "com.mtv.sai",
 "Sabbirdj",
 "Unlock SAI Premium"
@@ -24877,6 +25607,11 @@
 [
 "com.musicleague.app",
 "Mlkem",
+"Extract native libraries for merged XAPK"
+],
+[
+"com.musicleague.app",
+"Mlkem",
 "Hermes hide ad promo surfaces"
 ],
 [
@@ -24893,6 +25628,11 @@
 "com.musicleague.app",
 "Mlkem",
 "Pin local Expo config"
+],
+[
+"com.musicleague.app",
+"Mlkem",
+"Remove Music League ad card container"
 ],
 [
 "com.musixmatch.android.lyrify",
@@ -24963,6 +25703,11 @@
 "com.mxtech.videoplayer.pro",
 "Loki",
 "All codecs"
+],
+[
+"com.mxtech.videoplayer.pro",
+"Loki",
+"GmsCore support (MX Player Pro)"
 ],
 [
 "com.mxtech.videoplayer.pro",
@@ -25320,6 +26065,36 @@
 "Spoof carrier"
 ],
 [
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel TV",
+"Hide developer menu"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel TV",
+"Skip ads"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel TV",
+"Use the public web app"
+],
+[
 "com.neave.zoomearth",
 "Mlkem",
 "100 Zoom Earth favourites"
@@ -25452,6 +26227,11 @@
 [
 "com.netflix.mediaclient",
 "Semicoloncolonel Mobile",
+"Auto-skip (experimental)"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
 "Browse hidden categories"
 ],
 [
@@ -25472,7 +26252,17 @@
 [
 "com.netflix.mediaclient",
 "Semicoloncolonel Mobile",
+"Keep playing in the background (experimental)"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
 "Keep screen brightness"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
+"Picture-in-Picture always on"
 ],
 [
 "com.netflix.mediaclient",
@@ -26420,6 +27210,11 @@
 "Spoof watermark location"
 ],
 [
+"com.oceangalaxy.camera.new",
+"Mwbra130",
+"Use device date & time"
+],
+[
 "com.oceanwing.battery.cam",
 "Mlkem",
 "Auto-confirm Eufy mobile-data streaming"
@@ -26788,6 +27583,11 @@
 "com.onelouder.baconreader",
 "Patcheddit",
 "Fix Reddit API lookups"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
+"Fix broken markdown links"
 ],
 [
 "com.onelouder.baconreader",
@@ -27388,6 +28188,11 @@
 "com.particlenews.newsbreak",
 "Semicoloncolonel Mobile",
 "Hide device identifiers"
+],
+[
+"com.particlenews.newsbreak",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
 ],
 [
 "com.particlenews.newsbreak",
@@ -28555,6 +29360,11 @@
 "Spoof signature"
 ],
 [
+"com.poncle.vampiresurvivors",
+"Foxxo",
+"Unlock all DLC"
+],
+[
 "com.pro.cricztv",
 "GinDoki19",
 "Hide playback controls at stream open"
@@ -28792,7 +29602,77 @@
 [
 "com.quora.android",
 "JoFSlash",
+"AMOLED dark mode"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Answer font"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Block Branch tracking"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Block advertising ID"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Block app telemetry"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Block authors and Spaces"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Block clipboard reading"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Block promotional notifications"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Block tracking logs"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Block web trackers"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Clean shared links"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Comfortable reading"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Copy answer text"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Data saver"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Disable WebView debugging"
 ],
 [
 "com.quora.android",
@@ -28802,12 +29682,42 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Disable notification prompt"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Disable rating prompts"
 ],
 [
 "com.quora.android",
 "JoFSlash",
+"Disable sign-in prompts"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Disable swipe gestures"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Disable tab prefetching"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Disable tracking jobs"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Disable update prompts"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Disable vibration"
 ],
 [
 "com.quora.android",
@@ -28822,7 +29732,32 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Expand answers"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Filter keywords"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Hide AI answers"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide Ask button"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide Follow buttons"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide Poe"
 ],
 [
 "com.quora.android",
@@ -28837,7 +29772,32 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Hide Spaces posts"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Hide Spaces suggestions"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide badges"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide comment previews"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide counts"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide credentials"
 ],
 [
 "com.quora.android",
@@ -28847,7 +29807,22 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Hide old answers"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide people suggestions"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Hide related questions"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide seen items"
 ],
 [
 "com.quora.android",
@@ -28857,12 +29832,57 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Hide surveys"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide tabs"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Keep place on return"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Keep screen on"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Open links in browser"
 ],
 [
 "com.quora.android",
 "JoFSlash",
+"Patch settings"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Remove ads"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Save images"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Spoof installer"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Start tab"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Text size"
 ],
 [
 "com.quvideo.vivacut",
@@ -29208,6 +30228,11 @@
 "com.rkgames.basisgame",
 "Mwbra130",
 "Unlock All Slot Machines"
+],
+[
+"com.roborock.smart",
+"NicolasBonduel",
+"Local server login"
 ],
 [
 "com.robtopx.geometrydashmeltdown",
@@ -29808,6 +30833,16 @@
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Fix Reddit API lookups"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Fix broken markdown links"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Fix comment video links"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -32527,6 +33562,11 @@
 [
 "com.ss.android.ttmd.video",
 "HushPine",
+"Fix search tab names"
+],
+[
+"com.ss.android.ttmd.video",
+"HushPine",
 "Ghost mode"
 ],
 [
@@ -33837,6 +34877,11 @@
 [
 "com.substack.app",
 "Semicoloncolonel Mobile",
+"GmsCore support"
+],
+[
+"com.substack.app",
+"Semicoloncolonel Mobile",
 "Hide device identifiers"
 ],
 [
@@ -34515,6 +35560,21 @@
 "Hide ads"
 ],
 [
+"com.tantantribe.tribe",
+"JonnyVR1",
+"Experimental Unlock"
+],
+[
+"com.tantantribe.tribe",
+"JonnyVR1",
+"Location Enhancement"
+],
+[
+"com.tantantribe.tribe",
+"JonnyVR1",
+"Push Notification Filter"
+],
+[
 "com.taobao.idlefish",
 "Hxreborn",
 "Allow sharing without login"
@@ -35038,6 +36098,11 @@
 "com.thomsonreuters.reuters",
 "Semicoloncolonel Mobile",
 "Hide promotions"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
 ],
 [
 "com.thomsonreuters.reuters",
@@ -36117,6 +37182,11 @@
 [
 "com.treemolabs.apps.cbsnews",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -36383,6 +37453,11 @@
 "com.truecaller",
 "Loki",
 "GmsCore support (Truecaller)"
+],
+[
+"com.truecaller",
+"Loki",
+"Hide ads (Truecaller)"
 ],
 [
 "com.truecaller",
@@ -36838,6 +37913,11 @@
 "com.tumblr",
 "HushTumblr",
 "Filter activity notifications"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Fit full-screen videos"
 ],
 [
 "com.tumblr",
@@ -38962,6 +40042,11 @@
 [
 "com.usablenet.mobile.walgreen",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.usablenet.mobile.walgreen",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -39023,6 +40108,11 @@
 "com.usatoday.android.news",
 "Semicoloncolonel Mobile",
 "Hide device identifiers"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
 ],
 [
 "com.usatoday.android.news",
@@ -40527,6 +41617,11 @@
 [
 "com.walmart.android",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.walmart.android",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -40637,6 +41732,11 @@
 [
 "com.washingtonpost.android",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -40653,6 +41753,11 @@
 "com.washingtonpost.android",
 "Semicoloncolonel Mobile",
 "Skip ads"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Skip age check errors"
 ],
 [
 "com.washingtonpost.android",
@@ -41331,6 +42436,21 @@
 ],
 [
 "com.waze",
+"Johnnycyan",
+"ElevenLabs voice for navigation"
+],
+[
+"com.waze",
+"Lamphung-Phuc",
+"NmaxConnect dash map (Waze)"
+],
+[
+"com.waze",
+"Lamphung-Phuc",
+"Waze NMAX"
+],
+[
+"com.waze",
 "M4TH1EU",
 "Allow custom car hosts"
 ],
@@ -41418,6 +42538,11 @@
 "com.waze",
 "VoltoxderEchte",
 "Fix speed drops"
+],
+[
+"com.wb.goog.injustice",
+"byehi98",
+"Injustice Native Store Unlock"
 ],
 [
 "com.wb.headsup",
@@ -41897,6 +43022,11 @@
 [
 "com.whaleshark.retailmenot",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.whaleshark.retailmenot",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -42243,6 +43373,16 @@
 "com.wishabi.flipp",
 "Semicoloncolonel Mobile",
 "Strip affiliate links"
+],
+[
+"com.wispr.flowapp",
+"v4inwald",
+"Play Store install source"
+],
+[
+"com.wispr.flowapp",
+"v4inwald",
+"Unlimited words"
 ],
 [
 "com.withopal.opal",
@@ -42652,6 +43792,11 @@
 [
 "com.yahoo.mobile.client.android.finance",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -42738,6 +43883,11 @@
 "com.yahoo.mobile.client.android.yahoo",
 "Semicoloncolonel Mobile",
 "Hide pop-ups"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
 ],
 [
 "com.yahoo.mobile.client.android.yahoo",
@@ -44957,6 +46107,11 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"Notification sound settings"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Save Zalo stories"
 ],
 [
@@ -45047,6 +46202,11 @@
 [
 "com.zumobi.msnbc",
 "Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
 "Hide rating prompt"
 ],
 [
@@ -45073,6 +46233,26 @@
 "com.zumobi.msnbc",
 "Semicoloncolonel Mobile",
 "Spoof carrier"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel TV",
+"Block analytics & tracking"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel TV",
+"Disable auto-updates"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel TV",
+"Hide device identifiers"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel TV",
+"Skip ads"
 ],
 [
 "com.zvooq.openplay",
@@ -48672,6 +49852,11 @@
 [
 "ml.docilealligator.infinityforreddit.plus",
 "Patcheddit",
+"Fix broken markdown links"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
+"Patcheddit",
 "Fix escaped URLs"
 ],
 [
@@ -48698,6 +49883,11 @@
 "ml.docilealligator.infinityforreddit.plus",
 "Pengusto",
 "Configure custom OAuth for Infinity+"
+],
+[
+"ml.docilealligator.infinityforreddit.plus2",
+"Patcheddit",
+"Fix broken markdown links"
 ],
 [
 "ml.docilealligator.infinityforreddit.plus2",
@@ -49012,6 +50202,16 @@
 [
 "net.dinglisch.android.taskerm",
 "Heval",
+"GmsCore support"
+],
+[
+"net.dinglisch.android.taskerm",
+"Kinoosaki",
+"Enable Full Version"
+],
+[
+"net.dinglisch.android.taskerm",
+"Kinoosaki",
 "GmsCore support"
 ],
 [
@@ -50352,6 +51552,16 @@
 [
 "o.o.joey",
 "Patcheddit",
+"Fix broken markdown links"
+],
+[
+"o.o.joey",
+"Patcheddit",
+"Fix comment video links"
+],
+[
+"o.o.joey",
+"Patcheddit",
 "Fix escaped URLs"
 ],
 [
@@ -50593,6 +51803,11 @@
 "org.cspan.app",
 "Semicoloncolonel Mobile",
 "Hide promo banners"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
 ],
 [
 "org.cspan.app",
@@ -53085,6 +54300,26 @@
 "Hide promotional banners"
 ],
 [
+"pl.janpogocki.icm.pogoda",
+"RikoDEV",
+"Block telemetry"
+],
+[
+"pl.janpogocki.icm.pogoda",
+"RikoDEV",
+"Bypass license check"
+],
+[
+"pl.janpogocki.icm.pogoda",
+"RikoDEV",
+"Remove ads"
+],
+[
+"pl.janpogocki.icm.pogoda",
+"RikoDEV",
+"Unlock premium"
+],
+[
 "pl.mapa_turystyczna.app",
 "Dudek",
 "Hide Premium prompts"
@@ -53498,6 +54733,11 @@
 "reddit.news",
 "Patcheddit",
 "Fix Redgifs API"
+],
+[
+"reddit.news",
+"Patcheddit",
+"Fix broken markdown links"
 ],
 [
 "reddit.news",
@@ -55653,6 +56893,11 @@
 "wsj.reader_sp",
 "Semicoloncolonel Mobile",
 "Hide prediction markets"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
 ],
 [
 "wsj.reader_sp",
