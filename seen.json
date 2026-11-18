@@ -25635,6 +25635,11 @@
 "TFD Companion - Remove illegal apps detection"
 ],
 [
+"com.nexon.tfdc",
+"Santodan",
+"TFD Companion - Remove illegal apps detection (Experimental)"
+],
+[
 "com.nexstar.newsnation",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -26518,6 +26523,16 @@
 "com.olx.southasia",
 "Proxma",
 "Remove ads"
+],
+[
+"com.omarea.vtools",
+"0x11DFE",
+"Random device ID"
+],
+[
+"com.omarea.vtools",
+"0x11DFE",
+"Unlock Scene N1"
 ],
 [
 "com.omniashare.minishare",
@@ -28793,6 +28808,51 @@
 "com.quora.android",
 "JoFSlash",
 "Disable update prompts"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Disable video autoplay"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Enable text selection"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide AI answers"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide Quora+ answers"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide Quora+ promotions"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide Spaces suggestions"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide downvote button"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide related questions"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide suggested questions"
 ],
 [
 "com.quora.android",
@@ -46468,6 +46528,11 @@
 "ie.rte.news",
 "Heval",
 "Disable ads"
+],
+[
+"im.thebot.messenger",
+"Hxreborn",
+"Disable background logging"
 ],
 [
 "im.thebot.messenger",
