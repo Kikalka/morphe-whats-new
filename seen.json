@@ -1,5 +1,160 @@
 [
 [
+"__universal__",
+"Alcostrider",
+"Android Auto audio sync"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Allow Screenshots (Universal)"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Block Trackers (Universal)"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Block Tracking SDKs"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Block Tracking Servers (Universal)"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Bypass Play License"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Clean App Packaging"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Disable Browser File Associations"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Disable Play Store updates"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Disable Root Checks"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Force Screen Timeout"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Go Fully Offline"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Lock Screen Brightness"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Neutralize Play Billing"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Override certificate pinning"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Remove Debug Info"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Remove Extra Languages (Universal)"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Remove Pairip"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Remove Tracking Libraries"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Remove Unused Screen Sizes"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Remove ads"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Report Play Store as installer"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Shrink PNG Images"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Shrink WebP Images"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Silence System Logs"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Spoof Reinstall IDs"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Spoof signature"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Stop Background Sync (Universal)"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Strip Sensitive Permissions (Universal)"
+],
+[
+"__universal__",
+"Kveld9 Brave",
+"Wake Locks Off (Universal)"
+],
+[
+"__universal__",
+"Rimixyz",
+"Spoof install source"
+],
+[
 "ai.moises",
 "Mwbra130",
 "Bypass PairIP signature check"
@@ -5400,6 +5555,11 @@
 "Unlock Premium"
 ],
 [
+"com.ben.thamizha",
+"MuguDEV",
+"Disable ad checks"
+],
+[
 "com.benimaru.official",
 "Christianzz4603",
 "Bypass unofficial APK check"
@@ -7772,6 +7932,11 @@
 [
 "com.cjin.pokegenie.standard",
 "DanielTheManiel",
+"PairIP bypass (+ OCR scanning)"
+],
+[
+"com.cjin.pokegenie.standard",
+"DanielTheManiel",
 "Strip PairIP"
 ],
 [
@@ -8245,6 +8410,21 @@
 "Fix playback freeze at clip boundaries"
 ],
 [
+"com.crazygames.crazygamesapp",
+"byehi98",
+"Bypass PairIP license check"
+],
+[
+"com.crazygames.crazygamesapp",
+"byehi98",
+"Google login via MicroG-RE"
+],
+[
+"com.crazygames.crazygamesapp",
+"byehi98",
+"Remove ads and unlock ad rewards"
+],
+[
 "com.creditkarma.mobile",
 "Aidan",
 "Remove Tracking"
@@ -8347,12 +8527,22 @@
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
+"ASS subtitle style & margin override"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
 "Allow screenshots"
 ],
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
 "AniList sync"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Aspect mode cycle & persistence"
 ],
 [
 "com.crunchyroll.crunchyroid",
@@ -8402,7 +8592,27 @@
 [
 "com.crunchyroll.crunchyroid",
 "Kageroll",
+"Player gestures"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Player preference defaults"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
 "Proxy token requests"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Remaining time toggle"
+],
+[
+"com.crunchyroll.crunchyroid",
+"Kageroll",
+"Screen & orientation lock"
 ],
 [
 "com.crunchyroll.crunchyroid",
@@ -9033,6 +9243,11 @@
 "com.dennisk.rollerbank",
 "JohnInNL",
 "Skip consent screens"
+],
+[
+"com.depthware.lwp.diffuse.v2",
+"Rathmerdominik",
+"Fix media notification detection"
 ],
 [
 "com.dev2a.junk_journal",
@@ -16427,6 +16642,16 @@
 [
 "com.google.android.apps.youtube.unplugged",
 "Semicoloncolonel Mobile",
+"Press and hold to speed up"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Set playback speed"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -16438,6 +16663,11 @@
 "com.google.android.apps.youtube.unplugged",
 "Semicoloncolonel Mobile",
 "Translate ad break screen"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Volume and brightness sliders"
 ],
 [
 "com.google.android.apps.youtube.vr.oculus",
@@ -16728,6 +16958,11 @@
 "com.google.android.inputmethod.latin",
 "Gboard",
 "Keypress Vibration Intensity Control"
+],
+[
+"com.google.android.inputmethod.latin",
+"Gboard",
+"Shift + Backspace Forward Delete"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -19046,6 +19281,41 @@
 ],
 [
 "com.instagram.android",
+"Hemk651",
+"AMOLED theme"
+],
+[
+"com.instagram.android",
+"Hemk651",
+"Add Mods menu"
+],
+[
+"com.instagram.android",
+"Hemk651",
+"Change channel name"
+],
+[
+"com.instagram.android",
+"Hemk651",
+"Remove ads"
+],
+[
+"com.instagram.android",
+"Hemk651",
+"Remove snooze warning"
+],
+[
+"com.instagram.android",
+"Hemk651",
+"Unlock developer options"
+],
+[
+"com.instagram.android",
+"Hemk651",
+"Upload instants from gallary"
+],
+[
+"com.instagram.android",
 "HushGram",
 "Accent color"
 ],
@@ -19287,6 +19557,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide Followers and Following on profiles"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide GIFs in comments"
 ],
 [
@@ -19308,6 +19583,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide Meta AI"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide New message button and suggestions"
 ],
 [
 "com.instagram.android",
@@ -19468,6 +19748,11 @@
 "com.instagram.android",
 "HushGram",
 "Hide the home feed"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Hide the line under names"
 ],
 [
 "com.instagram.android",
@@ -21016,6 +21301,11 @@
 ],
 [
 "com.instagram.moonshot",
+"Hemk651",
+"Instants Mod"
+],
+[
+"com.instagram.moonshot",
 "Wagg13Patch",
 "Instants Mod"
 ],
@@ -21283,6 +21573,11 @@
 "com.joincarbon.nutrition",
 "CallMeBeyonder",
 "Unlock Premium"
+],
+[
+"com.jonathanpuckey.radiogarden",
+"Sqzass",
+"Unlock subscription"
 ],
 [
 "com.joshua.jptt",
@@ -23267,6 +23562,11 @@
 [
 "com.letterboxd.letterboxd",
 "Mvaishak",
+"Film release alerts"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
 "Hide sponsored content"
 ],
 [
@@ -23288,6 +23588,11 @@
 "com.letterboxd.letterboxd",
 "Mvaishak",
 "Smooth film credits tabs"
+],
+[
+"com.letterboxd.letterboxd",
+"Mvaishak",
+"Where to Watch"
 ],
 [
 "com.letterboxd.letterboxd",
@@ -24678,6 +24983,56 @@
 "com.meesho.supply",
 "Ineednotitle",
 "Stop pull-notification alarms (keep push)"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Hide Pay Later navigation tab"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Hide Pay Later secondary price"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Hide bottom navigation tabs"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Hide loan and Pay Later profile entries"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Hide reel cards in feeds"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Hide search recommendation trays"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Hide sponsored listings and order ads"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Product ratings only"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Sort loaded search results by rating count"
+],
+[
+"com.meesho.supply",
+"semi-column",
+"Sort search pages by rating count"
 ],
 [
 "com.meetup",
@@ -26580,6 +26935,16 @@
 "Skip ads (Android TV)"
 ],
 [
+"com.nextdoor",
+"Hxreborn",
+"GmsCore support"
+],
+[
+"com.nextdoor",
+"Hxreborn",
+"Remove sponsored posts"
+],
+[
 "com.ngoctieucac.itruyenchu",
 "CozyCode890",
 "Auto sync reading history"
@@ -26663,6 +27028,11 @@
 "com.nianticlabs.campfire",
 "DanielTheManiel",
 "Open game links directly"
+],
+[
+"com.nianticlabs.campfire",
+"DanielTheManiel",
+"Skip external link dialog"
 ],
 [
 "com.nianticlabs.campfire",
@@ -27362,12 +27732,22 @@
 [
 "com.omarea.vtools",
 "0x11DFE",
+"Daemon gate bypass"
+],
+[
+"com.omarea.vtools",
+"0x11DFE",
 "Random device ID"
 ],
 [
 "com.omarea.vtools",
 "0x11DFE",
 "Unlock Scene N1"
+],
+[
+"com.omarea.vtools",
+"0x11DFE",
+"Unlock optional features"
 ],
 [
 "com.omniashare.minishare",
@@ -28772,7 +29152,22 @@
 [
 "com.pinterest",
 "Browzomje",
+"Quick save to profile"
+],
+[
+"com.pinterest",
+"Browzomje",
 "Repair Firebase registration"
+],
+[
+"com.pinterest",
+"Browzomje",
+"Show Create in the bottom bar"
+],
+[
+"com.pinterest",
+"Browzomje",
+"Show Messages in the bottom bar"
 ],
 [
 "com.pinterest",
@@ -30088,6 +30483,11 @@
 "com.reddit.frontpage",
 "Bin0culars",
 "Post side panel"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
+"Same-subreddit full-screen media"
 ],
 [
 "com.reddit.frontpage",
@@ -38452,12 +38852,22 @@
 [
 "com.tuya.smartlife",
 "Fuku856",
+"Hide Smart App tab"
+],
+[
+"com.tuya.smartlife",
+"Fuku856",
 "Hide ads"
 ],
 [
 "com.tuya.smartlife",
 "Fuku856",
 "Hide home recommendations"
+],
+[
+"com.tuya.smartlife",
+"Fuku856",
+"Hide scene recommendations"
 ],
 [
 "com.tuya.smartlife",
@@ -43232,7 +43642,22 @@
 [
 "com.whatsapp",
 "MightyMich",
+"Enable local backup (gates)"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"Enable local backup (manifest)"
+],
+[
+"com.whatsapp",
+"MightyMich",
 "Keep deleted messages"
+],
+[
+"com.whatsapp",
+"MightyMich",
+"MicroG compatibility"
 ],
 [
 "com.whatsapp",
@@ -46197,6 +46622,11 @@
 [
 "com.zing.zalo",
 "Zeldris",
+"Enable bubble chat"
+],
+[
+"com.zing.zalo",
+"Zeldris",
 "Enable profile cover saving"
 ],
 [
@@ -46670,6 +47100,11 @@
 "Hide ads"
 ],
 [
+"de.rossmann.app.android",
+"Deconta",
+"Auto claim coupons"
+],
+[
 "de.rtli.tvnow",
 "Ysamjo",
 "RTL+ Werbung deaktivieren (Yospace DAI)"
@@ -46723,6 +47158,46 @@
 "de.wetteronline.wetterapp",
 "TorbenStriegel",
 "Enable Premium"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
+"Block ads"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
+"Choose tracks on demand"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
+"Enable offline downloads"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
+"Enable player navigation"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
+"Hide Premium offers"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
+"Manage the playback queue"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
+"Open lyrics from the player"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
+"Search and sort playlists"
 ],
 [
 "deezer.android.app",
@@ -48410,6 +48885,11 @@
 "Unlock Telegraph Premium"
 ],
 [
+"it.mediaset.infinitytv",
+"Android TV",
+"Skip ads"
+],
+[
 "it.octogram.android",
 "Vippium",
 "Anti-delete messages"
@@ -48702,12 +49182,32 @@
 [
 "jp.hamitv.hamiand1",
 "Yuubinnkyoku",
+"TVer: keep live playback in background (7.2.1/7.4.1)"
+],
+[
+"jp.hamitv.hamiand1",
+"Yuubinnkyoku",
+"TVer: live pre-roll and companion ad suppression (7.2.1/7.4.1)"
+],
+[
+"jp.hamitv.hamiand1",
+"Yuubinnkyoku",
+"TVer: live stream 1080p ceiling (7.2.1/7.4.1)"
+],
+[
+"jp.hamitv.hamiand1",
+"Yuubinnkyoku",
 "TVer: resolution quality picker (7.2.1)"
 ],
 [
 "jp.hamitv.hamiand1",
 "Yuubinnkyoku",
 "TVer: resolution quality picker (7.2.1/7.4.1)"
+],
+[
+"jp.hamitv.hamiand1",
+"Yuubinnkyoku",
+"TVer: skip forced version gate (7.2.1/7.4.1)"
 ],
 [
 "jp.hamitv.hamiand1",
@@ -50183,6 +50683,66 @@
 "mobi.charmer.magovideo",
 "MightyMich",
 "Unlock Premium Features"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Block ads"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Block cleartext traffic"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Block identity trackers"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Bypass VPN detection"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Disable analytics"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Disable crash reporters"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Disable location"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Hide Premium upsells"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Hide promo cards"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Limit ad tracking"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Material You theme"
+],
+[
+"mobi.ifunny",
+"EagerGoose32",
+"Strip photo location"
 ],
 [
 "mobi.inthepocket.mediafin.detijd",
@@ -55785,6 +56345,11 @@
 "Unlock Premium Features"
 ],
 [
+"run.openbot.mobile",
+"Zimza1abim",
+"OpenBot custom font"
+],
+[
 "sa.gov.moia.beneficiaryapp",
 "Loody227",
 "Bypass PairIP license check"
@@ -55923,6 +56488,11 @@
 "tech.coddy.coddyapp",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"tech.simha.androidtvremote",
+"XBadFellaX",
+"Disable remote page swipes"
 ],
 [
 "tech.simha.androidtvremote",
@@ -57043,6 +57613,11 @@
 "wsj.reader_sp",
 "Semicoloncolonel Mobile",
 "Hide marketing pop-ups"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Hide paywall overlay"
 ],
 [
 "wsj.reader_sp",
