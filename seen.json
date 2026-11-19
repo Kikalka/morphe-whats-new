@@ -325,8 +325,23 @@
 "ModProd R\u00e9glages"
 ],
 [
+"app.modprod.apkbase",
+"MOD-PROD Creator",
+"ModProd App"
+],
+[
+"app.modprod.apkbase",
+"MOD-PROD Creator",
+"ModProd R\u00e9glages"
+],
+[
 "app.modprod.atvlink.base",
 "MOD-PROD",
+"ATV Launcher"
+],
+[
+"app.modprod.atvlink.base",
+"MOD-PROD Creator",
 "ATV Launcher"
 ],
 [
@@ -363,6 +378,11 @@
 "app.netmirror.netmirrornew",
 "Henr1klmb",
 "Disable trackers"
+],
+[
+"app.netmirror.netmirrornew",
+"Henr1klmb",
+"Disable tracking"
 ],
 [
 "app.orpheon.beta",
@@ -4658,6 +4678,16 @@
 "com.aspiro.tidal",
 "JohnInNL",
 "Allow custom Android Auto hosts"
+],
+[
+"com.astech.forscanlite",
+"Mwbra130",
+"Enable license"
+],
+[
+"com.astech.forscanlite",
+"Mwbra130",
+"Remove telemetry"
 ],
 [
 "com.astrapaging.vff",
@@ -16353,6 +16383,16 @@
 "com.google.android.apps.youtube.unplugged",
 "Semicoloncolonel Mobile",
 "Change app name"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Change skip interval"
+],
+[
+"com.google.android.apps.youtube.unplugged",
+"Semicoloncolonel Mobile",
+"Disable live previews"
 ],
 [
 "com.google.android.apps.youtube.unplugged",
@@ -28762,6 +28802,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Customize board tabs"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Disable analytics"
 ],
 [
@@ -28802,6 +28847,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Fold related pins"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "GmsCore support"
 ],
 [
@@ -28832,6 +28882,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Hide blue highlight ring"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Hide closeup buttons"
 ],
 [
@@ -28853,6 +28908,16 @@
 "com.pinterest",
 "HushPinterest",
 "Hide navigation buttons"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide pin author"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Hide pin title and description"
 ],
 [
 "com.pinterest",
@@ -28897,12 +28962,22 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Hide visual search thumbnails"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "HushPinterest settings"
 ],
 [
 "com.pinterest",
 "HushPinterest",
 "Keep Home feed"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Let the screen sleep"
 ],
 [
 "com.pinterest",
@@ -28933,6 +29008,11 @@
 "com.pinterest",
 "HushPinterest",
 "Remove ad tracking permissions"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Show image size"
 ],
 [
 "com.pinterest",
@@ -31563,6 +31643,11 @@
 "com.samsung.android.app.notes",
 "Jibon-K",
 "Samsung framework compatibility"
+],
+[
+"com.samsung.android.app.notes",
+"Jibon-K",
+"System file picker"
 ],
 [
 "com.samsung.android.app.notes",
@@ -36875,6 +36960,11 @@
 "Hide rating prompt"
 ],
 [
+"com.tmobile.tuesdays",
+"Semicoloncolonel Mobile",
+"Mask device identity"
+],
+[
 "com.todoist",
 "Titandrive",
 "Todoist Catppuccin theme"
@@ -37398,6 +37488,11 @@
 "com.truecaller",
 "Heval",
 "Hide promotions"
+],
+[
+"com.truecaller",
+"Heval",
+"Hide surveys"
 ],
 [
 "com.truecaller",
@@ -38163,6 +38258,11 @@
 "com.tumblr",
 "HushTumblr",
 "Tags open the blog's tag search"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Tap to play feed videos"
 ],
 [
 "com.tumblr",
@@ -39950,6 +40050,11 @@
 "Twilight - Test stato trial"
 ],
 [
+"com.urbandroid.lux",
+"Sircoderin",
+"Untint screenshots"
+],
+[
 "com.urbandroid.sleep",
 "Hyzor",
 "Enable Cloud Premium"
@@ -41325,6 +41430,21 @@
 "Unlock premium"
 ],
 [
+"com.vpnproxymd.mdproxyvpn",
+"0x11DFE",
+"Remove Ads"
+],
+[
+"com.vpnproxymd.mdproxyvpn",
+"0x11DFE",
+"Unlimited Time"
+],
+[
+"com.vpnproxymd.mdproxyvpn",
+"0x11DFE",
+"Unlock Speed Boost"
+],
+[
 "com.vsco.cam",
 "Rov3r",
 "Download posts"
@@ -41727,6 +41847,11 @@
 [
 "com.washingtonpost.android",
 "Semicoloncolonel Mobile",
+"Hide next article peek"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
 "Hide paywall sheet"
 ],
 [
@@ -41958,6 +42083,11 @@
 "com.waze",
 "Forsigh",
 "Allow high refresh rate"
+],
+[
+"com.waze",
+"Forsigh",
+"Any audio app as a Waze audio partner"
 ],
 [
 "com.waze",
@@ -42213,6 +42343,11 @@
 "com.waze",
 "Forsigh",
 "Wire Morphe YouTube Music into Waze"
+],
+[
+"com.waze",
+"Forsigh",
+"YouTube Music as a Waze audio partner"
 ],
 [
 "com.waze",
@@ -44238,6 +44373,11 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Report a newer phone to effects"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Report a newer phone to game LIVE"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -54508,6 +54648,21 @@
 "pl.zabka.apb2c",
 "RikoDEV",
 "Custom Google Maps key"
+],
+[
+"pl.zabka.apb2c",
+"RikoDEV",
+"Hide home carousels and stories"
+],
+[
+"pl.zabka.apb2c",
+"RikoDEV",
+"Hide home shortcuts"
+],
+[
+"pl.zabka.apb2c",
+"RikoDEV",
+"Hide \u017babka screen banner carousels"
 ],
 [
 "pl.zabka.apb2c",
