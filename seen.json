@@ -1271,6 +1271,11 @@
 ],
 [
 "bitpit.launcher",
+"Mlkem",
+"Enable Niagara Pro"
+],
+[
+"bitpit.launcher",
 "RokuOP",
 "Install alongside Niagara"
 ],
@@ -2812,6 +2817,11 @@
 [
 "com.allformatplayer.streamvideoplayer",
 "Hxreborn",
+"Resume after screen lock"
+],
+[
+"com.allformatplayer.streamvideoplayer",
+"Hxreborn",
 "Resume videos opened from other apps"
 ],
 [
@@ -3188,6 +3198,11 @@
 "com.amazon.mShop.android.shopping",
 "Ineednotitle",
 "Remove ads"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Mlkem",
+"Aeroplan shopping"
 ],
 [
 "com.amazon.mShop.android.shopping",
@@ -12200,6 +12215,11 @@
 "Unlock Premium"
 ],
 [
+"com.evozi.network",
+"Hxreborn",
+"Unlock pro"
+],
+[
 "com.excelliance.multiaccounts",
 "Kveld9 Extra",
 "Block Telemetry & Trackers"
@@ -19502,6 +19522,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Expand captions"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Explore without personalization"
 ],
 [
@@ -19873,6 +19898,11 @@
 "com.instagram.android",
 "HushGram",
 "Keep your place in Home"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Let the screen sleep when a reel stops"
 ],
 [
 "com.instagram.android",
@@ -20528,6 +20558,11 @@
 "com.instagram.android",
 "Piko",
 "Save Instants"
+],
+[
+"com.instagram.android",
+"Piko",
+"Send keyboard GIFs"
 ],
 [
 "com.instagram.android",
@@ -21877,6 +21912,11 @@
 [
 "com.kakao.talk",
 "Ample",
+"Disable SSL pinning"
+],
+[
+"com.kakao.talk",
+"Ample",
 "Disable navigation bar animation"
 ],
 [
@@ -22103,6 +22143,11 @@
 "com.kick.mobile",
 "JordanWoodson",
 "Chat keywords"
+],
+[
+"com.kick.mobile",
+"JordanWoodson",
+"Chat search"
 ],
 [
 "com.kick.mobile",
@@ -33482,12 +33527,22 @@
 [
 "com.soundcloud.android",
 "Longthree1",
+"Enable SoundCloud Go"
+],
+[
+"com.soundcloud.android",
+"Longthree1",
 "Enable SoundCloud Go+ (experimental)"
 ],
 [
 "com.soundcloud.android",
 "Longthree1",
 "Hide Cast icon"
+],
+[
+"com.soundcloud.android",
+"Longthree1",
+"Hide Message icon"
 ],
 [
 "com.soundcloud.android",
@@ -36642,6 +36697,11 @@
 [
 "com.tiktok.lite.go",
 "Kveld9",
+"Block Coin Rewards"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9",
 "Block Popups & Prompts"
 ],
 [
@@ -36788,6 +36848,11 @@
 "com.tiktok.lite.go",
 "Kveld9 Brave",
 "Battery & Resource Saver"
+],
+[
+"com.tiktok.lite.go",
+"Kveld9 Brave",
+"Block Coin Rewards"
 ],
 [
 "com.tiktok.lite.go",
@@ -39272,6 +39337,11 @@
 [
 "com.twitter.android",
 "Piko",
+"Fix 20 photos support"
+],
+[
+"com.twitter.android",
+"Piko",
 "NewX: Browse tweet object"
 ],
 [
@@ -39523,6 +39593,11 @@
 "com.twitter.android",
 "Piko",
 "NewX: Unlock downloads"
+],
+[
+"com.twitter.android",
+"Piko",
+"Spoof client version"
 ],
 [
 "com.twitter.android",
@@ -56497,6 +56572,11 @@
 [
 "tech.simha.androidtvremote",
 "XBadFellaX",
+"Increase D-pad hold tolerance"
+],
+[
+"tech.simha.androidtvremote",
+"XBadFellaX",
 "Remote ATV ad-free"
 ],
 [
@@ -56972,6 +57052,11 @@
 [
 "tv.twitch.android.app",
 "JordanWoodson",
+"Hide content label"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
 "Hide mature content warning"
 ],
 [
@@ -56988,6 +57073,11 @@
 "tv.twitch.android.app",
 "JordanWoodson",
 "Highlight first-time chatters"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Keep Drops banner"
 ],
 [
 "tv.twitch.android.app",
