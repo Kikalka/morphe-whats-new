@@ -2022,7 +2022,67 @@
 [
 "com.Slack",
 "3kh0",
+"Anonymize file names"
+],
+[
+"com.Slack",
+"3kh0",
+"Appearance"
+],
+[
+"com.Slack",
+"3kh0",
+"Block telemetry"
+],
+[
+"com.Slack",
+"3kh0",
+"Cache cleaner"
+],
+[
+"com.Slack",
+"3kh0",
+"Custom font"
+],
+[
+"com.Slack",
+"3kh0",
+"Feature flags"
+],
+[
+"com.Slack",
+"3kh0",
+"Fix blank emoji names"
+],
+[
+"com.Slack",
+"3kh0",
+"Last seen"
+],
+[
+"com.Slack",
+"3kh0",
+"Message logger"
+],
+[
+"com.Slack",
+"3kh0",
+"Show pronouns"
+],
+[
+"com.Slack",
+"3kh0",
+"Silent typing"
+],
+[
+"com.Slack",
+"3kh0",
 "Slick Android"
+],
+[
+"com.Slack",
+"3kh0",
+"Who reacted"
 ],
 [
 "com.Slack",
@@ -2433,6 +2493,11 @@
 "com.addatimes.Addatimes",
 "Media",
 "Play button"
+],
+[
+"com.adguard.android",
+"Akkay-Dev",
+"Unlock Lifetime Premium"
 ],
 [
 "com.adguard.android",
@@ -4580,6 +4645,11 @@
 "Repair Japanese library metadata"
 ],
 [
+"com.apple.android.music",
+"Tomi38",
+"Spotify branding"
+],
+[
 "com.apple.atve.androidtv.appletv",
 "Semicoloncolonel",
 "Auto-skip"
@@ -4998,6 +5068,26 @@
 "com.athan",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.atlassian.android.confluence.core",
+"Amfakh",
+"Disable Play license check"
+],
+[
+"com.atlassian.android.confluence.core",
+"Amfakh",
+"Glass navigation bar"
+],
+[
+"com.atlassian.android.confluence.core",
+"Amfakh",
+"Material You"
+],
+[
+"com.atlassian.android.confluence.core",
+"Amfakh",
+"Pitch black"
 ],
 [
 "com.atlassian.android.jira.core",
@@ -5943,6 +6033,46 @@
 "com.biobird.exvee",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.bitsmedia.android.muslimpro",
+"Amfakh",
+"Disable Play license check"
+],
+[
+"com.bitsmedia.android.muslimpro",
+"Amfakh",
+"Disable analytics"
+],
+[
+"com.bitsmedia.android.muslimpro",
+"Amfakh",
+"GmsCore support"
+],
+[
+"com.bitsmedia.android.muslimpro",
+"Amfakh",
+"Hide Alipay+ Rewards"
+],
+[
+"com.bitsmedia.android.muslimpro",
+"Amfakh",
+"Hide Guest Pass"
+],
+[
+"com.bitsmedia.android.muslimpro",
+"Amfakh",
+"Hide ads"
+],
+[
+"com.bitsmedia.android.muslimpro",
+"Amfakh",
+"Material You"
+],
+[
+"com.bitsmedia.android.muslimpro",
+"Amfakh",
+"Premium unlock"
 ],
 [
 "com.bittorrent.client",
@@ -8632,6 +8762,11 @@
 [
 "com.cricfytv.sports",
 "GinDoki19",
+"Pin favourite categories to the top"
+],
+[
+"com.cricfytv.sports",
+"GinDoki19",
 "Remove ads, proxy & restrictions"
 ],
 [
@@ -9068,6 +9203,11 @@
 "com.dataon.sunfishgo",
 "Ravhirizaldi",
 "Use your own location"
+],
+[
+"com.dcinside.app.android",
+"Ample",
+"Show live best on home"
 ],
 [
 "com.dealnews.android.ui",
@@ -11645,6 +11785,11 @@
 "Unlimited RampUp time"
 ],
 [
+"com.duolingo",
+"Iloxmn",
+"Skip Session-End Screens"
+],
+[
 "com.duplila.screenshare",
 "Heval",
 "Disable ads"
@@ -12388,6 +12533,16 @@
 "com.espn.score_center",
 "Semicoloncolonel TV",
 "Skip ads"
+],
+[
+"com.estmob.android.sendanywhere",
+"xhyxfxxc",
+"Hide ads"
+],
+[
+"com.estrongs.android.pop",
+"Akkay-Dev",
+"Unlock VIP & Remove Ads"
 ],
 [
 "com.estrongs.android.pop",
@@ -14296,6 +14451,66 @@
 ],
 [
 "com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Allow screenshots"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Black theme"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Clone app"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Disable review prompts"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Disable surveys"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Disable update prompts"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"GmsCore support"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Hide Medical records"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Hide Premium offer sheets"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Hide Shop devices"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Open links in browser"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash Health",
+"Spoof installer"
+],
+[
+"com.fitbit.FitbitMobile",
 "Madushas",
 "Disable trackers"
 ],
@@ -14433,6 +14648,11 @@
 "com.flyersoft.moonreader",
 "Hxreborn",
 "Unlock pro"
+],
+[
+"com.flyersoft.moonreaderp",
+"Salihefee",
+"Remove regional and expiration restrictions"
 ],
 [
 "com.fmkorea.m.fmk",
@@ -15952,6 +16172,11 @@
 [
 "com.google.android.apps.maps",
 "Fangkampanat BYD",
+"BYD GPS interval"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
 "BYD battery (EV)"
 ],
 [
@@ -15967,7 +16192,22 @@
 [
 "com.google.android.apps.maps",
 "Fangkampanat BYD",
+"Floating Maps window"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
 "Google Maps Automotive for MicroG-RE"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
+"Home and Work shortcuts"
+],
+[
+"com.google.android.apps.maps",
+"Fangkampanat BYD",
+"Navigation speech"
 ],
 [
 "com.google.android.apps.maps",
@@ -16223,6 +16463,16 @@
 "com.google.android.apps.maps",
 "RhubarbShoelaces",
 "Hybrid Theme (Dark Menus, Light Map)"
+],
+[
+"com.google.android.apps.maps",
+"Selim-Durmus",
+"Home and Work shortcuts"
+],
+[
+"com.google.android.apps.maps",
+"Selim-Durmus",
+"Label search suggestions"
 ],
 [
 "com.google.android.apps.maps",
@@ -18570,6 +18820,31 @@
 "Unlock Pro"
 ],
 [
+"com.hatena.android.bookmark",
+"Rikunode Hatena",
+"Block ads in in-app article browser"
+],
+[
+"com.hatena.android.bookmark",
+"Rikunode Hatena",
+"Clone Hatena Bookmark for safe side-by-side testing"
+],
+[
+"com.hatena.android.bookmark",
+"Rikunode Hatena",
+"Hide native PR entries from article feeds"
+],
+[
+"com.hatena.android.bookmark",
+"Rikunode Hatena",
+"Hide weekly bookmark ranking announcement"
+],
+[
+"com.hatena.android.bookmark",
+"Rikunode Hatena",
+"Preserve article WebView cookies and storage"
+],
+[
 "com.hbwares.wordfeud.free",
 "Jeroenimo02",
 "Debloat"
@@ -19008,6 +19283,16 @@
 "com.hyperdotstudios.swampattack2",
 "byehi98",
 "Swamp Attack 2: Unlimited Currency Trigger"
+],
+[
+"com.hyundai.airlab.shucle",
+"ssch71",
+"Wear UI"
+],
+[
+"com.hyundai.airlab.shucle",
+"ssch71",
+"Wear Widget"
 ],
 [
 "com.ichi2.anki",
@@ -21770,6 +22055,21 @@
 "Unlock Premium"
 ],
 [
+"com.iternio.abrpapp",
+"NullRoute3",
+"Disable analytics collection"
+],
+[
+"com.iternio.abrpapp",
+"NullRoute3",
+"Disable expo-updates"
+],
+[
+"com.iternio.abrpapp",
+"NullRoute3",
+"Unlock Premium"
+],
+[
 "com.ivoox.app",
 "Hxreborn",
 "Remove rating prompts"
@@ -21837,7 +22137,32 @@
 [
 "com.jazz.rox",
 "Proxma",
+"Auto check-in in the background"
+],
+[
+"com.jazz.rox",
+"Proxma",
+"Bypass Play Store check"
+],
+[
+"com.jazz.rox",
+"Proxma",
+"Close when idle in background"
+],
+[
+"com.jazz.rox",
+"Proxma",
 "Remove ads"
+],
+[
+"com.jazz.rox",
+"Proxma",
+"Skip forced update prompt"
+],
+[
+"com.jazz.rox",
+"Proxma",
+"Stop background service"
 ],
 [
 "com.jcdecaux.vls.nantes",
@@ -26591,6 +26916,16 @@
 ],
 [
 "com.mygate.user",
+"Tokudai-vs",
+"MyGate GmsCore support"
+],
+[
+"com.mygate.user",
+"Tokudai-vs",
+"MyGate ad-free & UI cleanup"
+],
+[
+"com.mygate.user",
 "aapam",
 "Block Flutter Ads"
 ],
@@ -28556,6 +28891,16 @@
 ],
 [
 "com.openai.chatgpt",
+"Stylus",
+"Custom font"
+],
+[
+"com.openai.chatgpt",
+"Stylus",
+"Custom monospace font"
+],
+[
+"com.openai.chatgpt",
 "XBadFellaX",
 "Install next to ChatGPT"
 ],
@@ -28843,6 +29188,11 @@
 "com.ovz.carscanner",
 "Wagg13Patch",
 "Unlock Pro"
+],
+[
+"com.paget96.batteryguru",
+"Akkay-Dev",
+"Unlock Premium"
 ],
 [
 "com.paget96.batteryguru",
@@ -30865,6 +31215,311 @@
 "Text size"
 ],
 [
+"com.quora.android",
+"JoFSlash Quora",
+"AMOLED dark mode"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Answer font"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Block Branch tracking"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Block advertising ID"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Block app telemetry"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Block authors and Spaces"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Block clipboard reading"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Block promotional notifications"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Block tracking logs"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Clean shared links"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Clone app"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Comfortable reading"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Copy answer text"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Data saver"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Disable WebView debugging"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Disable notification prompt"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Disable sign-in prompts"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Disable swipe gestures"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Disable tab prefetching"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Disable tracking jobs"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Disable vibration"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Disable video autoplay"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Enable text selection"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Expand answers"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Filter keywords"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Fix device theme"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Fix push notifications"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Fullscreen reading"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"GmsCore support"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide AI answers"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide Ask button"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide Follow buttons"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide More Stories button"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide Poe"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide Quora+ answers"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide Quora+ promotions"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide Spaces posts"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide Spaces suggestions"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide ask box"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide badges"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide comment previews"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide counts"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide credentials"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide downvote button"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide old answers"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide people suggestions"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide related questions"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide seen items"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide suggested questions"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide surveys"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Hide tabs"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Keep place on return"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Keep screen on"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Patch settings"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Reading history"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Save images"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Share answer text"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Sort answers"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Spoof installer"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Start tab"
+],
+[
+"com.quora.android",
+"JoFSlash Quora",
+"Text size"
+],
+[
 "com.quvideo.vivacut",
 "MightyMich",
 "Unlock Premium"
@@ -30943,6 +31598,11 @@
 "com.reddit.frontpage",
 "Adobo",
 "Hide crosspost"
+],
+[
+"com.reddit.frontpage",
+"Adobo",
+"Hide mod queue's auto-enforce banner"
 ],
 [
 "com.reddit.frontpage",
@@ -31028,6 +31688,21 @@
 "com.reddit.frontpage",
 "Bryceaspringfield",
 "Say subreddits"
+],
+[
+"com.reddit.frontpage",
+"DrTron1c",
+"User insights"
+],
+[
+"com.reddit.frontpage",
+"DrTron1c",
+"User insights pills in comments"
+],
+[
+"com.reddit.frontpage",
+"DrTron1c",
+"User insights settings entry"
 ],
 [
 "com.reddit.frontpage",
@@ -31847,6 +32522,11 @@
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
+"Fix image search"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
 "Fix loading more comments"
 ],
 [
@@ -31858,6 +32538,11 @@
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Fix slow Giphy loading"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Full Boost backup"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -31898,6 +32583,11 @@
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Reddit API fixes"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Remember collapsed comments"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -34428,6 +35118,11 @@
 "com.spotify.music",
 "Spicetify",
 "Theme colors"
+],
+[
+"com.spotify.music",
+"Tomi38",
+"Spotify branding"
 ],
 [
 "com.spyou.watch_app",
@@ -37135,6 +37830,11 @@
 "GO Live Update"
 ],
 [
+"com.thetransitapp.droid",
+"Xiliav",
+"Unlock Royale"
+],
+[
 "com.thinkdirty.thinkdirtyapp",
 "Dowjames",
 "Unlock premium"
@@ -37993,6 +38693,11 @@
 "com.tomtom.gplay.navapp",
 "Georgewoodall82 TomTom",
 "Unlock Truck Profile"
+],
+[
+"com.touchtype.swiftkey",
+"Kaysera",
+"Gesture input: Disabled"
 ],
 [
 "com.touchtype.swiftkey",
@@ -40880,6 +41585,21 @@
 "Xitter"
 ],
 [
+"com.twitter.android",
+"h19e8p",
+"Auto expand hidden posts"
+],
+[
+"com.twitter.android",
+"h19e8p",
+"Feature flag tools"
+],
+[
+"com.twitter.android",
+"h19e8p",
+"Undo and redo in the composer"
+],
+[
 "com.twodboy.wog2",
 "Steeepaaaan",
 "Neutralize PDALIFE JNI_OnLoad (universal)"
@@ -40898,6 +41618,11 @@
 "com.twodoor.bookly",
 "Heval",
 "Enable Premium"
+],
+[
+"com.twtapp",
+"WindWanderer",
+"Force Paid Status"
 ],
 [
 "com.twtapp",
@@ -43108,6 +43833,16 @@
 "com.waze",
 "Dowjames",
 "Android Auto police alert distance"
+],
+[
+"com.waze",
+"DutchPharaoh",
+"Alerts bar in Android Auto"
+],
+[
+"com.waze",
+"DutchPharaoh",
+"Favorites on map"
 ],
 [
 "com.waze",
@@ -47690,6 +48425,11 @@
 "Spoof signature"
 ],
 [
+"de.herrenabend_sport_verein.comuniodroid",
+"Arkert",
+"Hide Banner Ads"
+],
+[
 "de.klassikradio.app",
 "Hxreborn",
 "Unlock premium"
@@ -48043,6 +48783,11 @@
 "dev.goodwy.rphone",
 "GitGitro",
 "Unlock premium"
+],
+[
+"dev.orca.app",
+"Zimza1abim",
+"Orca custom font"
 ],
 [
 "dev.sasikanth.rss.reader",
@@ -49810,6 +50555,16 @@
 "Unlock premium"
 ],
 [
+"jp.co.celsys.clipstudiopaint.googleplay",
+"Lenemter",
+"Clip Studio Paint Android 12 Compatibility"
+],
+[
+"jp.co.celsys.clipstudiopaint.googleplay",
+"Lenemter",
+"Clip Studio Paint Android 12 Resources"
+],
+[
 "jp.co.sony.ips.portalapp",
 "Franticg33k",
 "Scan camera QR to join Wi-Fi"
@@ -51168,6 +51923,51 @@
 "ltd.anti.clink",
 "Hxreborn",
 "Unlock Pro"
+],
+[
+"mam.reader.ipusnas",
+"Suakamargas121",
+"Android 10 compatibility (minSdk 29)"
+],
+[
+"mam.reader.ipusnas",
+"Suakamargas121",
+"Bypass Play Integrity token (keep attestation)"
+],
+[
+"mam.reader.ipusnas",
+"Suakamargas121",
+"Bypass Play Store redirect"
+],
+[
+"mam.reader.ipusnas",
+"Suakamargas121",
+"Bypass device attestation"
+],
+[
+"mam.reader.ipusnas",
+"Suakamargas121",
+"Disable Firebase Analytics and FCM"
+],
+[
+"mam.reader.ipusnas",
+"Suakamargas121",
+"Neuter Telegram security breach reporter"
+],
+[
+"mam.reader.ipusnas",
+"Suakamargas121",
+"Remove certificate pinning"
+],
+[
+"mam.reader.ipusnas",
+"Suakamargas121",
+"Remove screenshot restriction"
+],
+[
+"mam.reader.ipusnas",
+"Suakamargas121",
+"Save book to Downloads"
 ],
 [
 "mark.via.gp",
@@ -56242,6 +57042,11 @@
 [
 "reddit.news",
 "Patcheddit",
+"Fix Reddit media link handling"
+],
+[
+"reddit.news",
+"Patcheddit",
 "Fix Redgifs API"
 ],
 [
@@ -56258,6 +57063,11 @@
 "reddit.news",
 "Patcheddit",
 "Fix loading more comments"
+],
+[
+"reddit.news",
+"Patcheddit",
+"Inline media"
 ],
 [
 "reddit.news",
@@ -57060,6 +57870,101 @@
 "Disable analytics manifest components"
 ],
 [
+"ru.yandex.music",
+"Murikbmx",
+"Disable AppMetrica"
+],
+[
+"ru.yandex.music",
+"Murikbmx",
+"Disable AppsFlyer"
+],
+[
+"ru.yandex.music",
+"Murikbmx",
+"Disable Firebase telemetry"
+],
+[
+"ru.yandex.music",
+"Murikbmx",
+"Extract native libraries"
+],
+[
+"ru.yandex.music",
+"Murikbmx",
+"Remove tracker components"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0443 \u041f\u043b\u044e\u0441\u0430"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 Nyandex"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u041e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 Passport"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u041e\u0442\u043a\u043b\u044e\u0447\u0438\u0442\u044c Play Billing"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u041e\u0442\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0442\u0435\u043b\u0435\u043c\u0435\u0442\u0440\u0438\u044e"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u041f\u043e\u0434\u043c\u0435\u043d\u0438\u0442\u044c \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u0430 Firebase"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u041f\u043e\u0434\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u043e\u0434\u043f\u0438\u0441\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u0420\u0430\u0437\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u042f\u043d\u0434\u0435\u043a\u0441 \u041f\u043b\u044e\u0441"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u0421\u043a\u0440\u044b\u0442\u044c \u0432\u043a\u043b\u0430\u0434\u043a\u0438 \u043d\u0438\u0436\u043d\u0435\u0439 \u043f\u0430\u043d\u0435\u043b\u0438"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u0422\u0430\u043a\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u043e\u0442\u043a\u043b\u0438\u043a"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u0422\u0435\u043a\u0441\u0442\u044b \u043f\u0435\u0441\u0435\u043d \u0438\u0437 LRCLIB"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u0422\u0435\u043c\u0430 Monet"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u0423\u0431\u0440\u0430\u0442\u044c \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043a\u0438 \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u044f"
+],
+[
+"ru.yandex.music",
+"Ser1-1y",
+"\u0427\u0438\u0441\u0442\u044b\u0435 \u0441\u0441\u044b\u043b\u043a\u0438"
+],
+[
 "ru.yandex.rasp",
 "Basil-AS",
 "Disable AppsFlyer"
@@ -57258,6 +58163,11 @@
 "sinet.startup.inDriver",
 "Proxma",
 "Remove ads"
+],
+[
+"sp0n.citizen",
+"Xiliav",
+"Unlock Pro"
 ],
 [
 "sun.way2sms.hyd.com",
