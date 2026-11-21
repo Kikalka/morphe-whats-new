@@ -6,6 +6,26 @@
 ],
 [
 "__universal__",
+"Kabukabu-A11y",
+"Force TV mode (UiModeManager check)"
+],
+[
+"__universal__",
+"Kabukabu-A11y",
+"Force TV mode (leanback check)"
+],
+[
+"__universal__",
+"Kabukabu-A11y",
+"Rename app (add (TV) suffix)"
+],
+[
+"__universal__",
+"Kabukabu-A11y",
+"Rename app (add TV suffix)"
+],
+[
+"__universal__",
 "Kveld9 Brave",
 "Allow Screenshots (Universal)"
 ],
@@ -151,8 +171,18 @@
 ],
 [
 "__universal__",
+"MightyMich",
+"Remove Flag Secure"
+],
+[
+"__universal__",
 "Rimixyz",
 "Spoof install source"
+],
+[
+"__universal__",
+"Thebugsmith",
+"Remove ads and trackers"
 ],
 [
 "ai.moises",
@@ -3713,6 +3743,11 @@
 "com.andrewshu.android.reddit",
 "Patcheddit",
 "Fix loading more comments"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Inline media"
 ],
 [
 "com.andrewshu.android.reddit",
@@ -7302,6 +7337,16 @@
 [
 "com.cardfeed.video_public",
 "Hxreborn",
+"Load videos on tap"
+],
+[
+"com.cardfeed.video_public",
+"Hxreborn",
+"Remove feed cards"
+],
+[
+"com.cardfeed.video_public",
+"Hxreborn",
 "Remove promotions"
 ],
 [
@@ -7748,6 +7793,11 @@
 "com.chess",
 "Quwi26",
 "Customize bottom bar"
+],
+[
+"com.chess",
+"Quwi26",
+"Discord Rich Presence"
 ],
 [
 "com.chess",
@@ -10843,6 +10893,11 @@
 "com.discovery.dplay",
 "Android TV",
 "discovery+ - Skip Ad Breaks"
+],
+[
+"com.discovery.dplay",
+"Android TV",
+"discovery+ - Store Country Override"
 ],
 [
 "com.diskwalaapp",
@@ -15157,6 +15212,11 @@
 [
 "com.glu.android.zombsniper",
 "ComoEstaisAmigos",
+"Disable friendly fire"
+],
+[
+"com.glu.android.zombsniper",
+"ComoEstaisAmigos",
 "Hidden weapons"
 ],
 [
@@ -15223,6 +15283,11 @@
 "com.glu.ckzombies2",
 "ComoEstaisAmigos",
 "Play intro once"
+],
+[
+"com.glu.ckzombies2",
+"ComoEstaisAmigos",
+"Remove unused permissions"
 ],
 [
 "com.glu.ckzombies2",
@@ -16373,6 +16438,26 @@
 "com.google.android.apps.photos",
 "Ineednotitle",
 "Spoof features"
+],
+[
+"com.google.android.apps.photos",
+"Loki",
+"GmsCore support (Google Photos)"
+],
+[
+"com.google.android.apps.photos",
+"Loki",
+"Install next to the original (Google Photos)"
+],
+[
+"com.google.android.apps.photos",
+"Loki",
+"Only real camera photos count as Camera"
+],
+[
+"com.google.android.apps.photos",
+"Loki",
+"Unlimited backup (Pixel XL)"
 ],
 [
 "com.google.android.apps.photos",
@@ -20833,6 +20918,11 @@
 "com.instagram.android",
 "Wagg13Patch",
 "Restore trust on re-signed builds"
+],
+[
+"com.instagram.android",
+"Wagg13Patch",
+"Save Instants to gallery"
 ],
 [
 "com.instagram.android",
@@ -31777,6 +31867,11 @@
 [
 "com.rubenmayayo.reddit",
 "Patcheddit",
+"Load all inline media"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
 "Log exceptions"
 ],
 [
@@ -32218,6 +32313,11 @@
 "com.rumble.battles",
 "JordanWoodson",
 "Remember playback speed"
+],
+[
+"com.rumble.battles",
+"JordanWoodson",
+"Remote control"
 ],
 [
 "com.rumble.battles",
@@ -34328,6 +34428,11 @@
 "com.spotify.music",
 "Spicetify",
 "Theme colors"
+],
+[
+"com.spyou.watch_app",
+"Kabukabu-A11y",
+"Force TV mode for Zangetsu"
 ],
 [
 "com.sqcom.shangqing",
@@ -37482,12 +37587,27 @@
 [
 "com.tinder",
 "Wagg13Patch",
+"Tinder Disable WebView Preconnect"
+],
+[
+"com.tinder",
+"Wagg13Patch",
 "Tinder Distance First"
 ],
 [
 "com.tinder",
 "Wagg13Patch",
 "Tinder Remove Ads"
+],
+[
+"com.tinder",
+"Wagg13Patch",
+"Tinder Remove Offer Pill"
+],
+[
+"com.tinder",
+"Wagg13Patch",
+"Tinder Remove Plan Banners"
 ],
 [
 "com.tinder",
@@ -40778,6 +40898,11 @@
 "com.twodoor.bookly",
 "Heval",
 "Enable Premium"
+],
+[
+"com.twtapp",
+"WindWanderer",
+"Splash Ad Intercept"
 ],
 [
 "com.twtapp",
@@ -47673,6 +47798,11 @@
 "de.pixelhouse",
 "Drtgrf",
 "Remove Sponsored Recommendations"
+],
+[
+"de.prosiebensat1digital.seventv",
+"Android TV",
+"Skip ads"
 ],
 [
 "de.prosiebensat1digital.seventv",
@@ -57608,6 +57738,11 @@
 "tv.twitch.android.app",
 "JordanWoodson",
 "Fix stuck start screen"
+],
+[
+"tv.twitch.android.app",
+"JordanWoodson",
+"Fix web page errors"
 ],
 [
 "tv.twitch.android.app",

@@ -1,11 +1,4 @@
 {
- "[\"__universal__\", \"Kabukabu-A11y\", \"Force TV mode (UiModeManager check)\"]": "2026-11-19T18:56:33.201516+00:00",
- "[\"__universal__\", \"Kabukabu-A11y\", \"Force TV mode (leanback check)\"]": "2026-11-19T18:56:33.201516+00:00",
- "[\"__universal__\", \"Kabukabu-A11y\", \"Rename app (add (TV) suffix)\"]": "2026-11-19T18:56:33.201516+00:00",
- "[\"__universal__\", \"Kabukabu-A11y\", \"Rename app (add TV suffix)\"]": "2026-11-19T18:56:33.201516+00:00",
- "[\"__universal__\", \"MightyMich\", \"Remove Flag Secure\"]": "2026-11-19T18:56:33.201516+00:00",
- "[\"__universal__\", \"Thebugsmith\", \"Remove ads and trackers\"]": "2026-11-19T18:56:33.201516+00:00",
- "[\"com.spyou.watch_app\", \"Kabukabu-A11y\", \"Force TV mode for Zangetsu\"]": "2026-11-19T18:56:33.201516+00:00",
  "[\"__universal__\", \"AJcubes\", \"Provide Original app certificate\"]": "2026-11-20T18:28:24.884235+00:00",
  "[\"__universal__\", \"AJcubes\", \"Spoof app signature\"]": "2026-11-20T18:28:24.884235+00:00",
  "[\"__universal__\", \"AJcubes\", \"Spoof install source\"]": "2026-11-20T18:28:24.884235+00:00",
@@ -16,5 +9,7 @@
  "[\"com.google.vr.vrcore\", \"Patapon888\", \"Daydream Everywhere (VR Services)\"]": "2026-11-20T18:28:24.884235+00:00",
  "[\"com.live.sktechtv\", \"GinDoki19\", \"Pin favourite categories to the top\"]": "2026-11-20T18:28:24.884235+00:00",
  "[\"com.playz.tv\", \"GinDoki19\", \"Pin favourite categories to the top\"]": "2026-11-20T18:28:24.884235+00:00",
- "[\"com.pro.cricztv\", \"GinDoki19\", \"Pin favourite categories to the top\"]": "2026-11-20T18:28:24.884235+00:00"
+ "[\"com.pro.cricztv\", \"GinDoki19\", \"Pin favourite categories to the top\"]": "2026-11-20T18:28:24.884235+00:00",
+ "[\"com.instaprime.android\", \"Wagg13Patch\", \"Disable update check\"]": "2026-11-21T03:03:57.414444+00:00",
+ "[\"com.instaprime.android\", \"Wagg13Patch\", \"InstaPrime v8 full mod (beta 2)\"]": "2026-11-21T03:03:57.414444+00:00"
 }
