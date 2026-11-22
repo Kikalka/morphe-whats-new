@@ -1,6 +1,21 @@
 [
 [
 "__universal__",
+"AJcubes",
+"Provide Original app certificate"
+],
+[
+"__universal__",
+"AJcubes",
+"Spoof app signature"
+],
+[
+"__universal__",
+"AJcubes",
+"Spoof install source"
+],
+[
+"__universal__",
 "Alcostrider",
 "Android Auto audio sync"
 ],
@@ -273,6 +288,21 @@
 "ai.x.grok",
 "XXLC",
 "Skip delete confirmation"
+],
+[
+"air.WRCareer",
+"Rimixyz",
+"Disable Yodo1 analytics"
+],
+[
+"air.WRCareer",
+"Rimixyz",
+"Remove ads"
+],
+[
+"air.WRCareer",
+"Rimixyz",
+"Unlock Pro"
 ],
 [
 "air.com.vudu.air.DownloaderTablet",
@@ -3818,6 +3848,11 @@
 "com.andrewshu.android.reddit",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Permanently disable NSFW"
 ],
 [
 "com.andrewshu.android.reddit",
@@ -7892,6 +7927,11 @@
 [
 "com.chess",
 "Quwi26",
+"App logs"
+],
+[
+"com.chess",
+"Quwi26",
 "Arcade animations"
 ],
 [
@@ -8640,6 +8680,16 @@
 "Spoof signature"
 ],
 [
+"com.cosmic_watch.cosmicwatch",
+"Xtra",
+"Disable In-App Telemetry"
+],
+[
+"com.cosmic_watch.cosmicwatch",
+"Xtra",
+"Unlock Pro"
+],
+[
 "com.costco.app.android",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -8708,6 +8758,11 @@
 "com.crexify.tv",
 "GinDoki19",
 "Improve Android TV playback controls"
+],
+[
+"com.crexify.tv",
+"GinDoki19",
+"Pin favourite categories to the top"
 ],
 [
 "com.crexify.tv",
@@ -12228,6 +12283,26 @@
 "com.eoffice.android",
 "Johnneerdael",
 "Hide promotions"
+],
+[
+"com.epicchannel.epicon",
+"Media",
+"Access content"
+],
+[
+"com.epicchannel.epicon",
+"Media",
+"Bypass PairIP"
+],
+[
+"com.epicchannel.epicon",
+"Media",
+"Free content"
+],
+[
+"com.epicchannel.epicon",
+"Media",
+"Hide root"
 ],
 [
 "com.epix.epix.now",
@@ -17200,6 +17275,11 @@
 "Volume and brightness sliders"
 ],
 [
+"com.google.android.apps.youtube.vr",
+"Patapon888",
+"Daydream Everywhere (YouTube VR)"
+],
+[
 "com.google.android.apps.youtube.vr.oculus",
 "Commit-Regrets",
 "App name"
@@ -18070,6 +18150,16 @@
 "Allow sideloaded apps"
 ],
 [
+"com.google.android.vr.home",
+"Patapon888",
+"Daydream Everywhere (Daydream)"
+],
+[
+"com.google.android.vr.inputmethod",
+"Patapon888",
+"Daydream Everywhere (Keyboard)"
+],
+[
 "com.google.android.youtube",
 "DanielTheManiel",
 "Current Frame Media Artwork"
@@ -18171,6 +18261,16 @@
 ],
 [
 "com.google.android.youtube.tv",
+"Jair1c FaroTV",
+"Fix volume keys"
+],
+[
+"com.google.android.youtube.tv",
+"Jair1c FaroTV",
+"Performance diagnostics"
+],
+[
+"com.google.android.youtube.tv",
 "Semicoloncolonel",
 "Skip injected ads"
 ],
@@ -18233,6 +18333,11 @@
 "com.google.android.youtube.tvunplugged",
 "Semicoloncolonel TV",
 "Skip ads"
+],
+[
+"com.google.vr.vrcore",
+"Patapon888",
+"Daydream Everywhere (VR Services)"
 ],
 [
 "com.gotipath.deeptotv",
@@ -20573,6 +20678,11 @@
 "com.instagram.android",
 "HushGram",
 "Rounded post corners"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Run without Play services"
 ],
 [
 "com.instagram.android",
@@ -23697,6 +23807,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
+"Fix Sync toolbar menu crashes"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
 "Fix broken markdown links"
 ],
 [
@@ -23718,6 +23833,11 @@
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Permanently disable NSFW"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -25062,6 +25182,11 @@
 [
 "com.live.sktechtv",
 "GinDoki19",
+"Pin favourite categories to the top"
+],
+[
+"com.live.sktechtv",
+"GinDoki19",
 "Remove ads, telemetry & restrictions"
 ],
 [
@@ -26313,6 +26438,11 @@
 "com.miui.weather2",
 "Bearinmind",
 "Enable non-HyperOS ROM support"
+],
+[
+"com.mixapplications.ultimateusb",
+"XBadFellaX",
+"Ultimate USB local Pro"
 ],
 [
 "com.mixplorer",
@@ -27595,6 +27725,46 @@
 "New Star Soccer Free IAP"
 ],
 [
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Disable Firebase Analytics"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Disable Flurry analytics session"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Disable Flurry startup measurement"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Fix text input backspace"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Remove in-game promo interstitial"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Remove network interstitial ads"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Restrict advertising ID"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Unlock Pro features"
+],
+[
 "com.newstargames.retrobowlcollege",
 "Mwbra130",
 "Unlock premium"
@@ -28813,6 +28983,11 @@
 "com.onelouder.baconreader",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
+"Permanently disable NSFW"
 ],
 [
 "com.onelouder.baconreader",
@@ -30522,6 +30697,11 @@
 [
 "com.playz.tv",
 "GinDoki19",
+"Pin favourite categories to the top"
+],
+[
+"com.playz.tv",
+"GinDoki19",
 "Remove ads, popups & restrictions"
 ],
 [
@@ -30653,6 +30833,11 @@
 "com.pro.cricztv",
 "GinDoki19",
 "Improve Android TV playback controls"
+],
+[
+"com.pro.cricztv",
+"GinDoki19",
+"Pin favourite categories to the top"
 ],
 [
 "com.pro.cricztv",
@@ -30823,6 +31008,11 @@
 "com.qidian.Int.reader",
 "Solo",
 "Hide ads"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
+"Hide blocked authors' books"
 ],
 [
 "com.qidian.Int.reader",
@@ -32563,6 +32753,11 @@
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Open Reddit image links in Boost"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Permanently disable NSFW"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -36653,6 +36848,21 @@
 "com.subtlesignals.gradientweather",
 "Mwbra130",
 "Enable Premium"
+],
+[
+"com.sunnysidesoft.VirtualTablet.lite",
+"Ra1nify",
+"Alert"
+],
+[
+"com.sunnysidesoft.VirtualTablet.lite",
+"Ra1nify",
+"Lifetime Pro"
+],
+[
+"com.sunnysidesoft.VirtualTablet.lite",
+"Ra1nify",
+"Logs"
 ],
 [
 "com.superchinese",
@@ -42800,6 +43010,16 @@
 "Vita Mahjong Restore Purchases"
 ],
 [
+"com.vitotechnology.SolarWalk2Free",
+"Xtra",
+"Remove Ads"
+],
+[
+"com.vitotechnology.SolarWalk2Free",
+"Xtra",
+"Unlock Premium"
+],
+[
 "com.vk.im",
 "Hexberk",
 "Bypass security and package checks"
@@ -47860,6 +48080,16 @@
 "Trust user certificates"
 ],
 [
+"com.zhiliaoapp.musically.go",
+"Jair1c TikTok",
+"Hide feed ads"
+],
+[
+"com.zhiliaoapp.musically.go",
+"Jair1c TikTok",
+"Prefer clean source for video downloads"
+],
+[
 "com.zing.zalo",
 "ElectroHeavenVN",
 "Clone app"
@@ -52060,6 +52290,11 @@
 "Unlock premium"
 ],
 [
+"mega.privacy.android.app",
+"Sqzass",
+"Unlock Pro"
+],
+[
 "mk.neptun.neptunapp",
 "CallMeBeyonder",
 "Bypass integrity checks"
@@ -52102,6 +52337,11 @@
 [
 "ml.docilealligator.infinityforreddit.plus",
 "Patcheddit",
+"Permanently disable NSFW"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
+"Patcheddit",
 "Reddit API fixes"
 ],
 [
@@ -52138,6 +52378,11 @@
 "ml.docilealligator.infinityforreddit.plus2",
 "Patcheddit",
 "Modify login WebView"
+],
+[
+"ml.docilealligator.infinityforreddit.plus2",
+"Patcheddit",
+"Permanently disable NSFW"
 ],
 [
 "ml.docilealligator.infinityforreddit.plus2",
@@ -53873,6 +54118,11 @@
 "o.o.joey",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"o.o.joey",
+"Patcheddit",
+"Permanently disable NSFW"
 ],
 [
 "o.o.joey",
@@ -56362,6 +56612,11 @@
 [
 "org.videolan.vlc",
 "Sabbirexist",
+"PiP & Popup media controls"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
 "Raise network cache"
 ],
 [
@@ -57032,6 +57287,11 @@
 [
 "reddit.news",
 "DrBushyTop",
+"Restore random subreddits"
+],
+[
+"reddit.news",
+"DrBushyTop",
 "Show comment images inline"
 ],
 [
@@ -57073,6 +57333,11 @@
 "reddit.news",
 "Patcheddit",
 "Log exceptions"
+],
+[
+"reddit.news",
+"Patcheddit",
+"Permanently disable NSFW"
 ],
 [
 "reddit.news",
