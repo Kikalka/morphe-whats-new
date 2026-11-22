@@ -2,6 +2,11 @@
 [
 "__universal__",
 "AJcubes",
+"GmsCore support (MicroG)"
+],
+[
+"__universal__",
+"AJcubes",
 "Provide Original app certificate"
 ],
 [
@@ -1353,6 +1358,11 @@
 "bin.mt.plus",
 "MightyMich",
 "Unlock Premium (Experimental)"
+],
+[
+"bin.mt.plus",
+"Xtra",
+"Unlock VIP"
 ],
 [
 "bitpit.launcher",
@@ -3485,6 +3495,11 @@
 "Luna Low Latency Codecs"
 ],
 [
+"com.amberit.dialer",
+"Sabbirdj",
+"Disable location gate"
+],
+[
 "com.amcplus.amcfullepisodes",
 "Semicoloncolonel",
 "Block analytics & tracking"
@@ -3737,6 +3752,11 @@
 [
 "com.andrewshu.android.reddit",
 "MojiRS",
+"Explain processing videos"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
 "Fix YouTube videos"
 ],
 [
@@ -3753,6 +3773,11 @@
 "com.andrewshu.android.reddit",
 "MojiRS",
 "Fix history import"
+],
+[
+"com.andrewshu.android.reddit",
+"MojiRS",
+"Fix random subreddit"
 ],
 [
 "com.andrewshu.android.reddit",
@@ -3823,6 +3848,11 @@
 "com.andrewshu.android.reddit",
 "Patcheddit",
 "Fix comment video links"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Fix embedded YouTube playback"
 ],
 [
 "com.andrewshu.android.reddit",
@@ -5045,6 +5075,61 @@
 "Allow custom Android Auto hosts"
 ],
 [
+"com.aspiro.tidal",
+"Ninocss",
+"Expressive Material 3 albums, artists & my tracks"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Expressive Material 3 bottom sheets & menus"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Expressive Material 3 homepage"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Expressive Material 3 playlist screen"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Expressive Material 3 search"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Linn Majik DSM Wi-Fi playback"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Material 3 Expressive full player"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Material 3 Expressive navbar & mini-player"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Material You dynamic theme"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"System Light & Dark theme"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Track swipe gestures"
+],
+[
 "com.astech.forscanlite",
 "Mwbra130",
 "Enable license"
@@ -5812,6 +5897,11 @@
 [
 "com.bereal.ft",
 "Hxreborn",
+"Custom BeFake header"
+],
+[
+"com.bereal.ft",
+"Hxreborn",
 "Custom location"
 ],
 [
@@ -6200,6 +6290,21 @@
 "Unlock developer options"
 ],
 [
+"com.blackpanther.ninjaarashi",
+"byehi98",
+"Free Ad Rewards"
+],
+[
+"com.blackpanther.ninjaarashi",
+"byehi98",
+"Free In-App Purchases"
+],
+[
+"com.blackpanther.ninjaarashi",
+"byehi98",
+"Remove Ads"
+],
+[
 "com.bleacherreport.android.teamstream",
 "Heval",
 "Disable ads"
@@ -6433,6 +6538,131 @@
 "com.bongo.bongobdandroidtv",
 "Media",
 "Free content"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Allow screenshots"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Block tracking"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Check crossed-out prices"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Compare prices"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Disable start-up promotions"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Disable update and rating prompts"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Follow system theme"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"GmsCore support"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Hide insurance offers"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Hide sponsored listings"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Hide upsells"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Hide urgency messages"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Hotel contact"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Label Preferred properties"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Newest reviews first"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Open links in browser"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Price watch"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Recent rating"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Remember result sort"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Remove microphone access"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Remove unneeded permissions"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Review check"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Show full price up front"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Show price per night"
+],
+[
+"com.booking",
+"JoFSlash Booking",
+"Stays only"
 ],
 [
 "com.bootiq2.gtsisic",
@@ -7468,6 +7698,41 @@
 "com.canaldigital.go",
 "Heval",
 "Disable telemetry"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 Ditu",
+"Block app Firebase custom events"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 Ditu",
+"Block client-side VOD ads"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 Ditu",
+"Block client-side live prerolls"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 Ditu",
+"Block remote startup video"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 Ditu",
+"Bypass forced update"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 Ditu",
+"Hide player campaign banners"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 Ditu",
+"Remove advertising ID permissions"
 ],
 [
 "com.cardfeed.video_public",
@@ -11647,12 +11912,22 @@
 [
 "com.dubox.drive",
 "Hxreborn",
+"Download generated files"
+],
+[
+"com.dubox.drive",
+"Hxreborn",
 "Fix Google login"
 ],
 [
 "com.dubox.drive",
 "Hxreborn",
 "Fix transfers over VPN"
+],
+[
+"com.dubox.drive",
+"Hxreborn",
+"GmsCore support"
 ],
 [
 "com.dubox.drive",
@@ -14485,6 +14760,51 @@
 "Hungry Shark Installer Source Fix"
 ],
 [
+"com.fictionpress.fanfiction",
+"Saigauthamr",
+"Cache images"
+],
+[
+"com.fictionpress.fanfiction",
+"Saigauthamr",
+"Disable Firebase telemetry"
+],
+[
+"com.fictionpress.fanfiction",
+"Saigauthamr",
+"Enable debug logging"
+],
+[
+"com.fictionpress.fanfiction",
+"Saigauthamr",
+"Favorites letter filter"
+],
+[
+"com.fictionpress.fanfiction",
+"Saigauthamr",
+"Merge duplicate requests"
+],
+[
+"com.fictionpress.fanfiction",
+"Saigauthamr",
+"Network timeout"
+],
+[
+"com.fictionpress.fanfiction",
+"Saigauthamr",
+"Remove ad tracking permissions"
+],
+[
+"com.fictionpress.fanfiction",
+"Saigauthamr",
+"Test build branding"
+],
+[
+"com.fictionpress.fanfiction",
+"Saigauthamr",
+"Throttle sync"
+],
+[
 "com.fillobotto.mp3tagger",
 "Hxreborn",
 "Unlock premium"
@@ -15270,6 +15590,16 @@
 "Hide shortcut promotions"
 ],
 [
+"com.gajihub.app",
+"Plyrs1",
+"Bypass Mock Location"
+],
+[
+"com.gajihub.app",
+"Plyrs1",
+"Disable Telemetry"
+],
+[
 "com.garnesapps.strukpom",
 "Plyrs1",
 "Disable Startup Permissions"
@@ -15803,6 +16133,21 @@
 "com.google.android.GoogleCameraEng",
 "Kekimurus",
 "Video Boost startup state"
+],
+[
+"com.google.android.apps.authenticator2",
+"OmarBrbutovic",
+"Account organizer"
+],
+[
+"com.google.android.apps.authenticator2",
+"OmarBrbutovic",
+"Custom branding"
+],
+[
+"com.google.android.apps.authenticator2",
+"OmarBrbutovic",
+"GmsCore support"
 ],
 [
 "com.google.android.apps.bard",
@@ -16342,6 +16687,11 @@
 [
 "com.google.android.apps.maps",
 "JohnInNL",
+"Android Auto options"
+],
+[
+"com.google.android.apps.maps",
+"JohnInNL",
 "Any media app"
 ],
 [
@@ -16808,6 +17158,16 @@
 "com.google.android.apps.youtube.music",
 "Bartlomiejfornalczyk",
 "Allow external media browser launch"
+],
+[
+"com.google.android.apps.youtube.music",
+"DiminDDL",
+"Auto-skip russian tracks"
+],
+[
+"com.google.android.apps.youtube.music",
+"DiminDDL",
+"Playback metadata probe"
 ],
 [
 "com.google.android.apps.youtube.music",
@@ -17373,6 +17733,16 @@
 "com.google.android.dialer",
 "Balu100",
 "Handle rejected DroidGuard connection"
+],
+[
+"com.google.android.dialer",
+"Gagan-Pratap-S",
+"AMOLED Dark Theme"
+],
+[
+"com.google.android.dialer",
+"Gagan-Pratap-S",
+"Clone Dialer Package"
 ],
 [
 "com.google.android.dialer",
@@ -18093,6 +18463,176 @@
 "com.google.android.inputmethod.latin",
 "Mlkem",
 "Disable Gboard floating and one-handed modes"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"AI Writing Tools"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Access Points menu style"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Add Gboard Signature Bypass"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Advanced Voice Typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Backup & Restore"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Change emoji size"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Clipboard Custom Character Limit"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Clipboard Enhancements"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Close Proactive Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Custom Symbols"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Custom Theme"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Developer options"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Dictionaries & Predictions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Emojis, stickers & GIFs Tab Order"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Enable Inline Autofill Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Enable split keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Floating Web Search"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Frosted Glass"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Grammar Checker"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Incognito Mode Toggle"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Inline Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Key Shape Selection"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Keypress Vibration Intensity Control"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Long-Press Editing Shortcuts"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Package Rename"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Quick Insert"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Rounded Keyboard Panel"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Samsung Spacebar Gestures"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Settings Homepage Override"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Simple Calculator"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Swipe Down to Dismiss Keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Toolbar Editing Buttons"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Top Toolbar Item Count"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Use Bluetooth Microphone"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -18873,6 +19413,41 @@
 "com.halfbrick.dantheman",
 "byehi98",
 "Native IAP Patch"
+],
+[
+"com.halfbrick.fruitninja",
+"Patapon888",
+"Disable debug logging"
+],
+[
+"com.halfbrick.fruitninja",
+"Patapon888",
+"Disable tracking"
+],
+[
+"com.halfbrick.fruitninja",
+"Patapon888",
+"Loop events"
+],
+[
+"com.halfbrick.fruitninja",
+"Patapon888",
+"Offline mode"
+],
+[
+"com.halfbrick.fruitninja",
+"Patapon888",
+"Remove Halfbrick+ check"
+],
+[
+"com.halfbrick.fruitninja",
+"Patapon888",
+"Remove rating prompts"
+],
+[
+"com.halfbrick.fruitninja",
+"Patapon888",
+"Skip startup video"
 ],
 [
 "com.halfbrick.fruitninjafree",
@@ -19722,6 +20297,11 @@
 [
 "com.indymobileapp.document.scanner",
 "SailHighSea",
+"Disable popups"
+],
+[
+"com.indymobileapp.document.scanner",
+"SailHighSea",
 "Local auto backup"
 ],
 [
@@ -20557,6 +21137,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Keep the tab bar on reel links"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Keep your place in Home"
 ],
 [
@@ -20648,6 +21233,11 @@
 "com.instagram.android",
 "HushGram",
 "Record calls"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Reels on Home below the name"
 ],
 [
 "com.instagram.android",
@@ -22052,7 +22642,17 @@
 [
 "com.instaprime.android",
 "Wagg13Patch",
+"Disable update check"
+],
+[
+"com.instaprime.android",
+"Wagg13Patch",
 "Enable Premium"
+],
+[
+"com.instaprime.android",
+"Wagg13Patch",
+"InstaPrime v8 full mod (beta 2)"
 ],
 [
 "com.instructure.candroid",
@@ -22107,6 +22707,31 @@
 [
 "com.internet.speed.meter.lite",
 "Hxreborn",
+"Unlock premium"
+],
+[
+"com.intsig.camscanner",
+"Dyno0311",
+"Hide piracy warning"
+],
+[
+"com.intsig.camscanner",
+"Dyno0311",
+"Remove PDF watermark"
+],
+[
+"com.intsig.camscanner",
+"Dyno0311",
+"Remove ads"
+],
+[
+"com.intsig.camscanner",
+"Dyno0311",
+"Spoof app signature"
+],
+[
+"com.intsig.camscanner",
+"Dyno0311",
 "Unlock premium"
 ],
 [
@@ -23155,6 +23780,16 @@
 "Unlimited coins and keys"
 ],
 [
+"com.kimkim",
+"Kakazaro",
+"Always free plan (skip subscription check)"
+],
+[
+"com.kimkim",
+"Kakazaro",
+"Settings-only in-app updates"
+],
+[
 "com.king.blossomblast",
 "Hxreborn",
 "Add boosters"
@@ -23813,6 +24448,11 @@
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
 "Fix broken markdown links"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Fix embedded YouTube playback"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -27047,12 +27687,37 @@
 [
 "com.mygate.user",
 "Tokudai-vs",
+"Clean up Settings page"
+],
+[
+"com.mygate.user",
+"Tokudai-vs",
+"GmsCore support"
+],
+[
+"com.mygate.user",
+"Tokudai-vs",
+"Hide bottom navigation bar"
+],
+[
+"com.mygate.user",
+"Tokudai-vs",
 "MyGate GmsCore support"
 ],
 [
 "com.mygate.user",
 "Tokudai-vs",
 "MyGate ad-free & UI cleanup"
+],
+[
+"com.mygate.user",
+"Tokudai-vs",
+"Remove ads"
+],
+[
+"com.mygate.user",
+"Tokudai-vs",
+"Remove home screen bloat"
 ],
 [
 "com.mygate.user",
@@ -27727,6 +28392,11 @@
 [
 "com.newstargames.newstarsoccer",
 "Rimixyz",
+"Convert IAP items to Star Bux"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
 "Disable Firebase Analytics"
 ],
 [
@@ -27742,7 +28412,32 @@
 [
 "com.newstargames.newstarsoccer",
 "Rimixyz",
+"Disable Google Play Games"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Disable remote config and cloud overrides"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Disable retention notifications"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Enhanced replays and MP4/GIF export"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
 "Fix text input backspace"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Hide Games we like button"
 ],
 [
 "com.newstargames.newstarsoccer",
@@ -27758,6 +28453,16 @@
 "com.newstargames.newstarsoccer",
 "Rimixyz",
 "Restrict advertising ID"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Retro season selector"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Save backup and restore"
 ],
 [
 "com.newstargames.newstarsoccer",
@@ -28238,6 +28943,16 @@
 "com.nononsenseapps.feeder",
 "Pengusto",
 "Zoom article images"
+],
+[
+"com.noodlecake.altosadventure",
+"byehi98",
+"Unlimited Coins"
+],
+[
+"com.noodlecake.altosodyssey",
+"byehi98",
+"Unlimited Coins"
 ],
 [
 "com.nordiskfilmplus.android",
@@ -30677,6 +31392,11 @@
 [
 "com.playfy.tv",
 "GinDoki19",
+"Pin favourite categories to the top"
+],
+[
+"com.playfy.tv",
+"GinDoki19",
 "Remove ads, telemetry & restrictions"
 ],
 [
@@ -31063,6 +31783,11 @@
 "com.qtrun.QuickTest",
 "Jzl1",
 "Unlock Ultimate"
+],
+[
+"com.quackify.app",
+"Tomi38",
+"Spotify branding"
 ],
 [
 "com.quickcursor",
@@ -31780,6 +32505,31 @@
 "Bypass session expiry"
 ],
 [
+"com.realme.link",
+"Rafaello0",
+"AMOLED dark theme"
+],
+[
+"com.realme.link",
+"Rafaello0",
+"Bypass session expiry"
+],
+[
+"com.realme.link",
+"Rafaello0",
+"Clean home screen"
+],
+[
+"com.realme.link",
+"Rafaello0",
+"Remember game mode"
+],
+[
+"com.realme.link",
+"Rafaello0",
+"Remember noise control mode"
+],
+[
 "com.rebelbinary.onlyone",
 "byehi98",
 "Only One PairIP removal"
@@ -31827,7 +32577,22 @@
 [
 "com.reddit.frontpage",
 "Bin0culars",
+"Always show Hide"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
+"AutoModerator comments"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
 "Content-type filter"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
+"Download all from gallery"
 ],
 [
 "com.reddit.frontpage",
@@ -31837,7 +32602,17 @@
 [
 "com.reddit.frontpage",
 "Bin0culars",
+"Full-screen reply"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
 "Global content filter"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
+"Home feed tabs"
 ],
 [
 "com.reddit.frontpage",
@@ -31853,6 +32628,11 @@
 "com.reddit.frontpage",
 "Bin0culars",
 "Share post content"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
+"Swipe up for comments"
 ],
 [
 "com.reddit.frontpage",
@@ -33815,6 +34595,16 @@
 "Enable non-One UI ROM support"
 ],
 [
+"com.samsung.android.oneconnect",
+"NeoKushan",
+"Allow install on Samsung phones"
+],
+[
+"com.samsung.android.oneconnect",
+"NeoKushan",
+"LocalThings Owner PSK in device settings"
+],
+[
 "com.samsung.android.shealthmonitor",
 "Bearinmind",
 "Enable non-One UI ROM support"
@@ -33893,6 +34683,86 @@
 "com.sbs.diet",
 "CallMeBeyonder",
 "Unlock Premium (Root)"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: automatic intro and recap skipping"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: binge-watching preset"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: bounded VOD buffer recovery"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: clean paused picture"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: controls timeout"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: correct intro and recap seeking"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: custom seek intervals"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: customize subtitles"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: external direct-stream player"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: local playback diagnostics"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: next episode countdown"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: persistent VOD playback speed"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: reduce telemetry"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: remember video quality"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Experimental: uninterrupted watching"
+],
+[
+"com.sbs.ondemand.android",
+"Supperelias2 SBS",
+"Morphe settings"
 ],
 [
 "com.sbs.ondemand.android",
@@ -35191,6 +36061,51 @@
 ],
 [
 "com.spotify.music",
+"Mike20242",
+"Clean sharing links"
+],
+[
+"com.spotify.music",
+"Mike20242",
+"Hide Home and Browse ads"
+],
+[
+"com.spotify.music",
+"Mike20242",
+"Hide Premium tab"
+],
+[
+"com.spotify.music",
+"Mike20242",
+"Hide player ad cards"
+],
+[
+"com.spotify.music",
+"Mike20242",
+"Local files from a server"
+],
+[
+"com.spotify.music",
+"Mike20242",
+"MicroG-RE support"
+],
+[
+"com.spotify.music",
+"Mike20242",
+"Pin shortcuts on Home"
+],
+[
+"com.spotify.music",
+"Mike20242",
+"Spicetify extensions"
+],
+[
+"com.spotify.music",
+"Mike20242",
+"Theme colors"
+],
+[
+"com.spotify.music",
 "Mormislaw",
 "DHU adapter"
 ],
@@ -35313,6 +36228,11 @@
 "com.spotify.music",
 "Spicetify",
 "Theme colors"
+],
+[
+"com.spotify.music",
+"Sujaan13",
+"Now Playing scroll lock"
 ],
 [
 "com.spotify.music",
@@ -36415,6 +37335,11 @@
 "Bypass signature check"
 ],
 [
+"com.stealthcopter.portdroid",
+"Sqzass",
+"Unlock Pro"
+],
+[
 "com.steinberg.cubasisle3",
 "Hxreborn",
 "Disable telemetry"
@@ -36888,6 +37813,11 @@
 "com.supportware.Buienradar",
 "JohnInNL",
 "Hide ads"
+],
+[
+"com.supportware.Buienradar",
+"JohnInNL",
+"Hide update prompt"
 ],
 [
 "com.supportware.Buienradar",
@@ -38393,6 +39323,71 @@
 "com.tiktok.lite.go",
 "Kveld9 Brave",
 "Strip Sensitive Permissions"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Debug search logging"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Enable search landing recommendations"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Fix TikTok TV identity"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Fix TikTok TV profiles"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Nested comment replies"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Play in background"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Playback speed"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Remove TV sidebar categories"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Remove feed ads"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Render Lite image posts"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Render Lite subtitles"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Show TikTok Lite content"
+],
+[
+"com.tiktok.tv",
+"Dzungtvd",
+"Translate comments and captions"
 ],
 [
 "com.tinder",
@@ -41346,6 +42341,11 @@
 ],
 [
 "com.twitter.android",
+"Ryuya0124 X",
+"X video upload up to 60 FPS"
+],
+[
+"com.twitter.android",
 "Serajr",
 "Desativar Blur do X"
 ],
@@ -41953,6 +42953,46 @@
 "com.univision.prendetv",
 "Android TV",
 "Log player URLs (debug)"
+],
+[
+"com.univision.prendetv",
+"Stivencop414 ViX",
+"Allow screenshots and screen recording"
+],
+[
+"com.univision.prendetv",
+"Stivencop414 ViX",
+"Auto-skip server-side ads"
+],
+[
+"com.univision.prendetv",
+"Stivencop414 ViX",
+"Block player ads"
+],
+[
+"com.univision.prendetv",
+"Stivencop414 ViX",
+"Bypass OneTrust consent delay"
+],
+[
+"com.univision.prendetv",
+"Stivencop414 ViX",
+"Bypass forced app update"
+],
+[
+"com.univision.prendetv",
+"Stivencop414 ViX",
+"Disable telemetry and tracking"
+],
+[
+"com.univision.prendetv",
+"Stivencop414 ViX",
+"Hide promotional popups"
+],
+[
+"com.univision.prendetv",
+"Stivencop414 ViX",
+"Unlock Developer Tools"
 ],
 [
 "com.unknownprojectx.pi",
@@ -42713,6 +43753,16 @@
 "com.vblast.flipaclip",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.vbook.android",
+"HaoDH",
+"Local Premium state"
+],
+[
+"com.vbook.android",
+"HaoDH",
+"Local installer test"
 ],
 [
 "com.vectorunit.purple.googleplay",
@@ -44232,6 +45282,11 @@
 [
 "com.waze",
 "Forsigh",
+"No usage stats"
+],
+[
+"com.waze",
+"Forsigh",
 "OLED dark mode"
 ],
 [
@@ -44248,6 +45303,11 @@
 "com.waze",
 "Forsigh",
 "Remove ads"
+],
+[
+"com.waze",
+"Forsigh",
+"Remove telemetry"
 ],
 [
 "com.waze",
@@ -46437,6 +47497,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Smaller text sizes"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Split activity list"
 ],
 [
@@ -46483,6 +47548,16 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Turn off screen transitions"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Turn profiles and comment pictures on tablets"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"UI scale"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -48350,6 +49425,261 @@
 "Suppress outbound seen status"
 ],
 [
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Bundle controls toggle"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Charcoal dark mode"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Customize header"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Customize home shortcuts"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Bachat Bazaar shortcut"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Bundles bottom tab"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Home SMS card"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Home loan button"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Home recharge button"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Home tariff line"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Make Your Own Bundle shortcut"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide More bottom tab"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Online Recharge section"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Scratch Card section"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Usage bottom tab"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide WhatsApp channel dialog"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Z Play bottom tab"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide Zong4U shortcut"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide bottom navigation"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide bottom navigation labels"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide bundle browsing promotions"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide drawer support and promotional links"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide floating chatbot and dialog"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home 5G shortcuts"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home Z Wallet"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home active-offer counts"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home family sharing"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home match card"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home prayer card"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home promotions"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home regional and city offers"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home shortcuts card"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home step counter"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home streak cards"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide home weather strip"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide online recharge promotions"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide usage promotions"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hide usage top banner"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Hold startup until Home settles"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Home header Bundles shortcut"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Home header Free MBs shortcut"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Home header loan shortcut"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Left align header titles"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Material allowance icons"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Material shapes"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Material usage favorite star"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Show Home header title"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Skip animated startup intro"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Skip daily reward ad"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Space home sections"
+],
+[
+"com.zong.customercare",
+"FarhanZafarr-9",
+"Start on Usage"
+],
+[
 "com.ztnstudio.notepad",
 "Heval",
 "Disable ads"
@@ -48892,12 +50222,32 @@
 [
 "deezer.android.app",
 "JohnInNL",
+"Android Auto API 9 media surface"
+],
+[
+"deezer.android.app",
+"JohnInNL",
 "Disable tracking"
 ],
 [
 "deezer.android.app",
 "JohnInNL",
 "Enable full streaming"
+],
+[
+"deezer.android.app",
+"JohnInNL",
+"Enable queue item selection"
+],
+[
+"deezer.android.app",
+"JohnInNL",
+"Google sign-in through microG-RE"
+],
+[
+"deezer.android.app",
+"JohnInNL",
+"Player queue shortcuts"
 ],
 [
 "deezer.android.app",
@@ -48913,6 +50263,11 @@
 "deezer.android.app",
 "JohnInNL",
 "Remove subscription paywalls"
+],
+[
+"deezer.android.app",
+"JohnInNL",
+"Search and sort playlists"
 ],
 [
 "deezer.android.app",
@@ -49453,6 +50808,51 @@
 "eu.livesport.FlashScore_com",
 "Heval",
 "Use system font (styles)"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Disable AppsFlyer attribution in MyTherapy"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Disable Firebase Analytics in MyTherapy"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Disable PairIP license check in MyTherapy"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Disable Sentry diagnostics in MyTherapy"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Disable common ads in MyTherapy"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Local backup and restore"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Require explicit analytics consent in MyTherapy"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Restrict advertising ID in MyTherapy"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Unlock Plus benefits in MyTherapy"
 ],
 [
 "fi.twomenandadog.zombiecatchers",
@@ -50177,6 +51577,11 @@
 [
 "in.startv.hotstar",
 "Vippium",
+"Disable notification permission prompt"
+],
+[
+"in.startv.hotstar",
+"Vippium",
 "Enable all codecs"
 ],
 [
@@ -50605,6 +52010,51 @@
 "Unlock Telegraph Premium"
 ],
 [
+"ir.p2021.telegraph",
+"Finn013",
+"Block Graph servers"
+],
+[
+"ir.p2021.telegraph",
+"Finn013",
+"Change package name"
+],
+[
+"ir.p2021.telegraph",
+"Finn013",
+"Disable analytics"
+],
+[
+"ir.p2021.telegraph",
+"Finn013",
+"Disable signature check"
+],
+[
+"ir.p2021.telegraph",
+"Finn013",
+"Graff branding"
+],
+[
+"ir.p2021.telegraph",
+"Finn013",
+"Raccoon intro"
+],
+[
+"ir.p2021.telegraph",
+"Finn013",
+"Remove P2021 dialogs"
+],
+[
+"ir.p2021.telegraph",
+"Finn013",
+"Remove ads"
+],
+[
+"ir.p2021.telegraph",
+"Finn013",
+"Remove forced update"
+],
+[
 "it.mediaset.infinitytv",
 "Android TV",
 "Skip ads"
@@ -50758,6 +52208,11 @@
 "jp.co.airfront.android.a2chMate",
 "Haiagaru",
 "\u753b\u50cf\u53d6\u5f97\u5c02\u7528VPN\uff08\u5b9f\u9a13\u7528\u30fb\u691c\u8a3c\u4e2d\uff09"
+],
+[
+"jp.co.airfront.android.a2chMate",
+"rikunode",
+"ChMate UA Spoof"
 ],
 [
 "jp.co.canon.ic.cameraconnect",
@@ -51792,6 +53247,11 @@
 [
 "jp.naver.line.android",
 "Uta-a Linimal",
+"Custom font"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
 "Disable chat preview"
 ],
 [
@@ -51808,6 +53268,11 @@
 "jp.naver.line.android",
 "Uta-a Linimal",
 "Group readers"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Hide OpenChat ads"
 ],
 [
 "jp.naver.line.android",
@@ -51933,6 +53398,11 @@
 "jp.naver.line.android",
 "Uta-a Linimal",
 "Open links in external browser"
+],
+[
+"jp.naver.line.android",
+"Uta-a Linimal",
+"Own font provider certificate"
 ],
 [
 "jp.naver.line.android",
@@ -53350,6 +54820,16 @@
 "MicroG integration"
 ],
 [
+"net.tinywhale.remote",
+"DanielTheManiel",
+"Client-Side Premium"
+],
+[
+"net.tinywhale.remote",
+"DanielTheManiel",
+"Google Login Fix (microG-RE)"
+],
+[
 "net.wowsoftware.hidemyemulator",
 "Arsylk",
 "Unlock premium"
@@ -53767,7 +55247,17 @@
 [
 "nl.rtl.videoland.v2",
 "JohnInNL",
+"Disable tracking (Android - v119.2)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
 "Disable tracking (Android TV - v118)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Disable tracking (Android TV - v119.2)"
 ],
 [
 "nl.rtl.videoland.v2",
@@ -53782,7 +55272,17 @@
 [
 "nl.rtl.videoland.v2",
 "JohnInNL",
+"Hide ads (Android - v119.2)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
 "Hide ads (Android TV - v118)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Hide ads (Android TV - v119.2)"
 ],
 [
 "nl.rtl.videoland.v2",
@@ -53797,12 +55297,32 @@
 [
 "nl.rtl.videoland.v2",
 "JohnInNL",
+"Hide unavailable content (Android TV - v119.2)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Remember last profile (experimental) (Android - v119.2)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Remember last profile (experimental) (Android TV - v119.2)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
 "Skip consent screens"
 ],
 [
 "nl.rtl.videoland.v2",
 "JohnInNL",
 "Skip consent screens (Android - v116.4)"
+],
+[
+"nl.rtl.videoland.v2",
+"JohnInNL",
+"Skip consent screens (Android - v119.2)"
 ],
 [
 "nl.rtl.videoland.v2",
@@ -54498,6 +56018,16 @@
 "org.mozilla.fennec_fdroid",
 "JohnInNL",
 "Custom branding"
+],
+[
+"org.mozilla.firefox",
+"Dusk-Beep",
+"DNS filter"
+],
+[
+"org.mozilla.firefox",
+"Dusk-Beep",
+"Protect LeechBlock NG"
 ],
 [
 "org.mozilla.firefox",
