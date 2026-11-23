@@ -1,20 +1,4 @@
 {
- "[\"__universal__\", \"Ineednotitle\", \"Change package name (clone app)\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"__universal__\", \"Ineednotitle\", \"Force not debuggable\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"__universal__\", \"Ineednotitle\", \"Lock down exported components\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"__universal__\", \"Ineednotitle\", \"Spoof app signature\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"__universal__\", \"Ineednotitle\", \"Spoof install source\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"__universal__\", \"Ineednotitle\", \"WebView: block mixed content (HTTPS pages load HTTP subresources)\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"__universal__\", \"Ineednotitle\", \"WebView: disable local file access\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"__universal__\", \"Ineednotitle\", \"WebView: remove JavaScript interface objects\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"ca.walmart.ecommerceapp\", \"Mlkem\", \"Aeroplan shopping for Walmart Canada\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"com.oplus.keyboard\", \"Ra1nify\", \"Alert\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"com.oplus.keyboard\", \"Ra1nify\", \"Bypass Stock Limit\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"com.oplus.keyboard\", \"Ra1nify\", \"Change Identity\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"com.oplus.keyboard\", \"Ra1nify\", \"Enable Inline Autofill\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"tv.danmaku.bili\", \"Ra1nify\", \"Alert\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"tv.danmaku.bili\", \"Ra1nify\", \"Bypass\"]": "2026-11-22T02:01:36.444504+00:00",
- "[\"tv.danmaku.bili\", \"Ra1nify\", \"No Limit\"]": "2026-11-22T02:01:36.444504+00:00",
  "[\"__universal__\", \"DanielTheManiel\", \"Memory editor\"]": "2026-11-22T17:43:58.991728+00:00",
  "[\"__universal__\", \"Kveld9\", \"AMOLED Theme (Universal)\"]": "2026-11-22T17:43:58.991728+00:00",
  "[\"__universal__\", \"Kveld9\", \"Skip Consent Dialog (Universal)\"]": "2026-11-22T17:43:58.991728+00:00",
@@ -33,5 +17,6 @@
  "[\"net.prototux.aare\", \"Pirrotto\", \"Settings\"]": "2026-11-22T17:43:58.991728+00:00",
  "[\"net.prototux.aare\", \"Pirrotto\", \"Tunnel navigation\"]": "2026-11-22T17:43:58.991728+00:00",
  "[\"net.prototux.aare\", \"Pirrotto\", \"Voice messages\"]": "2026-11-22T17:43:58.991728+00:00",
- "[\"net.prototux.aare\", \"Pirrotto\", \"Voice reply\"]": "2026-11-22T17:43:58.991728+00:00"
+ "[\"net.prototux.aare\", \"Pirrotto\", \"Voice reply\"]": "2026-11-22T17:43:58.991728+00:00",
+ "[\"com.ngoctieucac.itruyenchu\", \"CozyCode890\", \"Tap a line to listen from it\"]": "2026-11-23T02:26:39.160292+00:00"
 }

@@ -26,6 +26,46 @@
 ],
 [
 "__universal__",
+"Ineednotitle",
+"Change package name (clone app)"
+],
+[
+"__universal__",
+"Ineednotitle",
+"Force not debuggable"
+],
+[
+"__universal__",
+"Ineednotitle",
+"Lock down exported components"
+],
+[
+"__universal__",
+"Ineednotitle",
+"Spoof app signature"
+],
+[
+"__universal__",
+"Ineednotitle",
+"Spoof install source"
+],
+[
+"__universal__",
+"Ineednotitle",
+"WebView: block mixed content (HTTPS pages load HTTP subresources)"
+],
+[
+"__universal__",
+"Ineednotitle",
+"WebView: disable local file access"
+],
+[
+"__universal__",
+"Ineednotitle",
+"WebView: remove JavaScript interface objects"
+],
+[
+"__universal__",
 "Kabukabu-A11y",
 "Force TV mode (UiModeManager check)"
 ],
@@ -282,12 +322,22 @@
 [
 "ai.x.grok",
 "XXLC",
+"Ignore Team/Org Imagine lock"
+],
+[
+"ai.x.grok",
+"XXLC",
 "Keep screen on"
 ],
 [
 "ai.x.grok",
 "XXLC",
 "Share file"
+],
+[
+"ai.x.grok",
+"XXLC",
+"Show Imagine tab"
 ],
 [
 "ai.x.grok",
@@ -1381,6 +1431,11 @@
 ],
 [
 "bitpit.launcher",
+"Heval",
+"Raise widget stack limit"
+],
+[
+"bitpit.launcher",
 "Mlkem",
 "Automatic app folders"
 ],
@@ -1443,6 +1498,11 @@
 "ca.cbc.mobile.android.cbcnewsandroidwebview",
 "Ryley",
 "Disable video ads"
+],
+[
+"ca.walmart.ecommerceapp",
+"Mlkem",
+"Aeroplan shopping for Walmart Canada"
 ],
 [
 "ca.walmart.ecommerceapp",
@@ -1988,6 +2048,21 @@
 "co.unstatic.habitify",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"colombia.tv.plus",
+"Stivencop414 ViX",
+"Block startup ads, banners and interstitials"
+],
+[
+"colombia.tv.plus",
+"Stivencop414 ViX",
+"Glass channel grid"
+],
+[
+"colombia.tv.plus",
+"Stivencop414 ViX",
+"Open television on launch"
 ],
 [
 "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp",
@@ -2968,6 +3043,16 @@
 "com.alightcreative.motion",
 "Anxy",
 "Unlock all pro features"
+],
+[
+"com.alightcreative.motion",
+"Sqzass",
+"Unlock premium (core)"
+],
+[
+"com.alightcreative.motion",
+"Sqzass",
+"Unlock premium (membership gates)"
 ],
 [
 "com.allformatplayer.streamvideoplayer",
@@ -4697,6 +4782,16 @@
 [
 "com.apple.android.music",
 "Nich87",
+"Custom font"
+],
+[
+"com.apple.android.music",
+"Nich87",
+"LRCLIB lyrics"
+],
+[
+"com.apple.android.music",
+"Nich87",
 "Library import, export and downloads"
 ],
 [
@@ -6305,6 +6400,21 @@
 "Remove Ads"
 ],
 [
+"com.blackpanther.ninjaarashi2",
+"byehi98",
+"Free Ad Rewards"
+],
+[
+"com.blackpanther.ninjaarashi2",
+"byehi98",
+"Free In-App Purchases"
+],
+[
+"com.blackpanther.ninjaarashi2",
+"byehi98",
+"Remove Ads"
+],
+[
 "com.bleacherreport.android.teamstream",
 "Heval",
 "Disable ads"
@@ -6538,6 +6648,131 @@
 "com.bongo.bongobdandroidtv",
 "Media",
 "Free content"
+],
+[
+"com.booking",
+"JoFSlash",
+"Allow screenshots"
+],
+[
+"com.booking",
+"JoFSlash",
+"Block tracking"
+],
+[
+"com.booking",
+"JoFSlash",
+"Check crossed-out prices"
+],
+[
+"com.booking",
+"JoFSlash",
+"Compare prices"
+],
+[
+"com.booking",
+"JoFSlash",
+"Disable start-up promotions"
+],
+[
+"com.booking",
+"JoFSlash",
+"Disable update and rating prompts"
+],
+[
+"com.booking",
+"JoFSlash",
+"Follow system theme"
+],
+[
+"com.booking",
+"JoFSlash",
+"GmsCore support"
+],
+[
+"com.booking",
+"JoFSlash",
+"Hide insurance offers"
+],
+[
+"com.booking",
+"JoFSlash",
+"Hide sponsored listings"
+],
+[
+"com.booking",
+"JoFSlash",
+"Hide upsells"
+],
+[
+"com.booking",
+"JoFSlash",
+"Hide urgency messages"
+],
+[
+"com.booking",
+"JoFSlash",
+"Hotel contact"
+],
+[
+"com.booking",
+"JoFSlash",
+"Label Preferred properties"
+],
+[
+"com.booking",
+"JoFSlash",
+"Newest reviews first"
+],
+[
+"com.booking",
+"JoFSlash",
+"Open links in browser"
+],
+[
+"com.booking",
+"JoFSlash",
+"Price watch"
+],
+[
+"com.booking",
+"JoFSlash",
+"Recent rating"
+],
+[
+"com.booking",
+"JoFSlash",
+"Remember result sort"
+],
+[
+"com.booking",
+"JoFSlash",
+"Remove microphone access"
+],
+[
+"com.booking",
+"JoFSlash",
+"Remove unneeded permissions"
+],
+[
+"com.booking",
+"JoFSlash",
+"Review check"
+],
+[
+"com.booking",
+"JoFSlash",
+"Show full price up front"
+],
+[
+"com.booking",
+"JoFSlash",
+"Show price per night"
+],
+[
+"com.booking",
+"JoFSlash",
+"Stays only"
 ],
 [
 "com.booking",
@@ -7732,6 +7967,41 @@
 [
 "com.caracol.streaming",
 "Stivencop414 Ditu",
+"Remove advertising ID permissions"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 ViX",
+"Block app Firebase custom events"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 ViX",
+"Block client-side VOD ads"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 ViX",
+"Block client-side live prerolls"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 ViX",
+"Block remote startup video"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 ViX",
+"Bypass forced update"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 ViX",
+"Hide player campaign banners"
+],
+[
+"com.caracol.streaming",
+"Stivencop414 ViX",
 "Remove advertising ID permissions"
 ],
 [
@@ -14846,6 +15116,66 @@
 ],
 [
 "com.fitbit.FitbitMobile",
+"JoFSlash",
+"Allow screenshots"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Black theme"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Clone app"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Disable review prompts"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Disable surveys"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Disable update prompts"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"GmsCore support"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Hide Medical records"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Hide Premium offer sheets"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Hide Shop devices"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Open links in browser"
+],
+[
+"com.fitbit.FitbitMobile",
+"JoFSlash",
+"Spoof installer"
+],
+[
+"com.fitbit.FitbitMobile",
 "JoFSlash Health",
 "Allow screenshots"
 ],
@@ -15597,6 +15927,11 @@
 [
 "com.gajihub.app",
 "Plyrs1",
+"Disable Remote Updates"
+],
+[
+"com.gajihub.app",
+"Plyrs1",
 "Disable Telemetry"
 ],
 [
@@ -15837,6 +16172,11 @@
 [
 "com.glu.android.zombsniper",
 "ComoEstaisAmigos",
+"Disable explosion shake"
+],
+[
+"com.glu.android.zombsniper",
+"ComoEstaisAmigos",
 "Disable friendly fire"
 ],
 [
@@ -15888,6 +16228,11 @@
 "com.glu.android.zombsniper",
 "ComoEstaisAmigos",
 "Stop requests to dead servers"
+],
+[
+"com.glu.android.zombsniper",
+"ComoEstaisAmigos",
+"Unlimited ammo"
 ],
 [
 "com.glu.android.zombsniper",
@@ -17746,6 +18091,11 @@
 ],
 [
 "com.google.android.dialer",
+"Gagan-Pratap-S",
+"Fix Cloned DroidGuard Crash"
+],
+[
+"com.google.android.dialer",
 "HelioFloxZ",
 "Call recording support"
 ],
@@ -18127,6 +18477,16 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Advanced voice typing (NGA)"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Beta features (18.8)"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Change package name"
 ],
 [
@@ -18167,6 +18527,11 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Hidden flags (18.8)"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Incognito Mode Toggle"
 ],
 [
@@ -18188,6 +18553,11 @@
 "com.google.android.inputmethod.latin",
 "JohnInNL",
 "Rambler app context"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Rambler automatic retry (18.8)"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -18222,6 +18592,11 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Rambler toolbar & revert extras (18.8)"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Rambler voice typing"
 ],
 [
@@ -18238,6 +18613,11 @@
 "com.google.android.inputmethod.latin",
 "JohnInNL",
 "Toolbar Editing Buttons"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Use Bluetooth microphone"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -18623,6 +19003,11 @@
 "com.google.android.inputmethod.latin",
 "Nortexnode",
 "Toolbar Editing Buttons"
+],
+[
+"com.google.android.inputmethod.latin",
+"Nortexnode",
+"Toolbar Round Chips"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -28417,6 +28802,16 @@
 [
 "com.newstargames.newstarsoccer",
 "Rimixyz",
+"Disable ads"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
+"Disable analytics and tracking"
+],
+[
+"com.newstargames.newstarsoccer",
+"Rimixyz",
 "Disable remote config and cloud overrides"
 ],
 [
@@ -29943,6 +30338,26 @@
 "com.oplus.camera",
 "Bearinmind",
 "Remove telemetry"
+],
+[
+"com.oplus.keyboard",
+"Ra1nify",
+"Alert"
+],
+[
+"com.oplus.keyboard",
+"Ra1nify",
+"Bypass Stock Limit"
+],
+[
+"com.oplus.keyboard",
+"Ra1nify",
+"Change Identity"
+],
+[
+"com.oplus.keyboard",
+"Ra1nify",
+"Enable Inline Autofill"
 ],
 [
 "com.oplus.screenrecorder",
@@ -31722,6 +32137,11 @@
 [
 "com.qidian.Int.reader",
 "Solo",
+"GIF search providers"
+],
+[
+"com.qidian.Int.reader",
+"Solo",
 "GmsCore support (MicroG)"
 ],
 [
@@ -31847,6 +32267,11 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Bookmarks"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Clean shared links"
 ],
 [
@@ -31942,6 +32367,11 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Filter updates"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Fix device theme"
 ],
 [
@@ -32007,12 +32437,22 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Hide anonymous answers"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Hide ask box"
 ],
 [
 "com.quora.android",
 "JoFSlash",
 "Hide badges"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide comment box"
 ],
 [
 "com.quora.android",
@@ -32028,6 +32468,11 @@
 "com.quora.android",
 "JoFSlash",
 "Hide credentials"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide dismissed questions"
 ],
 [
 "com.quora.android",
@@ -32092,6 +32537,11 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Read aloud"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Reading history"
 ],
 [
@@ -32128,6 +32578,16 @@
 "com.quora.android",
 "JoFSlash",
 "Text size"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Translate button"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Word count"
 ],
 [
 "com.quora.android",
@@ -32583,6 +33043,11 @@
 "com.reddit.frontpage",
 "Bin0culars",
 "AutoModerator comments"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
+"Collapse all comments"
 ],
 [
 "com.reddit.frontpage",
@@ -34603,6 +35068,11 @@
 "com.samsung.android.oneconnect",
 "NeoKushan",
 "LocalThings Owner PSK in device settings"
+],
+[
+"com.samsung.android.oneconnect",
+"NeoKushan",
+"Use web login on Samsung phones"
 ],
 [
 "com.samsung.android.shealthmonitor",
@@ -41776,6 +42246,11 @@
 ],
 [
 "com.twitter.android",
+"Nich87",
+"Spaces local mute"
+],
+[
+"com.twitter.android",
 "Piel-M",
 "Native GIF download"
 ],
@@ -45393,6 +45868,11 @@
 "com.waze",
 "Forsigh",
 "UI AMOLED dark mode"
+],
+[
+"com.waze",
+"Forsigh",
+"UI Themes"
 ],
 [
 "com.waze",
@@ -49162,6 +49642,11 @@
 [
 "com.zhiliaoapp.musically.go",
 "Jair1c TikTok",
+"Open mod settings from profile"
+],
+[
+"com.zhiliaoapp.musically.go",
+"Jair1c TikTok",
 "Prefer clean source for video downloads"
 ],
 [
@@ -50237,6 +50722,16 @@
 [
 "deezer.android.app",
 "JohnInNL",
+"Enable lyrics"
+],
+[
+"deezer.android.app",
+"JohnInNL",
+"Enable offline downloads"
+],
+[
+"deezer.android.app",
+"JohnInNL",
 "Enable queue item selection"
 ],
 [
@@ -50373,6 +50868,11 @@
 "dev.orca.app",
 "Zimza1abim",
 "Orca custom font"
+],
+[
+"dev.orca.app",
+"Zimza1abim",
+"Orca font and bot pictures"
 ],
 [
 "dev.sasikanth.rss.reader",
@@ -50832,6 +51332,16 @@
 [
 "eu.smartpatient.mytherapy",
 "Rimixyz",
+"Disable all ads"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
+"Disable analytics and tracking"
+],
+[
+"eu.smartpatient.mytherapy",
+"Rimixyz",
 "Disable common ads in MyTherapy"
 ],
 [
@@ -51003,6 +51513,31 @@
 "gg.sunday.hamsterescape",
 "Sabrina-Moonlight",
 "Unlock purchases"
+],
+[
+"ginlemon.flowerfree",
+"Heval",
+"Disable telemetry"
+],
+[
+"ginlemon.flowerfree",
+"Heval",
+"Enable Premium"
+],
+[
+"ginlemon.flowerfree",
+"Heval",
+"Fix Galaxy Buds3 Pro widget"
+],
+[
+"ginlemon.flowerfree",
+"Heval",
+"Hide promotions"
+],
+[
+"ginlemon.flowerfree",
+"Heval",
+"Spoof signature"
 ],
 [
 "ginlemon.flowerfree",
@@ -55682,6 +56217,11 @@
 [
 "o.o.joey",
 "ZoomSass",
+"Fix adaptive icon"
+],
+[
+"o.o.joey",
+"ZoomSass",
 "Fix collapsed replies"
 ],
 [
@@ -58152,6 +58692,11 @@
 [
 "org.videolan.vlc",
 "Sabbirexist",
+"Seek & gesture controls"
+],
+[
+"org.videolan.vlc",
+"Sabbirexist",
 "Skip \"What's New\" dialog"
 ],
 [
@@ -60043,6 +60588,21 @@
 "tr.com.nowtv.android",
 "MrRaita",
 "Remove video ads"
+],
+[
+"tv.danmaku.bili",
+"Ra1nify",
+"Alert"
+],
+[
+"tv.danmaku.bili",
+"Ra1nify",
+"Bypass"
+],
+[
+"tv.danmaku.bili",
+"Ra1nify",
+"No Limit"
 ],
 [
 "tv.pluto.android",
