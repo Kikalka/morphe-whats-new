@@ -4047,6 +4047,11 @@
 [
 "com.andrewshu.android.reddit",
 "Patcheddit",
+"Fix random subreddit"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
 "Inline media"
 ],
 [
@@ -4063,6 +4068,11 @@
 "com.andrewshu.android.reddit",
 "Patcheddit",
 "Post to profile"
+],
+[
+"com.andrewshu.android.reddit",
+"Patcheddit",
+"Prefer high refresh rate"
 ],
 [
 "com.andrewshu.android.reddit",
@@ -9303,6 +9313,26 @@
 "com.community.mbox.tv",
 "Hxreborn",
 "All-In-One"
+],
+[
+"com.community.mbox.tv",
+"Hxreborn",
+"Disable update prompts"
+],
+[
+"com.community.mbox.tv",
+"Hxreborn",
+"Fix quality selection"
+],
+[
+"com.community.mbox.tv",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.community.mbox.tv",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.community.oneroom",
@@ -16085,6 +16115,11 @@
 "Disconnect from notification"
 ],
 [
+"com.free.vpn.super.hotspot.open",
+"Sqzass",
+"Unlock Premium"
+],
+[
 "com.frontrow.vlog",
 "Riky",
 "Hide export nags"
@@ -16188,6 +16223,11 @@
 "com.gajihub.app",
 "Plyrs1",
 "Live Tracking Controls"
+],
+[
+"com.gajihub.app",
+"Plyrs1",
+"Persistent Live Tracking"
 ],
 [
 "com.gajihub.app",
@@ -16302,6 +16342,11 @@
 [
 "com.github.android",
 "Amfakh",
+"Download assets"
+],
+[
+"com.github.android",
+"Amfakh",
 "Glass navigation bar"
 ],
 [
@@ -16323,6 +16368,11 @@
 "com.github.android",
 "Amfakh",
 "Navigation bar on the right"
+],
+[
+"com.github.android",
+"Amfakh",
+"Smaller navigation bar"
 ],
 [
 "com.github.android",
@@ -18117,6 +18167,16 @@
 [
 "com.google.android.apps.youtube.music",
 "Southstar21dev",
+"Disable dynamic player color"
+],
+[
+"com.google.android.apps.youtube.music",
+"Southstar21dev",
+"Hide Ask Music button"
+],
+[
+"com.google.android.apps.youtube.music",
+"Southstar21dev",
 "Liquid Glass navigation bar"
 ],
 [
@@ -18583,6 +18643,186 @@
 "com.google.android.inputmethod.latin",
 "Gboard",
 "Toolbar Editing Buttons"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"AI Writing Tools"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Access Points menu style"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Add Gboard Signature Bypass"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Advanced Voice Typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Backup & Restore"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Change emoji size"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Clipboard Custom Character Limit"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Clipboard Enhancements"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Close Proactive Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Custom App Icon"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Custom Symbols"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Custom Theme"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Developer options"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Dictionaries & Predictions"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Emojis, stickers & GIFs Tab Order"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Enable Inline Autofill Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Enable split keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Floating Web Search"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Frosted Glass"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Grammar Checker"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Incognito Mode Toggle"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Inline Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Key Shape Selection"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Keypress Vibration Intensity Control"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Long-Press Editing Shortcuts"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Package Rename"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Quick Insert"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Rounded Keyboard Panel"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Samsung Spacebar Gestures"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Settings Homepage Override"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Simple Calculator"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Swipe Down to Dismiss Keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Toolbar Editing Buttons"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Toolbar Round Chips"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Top Toolbar Item Count"
+],
+[
+"com.google.android.inputmethod.latin",
+"GboardSamsung",
+"Use Bluetooth Microphone"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -21877,6 +22117,11 @@
 [
 "com.instagram.android",
 "HushGram",
+"Hide reels you've seen"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Hide rows in Instagram's settings"
 ],
 [
@@ -22423,6 +22668,11 @@
 "com.instagram.android",
 "HushGram",
 "Story ring size"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Story rings on saved posts"
 ],
 [
 "com.instagram.android",
@@ -25517,6 +25767,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
+"Fix comment video links"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
 "Fix embedded YouTube playback"
 ],
 [
@@ -25532,6 +25787,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
+"Fix random subreddit"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
 "Fix swipe back transparency"
 ],
 [
@@ -25543,6 +25803,11 @@
 "com.laurencedawson.reddit_sync",
 "Patcheddit",
 "Permanently disable NSFW"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Patcheddit",
+"Prefer high refresh rate"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -28535,6 +28800,11 @@
 "Hide device identifiers"
 ],
 [
+"com.mt.mtxx.mtxx",
+"PatchLab",
+"Unlock VIP"
+],
+[
 "com.mtv.sai",
 "Sabbirdj",
 "Unlock SAI Premium"
@@ -29282,12 +29552,42 @@
 [
 "com.neopawstudio.warunglife",
 "Amfakh",
+"Daily bonus"
+],
+[
+"com.neopawstudio.warunglife",
+"Amfakh",
 "GmsCore support"
 ],
 [
 "com.neopawstudio.warunglife",
 "Amfakh",
 "Hide ads"
+],
+[
+"com.neopawstudio.warunglife",
+"Amfakh",
+"Instant ad rewards"
+],
+[
+"com.neopawstudio.warunglife",
+"Amfakh",
+"Legendary fish chance"
+],
+[
+"com.neopawstudio.warunglife",
+"Amfakh",
+"Sales income multiplier"
+],
+[
+"com.neopawstudio.warunglife",
+"Amfakh",
+"Unlimited ad rewards"
+],
+[
+"com.neopawstudio.warunglife",
+"Amfakh",
+"Unlock tester outfit"
 ],
 [
 "com.netbiscuits.kicker",
@@ -29798,6 +30098,11 @@
 "com.ngoctieucac.itruyenchu",
 "CozyCode890",
 "TTS reliability"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
+"Tap a line to listen from it"
 ],
 [
 "com.nhl.gc1112.free",
@@ -30877,6 +31182,11 @@
 [
 "com.onelouder.baconreader",
 "Patcheddit",
+"Fix comment video links"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
 "Fix escaped URLs"
 ],
 [
@@ -30893,6 +31203,11 @@
 "com.onelouder.baconreader",
 "Patcheddit",
 "Permanently disable NSFW"
+],
+[
+"com.onelouder.baconreader",
+"Patcheddit",
+"Prefer high refresh rate"
 ],
 [
 "com.onelouder.baconreader",
@@ -33277,6 +33592,16 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Hide low-voted answers"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide machine-translated answers"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Hide old answers"
 ],
 [
@@ -33287,7 +33612,17 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Hide picture and video posts"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Hide related questions"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide reshares"
 ],
 [
 "com.quora.android",
@@ -33308,6 +33643,11 @@
 "com.quora.android",
 "JoFSlash",
 "Hide tabs"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Hide what you pick"
 ],
 [
 "com.quora.android",
@@ -33337,7 +33677,17 @@
 [
 "com.quora.android",
 "JoFSlash",
+"Reader view"
+],
+[
+"com.quora.android",
+"JoFSlash",
 "Reading history"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Reading time"
 ],
 [
 "com.quora.android",
@@ -33378,6 +33728,11 @@
 "com.quora.android",
 "JoFSlash",
 "Translate button"
+],
+[
+"com.quora.android",
+"JoFSlash",
+"Update notice"
 ],
 [
 "com.quora.android",
@@ -34823,6 +35178,11 @@
 "com.rubenmayayo.reddit",
 "Patcheddit",
 "Fix profile About scrolling"
+],
+[
+"com.rubenmayayo.reddit",
+"Patcheddit",
+"Fix random subreddit"
 ],
 [
 "com.rubenmayayo.reddit",
@@ -48205,6 +48565,11 @@
 "Bitwarden trust re-signed browsers for passkeys"
 ],
 [
+"com.xatori.Plugshare",
+"JohnInNL",
+"Android Auto"
+],
+[
 "com.xfinity.digitalhome",
 "Semicoloncolonel",
 "Block Advanced Security telemetry"
@@ -50712,6 +51077,11 @@
 [
 "com.zhiliaoapp.musically.go",
 "Hushfeed",
+"Show author region"
+],
+[
+"com.zhiliaoapp.musically.go",
+"Hushfeed",
 "Trust user certificates"
 ],
 [
@@ -52391,6 +52761,11 @@
 ],
 [
 "eu.darken.sdmse",
+"Sqzass",
+"Unlock Pro"
+],
+[
+"eu.darken.sdmse",
 "gggg-unit SD Maid",
 "Unlock Pro (FOSS)"
 ],
@@ -53591,6 +53966,11 @@
 ],
 [
 "io.homeassistant.companion.android",
+"JohnInNL",
+"Android Auto"
+],
+[
+"io.homeassistant.companion.android",
 "M4TH1EU",
 "Allow Veloce car host"
 ],
@@ -53648,6 +54028,11 @@
 "io.supercent.weaponrpg",
 "Lopikss",
 "XP Hero | Free Hero Upgrade (0 Shards)"
+],
+[
+"io.supercent.weaponrpg",
+"Lopikss",
+"XP Hero | Free Party Skill Enhancements"
 ],
 [
 "io.supercent.weaponrpg",
@@ -55622,6 +56007,11 @@
 [
 "ml.docilealligator.infinityforreddit.plus",
 "Patcheddit",
+"Fix random subreddit"
+],
+[
+"ml.docilealligator.infinityforreddit.plus",
+"Patcheddit",
 "Infinity Morphe settings"
 ],
 [
@@ -55658,6 +56048,11 @@
 "ml.docilealligator.infinityforreddit.plus2",
 "Patcheddit",
 "Fix escaped URLs"
+],
+[
+"ml.docilealligator.infinityforreddit.plus2",
+"Patcheddit",
+"Fix random subreddit"
 ],
 [
 "ml.docilealligator.infinityforreddit.plus2",
@@ -57522,6 +57917,11 @@
 [
 "o.o.joey",
 "Patcheddit",
+"Fix random subreddit"
+],
+[
+"o.o.joey",
+"Patcheddit",
 "Fix swipe back transparency"
 ],
 [
@@ -57538,6 +57938,11 @@
 "o.o.joey",
 "Patcheddit",
 "Permanently disable NSFW"
+],
+[
+"o.o.joey",
+"Patcheddit",
+"Prefer high refresh rate"
 ],
 [
 "o.o.joey",
@@ -60782,6 +61187,11 @@
 [
 "reddit.news",
 "Patcheddit",
+"Fix random subreddit"
+],
+[
+"reddit.news",
+"Patcheddit",
 "Inline media"
 ],
 [
@@ -60793,6 +61203,11 @@
 "reddit.news",
 "Patcheddit",
 "Permanently disable NSFW"
+],
+[
+"reddit.news",
+"Patcheddit",
+"Prefer high refresh rate"
 ],
 [
 "reddit.news",
@@ -62573,6 +62988,11 @@
 "tv.twitch.android.app",
 "Overhypedcat",
 "Detailed log setting"
+],
+[
+"tv.twitch.android.app",
+"Overhypedcat",
+"Highest quality"
 ],
 [
 "tv.twitch.android.app",
