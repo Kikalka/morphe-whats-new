@@ -992,6 +992,11 @@
 [
 "bbc.mobile.news.ww",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"bbc.mobile.news.ww",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -2282,12 +2287,32 @@
 [
 "com.Nanasaki.ftutter",
 "Rikunode Futat\u01019",
+"Board login button"
+],
+[
+"com.Nanasaki.ftutter",
+"Rikunode Futat\u01019",
 "Clone app"
 ],
 [
 "com.Nanasaki.ftutter",
 "Rikunode Futat\u01019",
+"Default dark mode"
+],
+[
+"com.Nanasaki.ftutter",
+"Rikunode Futat\u01019",
 "Local board bridge"
+],
+[
+"com.Nanasaki.ftutter",
+"Rikunode Futat\u01019",
+"Restore launcher icon"
+],
+[
+"com.Nanasaki.ftutter",
+"Rikunode Futat\u01019",
+"futatabi branding"
 ],
 [
 "com.Neurononfire.SupremeDuelist",
@@ -2608,6 +2633,11 @@
 "com.abc.abcnews",
 "Semicoloncolonel Mobile",
 "Report Wi-Fi connection"
+],
+[
+"com.abc.abcnews",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "com.abc.abcnews",
@@ -3313,6 +3343,36 @@
 "com.alightcreative.motion",
 "Sqzass",
 "Unlock premium (membership gates)"
+],
+[
+"com.aljazeera.mobile",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.aljazeera.mobile",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.aljazeera.mobile",
+"Semicoloncolonel Mobile",
+"Hide prompts and pop-ups"
+],
+[
+"com.aljazeera.mobile",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.aljazeera.mobile",
+"Semicoloncolonel Mobile",
+"Skip ads"
+],
+[
+"com.aljazeera.mobile",
+"Semicoloncolonel Mobile",
+"Skip cookie settings"
 ],
 [
 "com.allformatplayer.streamvideoplayer",
@@ -5107,6 +5167,16 @@
 [
 "com.apple.android.music",
 "Nich87",
+"Lyrics editor"
+],
+[
+"com.apple.android.music",
+"Nich87",
+"On-device pronunciation guides"
+],
+[
+"com.apple.android.music",
+"Nich87",
 "On-device vocal separation"
 ],
 [
@@ -6358,6 +6428,11 @@
 "com.bardi.smart.home",
 "Amfakh",
 "Swipe between tabs"
+],
+[
+"com.bardi.smart.home",
+"Amfakh",
+"Themed icon"
 ],
 [
 "com.beatxp.dafit",
@@ -9542,6 +9617,11 @@
 [
 "com.cnbc.client",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.cnbc.client",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -9578,6 +9658,11 @@
 "com.cnn.indonesia",
 "Amfakh",
 "Merge article pages"
+],
+[
+"com.cnn.indonesia",
+"Amfakh",
+"Themed icon"
 ],
 [
 "com.cnn.mobile.android.phone",
@@ -9678,6 +9763,11 @@
 "com.cnn.mobile.android.phone",
 "Semicoloncolonel Mobile",
 "Report Wi-Fi connection"
+],
+[
+"com.cnn.mobile.android.phone",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "com.cnn.mobile.android.phone",
@@ -10453,6 +10543,11 @@
 "com.dailywire.thedailywire",
 "Semicoloncolonel Mobile",
 "Hide rating prompt"
+],
+[
+"com.dailywire.thedailywire",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "com.dailywire.thedailywire",
@@ -13060,6 +13155,11 @@
 "Premium unlock"
 ],
 [
+"com.dundunstudio.autoplay",
+"Amfakh",
+"Themed icon"
+],
+[
 "com.duolingo",
 "Bastlam",
 "Disable dynamic app icon"
@@ -13143,6 +13243,11 @@
 "com.duplila.screenshare",
 "Heval",
 "Enable Premium"
+],
+[
+"com.dv.adm",
+"Loki",
+"Remove ads (ADM)"
 ],
 [
 "com.dv.adm",
@@ -13475,6 +13580,11 @@
 "Unlock Premium"
 ],
 [
+"com.eksiteknoloji.eksisozluk",
+"Ek\u015fi",
+"Relative entry timestamps"
+],
+[
 "com.elink.fittrackhealth.pro",
 "braiNtropy",
 "Unlock Premium"
@@ -13775,6 +13885,11 @@
 "Stop autoplay"
 ],
 [
+"com.ertanto.kompas.official",
+"Amfakh",
+"Themed icon"
+],
+[
 "com.eset.ems2.gp",
 "MightyMich",
 "Enable premium license"
@@ -13958,6 +14073,11 @@
 "com.eup.todaiisuper",
 "Amfakh",
 "Premium unlock"
+],
+[
+"com.eup.todaiisuper",
+"Amfakh",
+"Themed icon"
 ],
 [
 "com.eurosport",
@@ -14313,6 +14433,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Block screenshot detection"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Chat background"
 ],
 [
 "com.facebook.katana",
@@ -15452,6 +15577,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Mark as read stays on this phone"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Mark chats read on this phone"
 ],
 [
@@ -15897,6 +16027,11 @@
 [
 "com.fgol.HungrySharkEvolution",
 "Legendsciber",
+"Hungry Shark Free IAP"
+],
+[
+"com.fgol.HungrySharkEvolution",
+"Legendsciber",
 "Hungry Shark Installer Source Fix"
 ],
 [
@@ -16183,6 +16318,11 @@
 "com.fivemobile.thescore",
 "Semicoloncolonel Mobile",
 "Hide rating prompt"
+],
+[
+"com.fivemobile.thescore",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "com.flightconnections",
@@ -16532,6 +16672,11 @@
 [
 "com.fox.fts.android",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.fox.fts.android",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -16673,6 +16818,11 @@
 "com.foxnews.android",
 "Semicoloncolonel Mobile",
 "Report Wi-Fi connection"
+],
+[
+"com.foxnews.android",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "com.foxnews.android",
@@ -16933,6 +17083,11 @@
 "com.genius.android",
 "Amfakh",
 "Hide ads"
+],
+[
+"com.genius.android",
+"Amfakh",
+"Themed icon"
 ],
 [
 "com.getaloa.app",
@@ -21007,6 +21162,16 @@
 [
 "com.google.android.inputmethod.latin",
 "assc0d3r",
+"Rambler Productivity Tools"
+],
+[
+"com.google.android.inputmethod.latin",
+"assc0d3r",
+"Rambler Waveform Animation"
+],
+[
+"com.google.android.inputmethod.latin",
+"assc0d3r",
 "Rambler app context"
 ],
 [
@@ -22000,6 +22165,11 @@
 "Enable Pro"
 ],
 [
+"com.happymod.apk",
+"NotRin7",
+"SadMod Material 3 overhaul"
+],
+[
 "com.hardcodedjoy.iototoy",
 "Hxreborn",
 "Disable tracking"
@@ -22613,6 +22783,11 @@
 "com.idntimes.idntimes",
 "Amfakh",
 "Stop autoplay"
+],
+[
+"com.idntimes.idntimes",
+"Amfakh",
+"Themed icon"
 ],
 [
 "com.ihad.ptt",
@@ -25957,6 +26132,11 @@
 [
 "com.kakao.talk",
 "Ample",
+"Open chat member memo"
+],
+[
+"com.kakao.talk",
+"Ample",
 "Remove local connect tab"
 ],
 [
@@ -26138,6 +26318,11 @@
 "com.kawanlama.smartklic",
 "Amfakh",
 "Swipe between tabs"
+],
+[
+"com.kawanlama.smartklic",
+"Amfakh",
+"Themed icon"
 ],
 [
 "com.keepa.mobile",
@@ -27142,6 +27327,11 @@
 [
 "com.laurencedawson.reddit_sync",
 "Mix",
+"Keyword filter matching"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
 "Modify login WebView"
 ],
 [
@@ -27178,6 +27368,11 @@
 "com.laurencedawson.reddit_sync",
 "Mix",
 "Spoof client"
+],
+[
+"com.laurencedawson.reddit_sync",
+"Mix",
+"Translation"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -27990,6 +28185,16 @@
 "Always plus member"
 ],
 [
+"com.lima.doodlejump",
+"Darkaxt",
+"Endless Fall & 3-Lives"
+],
+[
+"com.lima.doodlejump",
+"Darkaxt",
+"Foldable Seamless Wide View"
+],
+[
 "com.lingodeer",
 "Hxreborn",
 "GmsCore support"
@@ -28292,7 +28497,17 @@
 [
 "com.linkedin.android",
 "Loki",
+"Disable screenshot share sheet"
+],
+[
+"com.linkedin.android",
+"Loki",
 "Download media"
+],
+[
+"com.linkedin.android",
+"Loki",
+"Expand posts"
 ],
 [
 "com.linkedin.android",
@@ -29001,6 +29216,11 @@
 ],
 [
 "com.mazii.dictionary",
+"Amfakh",
+"Themed icon"
+],
+[
+"com.mazii.dictionary",
 "Epxec",
 "Enable premium"
 ],
@@ -29483,6 +29703,11 @@
 "com.merriamwebster",
 "Mhs11294",
 "Add to Anki"
+],
+[
+"com.metalsoft.trackchecker_mobile",
+"Loki",
+"Remove ads (TrackChecker)"
 ],
 [
 "com.meteoblue.droid",
@@ -30551,6 +30776,11 @@
 ],
 [
 "com.mygate.user",
+"Chaosmanage",
+"One-Tap Surprise Delivery (1 Hour)"
+],
+[
+"com.mygate.user",
 "RayBourn",
 "MyGate"
 ],
@@ -30922,6 +31152,11 @@
 [
 "com.nbcnews.msnbc.mobile",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.nbcnews.msnbc.mobile",
+"Semicoloncolonel Mobile",
 "Spoof carrier"
 ],
 [
@@ -31058,6 +31293,11 @@
 "com.neopawstudio.warunglife",
 "Amfakh",
 "Sales income multiplier"
+],
+[
+"com.neopawstudio.warunglife",
+"Amfakh",
+"Themed icon"
 ],
 [
 "com.neopawstudio.warunglife",
@@ -31497,6 +31737,11 @@
 [
 "com.nexstar.newsnation",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.nexstar.newsnation",
+"Semicoloncolonel Mobile",
 "Skip ads (Android TV)"
 ],
 [
@@ -31728,6 +31973,31 @@
 "com.nike.plusgps",
 "Madushas",
 "Remove ads"
+],
+[
+"com.nikkei.asia",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.nikkei.asia",
+"Semicoloncolonel Mobile",
+"Hide article paywall overlay"
+],
+[
+"com.nikkei.asia",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.nikkei.asia",
+"Semicoloncolonel Mobile",
+"Hide subscriber-only buttons"
+],
+[
+"com.nikkei.asia",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "com.nikkei.asia",
@@ -32183,6 +32453,11 @@
 "com.nytimes.android",
 "Semicoloncolonel Mobile",
 "Report Wi-Fi connection"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "com.nytimes.android",
@@ -33857,6 +34132,11 @@
 [
 "com.pinterest",
 "Browzomje",
+"Hide repeat Save in saved pin menus"
+],
+[
+"com.pinterest",
+"Browzomje",
 "Hide save for later tooltip"
 ],
 [
@@ -33908,6 +34188,11 @@
 "com.pinterest",
 "HushPinterest",
 "Change package name"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Custom font"
 ],
 [
 "com.pinterest",
@@ -35742,6 +36027,11 @@
 [
 "com.reddit.frontpage",
 "Bin0culars",
+"Create button in communities"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
 "Disable bottom bar auto-hide"
 ],
 [
@@ -36043,6 +36333,11 @@
 "com.rkgames.basisgame",
 "Mwbra130",
 "Unlock All Slot Machines"
+],
+[
+"com.roadlords.android",
+"Georgewoodall82 Eurowag",
+"Unlock Premium"
 ],
 [
 "com.roborock.smart",
@@ -37925,6 +38220,11 @@
 "Unlock Premium (Root)"
 ],
 [
+"com.sbs.diet",
+"Parideboy",
+"Unlock Premium (Root)"
+],
+[
 "com.sbs.ondemand.android",
 "Supperelias2 SBS",
 "Experimental: automatic intro and recap skipping"
@@ -38045,6 +38345,11 @@
 "Unlock Premium (Root)"
 ],
 [
+"com.sbs.train",
+"Parideboy",
+"Unlock Premium (Root)"
+],
+[
 "com.scaleup.photofx",
 "MightyMich",
 "Unlock Premium "
@@ -38103,6 +38408,31 @@
 "com.scatterlab.messenger",
 "Kubobeem2",
 "Unlock Client Restrictions"
+],
+[
+"com.scmp.newspulse",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.scmp.newspulse",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.scmp.newspulse",
+"Semicoloncolonel Mobile",
+"Hide subscription prompts"
+],
+[
+"com.scmp.newspulse",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.scmp.newspulse",
+"Semicoloncolonel Mobile",
+"Skip ads"
 ],
 [
 "com.scoremarks.marks",
@@ -39103,6 +39433,56 @@
 "com.soulbreakers.mymoveset",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"AMOLED dark theme"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"Disable analytics"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"Disable consent popup"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"Enable SoundCloud Go"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"Hide Cast icon"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"Hide Message icon"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"Home in Android Auto"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"Remove ads and upsells"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"Russian language"
+],
+[
+"com.soundcloud.android",
+"2kshoka",
+"Sleep timer in track menu"
 ],
 [
 "com.soundcloud.android",
@@ -41155,6 +41535,11 @@
 "Hide rating prompt"
 ],
 [
+"com.substack.app",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
 "com.subtlesignals.gradientweather",
 "Mwbra130",
 "Change installer source"
@@ -42442,6 +42827,11 @@
 [
 "com.thomsonreuters.reuters",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.thomsonreuters.reuters",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -43637,6 +44027,11 @@
 [
 "com.treemolabs.apps.cbsnews",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.treemolabs.apps.cbsnews",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -43948,6 +44343,16 @@
 "com.truecaller",
 "RayBourn",
 "Remove Premium UI"
+],
+[
+"com.truedevelopersstudio.automatictap.autoclicker",
+"Rimixyz",
+"Disable ads and tracking"
+],
+[
+"com.truedevelopersstudio.automatictap.autoclicker",
+"Rimixyz",
+"Unlock Pro"
 ],
 [
 "com.truthsocial.android.app",
@@ -44741,6 +45146,11 @@
 ],
 [
 "com.tuya.smart",
+"Amfakh",
+"Themed icon"
+],
+[
+"com.tuya.smart",
 "JohnInNL",
 "Allow any Android Auto host"
 ],
@@ -44818,6 +45228,11 @@
 "com.tuya.smartlife",
 "Amfakh",
 "Swipe between tabs"
+],
+[
+"com.tuya.smartlife",
+"Amfakh",
+"Themed icon"
 ],
 [
 "com.tuya.smartlife",
@@ -46752,6 +47167,11 @@
 [
 "com.usatoday.android.news",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.usatoday.android.news",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -48085,6 +48505,31 @@
 "Hide rating prompt"
 ],
 [
+"com.w3schools.app.prod",
+"RyuuseiAkira",
+"Bypass forced updates"
+],
+[
+"com.w3schools.app.prod",
+"RyuuseiAkira",
+"Disable tracking and analytics"
+],
+[
+"com.w3schools.app.prod",
+"RyuuseiAkira",
+"MicroG-RE support"
+],
+[
+"com.w3schools.app.prod",
+"RyuuseiAkira",
+"Unlimited energy"
+],
+[
+"com.w3schools.app.prod",
+"RyuuseiAkira",
+"Unlock curriculum map"
+],
+[
 "com.waccliu.taiwanrail",
 "Pigfoot",
 "Change package name"
@@ -48428,6 +48873,11 @@
 "com.washingtonpost.android",
 "Semicoloncolonel Mobile",
 "Report Wi-Fi connection"
+],
+[
+"com.washingtonpost.android",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "com.washingtonpost.android",
@@ -50607,6 +51057,11 @@
 [
 "com.yahoo.mobile.client.android.finance",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.yahoo.mobile.client.android.finance",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -50703,6 +51158,11 @@
 "com.yahoo.mobile.client.android.yahoo",
 "Semicoloncolonel Mobile",
 "Hide reading streaks"
+],
+[
+"com.yahoo.mobile.client.android.yahoo",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "com.yahoo.mobile.client.android.yahoo",
@@ -52566,6 +53026,11 @@
 ],
 [
 "com.zhiliaoapp.musically",
+"d0r4nn",
+"MergenV1 Liquid Glass UI"
+],
+[
+"com.zhiliaoapp.musically",
 "non7043",
 "Always show publish date"
 ],
@@ -52952,6 +53417,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Bug log"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Bypass conversation protection"
 ],
 [
@@ -53043,6 +53513,11 @@
 "com.zing.zalo",
 "Nezumi-2711",
 "Native signature fix"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
+"Open links in external browser"
 ],
 [
 "com.zing.zalo",
@@ -53632,6 +54107,11 @@
 [
 "com.zumobi.msnbc",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"com.zumobi.msnbc",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -53825,6 +54305,26 @@
 "Unlock premium"
 ],
 [
+"de.application_systems.TheLonging",
+"Darkaxt",
+"Fix 4:3 / Foldable Book & Drawing UI Scaling"
+],
+[
+"de.application_systems.TheLonging",
+"Darkaxt",
+"Fix 4:3 / Foldable Starting Intro Camera"
+],
+[
+"de.application_systems.TheLonging",
+"Darkaxt",
+"Fix 4:3 / Foldable Video Cutscene Scaling"
+],
+[
+"de.application_systems.TheLonging",
+"Darkaxt",
+"Fix Foldable Live Aspect Ratio"
+],
+[
 "de.hafas.android.db",
 "Henr1klmb",
 "AMOLED dark mode"
@@ -53948,6 +54448,41 @@
 "de.mobile.android.app",
 "Henr1klmb",
 "Hide sponsored ads"
+],
+[
+"de.mobile.android.app",
+"itnaegele",
+"Abgelaufene Inserate archivieren (Google Drive)"
+],
+[
+"de.mobile.android.app",
+"itnaegele",
+"Express-Verkauf / Ankauf-Banner ausblenden"
+],
+[
+"de.mobile.android.app",
+"itnaegele",
+"Finanzierungswidgets ausblenden"
+],
+[
+"de.mobile.android.app",
+"itnaegele",
+"Gesponserte & Top-Inserate ausblenden"
+],
+[
+"de.mobile.android.app",
+"itnaegele",
+"Umfragen & Bewertungs-Popups deaktivieren"
+],
+[
+"de.mobile.android.app",
+"itnaegele",
+"Versicherungs-, Carfax- & Partner-Widgets ausblenden"
+],
+[
+"de.mobile.android.app",
+"itnaegele",
+"Werbung entfernen"
 ],
 [
 "de.motain.iliga",
@@ -54102,6 +54637,11 @@
 [
 "deezer.android.app",
 "AudioPatchLab",
+"Install alongside official Deezer"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
 "Manage the playback queue"
 ],
 [
@@ -54113,6 +54653,11 @@
 "deezer.android.app",
 "AudioPatchLab",
 "Search and sort playlists"
+],
+[
+"deezer.android.app",
+"AudioPatchLab",
+"Show audio quality choices"
 ],
 [
 "deezer.android.app",
@@ -55365,6 +55910,16 @@
 "Themed icon"
 ],
 [
+"id.go.pertanian.epersonal",
+"EryrizalH",
+"Disable license check"
+],
+[
+"id.go.pertanian.epersonal",
+"EryrizalH",
+"Disable mock location detection"
+],
+[
 "idm.internet.download.manager",
 "GinDoki19",
 "AdBlocker turbo & userscript bundle"
@@ -55388,6 +55943,21 @@
 "idm.internet.download.manager",
 "GinDoki19",
 "Remove ads and promotions"
+],
+[
+"idm.internet.download.manager",
+"Loki",
+"Remove 1DM+ promotions"
+],
+[
+"idm.internet.download.manager",
+"Loki",
+"Remove ads (1DM)"
+],
+[
+"idm.internet.download.manager",
+"Loki",
+"Rename to IDM+"
 ],
 [
 "idm.internet.download.manager",
@@ -56262,6 +56832,11 @@
 [
 "jp.co.celsys.clipstudiopaint.googleplay",
 "Hxreborn",
+"Lower Android requirement"
+],
+[
+"jp.co.celsys.clipstudiopaint.googleplay",
+"Hxreborn",
 "Open drawing on launch"
 ],
 [
@@ -56473,6 +57048,11 @@
 "jp.naver.line.android",
 "AndrewLiang25",
 "[Chat] Hide tips under messages"
+],
+[
+"jp.naver.line.android",
+"AndrewLiang25",
+"[Chat] Show who read messages"
 ],
 [
 "jp.naver.line.android",
@@ -57510,6 +58090,26 @@
 "Enable Prime membership"
 ],
 [
+"jp.or.nhk.nhkworld.tv",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"jp.or.nhk.nhkworld.tv",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"jp.or.nhk.nhkworld.tv",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"jp.or.nhk.nhkworld.tv",
+"Semicoloncolonel Mobile",
+"Skip cookie settings"
+],
+[
 "jp.pxv.android",
 "Fripe070",
 "Pixiv Enhanced Viewer & Instant Zoom"
@@ -58060,6 +58660,11 @@
 "Premium unlock"
 ],
 [
+"mobi.eup.easygerman",
+"Amfakh",
+"Themed icon"
+],
+[
 "mobi.eup.jpnews",
 "Amfakh",
 "Disable analytics"
@@ -58073,6 +58678,11 @@
 "mobi.eup.jpnews",
 "Amfakh",
 "Premium unlock"
+],
+[
+"mobi.eup.jpnews",
+"Amfakh",
+"Themed icon"
 ],
 [
 "mobi.ifunny",
@@ -58303,6 +58913,11 @@
 "net.dinglisch.android.taskerm",
 "Kinoosaki",
 "GmsCore support"
+],
+[
+"net.dinglisch.android.taskerm",
+"Loki",
+"Unlock Tasker"
 ],
 [
 "net.easyconn.carman.wws",
@@ -60017,6 +60632,11 @@
 [
 "org.cspan.app",
 "Semicoloncolonel Mobile",
+"Route traffic through a proxy"
+],
+[
+"org.cspan.app",
+"Semicoloncolonel Mobile",
 "Skip ads"
 ],
 [
@@ -60043,6 +60663,11 @@
 "org.detikcom.rss",
 "Amfakh",
 "Stop autoplay"
+],
+[
+"org.detikcom.rss",
+"Amfakh",
+"Themed icon"
 ],
 [
 "org.fossify.calendar",
@@ -62013,6 +62638,396 @@
 "org.telegram.messenger.web",
 "newuser7171",
 "Voice to music"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"AMOLED black"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Add Repeat to the message menu"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Allow chat blur on slower phones"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Ask before sending a sticker"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Auto-forwarding rules"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Bot token sign-in"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Bypass channel restrictions"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Bypass integrity check"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Change sticker size"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Chat preview buttons"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Disable analytics"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Disable call debug upload"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Disable chat swipe actions"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Disable double-tap reactions"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Disable draft link previews"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Disable pull to archive"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Disable pull to next channel"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Disable update checks"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Exact numbers"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Faster downloads"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Folders by chat type"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Free proxies"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Gallery camera on tap"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide Contacts tab"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide Premium, gifts and Stars"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide Send as button"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide Stories"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide Telegram Features and Invite Friends"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide ads"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide blocked users in groups"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide channel bar buttons"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide contacts on Telegram"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide folder tab counters"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide gallery camera tile"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide greeting stickers"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide keyboard on scroll"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide messages by keyword"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide phone number"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide popular apps"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide promotional banners"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide recommendations"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide sender names when forwarding"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide time on stickers"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Hide translate bar"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"HushTelegram icon and name"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"HushTelegram settings"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Ignore mentions in muted chats"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Keep captions with their photos"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Keep deleted messages"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Keep videos muted on volume keys"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Lyrics and song dates"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Message times with seconds"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"My messages"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Never send an uncropped photo"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Open links externally"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Play voice messages one at a time"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Proxy in the chat list menu"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Quiet contacts nag"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Repair Firebase push registration"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Reveal spoilers"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Save downloaded files"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Show user and chat IDs"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Silence people outside your contacts"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Start the camera on the rear lens"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Strip link tracking"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Suppress screenshot notification"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Swipe back on profiles"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Test server sign-in"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Text direction"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Translate with an outside service"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Turn off haptic feedback"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Turn off reaction effects"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"UnifiedPush notifications"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Use normal paste"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Use registered Maps API key"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Use registered Telegram API credentials"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Use system font"
+],
+[
+"org.telegram.plus",
+"HushTelegram",
+"Voice messages in the music player"
 ],
 [
 "org.telegram.plus",
@@ -65528,6 +66543,11 @@
 "wsj.reader_sp",
 "Semicoloncolonel Mobile",
 "Report Wi-Fi connection"
+],
+[
+"wsj.reader_sp",
+"Semicoloncolonel Mobile",
+"Route traffic through a proxy"
 ],
 [
 "wsj.reader_sp",
