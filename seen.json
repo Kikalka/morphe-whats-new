@@ -1841,6 +1841,76 @@
 ],
 [
 "ch.protonvpn.android.reproducible",
+"Hxreborn",
+"AMOLED dark theme"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Custom accent color"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Disable telemetry"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Floating navigation bar"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Hide upgrade promotions"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Material 3 switches"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Remove server change delay"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Show free server locations"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Unlock LAN connections"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Unlock NetShield"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Unlock connection preferences"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Unlock custom DNS"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Unlock profiles"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Unlock split tunneling"
+],
+[
+"ch.protonvpn.android.reproducible",
 "Rahaaatul",
 "Show Free Countries Only"
 ],
@@ -5507,7 +5577,47 @@
 [
 "com.aspiro.tidal",
 "Ninocss",
+"In-app patch settings"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
 "Linn Majik DSM Wi-Fi playback"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"M3 albums, artists & library"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"M3 bottom sheets & menus"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"M3 full player"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"M3 homepage"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"M3 navbar & mini-player"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"M3 playlist screen"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"M3 search"
 ],
 [
 "com.aspiro.tidal",
@@ -5523,6 +5633,21 @@
 "com.aspiro.tidal",
 "Ninocss",
 "Material You dynamic theme"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Seamless track transitions (Crossfade)"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Song waveform seekbar"
+],
+[
+"com.aspiro.tidal",
+"Ninocss",
+"Syllable-synced karaoke lyrics"
 ],
 [
 "com.aspiro.tidal",
@@ -6545,6 +6670,36 @@
 "Skip hourly gift cooldown"
 ],
 [
+"com.bigduckgames.flow",
+"Aidan",
+"Remove Ads"
+],
+[
+"com.bigduckgames.flow",
+"Aidan",
+"Remove Google Play"
+],
+[
+"com.bigduckgames.flow",
+"Aidan",
+"Remove Tracking"
+],
+[
+"com.bigduckgames.flow",
+"Aidan",
+"Unlimited Hints"
+],
+[
+"com.bigduckgames.flow",
+"Aidan",
+"Unlock All Levels"
+],
+[
+"com.bigduckgames.flow",
+"Aidan",
+"Unlock All Themes"
+],
+[
 "com.bigwinepot.nwdn.international",
 "MightyMich",
 "Unlock Premium (Experimental)"
@@ -7253,6 +7408,11 @@
 "com.bpmhealth.boostcamp",
 "CallMeBeyonder",
 "Unlock Premium"
+],
+[
+"com.brakefield.painter",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.brave.browser",
@@ -9230,6 +9390,11 @@
 "Enable Premium"
 ],
 [
+"com.chisadin.wazemod",
+"Quangmach",
+"Waze Minimize Search Bar"
+],
+[
 "com.citynav.jakdojade.pl.android",
 "Mubelotix",
 "Activates premium features"
@@ -9617,12 +9782,22 @@
 [
 "com.community.mbox.tv",
 "Hxreborn",
+"Custom skip length"
+],
+[
+"com.community.mbox.tv",
+"Hxreborn",
 "Disable update prompts"
 ],
 [
 "com.community.mbox.tv",
 "Hxreborn",
 "Fix quality selection"
+],
+[
+"com.community.mbox.tv",
+"Hxreborn",
+"Prefer highest resolution"
 ],
 [
 "com.community.mbox.tv",
@@ -13235,6 +13410,16 @@
 "Sanitize sharing links"
 ],
 [
+"com.eclipse.android",
+"JohnInNL",
+"Android Auto browse upgrade"
+],
+[
+"com.eclipse.android",
+"JohnInNL",
+"Android Auto templated media app"
+],
+[
 "com.eet.settings.launcher",
 "Semicoloncolonel",
 "Block ads"
@@ -15628,6 +15813,26 @@
 "com.featherweightgames.fx",
 "Fynnaly",
 "Skip rewarded ads"
+],
+[
+"com.feelingtouch.crossx",
+"ComoEstaisAmigos",
+"Disable telemetry"
+],
+[
+"com.feelingtouch.crossx",
+"ComoEstaisAmigos",
+"Modern Android compatibility"
+],
+[
+"com.feelingtouch.crossx",
+"ComoEstaisAmigos",
+"Remove unused permissions"
+],
+[
+"com.feelingtouch.crossx",
+"ComoEstaisAmigos",
+"Unlimited currency"
 ],
 [
 "com.fenchtose.reflog",
@@ -18438,6 +18643,41 @@
 "com.google.android.apps.pixel.nowplaying",
 "Kecerim24",
 "Change music service packages"
+],
+[
+"com.google.android.apps.youtube.kids",
+"JoFSlash",
+"Block tracking"
+],
+[
+"com.google.android.apps.youtube.kids",
+"JoFSlash",
+"GmsCore support"
+],
+[
+"com.google.android.apps.youtube.kids",
+"JoFSlash",
+"Hide Sign in tab"
+],
+[
+"com.google.android.apps.youtube.kids",
+"JoFSlash",
+"Hide review prompt"
+],
+[
+"com.google.android.apps.youtube.kids",
+"JoFSlash",
+"Hide video ads"
+],
+[
+"com.google.android.apps.youtube.kids",
+"JoFSlash",
+"Remove unneeded permissions"
+],
+[
+"com.google.android.apps.youtube.kids",
+"JoFSlash",
+"Skip parent feature tour"
 ],
 [
 "com.google.android.apps.youtube.music",
@@ -21632,6 +21872,21 @@
 [
 "com.gymbros.app",
 "Hxreborn",
+"Unlock premium"
+],
+[
+"com.habitnow",
+"Rimixyz",
+"Bypass PairIP protection"
+],
+[
+"com.habitnow",
+"Rimixyz",
+"Disable analytics and tracking"
+],
+[
+"com.habitnow",
+"Rimixyz",
 "Unlock premium"
 ],
 [
@@ -31312,6 +31567,16 @@
 [
 "com.ngoctieucac.itruyenchu",
 "CozyCode890",
+"Mini player"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
+"Remember listening speed"
+],
+[
+"com.ngoctieucac.itruyenchu",
+"CozyCode890",
 "Resume listening position"
 ],
 [
@@ -33842,6 +34107,11 @@
 [
 "com.pinterest",
 "HushPinterest",
+"Like and comment history"
+],
+[
+"com.pinterest",
+"HushPinterest",
 "Long-press download"
 ],
 [
@@ -33858,6 +34128,16 @@
 "com.pinterest",
 "HushPinterest",
 "Original-quality images"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Pin video playback"
+],
+[
+"com.pinterest",
+"HushPinterest",
+"Pinch to zoom only"
 ],
 [
 "com.pinterest",
@@ -35993,6 +36273,16 @@
 "com.rockstreamer.iscreentv",
 "Media",
 "Temp user"
+],
+[
+"com.roku.web.trc",
+"Semicoloncolonel TV",
+"Disable Pairip license check"
+],
+[
+"com.roku.web.trc",
+"Semicoloncolonel TV",
+"Skip ads"
 ],
 [
 "com.rosteam.gpsemulator",
@@ -38888,6 +39178,11 @@
 "com.soundcloud.android",
 "Longthree1",
 "Vietnamese language"
+],
+[
+"com.soundcloud.android",
+"V4n1X",
+"Enable SoundCloud Go"
 ],
 [
 "com.spaceship.screen.textcopy",
@@ -43350,6 +43645,16 @@
 "Spoof carrier"
 ],
 [
+"com.tribalfs.gmh",
+"0x11DFE",
+"Random device ID"
+],
+[
+"com.tribalfs.gmh",
+"0x11DFE",
+"Unlock Premium"
+],
+[
 "com.triovent.datingapp",
 "Hxreborn",
 "Unlock premium"
@@ -44042,6 +44347,11 @@
 [
 "com.tumblr",
 "HushTumblr",
+"Dark search bar and Follow button"
+],
+[
+"com.tumblr",
+"HushTumblr",
 "Disable analytics"
 ],
 [
@@ -44058,6 +44368,11 @@
 "com.tumblr",
 "HushTumblr",
 "Fit full-screen videos"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Fix hard-to-read text"
 ],
 [
 "com.tumblr",
@@ -44108,6 +44423,11 @@
 "com.tumblr",
 "HushTumblr",
 "Hide filtered posts"
+],
+[
+"com.tumblr",
+"HushTumblr",
+"Hide followed blogs in For you"
 ],
 [
 "com.tumblr",
@@ -50395,6 +50715,21 @@
 "Skip ads"
 ],
 [
+"com.yallagroup.yallashoot",
+"JoFSlash",
+"Block tracking"
+],
+[
+"com.yallagroup.yallashoot",
+"JoFSlash",
+"Hide ads"
+],
+[
+"com.yallagroup.yallashoot",
+"JoFSlash",
+"Remove unneeded permissions"
+],
+[
 "com.yandex.bank",
 "Basil-AS",
 "Disable AppsFlyer"
@@ -52533,6 +52868,16 @@
 "com.zhiliaoapp.musically.go",
 "KyVexo TikTok Lite",
 "Clean share links"
+],
+[
+"com.zhiliaoapp.musically.go",
+"KyVexo TikTok Lite",
+"Do not save recent searches"
+],
+[
+"com.zhiliaoapp.musically.go",
+"KyVexo TikTok Lite",
+"Hide AI-labeled posts"
 ],
 [
 "com.zhiliaoapp.musically.go",
@@ -62008,6 +62353,61 @@
 "org.wakingup.android",
 "braiNtropy",
 "Disable update prompt"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Block tracking"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Don't send install ID"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Hide Donate buttons"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Hide Games"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Hide donation requests"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Hide feature prompts"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Hide surveys"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Keep screen on while reading"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Leave experiments"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Remove location access"
+],
+[
+"org.wikipedia",
+"JoFSlash",
+"Remove unneeded permissions"
 ],
 [
 "org.withouthat.acalendar",
