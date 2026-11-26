@@ -320,6 +320,11 @@
 "Hide upgrade promotions"
 ],
 [
+"ai.regainapp",
+"AWTMODS",
+"Pro user unlock"
+],
+[
 "ai.x.grok",
 "XXLC",
 "Bypass license check"
@@ -1865,6 +1870,36 @@
 "Unlock VPN Plus"
 ],
 [
+"ch.protonvpn.android",
+"Sqzass",
+"Change App Icon"
+],
+[
+"ch.protonvpn.android",
+"Sqzass",
+"Disable Telemetry"
+],
+[
+"ch.protonvpn.android",
+"Sqzass",
+"Hide Upgrade Promotions"
+],
+[
+"ch.protonvpn.android",
+"Sqzass",
+"Lustx Unlocks"
+],
+[
+"ch.protonvpn.android",
+"Sqzass",
+"Remove Server Change Delay"
+],
+[
+"ch.protonvpn.android",
+"Sqzass",
+"Show Free Server Locations"
+],
+[
 "ch.protonvpn.android.reproducible",
 "Hxreborn",
 "AMOLED dark theme"
@@ -1878,6 +1913,11 @@
 "ch.protonvpn.android.reproducible",
 "Hxreborn",
 "Disable telemetry"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Enable guest mode"
 ],
 [
 "ch.protonvpn.android.reproducible",
@@ -1943,6 +1983,36 @@
 "ch.protonvpn.android.reproducible",
 "Rahaaatul",
 "Unlock VPN Plus"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Sqzass",
+"Change App Icon"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Sqzass",
+"Disable Telemetry"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Sqzass",
+"Hide Upgrade Promotions"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Sqzass",
+"Lustx Unlocks"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Sqzass",
+"Remove Server Change Delay"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Sqzass",
+"Show Free Server Locations"
 ],
 [
 "ch.sbb.mobile.android.b2c",
@@ -6455,6 +6525,11 @@
 "Themed icon"
 ],
 [
+"com.battlelancer.seriesguide",
+"RoundSalmon4",
+"Unlock Premium"
+],
+[
 "com.beatxp.dafit",
 "0xBaselessProjects",
 "Disable Analytics / Telemetry"
@@ -7508,6 +7583,116 @@
 "com.brakefield.painter",
 "Hxreborn",
 "Unlock premium"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"AMOLED Black Theme"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Allow Incognito Screenshots"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Block Motion Sensors"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Block Popups & Ratings"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Brave Core Infrastructure"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Brave Origin"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Clean New Tab Page"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Clone Package & Branding"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Close Tab In Group Order"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Force Copy / Paste"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Force Max Refresh Rate"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Force Picture-in-Picture"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Media & HLS Downloader"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Preserve Last Active Tab"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Remove Unused AR & XR"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Skip Welcome Screens"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Startup Optimization"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Stop Background Wakeups"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Stop Promo Notifications"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Strip Menu & Settings Bloat"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Strip Tracking Parameters"
+],
+[
+"com.brave.browser",
+"BeepBoopMachine Brave",
+"Telemetry & Locale Trim"
 ],
 [
 "com.brave.browser",
@@ -8778,6 +8963,11 @@
 "com.cardfeed.video_public",
 "Hxreborn",
 "Remove startup animation"
+],
+[
+"com.caynax.hourlychime",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "com.cbs.app",
@@ -13635,6 +13825,11 @@
 "Unlock Premium"
 ],
 [
+"com.emanuelef.remote_capture",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.emeint.android.myservices",
 "Kero309x",
 "Allow screenshots"
@@ -14205,6 +14400,16 @@
 "UX Declutter"
 ],
 [
+"com.exiftool.free",
+"Hxreborn",
+"Remove ads"
+],
+[
+"com.exiftool.free",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.external.castle",
 "Hxreborn",
 "Disable update prompt"
@@ -14598,6 +14803,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Frame step"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Friends no longer on your list"
 ],
 [
 "com.facebook.katana",
@@ -15522,6 +15732,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Hide people you don't know in search"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Hide pictures on the Blocked list"
 ],
 [
@@ -15618,6 +15833,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Keep emoji search on emoji"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Keep taps in the chat preview"
 ],
 [
 "com.facebook.orca",
@@ -15817,6 +16037,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Smaller stories row"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Sound in the open chat"
 ],
 [
@@ -15933,6 +16158,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Write longer notes"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Your own chat sounds"
 ],
 [
 "com.facebook.orca",
@@ -16151,6 +16381,11 @@
 ],
 [
 "com.fillobotto.mp3tagger",
+"Hxreborn",
+"Unlock premium"
+],
+[
+"com.filmish.android",
 "Hxreborn",
 "Unlock premium"
 ],
@@ -17012,6 +17247,21 @@
 [
 "com.fyxtech.muslim",
 "Heval",
+"Hide Ad-Free button"
+],
+[
+"com.fyxtech.muslim",
+"Heval",
+"Hide Me tab extras"
+],
+[
+"com.fyxtech.muslim",
+"Heval",
+"Hide Messages tab"
+],
+[
+"com.fyxtech.muslim",
+"Heval",
 "Hide Ummah tab"
 ],
 [
@@ -17063,6 +17313,11 @@
 "com.gajihub.app",
 "Plyrs1",
 "Replace Google Maps API Key"
+],
+[
+"com.gamesforkids.animals.puzzles.jigsaw",
+"Sabrina-Moonlight",
+"Unlock premium"
 ],
 [
 "com.garnesapps.strukpom",
@@ -17175,6 +17430,61 @@
 "Enable Premium"
 ],
 [
+"com.ghost.detective.rpg",
+"Nai64",
+"Free Equipment Upgrades"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Free Purchases"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Unlimited Active Points"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Unlimited Ad-Free Tickets"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Unlimited Armor Shards"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Unlimited Diamonds"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Unlimited Gold"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Unlimited Keys"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Unlimited Materials"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Unlimited Skill Points"
+],
+[
+"com.ghost.detective.rpg",
+"Nai64",
+"Unlimited VIP Points"
+],
+[
 "com.giamping.sevpn",
 "Mwbra130",
 "Enable premium"
@@ -17203,6 +17513,11 @@
 "com.github.android",
 "Amfakh",
 "Glass navigation bar"
+],
+[
+"com.github.android",
+"Amfakh",
+"Hide tab labels"
 ],
 [
 "com.github.android",
@@ -19966,6 +20281,236 @@
 ],
 [
 "com.google.android.inputmethod.latin",
+"Havaem",
+"AI Writing Tools"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Access Points menu style"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Add Gboard Signature Bypass"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Advanced Voice Typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Backup & Restore"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Change emoji size"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Clipboard Custom Character Limit"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Clipboard Enhancements"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Close Proactive Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Custom Symbols"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Custom Theme"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Developer options"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Dictionaries & Predictions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Emojis, stickers & GIFs Tab Order"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Enable Inline Autofill Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Enable OCR / Scan Text"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Enable accessibility layout"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Enable cursor trackpad mode"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Enable split keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"English QWERTY Up-Flick Uppercase"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"FTP Server"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Floating Web Search"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Frosted Glass"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"G Logo on Spacebar"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Grammar Checker"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Incognito Mode Toggle"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Inline Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Key Shape Selection"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Keypress Vibration Intensity Control"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Latin Globe Key Ignore Interval"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Long-Press Editing Shortcuts"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Package Rename"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Quick Insert"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Rounded Keyboard Panel"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Settings Homepage Override"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Shift + Backspace Forward Delete"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Simple Calculator"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Swipe Down to Dismiss Keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Swipeable Custom Top Row"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Toolbar Editing Buttons"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Top Toolbar Item Count"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Use Bluetooth Microphone"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Web Clipboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Zhuyin Bottom Row Key Sizes"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Zhuyin Quick Traditional/Simplified Toggle"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Zhuyin Slide Input"
+],
+[
+"com.google.android.inputmethod.latin",
 "ImNoammm",
 "Access Points menu style"
 ],
@@ -20147,6 +20692,11 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Block Gboard telemetry"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Change package name"
 ],
 [
@@ -20283,6 +20833,11 @@
 "com.google.android.inputmethod.latin",
 "JohnInNL",
 "Toolbar Editing Buttons"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Top Toolbar Item Count"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -20728,6 +21283,31 @@
 "com.google.android.inputmethod.latin",
 "SmartWorldArafath",
 "Package Rename"
+],
+[
+"com.google.android.inputmethod.latin",
+"Srwi",
+"Custom Hold Popups"
+],
+[
+"com.google.android.inputmethod.latin",
+"Srwi",
+"MultiGlide"
+],
+[
+"com.google.android.inputmethod.latin",
+"Srwi",
+"Package Rename"
+],
+[
+"com.google.android.inputmethod.latin",
+"Srwi",
+"Thicc Top Bar"
+],
+[
+"com.google.android.inputmethod.latin",
+"Srwi",
+"Typing Effects"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -22003,6 +22583,11 @@
 "com.groundspeak.geocaching.intro",
 "ImNoammm",
 "Unlock map filters"
+],
+[
+"com.gsmarena.android",
+"Hxreborn",
+"Remove ads"
 ],
 [
 "com.guardian",
@@ -23917,6 +24502,16 @@
 [
 "com.instagram.android",
 "HushGram",
+"Keep HDR on photo uploads"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Keep HDR on video uploads"
+],
+[
+"com.instagram.android",
+"HushGram",
 "Keep Home's top bar"
 ],
 [
@@ -24168,6 +24763,11 @@
 "com.instagram.android",
 "HushGram",
 "Seek bar on stories"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Select all in Your activity"
 ],
 [
 "com.instagram.android",
@@ -26213,6 +26813,11 @@
 "com.kakao.talk",
 "Ample",
 "Remove tab banner ads"
+],
+[
+"com.kakao.talk",
+"Ample",
+"Show who hid messages or removed members"
 ],
 [
 "com.kakao.talk",
@@ -28302,6 +28907,11 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Auto-scroll videos"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Block tracking"
 ],
 [
@@ -28337,12 +28947,22 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Expand lnkd.in links"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Expand posts"
 ],
 [
 "com.linkedin.android",
 "Amfakh",
 "Feed filters"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Ghost mode"
 ],
 [
 "com.linkedin.android",
@@ -28357,6 +28977,21 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Hide \"Recommended for you\""
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide \"Show translation\""
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide Follow and Connect"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Hide Premium upsells"
 ],
 [
@@ -28367,7 +29002,37 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Hide celebration posts"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide connection degree"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide engagement counts"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Hide gaps and dividers"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide job posts"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide network activity"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide notification badges"
 ],
 [
 "com.linkedin.android",
@@ -28377,7 +29042,27 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Hide puzzle games"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide sponsored messages"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Hide suggested posts"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide tab labels"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Hide the \"New posts\" button"
 ],
 [
 "com.linkedin.android",
@@ -28387,7 +29072,17 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Hide video posts"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Keep feed on reopen"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Mark as read when you reply"
 ],
 [
 "com.linkedin.android",
@@ -28412,6 +29107,21 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Most recent comments first"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Muted authors"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Muted words"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Navigation bar"
 ],
 [
@@ -28427,12 +29137,32 @@
 [
 "com.linkedin.android",
 "Amfakh",
+"Puzzle games shortcut"
+],
+[
+"com.linkedin.android",
+"Amfakh",
 "Remove gaps and dividers"
 ],
 [
 "com.linkedin.android",
 "Amfakh",
 "Sanitize share links"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Show More tab items in profile menu"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Show exact post time"
+],
+[
+"com.linkedin.android",
+"Amfakh",
+"Show video time"
 ],
 [
 "com.linkedin.android",
@@ -29185,6 +29915,16 @@
 "Dead Trigger Free Store"
 ],
 [
+"com.magicposernew",
+"Hxreborn",
+"Disable tracking"
+],
+[
+"com.magicposernew",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.mail.mobile.android.mail",
 "Heval",
 "Disable ads"
@@ -29803,6 +30543,11 @@
 "com.metservice.kryten",
 "WindWanderer",
 "MetService Remove Splash Delay"
+],
+[
+"com.mi.android.globallauncher",
+"Rimixyz",
+"Enable non-Xiaomi device compatibility"
 ],
 [
 "com.mi.earphone",
@@ -30697,6 +31442,11 @@
 [
 "com.musclewiki.macro",
 "Hxreborn",
+"Clone routines"
+],
+[
+"com.musclewiki.macro",
+"Hxreborn",
 "GmsCore support"
 ],
 [
@@ -30968,6 +31718,11 @@
 "com.naraorganics.nara",
 "Hxreborn",
 "Remove forced update"
+],
+[
+"com.naraorganics.nara",
+"Hxreborn",
+"Remove rating prompts"
 ],
 [
 "com.naraorganics.nara",
@@ -33380,6 +34135,26 @@
 "Remove Ads"
 ],
 [
+"com.outfit7.mytalkingtom2",
+"Heval",
+"Disable ads"
+],
+[
+"com.outfit7.mytalkingtomfree",
+"Heval",
+"Disable ads"
+],
+[
+"com.outfit7.mytalkingtomfree",
+"Heval",
+"Free purchases"
+],
+[
+"com.outfit7.mytalkingtomfree",
+"Heval",
+"Freeze pet meters"
+],
+[
 "com.outscar.bd.bongcal",
 "Hxreborn",
 "Disable tracking"
@@ -35065,6 +35840,11 @@
 "Unlock Lifetime"
 ],
 [
+"com.proxyman.proxymanandroid",
+"Toidicakhia",
+"Unlock Pro"
+],
+[
 "com.psiphon3.subscription",
 "Hxreborn",
 "Unlock premium"
@@ -36083,6 +36863,11 @@
 "com.reddit.frontpage",
 "Alastor",
 "Reddit native post-menu originals (2026.41.0)"
+],
+[
+"com.reddit.frontpage",
+"BeepBoopMachine Reddit",
+"Download media"
 ],
 [
 "com.reddit.frontpage",
@@ -38312,6 +39097,11 @@
 [
 "com.sbs.diet",
 "CallMeBeyonder",
+"Stub App Check tokens"
+],
+[
+"com.sbs.diet",
+"CallMeBeyonder",
 "Unlock Premium (Root)"
 ],
 [
@@ -39358,6 +40148,11 @@
 "com.sofascore.results",
 "Heval",
 "Hide countries"
+],
+[
+"com.sofascore.results",
+"Heval",
+"Hide gambling warning pop-up"
 ],
 [
 "com.sofascore.results",
@@ -42728,6 +43523,11 @@
 "com.theappninjas.fakegpsjoystick",
 "Pigfoot",
 "GPS JoyStick: Premium"
+],
+[
+"com.theemulator.citra",
+"Hxreborn",
+"Remove ads"
 ],
 [
 "com.thehomedepot",
@@ -47897,6 +48697,11 @@
 [
 "com.viber.voip",
 "Hxreborn",
+"Ignore accents in contact search"
+],
+[
+"com.viber.voip",
+"Hxreborn",
 "Link as secondary device"
 ],
 [
@@ -48113,6 +48918,11 @@
 "com.vitotechnology.SolarWalk2Free",
 "Xtra",
 "Unlock Premium"
+],
+[
+"com.vivo.vivotws",
+"Nai64",
+"Accept any earphones"
 ],
 [
 "com.vk.im",
@@ -48628,6 +49438,16 @@
 "com.w3schools.app.prod",
 "RyuuseiAkira",
 "Disable tracking and analytics"
+],
+[
+"com.w3schools.app.prod",
+"RyuuseiAkira",
+"Enable developer tools"
+],
+[
+"com.w3schools.app.prod",
+"RyuuseiAkira",
+"Hide upgrade prompts"
 ],
 [
 "com.w3schools.app.prod",
@@ -50200,6 +51020,11 @@
 "BoldVoice subscription features"
 ],
 [
+"com.wellocution.androidapp",
+"XBadFellaX",
+"Disable upgrade nudges"
+],
+[
 "com.wetter.androidclient",
 "Hxreborn",
 "Unlock premium"
@@ -50613,6 +51438,11 @@
 "com.windium.proxman",
 "Tkiethuynh",
 "Unlock Premium"
+],
+[
+"com.windyty.android",
+"Amfakh",
+"GmsCore support"
 ],
 [
 "com.windyty.android",
@@ -51512,6 +52342,11 @@
 [
 "com.zhiliaoapp.musically",
 "Hushfeed",
+"Block sound on sound pages"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
 "Block suggested video notifications"
 ],
 [
@@ -51583,6 +52418,11 @@
 "com.zhiliaoapp.musically",
 "Hushfeed",
 "Hide read receipts"
+],
+[
+"com.zhiliaoapp.musically",
+"Hushfeed",
+"Hide sound page buttons"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -53632,6 +54472,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Mark as read from notifications"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Native signature fix"
 ],
 [
@@ -54998,6 +55843,11 @@
 "dev.vodik7.tvquickactions",
 "6zev",
 "Unlock premium"
+],
+[
+"dev.vodik7.tvquickactions",
+"6zev",
+"Unlock premium (native)"
 ],
 [
 "digivive.platform8.androidtv",
@@ -56643,6 +57493,11 @@
 "io.yuka.android",
 "Dowjames",
 "Unlock premium"
+],
+[
+"io.yuka.android",
+"Hxreborn",
+"Hide Search tab"
 ],
 [
 "io.yuka.android",
@@ -58318,6 +59173,11 @@
 "kgs.com.addmusictovideos",
 "Heval",
 "Enable Premium"
+],
+[
+"kr.co.devstory.vocat",
+"Hxreborn",
+"Unlock premium"
 ],
 [
 "kr.co.nowcom.mobile.afreeca",
@@ -65311,6 +66171,26 @@
 ],
 [
 "ru.zdevs.zarchiver",
+"Hxreborn",
+"Archive image thumbnails"
+],
+[
+"ru.zdevs.zarchiver",
+"Hxreborn",
+"Edit files in archives"
+],
+[
+"ru.zdevs.zarchiver",
+"Hxreborn",
+"Saved passwords"
+],
+[
+"ru.zdevs.zarchiver",
+"Hxreborn",
+"Unlock themes"
+],
+[
+"ru.zdevs.zarchiver",
 "MightyMich",
 "Unlock Premium Features"
 ],
@@ -66432,6 +67312,11 @@
 [
 "videoeditor.videorecorder.screenrecorder",
 "Rimixyz",
+"Disable receipt upload"
+],
+[
+"videoeditor.videorecorder.screenrecorder",
+"Rimixyz",
 "Disable remote config"
 ],
 [
@@ -66708,6 +67593,11 @@
 "wsj.reader_sp",
 "Semicoloncolonel Mobile",
 "Spoof carrier"
+],
+[
+"wtf.riedel.onesec",
+"Hxreborn",
+"Unlock Pro"
 ],
 [
 "xyz.blueskyweb.app",
