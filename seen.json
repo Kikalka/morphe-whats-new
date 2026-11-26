@@ -246,6 +246,26 @@
 ],
 [
 "__universal__",
+"Mben25",
+"Change package name"
+],
+[
+"__universal__",
+"Mben25",
+"Force hasSystemFeature true (narrow)"
+],
+[
+"__universal__",
+"Mben25",
+"Spoof Pixel model check (narrow)"
+],
+[
+"__universal__",
+"Mben25",
+"Strip root detection (narrow)"
+],
+[
+"__universal__",
 "MightyMich",
 "Remove Flag Secure"
 ],
@@ -7531,6 +7551,11 @@
 ],
 [
 "com.brave.browser",
+"Heval",
+"Userscripts"
+],
+[
+"com.brave.browser",
 "Ineednotitle",
 "Block Motion Sensors"
 ],
@@ -9467,7 +9492,27 @@
 [
 "com.chisadin.wazemod",
 "Quangmach",
+"Advanced Speedometer"
+],
+[
+"com.chisadin.wazemod",
+"Quangmach",
 "Waze Minimize Search Bar"
+],
+[
+"com.citynav.jakdojade.pl.android",
+"HagiaHaya",
+"Add mini-game shortcut"
+],
+[
+"com.citynav.jakdojade.pl.android",
+"HagiaHaya",
+"GmsCore support"
+],
+[
+"com.citynav.jakdojade.pl.android",
+"HagiaHaya",
+"Unlock premium"
 ],
 [
 "com.citynav.jakdojade.pl.android",
@@ -13697,12 +13742,27 @@
 [
 "com.epicchannel.epicon",
 "Media",
+"Access content (TV)"
+],
+[
+"com.epicchannel.epicon",
+"Media",
 "Bypass PairIP"
 ],
 [
 "com.epicchannel.epicon",
 "Media",
+"Default source"
+],
+[
+"com.epicchannel.epicon",
+"Media",
 "Free content"
+],
+[
+"com.epicchannel.epicon",
+"Media",
+"Free content (TV)"
 ],
 [
 "com.epicchannel.epicon",
@@ -14872,6 +14932,11 @@
 [
 "com.facebook.katana",
 "Hushfacebook",
+"Save files to Downloads"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
 "Saved button in search"
 ],
 [
@@ -15693,6 +15758,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Search saved messages"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"See-through tab bar"
 ],
 [
 "com.facebook.orca",
@@ -26981,6 +27051,16 @@
 ],
 [
 "com.l",
+"Heval",
+"Disable ads"
+],
+[
+"com.l",
+"Heval",
+"Disable telemetry"
+],
+[
+"com.l",
 "JoFSlash",
 "Block tracking"
 ],
@@ -30143,6 +30223,16 @@
 "com.miui.miwallpaper.earth",
 "MatthewRiley05",
 "Unlock Earth Super Wallpaper"
+],
+[
+"com.miui.miwallpaper.moon",
+"MatthewRiley05",
+"Delay screen-off zoom-out (Moon)"
+],
+[
+"com.miui.miwallpaper.moon",
+"MatthewRiley05",
+"Moon Super Wallpaper (AOSP)"
 ],
 [
 "com.miui.notes",
@@ -36228,6 +36318,11 @@
 "com.reddit.frontpage",
 "Mubelotix",
 "Reroute API calls"
+],
+[
+"com.reddit.frontpage",
+"Pomee4",
+"Swipe actions"
 ],
 [
 "com.reddit.frontpage",
@@ -42500,6 +42595,21 @@
 "English translation"
 ],
 [
+"com.tenqube.notisave",
+"Rimixyz",
+"Disable ads and tracking"
+],
+[
+"com.tenqube.notisave",
+"Rimixyz",
+"Translate to Brazilian Portuguese"
+],
+[
+"com.tenqube.notisave",
+"Rimixyz",
+"Unlock premium"
+],
+[
 "com.teqtic.lockmeout",
 "AJcubes",
 "Unlock Premium"
@@ -48297,6 +48407,11 @@
 [
 "com.vkontakte.android",
 "PerfLite VK-Zen",
+"App icon colors"
+],
+[
+"com.vkontakte.android",
+"PerfLite VK-Zen",
 "Bypass VPN detection"
 ],
 [
@@ -49083,6 +49198,11 @@
 "com.waze",
 "Forsigh",
 "AMOLED Dark Mode For UI"
+],
+[
+"com.waze",
+"Forsigh",
+"Accept AARE as car host"
 ],
 [
 "com.waze",
@@ -66300,6 +66420,26 @@
 "Unlock Pro Features"
 ],
 [
+"videoeditor.videorecorder.screenrecorder",
+"Rimixyz",
+"Disable ads"
+],
+[
+"videoeditor.videorecorder.screenrecorder",
+"Rimixyz",
+"Disable analytics and tracking"
+],
+[
+"videoeditor.videorecorder.screenrecorder",
+"Rimixyz",
+"Disable remote config"
+],
+[
+"videoeditor.videorecorder.screenrecorder",
+"Rimixyz",
+"Unlock Pro"
+],
+[
 "videoplayer.videodownloader.downloader",
 "FTL",
 "Disable persistent foreground service"
@@ -66373,6 +66513,16 @@
 "vn.vtv.vtvgo",
 "Toidicakhia",
 "Video quality control"
+],
+[
+"vo.threes.free",
+"Aidan",
+"Remove Ads"
+],
+[
+"vo.threes.free",
+"Aidan",
+"Remove Tracking"
 ],
 [
 "voicechanger.voiceeffects.soundeffects.voiceavatar",
