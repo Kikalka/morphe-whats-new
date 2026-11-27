@@ -3771,6 +3771,11 @@
 ],
 [
 "com.amazon.mShop.android.business.shopping",
+"Axandel",
+"AMOLED dark theme"
+],
+[
+"com.amazon.mShop.android.business.shopping",
 "Ineednotitle",
 "Amazon: Stop feed video autoplay"
 ],
@@ -3818,6 +3823,11 @@
 "com.amazon.mShop.android.business.shopping",
 "Ineednotitle",
 "Remove ads"
+],
+[
+"com.amazon.mShop.android.shopping",
+"Axandel",
+"AMOLED dark theme"
 ],
 [
 "com.amazon.mShop.android.shopping",
@@ -10210,6 +10220,11 @@
 "Spoof signature"
 ],
 [
+"com.contechity.color_temp_meter",
+"Yuuki-Kagura",
+"Unlock Pro"
+],
+[
 "com.cosmic_watch.cosmicwatch",
 "Xtra",
 "Disable In-App Telemetry"
@@ -10848,6 +10863,31 @@
 "com.dcinside.app.android",
 "Ample",
 "Show live best on home"
+],
+[
+"com.dcinside.app.android",
+"Lumi-01",
+"DC Inside personal clean-up"
+],
+[
+"com.dcinside.app.android",
+"Lumi-01",
+"\uae00 \ubaa9\ub85d \ud398\uc774\uc9c0 \ud45c\uc2dc \uc124\uc815"
+],
+[
+"com.dcinside.app.android",
+"Lumi-01",
+"\ub514\uc2dc \uc571 \uc5c5\ub370\uc774\ud2b8 \uc548\ub0b4 \uc124\uc815"
+],
+[
+"com.dcinside.app.android",
+"Lumi-01",
+"\uc571 \uc548\uc5d0\uc11c \ud648 \ud654\uba74 \uc124\uc815"
+],
+[
+"com.dcinside.app.android",
+"Lumi-01",
+"\uc791\uc131\uc790 \uc544\uc774\ub514\u00b7IP \uc815\ubcf4"
 ],
 [
 "com.dealnews.android.ui",
@@ -15502,6 +15542,11 @@
 [
 "com.facebook.orca",
 "HushMessenger",
+"Ask before messaging people you don't know"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
 "Auto reply"
 ],
 [
@@ -16008,6 +16053,11 @@
 "com.facebook.orca",
 "HushMessenger",
 "Show People tab"
+],
+[
+"com.facebook.orca",
+"HushMessenger",
+"Show Remove contact"
 ],
 [
 "com.facebook.orca",
@@ -16553,6 +16603,11 @@
 "com.fitbit.FitbitMobile",
 "Madushas",
 "Remove ads"
+],
+[
+"com.fitness.debugger",
+"DanielTheManiel",
+"Auto Stop After Distance"
 ],
 [
 "com.fivemobile.thescore",
@@ -17502,6 +17557,16 @@
 [
 "com.github.android",
 "Amfakh",
+"Collapse bot comments"
+],
+[
+"com.github.android",
+"Amfakh",
+"Collapse long code blocks"
+],
+[
+"com.github.android",
+"Amfakh",
 "Disable analytics"
 ],
 [
@@ -17522,12 +17587,27 @@
 [
 "com.github.android",
 "Amfakh",
+"Icon-only floating buttons"
+],
+[
+"com.github.android",
+"Amfakh",
+"Labels in the header"
+],
+[
+"com.github.android",
+"Amfakh",
 "Landscape navigation bar position"
 ],
 [
 "com.github.android",
 "Amfakh",
 "Material You"
+],
+[
+"com.github.android",
+"Amfakh",
+"Mermaid diagrams"
 ],
 [
 "com.github.android",
@@ -17542,7 +17622,42 @@
 [
 "com.github.android",
 "Amfakh",
+"Recently updated first"
+],
+[
+"com.github.android",
+"Amfakh",
+"Release download count"
+],
+[
+"com.github.android",
+"Amfakh",
+"Repository age"
+],
+[
+"com.github.android",
+"Amfakh",
+"Shorten links"
+],
+[
+"com.github.android",
+"Amfakh",
+"Show exact time"
+],
+[
+"com.github.android",
+"Amfakh",
+"Show whitespace"
+],
+[
+"com.github.android",
+"Amfakh",
 "Smaller navigation bar"
+],
+[
+"com.github.android",
+"Amfakh",
+"Tab width"
 ],
 [
 "com.github.android",
@@ -17883,6 +17998,51 @@
 "com.google.android.GoogleCamera",
 "Kekimurus",
 "Video Boost startup state"
+],
+[
+"com.google.android.GoogleCamera",
+"Matteomorganti",
+"Camera Looks Backport"
+],
+[
+"com.google.android.GoogleCamera",
+"Matteomorganti",
+"Permanent Portrait Mode Fix"
+],
+[
+"com.google.android.GoogleCamera",
+"Matteomorganti",
+"Pixel 10 Photo Saving Fix"
+],
+[
+"com.google.android.GoogleCamera",
+"Matteomorganti",
+"Pixel Camera Clone (Non-Root)"
+],
+[
+"com.google.android.GoogleCamera",
+"Matteomorganti",
+"Pixel Camera Creator Suite"
+],
+[
+"com.google.android.GoogleCamera",
+"Matteomorganti",
+"Use Morphe Google Photos"
+],
+[
+"com.google.android.GoogleCamera",
+"Matteomorganti",
+"Use third-party gallery"
+],
+[
+"com.google.android.GoogleCamera",
+"Matteomorganti",
+"Use third-party gallery on lock screen"
+],
+[
+"com.google.android.GoogleCamera",
+"Matteomorganti",
+"Viewfinder Quick Access Controls"
 ],
 [
 "com.google.android.GoogleCamera",
@@ -19580,6 +19740,11 @@
 "Liquid Glass navigation bar"
 ],
 [
+"com.google.android.apps.youtube.music",
+"iAmGodKiller",
+"M3 Redesign addon"
+],
+[
 "com.google.android.apps.youtube.unplugged",
 "Semicoloncolonel",
 "Block telemetry"
@@ -19980,6 +20145,11 @@
 "Conversation update warning compatibility"
 ],
 [
+"com.google.android.googlequicksearchbox",
+"Ryuya0124 Gemini",
+"Gemini haptic feedback setting"
+],
+[
 "com.google.android.inputmethod.latin",
 "Abotmaker",
 "Rambler App Context"
@@ -20327,6 +20497,11 @@
 [
 "com.google.android.inputmethod.latin",
 "Havaem",
+"Custom Stickers"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
 "Custom Symbols"
 ],
 [
@@ -20473,6 +20648,11 @@
 "com.google.android.inputmethod.latin",
 "Havaem",
 "Swipeable Custom Top Row"
+],
+[
+"com.google.android.inputmethod.latin",
+"Havaem",
+"Text Expander"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -20712,6 +20892,11 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Custom Symbols"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Custom Theme"
 ],
 [
@@ -20742,6 +20927,11 @@
 [
 "com.google.android.inputmethod.latin",
 "JohnInNL",
+"Grammar Checker"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
 "Hidden flags (18.8)"
 ],
 [
@@ -20753,6 +20943,11 @@
 "com.google.android.inputmethod.latin",
 "JohnInNL",
 "Key Shape Selection"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Long-Press Editing Shortcuts"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -20818,6 +21013,11 @@
 "com.google.android.inputmethod.latin",
 "JohnInNL",
 "Rounded Keyboard Panel"
+],
+[
+"com.google.android.inputmethod.latin",
+"JohnInNL",
+"Shift + Backspace Forward Delete"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -22001,6 +22201,11 @@
 ],
 [
 "com.google.android.youtube",
+"1-Felix",
+"Jimaku"
+],
+[
+"com.google.android.youtube",
 "DanielTheManiel",
 "Current Frame Media Artwork"
 ],
@@ -22058,6 +22263,46 @@
 "com.google.android.youtube.tv",
 "Android TV",
 "Skip ads"
+],
+[
+"com.google.android.youtube.tv",
+"Birdy",
+"BirdyTV settings and scripts"
+],
+[
+"com.google.android.youtube.tv",
+"Birdy",
+"Custom branding"
+],
+[
+"com.google.android.youtube.tv",
+"Birdy",
+"Disable start on boot"
+],
+[
+"com.google.android.youtube.tv",
+"Birdy",
+"Fix volume keys"
+],
+[
+"com.google.android.youtube.tv",
+"Birdy",
+"GmsCore support"
+],
+[
+"com.google.android.youtube.tv",
+"Birdy",
+"Performance diagnostics"
+],
+[
+"com.google.android.youtube.tv",
+"Birdy",
+"Run without Google Play Services"
+],
+[
+"com.google.android.youtube.tv",
+"Birdy",
+"Spoof device"
 ],
 [
 "com.google.android.youtube.tv",
@@ -23853,6 +24098,11 @@
 "com.instagram.android",
 "Aic0d3r",
 "Suggested accounts in the story tray"
+],
+[
+"com.instagram.android",
+"Brandonp2412",
+"Hide follow recommendations"
 ],
 [
 "com.instagram.android",
@@ -27753,6 +28003,126 @@
 "com.lastwave.app",
 "JacksonJones2003",
 "Pause on fold"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Center media in posts"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Clean up root settings menu"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Clean up root settings menu (resources)"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Fix blank images in post bodies"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Fix comment image margins from missing dimensions"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Fix inline comment/post images"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Hide online user counter"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Rebrand About screen"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Rebrand About screen (resources)"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Gestures settings"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Gestures settings (resources)"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Privacy section"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Restore purchases"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Restore purchases (resources)"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Sync Ultra screen"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Sync Ultra screen (resources)"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Ultra cloud backup"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Ultra cloud backup (resources)"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Website previews"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove Website previews (resources)"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove ads"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove telemetry"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Remove telemetry (resources)"
+],
+[
+"com.laurencedawson.reddit_sync",
+"AfterSync",
+"Unlock Sync Ultra"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -37450,6 +37820,66 @@
 "Temp user"
 ],
 [
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Custom bottom tabs"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Custom skip intervals"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Disable game alerts"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Disable tracking"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Hide Listen button"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Hide ads"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Hide leagues"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Save watch position often"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Stay on Scores when watching"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Video quality"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Watch from Scores"
+],
+[
+"com.rogers.sportsnet.sportsnet",
+"Sftsang",
+"Watch tab opens on a league"
+],
+[
 "com.roku.web.trc",
 "Semicoloncolonel TV",
 "Disable Pairip license check"
@@ -38660,6 +39090,11 @@
 "Turn off telemetry"
 ],
 [
+"com.samsung.android.app.notes",
+"TrayChewy",
+"Force dark mode"
+],
+[
 "com.samsung.android.app.reminder",
 "Bearinmind",
 "Enable non-One UI ROM support"
@@ -39490,6 +39925,81 @@
 "Theme color on bottom bar"
 ],
 [
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"AMOLED Black & Bottom Bar Transparency"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Auto-close unused tabs: After 1 day"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Block third-party cookies by default"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Built-in Google Translate engine"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Change package and app name"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Disable Update Prompts & Badges"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"External downloader support"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Remove 99-Tab Limit"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Remove telemetry, promotions & updates"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"SBrowserX Settings, Extensions & Privacy Core"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Third-Party Autofill Support"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Unified Dark Mode & True AMOLED Websites"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Unlock Chrome Web Store & Extensions"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Unlock Compact Layout"
+],
+[
+"com.sec.android.app.sbrowser",
+"SBrowserX",
+"Unlock Debug settings menu"
+],
+[
 "com.sec.android.app.shealth",
 "Bearinmind",
 "Health sharing on non-Samsung phones"
@@ -39693,6 +40203,61 @@
 "com.sgnoogle.tickdrop",
 "Danieleavolio",
 "Unlock Plus"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Character editor"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Enemy editor"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Floor editor"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Fun"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Hunger editor"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Inventory editor"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"QoL enhancements"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Save management"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Supporter options"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Teleport"
+],
+[
+"com.shatteredpixel.shatteredpixeldungeon",
+"Erobertsme",
+"Unlock all"
 ],
 [
 "com.shazam.android",
@@ -46366,6 +46931,11 @@
 ],
 [
 "com.twitter.android",
+"ErnestTrung",
+"Post filters"
+],
+[
+"com.twitter.android",
 "Kirby1997",
 "Bypass PairIP integrity"
 ],
@@ -49851,6 +50421,46 @@
 ],
 [
 "com.waze",
+"Aaayd",
+"Android Auto police alert distance"
+],
+[
+"com.waze",
+"Aaayd",
+"Android Auto setup"
+],
+[
+"com.waze",
+"Aaayd",
+"Detailed report icons at normal sizes"
+],
+[
+"com.waze",
+"Aaayd",
+"Rank badge selector"
+],
+[
+"com.waze",
+"Aaayd",
+"Selectable map themes"
+],
+[
+"com.waze",
+"Aaayd",
+"Selectable report icon packs"
+],
+[
+"com.waze",
+"Aaayd",
+"Speed camera sound below speed limit"
+],
+[
+"com.waze",
+"Aaayd",
+"Unlock driver moods"
+],
+[
+"com.waze",
 "Ak800i",
 "Voice pack import and export"
 ],
@@ -50318,6 +50928,11 @@
 "com.waze",
 "Forsigh",
 "YouTube Music as a Waze audio partner"
+],
+[
+"com.waze",
+"Heltonricardo",
+"Hide route balloons"
 ],
 [
 "com.waze",
@@ -53991,6 +54606,11 @@
 ],
 [
 "com.zhiliaoapp.musically",
+"d0r4nn",
+"MergenV1 UI Enhancer"
+],
+[
+"com.zhiliaoapp.musically",
 "non7043",
 "Always show publish date"
 ],
@@ -54223,6 +54843,11 @@
 "com.zhiliaoapp.musically.go",
 "Hushfeed",
 "Change app name"
+],
+[
+"com.zhiliaoapp.musically.go",
+"Hushfeed",
+"Dark mode"
 ],
 [
 "com.zhiliaoapp.musically.go",
@@ -55520,6 +56145,11 @@
 "Auto claim coupons"
 ],
 [
+"de.rossmann.app.android",
+"Gogamid",
+"Auto claim coupons"
+],
+[
 "de.rtli.tvnow",
 "Ysamjo",
 "RTL+ Werbung deaktivieren (Yospace DAI)"
@@ -56465,6 +57095,11 @@
 "Video buffer"
 ],
 [
+"fyi.slot.konkr",
+"Saiyupunch",
+"Android 11 support"
+],
+[
 "gg.sunday.hamsterescape",
 "Sabrina-Moonlight",
 "Unlock purchases"
@@ -57011,6 +57646,11 @@
 ],
 [
 "in.amazon.mShop.android.shopping",
+"Axandel",
+"AMOLED dark theme"
+],
+[
+"in.amazon.mShop.android.shopping",
 "Debakar",
 "Install alongside original"
 ],
@@ -57338,6 +57978,36 @@
 "io.homeassistant.companion.android",
 "M4TH1EU",
 "Allow Veloce car host"
+],
+[
+"io.jagat.lite",
+"Pnam-ng",
+"Ch\u1eb7n qu\u1ea3ng c\u00e1o (Block Ads)"
+],
+[
+"io.jagat.lite",
+"Pnam-ng",
+"Ch\u1ec9nh s\u1eeda v\u1ecb tr\u00ed & \u0110\u00f3ng b\u0103ng to\u1ea1 \u0111\u1ed9 (Ghost Mode)"
+],
+[
+"io.jagat.lite",
+"Pnam-ng",
+"S\u1eeda l\u1ed7i b\u1ea3n \u0111\u1ed3 tr\u1eafng (Fix Blank Maps)"
+],
+[
+"io.jagat.lite",
+"Pnam-ng",
+"S\u1eeda l\u1ed7i \u0111\u0103ng nh\u1eadp Facebook (Fix Facebook Login)"
+],
+[
+"io.jagat.lite",
+"Pnam-ng",
+"T\u1ed1i \u01b0u pin & Gi\u1ea3m t\u1ea3i n\u1ec1n (Battery Optimization)"
+],
+[
+"io.japp.blackscreen",
+"Yuuki-Kagura",
+"Unlock premium"
 ],
 [
 "io.lightray.photone",
@@ -61735,6 +62405,11 @@
 "Material 3 settings"
 ],
 [
+"org.jbarrel.targapp",
+"Parideboy",
+"Unlock Pro"
+],
+[
 "org.lds.ldssa",
 "Rubenaaroncalahorra",
 "Force fullscreen"
@@ -64633,6 +65308,11 @@
 "pl.inpost.inmobile",
 "RikoDEV",
 "Custom Google Maps key"
+],
+[
+"pl.inpost.inmobile",
+"RikoDEV",
+"Default to parcel tracking"
 ],
 [
 "pl.inpost.inmobile",

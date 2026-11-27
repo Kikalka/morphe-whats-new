@@ -1,5 +1,4 @@
 {
- "[\"fyi.slot.konkr\", \"Saiyupunch\", \"Android 11 support\"]": "2026-11-25T19:52:07.975087+00:00",
  "[\"app.myspoti.dev\", \"Pomee4\", \"Keep the playlist in car playback\"]": "2026-11-26T04:03:41.393010+00:00",
  "[\"__universal__\", \"Nai64\", \"Ads Free Rewards\"]": "2026-11-26T19:28:53.086788+00:00",
  "[\"__universal__\", \"Nai64\", \"Free In-app Purchases\"]": "2026-11-26T19:28:53.086788+00:00",
@@ -435,5 +434,13 @@
  "[\"in.startv.hotstartvonly\", \"Vippium\", \"Force Dolby Vision\"]": "2026-11-26T19:28:53.086788+00:00",
  "[\"in.startv.hotstartvonly\", \"Vippium\", \"Force HDR10\"]": "2026-11-26T19:28:53.086788+00:00",
  "[\"in.startv.hotstartvonly\", \"Vippium\", \"Premium unlock\"]": "2026-11-26T19:28:53.086788+00:00",
- "[\"in.startv.hotstartvonly\", \"Vippium\", \"Remove ads\"]": "2026-11-26T19:28:53.086788+00:00"
+ "[\"in.startv.hotstartvonly\", \"Vippium\", \"Remove ads\"]": "2026-11-26T19:28:53.086788+00:00",
+ "[\"__universal__\", \"Birdy\", \"Clone app\"]": "2026-11-27T04:01:39.459830+00:00",
+ "[\"__universal__\", \"Oscski\", \"Prevent screenshot detection\"]": "2026-11-27T04:01:39.459830+00:00",
+ "[\"__universal__\", \"Oscski\", \"Remove screenshot restriction\"]": "2026-11-27T04:01:39.459830+00:00",
+ "[\"__universal__\", \"Oscski\", \"Spoof SIM provider\"]": "2026-11-27T04:01:39.459830+00:00",
+ "[\"__universal__\", \"Oscski\", \"Spoof Wi-Fi connection\"]": "2026-11-27T04:01:39.459830+00:00",
+ "[\"__universal__\", \"TrayChewy\", \"Force dark mode (any app)\"]": "2026-11-27T04:01:39.459830+00:00",
+ "[\"__universal__\", \"Yuuki-Kagura\", \"Disable PairIP license check\"]": "2026-11-27T04:01:39.459830+00:00",
+ "[\"ua.kino\", \"rareMaxim\", \"Disable ads\"]": "2026-11-27T04:01:39.459830+00:00"
 }
