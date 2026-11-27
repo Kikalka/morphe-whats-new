@@ -322,6 +322,11 @@
 [
 "ai.regainapp",
 "AWTMODS",
+"MicroG-RE support"
+],
+[
+"ai.regainapp",
+"AWTMODS",
 "Pro user unlock"
 ],
 [
@@ -550,6 +555,31 @@
 "eppy"
 ],
 [
+"ak.alizandro.smartaudiobookplayer",
+"USFHunTer",
+"Block Google billing logging"
+],
+[
+"ak.alizandro.smartaudiobookplayer",
+"USFHunTer",
+"Material You theme"
+],
+[
+"ak.alizandro.smartaudiobookplayer",
+"USFHunTer",
+"Modern font"
+],
+[
+"ak.alizandro.smartaudiobookplayer",
+"USFHunTer",
+"Sync between devices"
+],
+[
+"ak.alizandro.smartaudiobookplayer",
+"USFHunTer",
+"eppy"
+],
+[
 "andes.oplus.documentsreader",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
@@ -668,6 +698,11 @@
 "app.modprod.atvlink.base",
 "MOD-PROD Creator",
 "ATV Launcher"
+],
+[
+"app.myspoti.dev",
+"Pomee4",
+"Keep the playlist in car playback"
 ],
 [
 "app.myspoti.stable",
@@ -2372,6 +2407,11 @@
 [
 "com.Nanasaki.ftutter",
 "Rikunode Futat\u01019",
+"Append futatabi version to device info"
+],
+[
+"com.Nanasaki.ftutter",
+"Rikunode Futat\u01019",
 "Block banner ads"
 ],
 [
@@ -2393,6 +2433,11 @@
 "com.Nanasaki.ftutter",
 "Rikunode Futat\u01019",
 "Local board bridge"
+],
+[
+"com.Nanasaki.ftutter",
+"Rikunode Futat\u01019",
+"Manage viewing cache"
 ],
 [
 "com.Nanasaki.ftutter",
@@ -2863,6 +2908,11 @@
 "com.adamrocker.android.input.simeji",
 "Ayufa",
 "\u30a2\u30d7\u30ea\u5185\u8a2d\u5b9a\u753b\u9762\u3092\u8ffd\u52a0"
+],
+[
+"com.adamrocker.android.input.simeji",
+"Ayufa",
+"\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u30d1\u30cd\u30eb\u306b\u30ab\u30fc\u30bd\u30eb\u79fb\u52d5\u3092\u8ffd\u52a0"
 ],
 [
 "com.adamrocker.android.input.simeji",
@@ -3543,6 +3593,11 @@
 "com.alltrails.alltrails",
 "Bearinmind",
 "Remember filters"
+],
+[
+"com.alltrails.alltrails",
+"Bearinmind",
+"Remove telemetry"
 ],
 [
 "com.alltrails.alltrails",
@@ -10282,6 +10337,11 @@
 [
 "com.crazygames.crazygamesapp",
 "byehi98",
+"Bypass installer tamper check"
+],
+[
+"com.crazygames.crazygamesapp",
+"byehi98",
 "Google login via MicroG-RE"
 ],
 [
@@ -11323,6 +11383,421 @@
 "com.discord",
 "ClmentCch",
 "Richyss Bridge"
+],
+[
+"com.discord",
+"JaPatch",
+"Account switcher"
+],
+[
+"com.discord",
+"JaPatch",
+"Alert when you're removed"
+],
+[
+"com.discord",
+"JaPatch",
+"Always trust links and files"
+],
+[
+"com.discord",
+"JaPatch",
+"Anonymous file names"
+],
+[
+"com.discord",
+"JaPatch",
+"Banners in Do Not Disturb"
+],
+[
+"com.discord",
+"JaPatch",
+"Bring back Tenor GIFs"
+],
+[
+"com.discord",
+"JaPatch",
+"Bulk delete messages"
+],
+[
+"com.discord",
+"JaPatch",
+"Clean channel names"
+],
+[
+"com.discord",
+"JaPatch",
+"Clone emojis and stickers"
+],
+[
+"com.discord",
+"JaPatch",
+"Complete Quests automatically"
+],
+[
+"com.discord",
+"JaPatch",
+"Complete badges automatically"
+],
+[
+"com.discord",
+"JaPatch",
+"Compress big files"
+],
+[
+"com.discord",
+"JaPatch",
+"Copy profile bios"
+],
+[
+"com.discord",
+"JaPatch",
+"Custom branding"
+],
+[
+"com.discord",
+"JaPatch",
+"Custom idle time"
+],
+[
+"com.discord",
+"JaPatch",
+"Custom themes"
+],
+[
+"com.discord",
+"JaPatch",
+"Delete without a trace"
+],
+[
+"com.discord",
+"JaPatch",
+"Disable advertising identifiers"
+],
+[
+"com.discord",
+"JaPatch",
+"Disable analytics"
+],
+[
+"com.discord",
+"JaPatch",
+"Disable crash reporting"
+],
+[
+"com.discord",
+"JaPatch",
+"Disable install attribution"
+],
+[
+"com.discord",
+"JaPatch",
+"Disable telemetry and touch logging"
+],
+[
+"com.discord",
+"JaPatch",
+"Double-tap to reply"
+],
+[
+"com.discord",
+"JaPatch",
+"Download voice messages"
+],
+[
+"com.discord",
+"JaPatch",
+"Edit messages on this phone"
+],
+[
+"com.discord",
+"JaPatch",
+"Edit servers locally"
+],
+[
+"com.discord",
+"JaPatch",
+"Edit without \"(edited)\""
+],
+[
+"com.discord",
+"JaPatch",
+"Expand the message bar"
+],
+[
+"com.discord",
+"JaPatch",
+"Export chats"
+],
+[
+"com.discord",
+"JaPatch",
+"Fake deafen"
+],
+[
+"com.discord",
+"JaPatch",
+"Fast delete channels"
+],
+[
+"com.discord",
+"JaPatch",
+"Favourite any image or video"
+],
+[
+"com.discord",
+"JaPatch",
+"Fix link previews"
+],
+[
+"com.discord",
+"JaPatch",
+"Fix unknown mentions"
+],
+[
+"com.discord",
+"JaPatch",
+"Full-screen chat in landscape"
+],
+[
+"com.discord",
+"JaPatch",
+"Hide blocked or ignored messages"
+],
+[
+"com.discord",
+"JaPatch",
+"Hide typing indicator"
+],
+[
+"com.discord",
+"JaPatch",
+"HypeSquad house"
+],
+[
+"com.discord",
+"JaPatch",
+"Icon packs"
+],
+[
+"com.discord",
+"JaPatch",
+"JaPatch button on profile bar"
+],
+[
+"com.discord",
+"JaPatch",
+"JaPatch settings"
+],
+[
+"com.discord",
+"JaPatch",
+"Jump to first message"
+],
+[
+"com.discord",
+"JaPatch",
+"Keep Bluetooth audio clear in calls"
+],
+[
+"com.discord",
+"JaPatch",
+"Keep deleted messages"
+],
+[
+"com.discord",
+"JaPatch",
+"Keep media playing"
+],
+[
+"com.discord",
+"JaPatch",
+"Leave group DMs silently"
+],
+[
+"com.discord",
+"JaPatch",
+"Listen along"
+],
+[
+"com.discord",
+"JaPatch",
+"Load full-quality images"
+],
+[
+"com.discord",
+"JaPatch",
+"Material You colors"
+],
+[
+"com.discord",
+"JaPatch",
+"Message highlights"
+],
+[
+"com.discord",
+"JaPatch",
+"Mutual group DMs"
+],
+[
+"com.discord",
+"JaPatch",
+"Pastel name colors"
+],
+[
+"com.discord",
+"JaPatch",
+"Pause invites"
+],
+[
+"com.discord",
+"JaPatch",
+"Platform spoof"
+],
+[
+"com.discord",
+"JaPatch",
+"Preview servers without joining"
+],
+[
+"com.discord",
+"JaPatch",
+"Read all button"
+],
+[
+"com.discord",
+"JaPatch",
+"Remove anything"
+],
+[
+"com.discord",
+"JaPatch",
+"Replace text when sending"
+],
+[
+"com.discord",
+"JaPatch",
+"Reply without pinging"
+],
+[
+"com.discord",
+"JaPatch",
+"Send Nitro stickers and emojis as links"
+],
+[
+"com.discord",
+"JaPatch",
+"Send audio as voice messages"
+],
+[
+"com.discord",
+"JaPatch",
+"Send long messages"
+],
+[
+"com.discord",
+"JaPatch",
+"Server info"
+],
+[
+"com.discord",
+"JaPatch",
+"Show device indicators"
+],
+[
+"com.discord",
+"JaPatch",
+"Show file sizes when attaching"
+],
+[
+"com.discord",
+"JaPatch",
+"Show hidden channels"
+],
+[
+"com.discord",
+"JaPatch",
+"Show names your way"
+],
+[
+"com.discord",
+"JaPatch",
+"Show owner and mod tags"
+],
+[
+"com.discord",
+"JaPatch",
+"Show timeout duration"
+],
+[
+"com.discord",
+"JaPatch",
+"Skip delete confirmation"
+],
+[
+"com.discord",
+"JaPatch",
+"Skip pin confirmation"
+],
+[
+"com.discord",
+"JaPatch",
+"Streaming hours tracker"
+],
+[
+"com.discord",
+"JaPatch",
+"Tap mentions to open profiles"
+],
+[
+"com.discord",
+"JaPatch",
+"Translate messages"
+],
+[
+"com.discord",
+"JaPatch",
+"Unlock Discord experiments"
+],
+[
+"com.discord",
+"JaPatch",
+"Unlock Nitro themes"
+],
+[
+"com.discord",
+"JaPatch",
+"Unlock app icons"
+],
+[
+"com.discord",
+"JaPatch",
+"Use your phone's emojis"
+],
+[
+"com.discord",
+"JaPatch",
+"Use your phone's font"
+],
+[
+"com.discord",
+"JaPatch",
+"User activity notifications"
+],
+[
+"com.discord",
+"JaPatch",
+"User and server reviews"
+],
+[
+"com.discord",
+"JaPatch",
+"View raw data"
+],
+[
+"com.discord",
+"JaPatch",
+"Voice channel options"
 ],
 [
 "com.discord",
@@ -13790,6 +14265,31 @@
 "Sanitize sharing links"
 ],
 [
+"com.ebay.mobile",
+"Semicoloncolonel Mobile",
+"Block analytics & tracking"
+],
+[
+"com.ebay.mobile",
+"Semicoloncolonel Mobile",
+"Disable auto-updates"
+],
+[
+"com.ebay.mobile",
+"Semicoloncolonel Mobile",
+"Hide device identifiers"
+],
+[
+"com.ebay.mobile",
+"Semicoloncolonel Mobile",
+"Hide rating prompt"
+],
+[
+"com.ebay.mobile",
+"Semicoloncolonel Mobile",
+"Strip affiliate links"
+],
+[
 "com.eclipse.android",
 "JohnInNL",
 "Android Auto browse upgrade"
@@ -15133,6 +15633,11 @@
 "com.facebook.katana",
 "Hushfacebook",
 "Photo carousel"
+],
+[
+"com.facebook.katana",
+"Hushfacebook",
+"Pick the app icon"
 ],
 [
 "com.facebook.katana",
@@ -17370,6 +17875,46 @@
 "Replace Google Maps API Key"
 ],
 [
+"com.gameduell.mobile.belote",
+"Smtgpm",
+"Auto-collect daily wheel"
+],
+[
+"com.gameduell.mobile.belote",
+"Smtgpm",
+"Auto-open packs"
+],
+[
+"com.gameduell.mobile.belote",
+"Smtgpm",
+"Claim daily bonus automatically"
+],
+[
+"com.gameduell.mobile.belote",
+"Smtgpm",
+"Fast pack opening"
+],
+[
+"com.gameduell.mobile.belote",
+"Smtgpm",
+"Fast startup on VPN"
+],
+[
+"com.gameduell.mobile.belote",
+"Smtgpm",
+"MicroG-RE support"
+],
+[
+"com.gameduell.mobile.belote",
+"Smtgpm",
+"Remove ads"
+],
+[
+"com.gameduell.mobile.belote",
+"Smtgpm",
+"Rotate in both landscape directions"
+],
+[
 "com.gamesforkids.animals.puzzles.jigsaw",
 "Sabrina-Moonlight",
 "Unlock premium"
@@ -17557,12 +18102,47 @@
 [
 "com.github.android",
 "Amfakh",
+"Add Preview menu to HTML files"
+],
+[
+"com.github.android",
+"Amfakh",
+"Add collapsible section"
+],
+[
+"com.github.android",
+"Amfakh",
+"Add download menu to every file"
+],
+[
+"com.github.android",
+"Amfakh",
+"Add table"
+],
+[
+"com.github.android",
+"Amfakh",
+"Collapse bot and agent comments"
+],
+[
+"com.github.android",
+"Amfakh",
 "Collapse bot comments"
 ],
 [
 "com.github.android",
 "Amfakh",
 "Collapse long code blocks"
+],
+[
+"com.github.android",
+"Amfakh",
+"Conventional commits"
+],
+[
+"com.github.android",
+"Amfakh",
+"Dim bots and agents"
 ],
 [
 "com.github.android",
@@ -17577,12 +18157,57 @@
 [
 "com.github.android",
 "Amfakh",
+"Download assets natively"
+],
+[
+"com.github.android",
+"Amfakh",
+"Draw Mermaid diagrams"
+],
+[
+"com.github.android",
+"Amfakh",
+"Fold long code blocks"
+],
+[
+"com.github.android",
+"Amfakh",
 "Glass navigation bar"
 ],
 [
 "com.github.android",
 "Amfakh",
+"Hide + and - diff signs"
+],
+[
+"com.github.android",
+"Amfakh",
+"Hide Copilot disclaimer"
+],
+[
+"com.github.android",
+"Amfakh",
+"Hide low-quality comments"
+],
+[
+"com.github.android",
+"Amfakh",
+"Hide navigation bar labels"
+],
+[
+"com.github.android",
+"Amfakh",
 "Hide tab labels"
+],
+[
+"com.github.android",
+"Amfakh",
+"Home header text"
+],
+[
+"com.github.android",
+"Amfakh",
+"Icon-only Add to list button"
 ],
 [
 "com.github.android",
@@ -17598,6 +18223,21 @@
 "com.github.android",
 "Amfakh",
 "Landscape navigation bar position"
+],
+[
+"com.github.android",
+"Amfakh",
+"Linkify code"
+],
+[
+"com.github.android",
+"Amfakh",
+"Linkify user location"
+],
+[
+"com.github.android",
+"Amfakh",
+"Liquid Glass navigation bar"
 ],
 [
 "com.github.android",
@@ -17622,6 +18262,36 @@
 [
 "com.github.android",
 "Amfakh",
+"Navigation bar tabs"
+],
+[
+"com.github.android",
+"Amfakh",
+"Override tab width"
+],
+[
+"com.github.android",
+"Amfakh",
+"Pin important branches"
+],
+[
+"com.github.android",
+"Amfakh",
+"Pin recent branches"
+],
+[
+"com.github.android",
+"Amfakh",
+"Pitch black"
+],
+[
+"com.github.android",
+"Amfakh",
+"Preview hidden comments"
+],
+[
+"com.github.android",
+"Amfakh",
 "Recently updated first"
 ],
 [
@@ -17637,7 +18307,27 @@
 [
 "com.github.android",
 "Amfakh",
+"Shorten GitHub links"
+],
+[
+"com.github.android",
+"Amfakh",
 "Shorten links"
+],
+[
+"com.github.android",
+"Amfakh",
+"Show avatar before each @mention"
+],
+[
+"com.github.android",
+"Amfakh",
+"Show base branch in pull requests"
+],
+[
+"com.github.android",
+"Amfakh",
+"Show download count for assets"
 ],
 [
 "com.github.android",
@@ -17647,12 +18337,42 @@
 [
 "com.github.android",
 "Amfakh",
+"Show if a profile follows you"
+],
+[
+"com.github.android",
+"Amfakh",
+"Show labels in the header"
+],
+[
+"com.github.android",
+"Amfakh",
+"Show repository age"
+],
+[
+"com.github.android",
+"Amfakh",
+"Show tags on commits"
+],
+[
+"com.github.android",
+"Amfakh",
 "Show whitespace"
 ],
 [
 "com.github.android",
 "Amfakh",
+"Show whitespace marks"
+],
+[
+"com.github.android",
+"Amfakh",
 "Smaller navigation bar"
+],
+[
+"com.github.android",
+"Amfakh",
+"Sort by Recently updated first"
 ],
 [
 "com.github.android",
@@ -18208,6 +18928,21 @@
 "com.google.android.apps.googlevoice",
 "Abegumbo-ui",
 "Incoming call fix"
+],
+[
+"com.google.android.apps.magazines",
+"Sabopura",
+"Disable device account notification sync"
+],
+[
+"com.google.android.apps.magazines",
+"Sabopura",
+"Enable CustomTabs"
+],
+[
+"com.google.android.apps.magazines",
+"Sabopura",
+"GmsCore support"
 ],
 [
 "com.google.android.apps.magazines",
@@ -19096,6 +19831,161 @@
 ],
 [
 "com.google.android.apps.maps",
+"ShindouAris",
+"120 refresh rate"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Account sheet cleanup"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Add microG-RE support"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Add original microG support"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Android Auto Car App Library"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Any media app"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Better offline maps"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Black theme"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Blue pin"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Bypass Play Services checks"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Change app name"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Change package name"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Customization screen"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Follow playing media"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Hide ads and clutter"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Legacy icon"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Light map"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Location provider toggle"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Map region"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Media panel can be closed"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Offline saved places"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Power saving mode"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Proxy"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Rectangle shapes"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Remove permissions"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Remove sign-in prompts"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Remove telemetry"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Review counts in navigation search"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Speeding chime"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Trim account menu"
+],
+[
+"com.google.android.apps.maps",
+"ShindouAris",
+"Zoom controls in navigation"
+],
+[
+"com.google.android.apps.maps",
 "Shuili1013",
 "Add microG-RE support"
 ],
@@ -19247,6 +20137,11 @@
 [
 "com.google.android.apps.photos",
 "Akash Sriram",
+"Morphe Core"
+],
+[
+"com.google.android.apps.photos",
+"Akash Sriram",
 "Official package name"
 ],
 [
@@ -19388,6 +20283,11 @@
 "com.google.android.apps.youtube.music",
 "Bartlomiejfornalczyk",
 "Allow external media browser launch"
+],
+[
+"com.google.android.apps.youtube.music",
+"Big1mosha",
+"Self-hosted scrobbling"
 ],
 [
 "com.google.android.apps.youtube.music",
@@ -20712,6 +21612,11 @@
 [
 "com.google.android.inputmethod.latin",
 "ImNoammm",
+"Clipboard history"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
 "Close Proactive Suggestions"
 ],
 [
@@ -20793,6 +21698,11 @@
 "com.google.android.inputmethod.latin",
 "ImNoammm",
 "Runtime feature toggles"
+],
+[
+"com.google.android.inputmethod.latin",
+"ImNoammm",
+"Space bar row height"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -21466,6 +22376,306 @@
 ],
 [
 "com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"AI Writing Tools"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"AMOLED Dark Keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Access Points menu style"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Add Gboard Signature Bypass"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Advanced Voice Typing"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"At-Mention & Email Strip Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Backup & Restore"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Change emoji size"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Clipboard Custom Character Limit"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Clipboard Drag-to-Reorder"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Clipboard Enhancements"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Close Proactive Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Custom Symbols"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Custom Theme"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Developer options"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Dictionaries & Predictions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Emojis, stickers & GIFs Tab Order"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Enable Inline Autofill Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Enable OCR / Scan Text"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Enable accessibility layout"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Enable cursor trackpad mode"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Enable split keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"English QWERTY Up-Flick Uppercase"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"FTP Server"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Floating Web Search"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Frosted Glass"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"G Logo on Spacebar"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Grammar Checker"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Hidden Flags Override"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Incognito Mode Toggle"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Inline Suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Key Shape Selection"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Keypress Vibration Intensity Control"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Latin Globe Key Ignore Interval"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Long-Press Editing Shortcuts"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Package Rename"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Quick Insert"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler App Context"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler Bangla Lite Script Policy"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler Bangla Phonetic & Multilingual Engine"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler Contact Names"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler Cursor-Aware Editing"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler Custom Instructions"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler Personal Dictionary"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler Productivity Tools"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler Toolbar & Revert Extras"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rambler Waveform Animation"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Rounded Keyboard Panel"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Settings Homepage Override"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Shift + Backspace Forward Delete"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Simple Calculator"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Swipe Down to Dismiss Keyboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Swipeable Custom Top Row"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Toolbar Editing Buttons"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Top Toolbar Item Count"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Use Bluetooth Microphone"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Web Clipboard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Zhuyin Bottom Row Key Sizes"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Zhuyin Quick Traditional/Simplified Toggle"
+],
+[
+"com.google.android.inputmethod.latin",
+"Rambler Bangla",
+"Zhuyin Slide Input"
+],
+[
+"com.google.android.inputmethod.latin",
 "SmartWorldArafath",
 "AI Writing Tools"
 ],
@@ -21721,6 +22931,21 @@
 ],
 [
 "com.google.android.inputmethod.latin",
+"Zipzopzippy",
+"Enable feature flags"
+],
+[
+"com.google.android.inputmethod.latin",
+"Zipzopzippy",
+"Network guard"
+],
+[
+"com.google.android.inputmethod.latin",
+"Zipzopzippy",
+"Offline voice typing"
+],
+[
+"com.google.android.inputmethod.latin",
 "assc0d3r",
 "AI Writing Tools"
 ],
@@ -21798,6 +23023,11 @@
 "com.google.android.inputmethod.latin",
 "assc0d3r",
 "Cursor trackpad mode"
+],
+[
+"com.google.android.inputmethod.latin",
+"assc0d3r",
+"Custom Hold Popups"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -21977,6 +23207,11 @@
 [
 "com.google.android.inputmethod.latin",
 "assc0d3r",
+"MultiGlide"
+],
+[
+"com.google.android.inputmethod.latin",
+"assc0d3r",
 "Multilingual Suggestion"
 ],
 [
@@ -22127,6 +23362,11 @@
 [
 "com.google.android.inputmethod.latin",
 "assc0d3r",
+"Thicc Top Bar"
+],
+[
+"com.google.android.inputmethod.latin",
+"assc0d3r",
 "Toolbar Editing Buttons"
 ],
 [
@@ -22138,6 +23378,11 @@
 "com.google.android.inputmethod.latin",
 "assc0d3r",
 "Translucent Bottom Bar"
+],
+[
+"com.google.android.inputmethod.latin",
+"assc0d3r",
+"Typing Effects"
 ],
 [
 "com.google.android.inputmethod.latin",
@@ -22178,6 +23423,11 @@
 "com.google.android.projection.gearhead",
 "Plyrs1",
 "Allow sideloaded apps"
+],
+[
+"com.google.android.projection.gearhead",
+"ccloud-admin",
+"Allow apps from any installer"
 ],
 [
 "com.google.android.vr.home",
@@ -22241,8 +23491,38 @@
 ],
 [
 "com.google.android.youtube",
+"Sabopura",
+"Ambient light"
+],
+[
+"com.google.android.youtube",
+"Sabopura",
+"Danmaku comments"
+],
+[
+"com.google.android.youtube",
+"Sharklatan",
+"SharkLatan AirPlay"
+],
+[
+"com.google.android.youtube",
 "Vaas1k",
 "Gemini Ask"
+],
+[
+"com.google.android.youtube",
+"iAmGodKiller",
+"Remove top black bar"
+],
+[
+"com.google.android.youtube",
+"iAmGodKiller",
+"Scroll away home toolbar"
+],
+[
+"com.google.android.youtube",
+"xD33m",
+"Report Shorts to Watchtime Tracker"
 ],
 [
 "com.google.android.youtube.tv",
@@ -22293,6 +23573,11 @@
 "com.google.android.youtube.tv",
 "Birdy",
 "Performance diagnostics"
+],
+[
+"com.google.android.youtube.tv",
+"Birdy",
+"Picture-in-Picture (PiP)"
 ],
 [
 "com.google.android.youtube.tv",
@@ -23950,6 +25235,51 @@
 "Unlock premium"
 ],
 [
+"com.imo.android.imoimhd",
+"Loki",
+"Allow screenshots (IMO)"
+],
+[
+"com.imo.android.imoimhd",
+"Loki",
+"Allow sending apps (IMO)"
+],
+[
+"com.imo.android.imoimhd",
+"Loki",
+"Allow story recording during calls (IMO)"
+],
+[
+"com.imo.android.imoimhd",
+"Loki",
+"Disappearing messages (IMO)"
+],
+[
+"com.imo.android.imoimhd",
+"Loki",
+"Hide Premium on Me page (IMO)"
+],
+[
+"com.imo.android.imoimhd",
+"Loki",
+"Hide emoji suggestions (IMO)"
+],
+[
+"com.imo.android.imoimhd",
+"Loki",
+"Hide voice rooms tab (IMO)"
+],
+[
+"com.imo.android.imoimhd",
+"Loki",
+"Remove ads (IMO)"
+],
+[
+"com.imo.android.imoimhd",
+"Loki",
+"Spoof signature (IMO)"
+],
+[
 "com.indymobileapp.document.scanner",
 "SailHighSea",
 "Disable popups"
@@ -24207,6 +25537,11 @@
 [
 "com.instagram.android",
 "Hemk651",
+"Clone package"
+],
+[
+"com.instagram.android",
+"Hemk651",
 "Remove ads"
 ],
 [
@@ -24283,6 +25618,11 @@
 "com.instagram.android",
 "HushGram",
 "Back leaves Home"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Block likes, replies and posts in Ghost mode"
 ],
 [
 "com.instagram.android",
@@ -24903,6 +26243,11 @@
 "com.instagram.android",
 "HushGram",
 "Preview chats"
+],
+[
+"com.instagram.android",
+"HushGram",
+"Primary and General tabs"
 ],
 [
 "com.instagram.android",
@@ -27497,6 +28842,11 @@
 [
 "com.kick.mobile",
 "SeyTheGamer Android TV",
+"CHAT BACKGROUND"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Android TV",
 "CHAT SIZE"
 ],
 [
@@ -27508,6 +28858,11 @@
 "com.kick.mobile",
 "SeyTheGamer Android TV",
 "DEFAULT HOME DESTINATION"
+],
+[
+"com.kick.mobile",
+"SeyTheGamer Android TV",
+"DEFAULT SPLIT VIEW"
 ],
 [
 "com.kick.mobile",
@@ -28453,6 +29808,41 @@
 "com.laurencedawson.reddit_sync",
 "Mix",
 "Use Reddit web session"
+],
+[
+"com.laurencedawson.reddit_sync",
+"OgunHva",
+"Color comment scores"
+],
+[
+"com.laurencedawson.reddit_sync",
+"OgunHva",
+"Color post scores"
+],
+[
+"com.laurencedawson.reddit_sync",
+"OgunHva",
+"Hide the card dropdown button"
+],
+[
+"com.laurencedawson.reddit_sync",
+"OgunHva",
+"Keep links in post previews"
+],
+[
+"com.laurencedawson.reddit_sync",
+"OgunHva",
+"Move the card score to the bottom"
+],
+[
+"com.laurencedawson.reddit_sync",
+"OgunHva",
+"Show commenter's top subreddits"
+],
+[
+"com.laurencedawson.reddit_sync",
+"OgunHva",
+"Use /user/ for profiles"
 ],
 [
 "com.laurencedawson.reddit_sync",
@@ -31980,6 +33370,16 @@
 "Unlock MX Player Pro"
 ],
 [
+"com.mxtech.videoplayer.pro",
+"VitaTaf",
+"Bypass MX Player re-signing protection"
+],
+[
+"com.mxtech.videoplayer.pro",
+"VitaTaf",
+"Strip HDR10+ dynamic metadata (HW+)"
+],
+[
 "com.myfitnesspal.android",
 "Heval",
 "Disable Datadog telemetry"
@@ -32108,6 +33508,11 @@
 "com.naturalmotion.csrracing",
 "byehi98",
 "Unlimited Gold"
+],
+[
+"com.navercorp.game.android.community",
+"Ample",
+"Fix KeyBox initialization"
 ],
 [
 "com.navercorp.game.android.community",
@@ -32603,6 +34008,11 @@
 "com.netflix.mediaclient",
 "Semicoloncolonel Mobile",
 "Disable autoplay"
+],
+[
+"com.netflix.mediaclient",
+"Semicoloncolonel Mobile",
+"Do not exit the player when paused (experimental)"
 ],
 [
 "com.netflix.mediaclient",
@@ -34215,6 +35625,11 @@
 "Enable non-ColorOS ROM support"
 ],
 [
+"com.oneplus.deskclock",
+"Bearinmind",
+"Remove telemetry"
+],
+[
 "com.oneplus.filemanager",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
@@ -34228,6 +35643,11 @@
 "com.oneplus.note",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
+],
+[
+"com.oneplus.note",
+"Bearinmind",
+"Remove telemetry"
 ],
 [
 "com.oneplus.soundrecorder",
@@ -34458,6 +35878,11 @@
 "com.oplus.screenrecorder",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
+],
+[
+"com.oplus.screenrecorder",
+"Bearinmind",
+"Remove telemetry"
 ],
 [
 "com.optimageeks.vehico_app",
@@ -35813,6 +37238,21 @@
 "com.pinterest",
 "Oyasumi",
 "Neutralize advertising ID"
+],
+[
+"com.pinterest",
+"Sabopura",
+"Disable Bugsnag Telemetry"
+],
+[
+"com.pinterest",
+"Sabopura",
+"Disable General Telemetry"
+],
+[
+"com.pinterest",
+"Sabopura",
+"Remove Promoted Pins"
 ],
 [
 "com.pinterest",
@@ -37317,6 +38757,11 @@
 [
 "com.reddit.frontpage",
 "Bin0culars",
+"High-contrast navigation buttons"
+],
+[
+"com.reddit.frontpage",
+"Bin0culars",
 "Home feed tabs"
 ],
 [
@@ -37478,6 +38923,11 @@
 "com.reddit.frontpage",
 "Pomee4",
 "Swipe actions"
+],
+[
+"com.reddit.frontpage",
+"Sabopura",
+"Auto-translate Reddit content"
 ],
 [
 "com.reddit.frontpage",
@@ -38987,6 +40437,11 @@
 [
 "com.samsung.android.app.notes",
 "Bearinmind",
+"Change package name"
+],
+[
+"com.samsung.android.app.notes",
+"Bearinmind",
 "Disable telemetry"
 ],
 [
@@ -39117,12 +40572,22 @@
 [
 "com.samsung.android.calendar",
 "Bearinmind",
+"Change package name"
+],
+[
+"com.samsung.android.calendar",
+"Bearinmind",
 "Enable non-One UI ROM support"
 ],
 [
 "com.samsung.android.dialer",
 "Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.samsung.android.email.provider",
+"Bearinmind",
+"Change package name"
 ],
 [
 "com.samsung.android.email.provider",
@@ -39168,6 +40633,11 @@
 "com.samsung.android.game.gamehome",
 "RatataBananana-Bit",
 "Use Android game list"
+],
+[
+"com.samsung.android.goodlock",
+"Bearinmind",
+"Change package name"
 ],
 [
 "com.samsung.android.goodlock",
@@ -39262,6 +40732,11 @@
 [
 "com.samsung.android.honeyboard",
 "Bearinmind",
+"Frosted glass"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
 "Hide Bitmoji and mojitok"
 ],
 [
@@ -39283,6 +40758,11 @@
 "com.samsung.android.honeyboard",
 "Bearinmind",
 "Hide new badges"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Hide predictive text download prompt"
 ],
 [
 "com.samsung.android.honeyboard",
@@ -39338,6 +40818,11 @@
 "com.samsung.android.honeyboard",
 "Bearinmind",
 "Stop remote updates"
+],
+[
+"com.samsung.android.honeyboard",
+"Bearinmind",
+"Voice input without navigation bar button"
 ],
 [
 "com.samsung.android.honeyboard",
@@ -39458,6 +40943,11 @@
 "com.samsung.android.shealthmonitor",
 "Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.samsung.android.sidegesturepad",
+"Bearinmind",
+"Change package name"
 ],
 [
 "com.samsung.android.sidegesturepad",
@@ -39872,7 +41362,17 @@
 [
 "com.sec.android.app.clockpackage",
 "Bearinmind",
+"Change package name"
+],
+[
+"com.sec.android.app.clockpackage",
+"Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.sec.android.app.launcher",
+"Bearinmind",
+"Change package name"
 ],
 [
 "com.sec.android.app.launcher",
@@ -39882,12 +41382,32 @@
 [
 "com.sec.android.app.music",
 "Bearinmind",
+"Change package name"
+],
+[
+"com.sec.android.app.music",
+"Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.sec.android.app.music",
+"Bearinmind",
+"Follow system font size"
+],
+[
+"com.sec.android.app.myfiles",
+"Bearinmind",
+"Change package name"
 ],
 [
 "com.sec.android.app.myfiles",
 "Bearinmind",
 "Enable non-One UI ROM support"
+],
+[
+"com.sec.android.app.popupcalculator",
+"Bearinmind",
+"Change package name"
 ],
 [
 "com.sec.android.app.popupcalculator",
@@ -40013,6 +41533,11 @@
 "com.sec.android.app.shealth",
 "Whythishome",
 "Show Health Data Sharing on non-Samsung devices"
+],
+[
+"com.sec.android.app.voicenote",
+"Bearinmind",
+"Change package name"
 ],
 [
 "com.sec.android.app.voicenote",
@@ -41133,6 +42658,11 @@
 "com.spotify.music",
 "2eno",
 "Sanitize sharing links"
+],
+[
+"com.spotify.music",
+"Aioue",
+"Allow internal audio capture (RootlessJamesDSP)"
 ],
 [
 "com.spotify.music",
@@ -50482,6 +52012,11 @@
 [
 "com.waze",
 "Bearinmind",
+"Any media app"
+],
+[
+"com.waze",
+"Bearinmind",
 "Average speed zone bar"
 ],
 [
@@ -51256,6 +52791,21 @@
 ],
 [
 "com.waze",
+"ShindouAris",
+"Add microG-RE support for Waze"
+],
+[
+"com.waze",
+"ShindouAris",
+"Add original microG support for Waze"
+],
+[
+"com.waze",
+"ShindouAris",
+"Waze Mod"
+],
+[
+"com.waze",
 "SledgeSune",
 "Disable reroute auto-accept"
 ],
@@ -51943,6 +53493,31 @@
 "com.whatsapp",
 "MightyMich",
 "View once media"
+],
+[
+"com.whatsapp",
+"mridwanfirdaus2603",
+"Download Status"
+],
+[
+"com.whatsapp",
+"mridwanfirdaus2603",
+"Keep Messages & Media"
+],
+[
+"com.whatsapp",
+"mridwanfirdaus2603",
+"Meta AI UI Cleanup"
+],
+[
+"com.whatsapp",
+"mridwanfirdaus2603",
+"Patch Settings"
+],
+[
+"com.whatsapp",
+"mridwanfirdaus2603",
+"Promotional UI Cleanup"
 ],
 [
 "com.whereismytrain.android",
@@ -52923,6 +54498,16 @@
 "com.zerch.widget",
 "GitGitro",
 "Unlock pro"
+],
+[
+"com.zhiliaoapp.musically",
+"BDCrusher",
+"Enhanced collection popup"
+],
+[
+"com.zhiliaoapp.musically",
+"BDCrusher",
+"Sound button actions"
 ],
 [
 "com.zhiliaoapp.musically",
@@ -55158,6 +56743,26 @@
 "com.zing.zalo",
 "Nezumi-2711",
 "Zalo native signature fix"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"Chat highlight toggle"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"Chat list filters & custom rename"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"Read-only mode"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"UI tweaks"
 ],
 [
 "com.zing.zalo",
@@ -57450,6 +59055,11 @@
 "Spoof carrier"
 ],
 [
+"h7.hamzio.emuithemeotg",
+"Santodan",
+"Peafowl - Bypass Signature Verification (Experimental)"
+],
+[
 "health.shohay.pregnancy",
 "Sabbirdj",
 "MicroG RE Google Sign-In"
@@ -58598,6 +60208,21 @@
 "jp.gocro.smartnews.android",
 "Haukist",
 "Popup share menu"
+],
+[
+"jp.gocro.smartnews.android",
+"Sabopura",
+"Auto claim mission rewards"
+],
+[
+"jp.gocro.smartnews.android",
+"Sabopura",
+"Open in external browser"
+],
+[
+"jp.gocro.smartnews.android",
+"Sabopura",
+"SmartNews cleanup"
 ],
 [
 "jp.hamitv.hamiand1",
@@ -59825,6 +61450,16 @@
 "Pixiv-Patched Drawer Entry"
 ],
 [
+"jp.pxv.android",
+"Sabopura",
+"Disable pixiv ad SDKs"
+],
+[
+"jp.pxv.android",
+"Sabopura",
+"Hide pixiv ads"
+],
+[
 "kallossoft.videotophoto",
 "FTL",
 "Skip splash delay"
@@ -60833,6 +62468,11 @@
 "net.oneplus.weather",
 "Bearinmind",
 "Enable non-ColorOS ROM support"
+],
+[
+"net.oneplus.weather",
+"Bearinmind",
+"Remove telemetry"
 ],
 [
 "net.osmand",
@@ -67783,6 +69423,321 @@
 "tv.twitch.android.app",
 "Ryykitty",
 "UI settings"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Account: Watch without signing in"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Ads: Block ad server requests"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Ads: Block client video ads"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Ads: Cover unreplaced ads"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Ads: Disable picture-by-picture"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Ads: Replace stitched ads"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Auto claim channel points"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Appearance"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Badges and pronouns"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Compact chat"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Emote and badge info"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Emote picker"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Filters"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Hide highlights"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Highlight first-time chatters"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: History tools"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Quick phrases"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Read chat aloud"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: Third-party emotes"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Chat: VOD support"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Danmaku chat"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Drops: Auto-claim Drops"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Fix links during picture-in-picture"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Fix login"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Fix login crash"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Fix notifications"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Install: Separate app"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Interface: AMOLED black"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Interface: Disable update prompts"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Interface: Following feed filters"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Interface: Hide elements"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Interface: Hide recaps"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Interface: Hide upsells"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Interface: Navigation bar position"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Background audio default"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Chat speed graph"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Close instead of mini player"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Default video quality"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Force landscape on opening"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Gestures"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Landscape chat layout"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Latency badge"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Mini player size"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: No autoplay after videos"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Normal latency"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Official stats panel"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Playback speed"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Reload when stalled"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Reload, stats, mute and lock"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Remember settings per channel"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Seek buttons"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Sleep timer"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Stay on channel during raids"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: Stream proxy"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: VOD chapters"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Player: VOD chat offset"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Privacy: Clean share links"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Privacy: Disable analytics"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Privacy: Remove tracking permissions"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Show deleted messages"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Startup: Default startup tab"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Startup: Fix stuck start screen"
+],
+[
+"tv.twitch.android.app",
+"Sabopura",
+"Tools: Lifetime totals"
 ],
 [
 "tv.twitch.android.app",
