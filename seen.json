@@ -26,6 +26,11 @@
 ],
 [
 "__universal__",
+"Birdy",
+"Clone app"
+],
+[
+"__universal__",
 "DanielTheManiel",
 "Memory editor"
 ],
@@ -2416,6 +2421,26 @@
 ],
 [
 "__universal__",
+"Oscski",
+"Prevent screenshot detection"
+],
+[
+"__universal__",
+"Oscski",
+"Remove screenshot restriction"
+],
+[
+"__universal__",
+"Oscski",
+"Spoof SIM provider"
+],
+[
+"__universal__",
+"Oscski",
+"Spoof Wi-Fi connection"
+],
+[
+"__universal__",
 "Rimixyz",
 "Spoof install source"
 ],
@@ -2433,6 +2458,16 @@
 "__universal__",
 "Thebugsmith",
 "Remove ads and trackers"
+],
+[
+"__universal__",
+"TrayChewy",
+"Force dark mode (any app)"
+],
+[
+"__universal__",
+"Yuuki-Kagura",
+"Disable PairIP license check"
 ],
 [
 "ai.moises",
@@ -3992,6 +4027,11 @@
 [
 "ch.protonvpn.android",
 "Hxreborn",
+"Split tunneling rules"
+],
+[
+"ch.protonvpn.android",
+"Hxreborn",
 "Unlock LAN connections"
 ],
 [
@@ -4123,6 +4163,11 @@
 "ch.protonvpn.android.reproducible",
 "Hxreborn",
 "Show free server locations"
+],
+[
+"ch.protonvpn.android.reproducible",
+"Hxreborn",
+"Split tunneling rules"
 ],
 [
 "ch.protonvpn.android.reproducible",
@@ -7452,6 +7497,11 @@
 [
 "com.apple.android.music",
 "Nich87",
+"Audio quality signal path"
+],
+[
+"com.apple.android.music",
+"Nich87",
 "Custom font"
 ],
 [
@@ -7488,6 +7538,16 @@
 "com.apple.android.music",
 "Nich87",
 "Repair Japanese library metadata"
+],
+[
+"com.apple.android.music",
+"Nich87",
+"Samsung Modes and Routines support"
+],
+[
+"com.apple.android.music",
+"Nich87",
+"USB DAC bit-perfect output"
 ],
 [
 "com.apple.android.music",
@@ -11975,6 +12035,11 @@
 "Waze Minimize Search Bar"
 ],
 [
+"com.chollometro",
+"Hxreborn",
+"Remove ads"
+],
+[
 "com.citynav.jakdojade.pl.android",
 "HagiaHaya",
 "Add mini-game shortcut"
@@ -13632,6 +13697,11 @@
 [
 "com.discord",
 "JaPatch",
+"Bookmark messages"
+],
+[
+"com.discord",
+"JaPatch",
 "Bring back Tenor GIFs"
 ],
 [
@@ -13663,6 +13733,11 @@
 "com.discord",
 "JaPatch",
 "Compress big files"
+],
+[
+"com.discord",
+"JaPatch",
+"Copy part of a message"
 ],
 [
 "com.discord",
@@ -13723,6 +13798,11 @@
 "com.discord",
 "JaPatch",
 "Download voice messages"
+],
+[
+"com.discord",
+"JaPatch",
+"Drafts that survive a restart"
 ],
 [
 "com.discord",
@@ -13832,6 +13912,11 @@
 [
 "com.discord",
 "JaPatch",
+"Keep message edit history"
+],
+[
+"com.discord",
+"JaPatch",
 "Leave group DMs silently"
 ],
 [
@@ -13858,6 +13943,11 @@
 "com.discord",
 "JaPatch",
 "Mutual group DMs"
+],
+[
+"com.discord",
+"JaPatch",
+"Nicknames for this phone"
 ],
 [
 "com.discord",
@@ -13898,6 +13988,11 @@
 "com.discord",
 "JaPatch",
 "Reply without pinging"
+],
+[
+"com.discord",
+"JaPatch",
+"Save profile pictures and banners"
 ],
 [
 "com.discord",
@@ -13947,6 +14042,11 @@
 [
 "com.discord",
 "JaPatch",
+"Show the time next to the server name"
+],
+[
+"com.discord",
+"JaPatch",
 "Show timeout duration"
 ],
 [
@@ -13958,6 +14058,11 @@
 "com.discord",
 "JaPatch",
 "Skip pin confirmation"
+],
+[
+"com.discord",
+"JaPatch",
+"Stay in calls when you are alone"
 ],
 [
 "com.discord",
@@ -19100,6 +19205,11 @@
 "Unlock premium"
 ],
 [
+"com.feresr.walpy",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.fgol.HungrySharkEvolution",
 "Legendsciber",
 "Hungry Shark Currency Hack"
@@ -19668,6 +19778,11 @@
 "com.fox.foxone",
 "Semicoloncolonel TV",
 "Skip ads"
+],
+[
+"com.fox.foxone",
+"Semicoloncolonel TV",
+"Skip splash sound"
 ],
 [
 "com.fox.fts.android",
@@ -22520,6 +22635,16 @@
 "Skip parent feature tour"
 ],
 [
+"com.google.android.apps.youtube.kids",
+"titaniumgui",
+"Change package name"
+],
+[
+"com.google.android.apps.youtube.kids",
+"titaniumgui",
+"Channel allow-list"
+],
+[
 "com.google.android.apps.youtube.music",
 "Bartlomiejfornalczyk",
 "Allow external media browser connections"
@@ -25222,6 +25347,11 @@
 [
 "com.google.android.inputmethod.latin",
 "assc0d3r",
+"At-mention suggestions"
+],
+[
+"com.google.android.inputmethod.latin",
+"assc0d3r",
 "Backspace Repeat Haptic Feedback"
 ],
 [
@@ -25773,6 +25903,11 @@
 "com.google.android.youtube",
 "iAmGodKiller",
 "Swap profile photo with Library icon"
+],
+[
+"com.google.android.youtube",
+"iAmGodKiller",
+"Tablet landscape watch layout"
 ],
 [
 "com.google.android.youtube",
@@ -30295,6 +30430,76 @@
 "Naolib v\u00e9lo : ouvrir les parkings \u00e0 distance"
 ],
 [
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Dark mode"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Disable analytics"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Disable analytics (Wear OS)"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"GmsCore support"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Hide Looks like tip"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Hide category header emoji"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Hide hero carousel"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Hide storefront pill icons"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Hide welcome card"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Premium unlock"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Premium unlock (Wear OS)"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Stop Featured Looks autoplay"
+],
+[
+"com.jeremysteckling.facerrel",
+"Amfakh",
+"Stop video autoplay"
+],
+[
+"com.jernung.writeit.android",
+"Hxreborn",
+"Unlock premium"
+],
+[
 "com.jetappfactory.jetaudio",
 "Heval",
 "Enable Pro"
@@ -32915,6 +33120,11 @@
 "Foldable Seamless Wide View"
 ],
 [
+"com.lima.doodlejump",
+"Darkaxt",
+"GmsCore support"
+],
+[
 "com.lingodeer",
 "Hxreborn",
 "GmsCore support"
@@ -33688,6 +33898,21 @@
 "com.lmr.lfm",
 "Legendsciber",
 "Premium"
+],
+[
+"com.locket.Locket",
+"Toidicakhia",
+"Bypass SSL Pinning"
+],
+[
+"com.locket.Locket",
+"Toidicakhia",
+"Remote Config overrides"
+],
+[
+"com.locket.Locket",
+"Toidicakhia",
+"Spoof Firebase signing certificate"
 ],
 [
 "com.locket.Locket",
@@ -34745,6 +34970,11 @@
 "Update Without Account"
 ],
 [
+"com.michaldrabik.showly2",
+"Hxreborn",
+"Glass navigation bar"
+],
+[
 "com.microsoft.office.excel",
 "Ineednotitle",
 "Unlock Excel"
@@ -35078,6 +35308,11 @@
 "com.mixplorer",
 "MightyMich",
 "Remove HTTP/HTTPS intent filters"
+],
+[
+"com.mobile.airexplorer",
+"Hxreborn",
+"Remove Pro promotion"
 ],
 [
 "com.mobilefootie.wc2010",
@@ -36167,6 +36402,11 @@
 [
 "com.neopawstudio.warunglife",
 "Amfakh",
+"Disable analytics"
+],
+[
+"com.neopawstudio.warunglife",
+"Amfakh",
 "GmsCore support"
 ],
 [
@@ -36203,6 +36443,31 @@
 "com.neopawstudio.warunglife",
 "Amfakh",
 "Unlock tester outfit"
+],
+[
+"com.netbiscuits.kicker",
+"Arkert",
+"Auto-Reject Kicker Optional Tracking"
+],
+[
+"com.netbiscuits.kicker",
+"Arkert",
+"Hide Kicker In-Feed Ads"
+],
+[
+"com.netbiscuits.kicker",
+"Arkert",
+"Hide Kicker Interstitial Ads"
+],
+[
+"com.netbiscuits.kicker",
+"Arkert",
+"Hide Kicker Sticky Ads"
+],
+[
+"com.netbiscuits.kicker",
+"Arkert",
+"Skip Kicker Media Prerolls"
 ],
 [
 "com.netbiscuits.kicker",
@@ -36872,6 +37137,11 @@
 [
 "com.nike.plusgps",
 "Madushas",
+"Nike obfuscator access-gate bypass"
+],
+[
+"com.nike.plusgps",
+"Madushas",
 "Remove ads"
 ],
 [
@@ -37347,6 +37617,11 @@
 [
 "com.nytimes.android",
 "Semicoloncolonel Mobile",
+"Library pass reminder"
+],
+[
+"com.nytimes.android",
+"Semicoloncolonel Mobile",
 "Remove social sign-in"
 ],
 [
@@ -37613,6 +37888,11 @@
 "com.omobio.etisalatone",
 "Madushas",
 "Disable trackers"
+],
+[
+"com.omobio.etisalatone",
+"Madushas",
+"Remove ads"
 ],
 [
 "com.one4studio.one4home",
@@ -38900,6 +39180,11 @@
 "Enable instant rewards"
 ],
 [
+"com.pepperdeals",
+"Hxreborn",
+"Remove ads"
+],
+[
 "com.peptalk.app",
 "XBadFellaX",
 "Pep Talk Elite features"
@@ -39803,6 +40088,21 @@
 "com.plexapp.android",
 "UnkyBadTouch",
 "Premium unlock"
+],
+[
+"com.pluralsight",
+"Madushas",
+"Bypass PairIP license check"
+],
+[
+"com.pluralsight",
+"Madushas",
+"Disable tracker components"
+],
+[
+"com.pluralsight",
+"Madushas",
+"Disable trackers"
 ],
 [
 "com.pocketcolorwheel.PCW",
@@ -44120,6 +44420,11 @@
 "Enable Premium"
 ],
 [
+"com.shvagerfm.bestronger",
+"CallMeBeyonder",
+"Unlock BeStronger Pro"
+],
+[
 "com.sidelineswap.android",
 "Aidan",
 "AMOLED Theme"
@@ -44318,6 +44623,26 @@
 "com.skgames.trafficracer",
 "byehi98",
 "Traffic Racer IAP Bypass"
+],
+[
+"com.skillshare.Skillshare",
+"Madushas",
+"Disable Blueshift engagement SDK"
+],
+[
+"com.skillshare.Skillshare",
+"Madushas",
+"Disable trackers"
+],
+[
+"com.skillshare.Skillshare",
+"Madushas",
+"Remove ads"
+],
+[
+"com.skillshare.Skillshare",
+"Madushas",
+"Unlock premium (client-side)"
 ],
 [
 "com.skt.prod.dialer",
@@ -48078,6 +48403,21 @@
 "com.thetransitapp.droid",
 "Xiliav",
 "Unlock Royale"
+],
+[
+"com.thina.welovedeals",
+"Madushas",
+"Bypass PairIP license check"
+],
+[
+"com.thina.welovedeals",
+"Madushas",
+"Remove ads"
+],
+[
+"com.thina.welovedeals",
+"Madushas",
+"Unlock premium"
 ],
 [
 "com.thinkdirty.thinkdirtyapp",
@@ -55670,6 +56010,16 @@
 "Strip affiliate links"
 ],
 [
+"com.what3words.android",
+"Hxreborn",
+"Unlock premium"
+],
+[
+"com.what3words.android",
+"Hxreborn",
+"Use Mapbox map"
+],
+[
 "com.whatsapp",
 "BOPBOP-glitch",
 "Anti Detector"
@@ -59022,6 +59372,11 @@
 [
 "com.zing.zalo",
 "Nezumi-2711",
+"Rich text formatting"
+],
+[
+"com.zing.zalo",
+"Nezumi-2711",
 "Save media"
 ],
 [
@@ -59072,6 +59427,16 @@
 [
 "com.zing.zalo",
 "RustyBrozen",
+"Allow patched app to start"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"Block ads & tracking"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
 "Chat highlight toggle"
 ],
 [
@@ -59082,7 +59447,37 @@
 [
 "com.zing.zalo",
 "RustyBrozen",
+"Clean chat list"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"Force highest video quality"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"Highlight chats"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"Minimal top bar & media"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"Read-only chats"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
 "Read-only mode"
+],
+[
+"com.zing.zalo",
+"RustyBrozen",
+"Save recalled messages"
 ],
 [
 "com.zing.zalo",
@@ -59208,6 +59603,211 @@
 "com.zing.zalo",
 "Zeldris",
 "Suppress outbound seen status"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"AMOLED dark theme"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Bug log"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Bypass conversation protection"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Call recording"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Chat avatar comet"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Chat heads instead of Android bubbles"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Chat reaction picker"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Clone package"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Custom font"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Custom sounds"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Disable ads"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Disable sponsored placements"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Disable telemetry and crash reporting"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Drive backup via microG"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Enable stranger notifications"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Filter promo notifications"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide Business Box in Messages"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide Media Box in Messages"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide OA accounts in Messages"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide ads in Messages"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide delivery receipts"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide feed ads"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide navigation tabs"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide other caller hangup toast"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide read receipts"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide text typing"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide zBusiness, zCloud and zStyle in Personal"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Hide zStyle conversation"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Keep expired media accessible"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Keep recalled messages"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Light glass navigation bar"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Mark as read from notifications"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Native signature fix"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Open links in external browser"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Remove AD_ID permission"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Remove media backup age limit"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Save media"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Send photos in original quality"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Sparkling hidden-message search icon"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"Unlimited quick messages"
+],
+[
+"com.zing.zalo",
+"Zensetting",
+"View online status privately"
 ],
 [
 "com.zong.customercare",
@@ -59685,6 +60285,11 @@
 "Wire Auto Trading fragment"
 ],
 [
+"crocusgames.com.spikestats",
+"Hxreborn",
+"Remove banner ads"
+],
+[
 "customstickermaker.whatsappstickers.personalstickersforwhatsapp",
 "0xBaselessProjects",
 "Disable Analytics / Telemetry"
@@ -59907,7 +60512,32 @@
 [
 "de.herrenabend_sport_verein.comuniodroid",
 "Arkert",
+"Collapse Bottom Ad Slot"
+],
+[
+"de.herrenabend_sport_verein.comuniodroid",
+"Arkert",
+"Disable Interstitial Prefetch"
+],
+[
+"de.herrenabend_sport_verein.comuniodroid",
+"Arkert",
+"Hide Ad-Free Upsell"
+],
+[
+"de.herrenabend_sport_verein.comuniodroid",
+"Arkert",
 "Hide Banner Ads"
+],
+[
+"de.herrenabend_sport_verein.comuniodroid",
+"Arkert",
+"Hide Fullscreen Ads"
+],
+[
+"de.herrenabend_sport_verein.comuniodroid",
+"Arkert",
+"Hide Top Announcements"
 ],
 [
 "de.klassikradio.app",
@@ -62090,6 +62720,81 @@
 "XP Hero | Unlock Blaster & Hana (FREE)"
 ],
 [
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Choose S-Ticket Trait"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free Hero Evolve"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free Hero Level Up"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free Hero Upgrade (0 Shards)"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free Party Skill Enhancements"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free Rune Upgrades"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free S-Ticket Rolls"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free Shops"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free Tickets & Return"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free Trait Presets"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Free Trait Rerolls"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Hero Upgrade (1 Shard - Fallback)"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Highest-Rarity Tomb Runes"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Massive EXP Multiplier"
+],
+[
+"io.supercent.weaponrpg",
+"REP-Julian",
+"XP Hero | Unlock All Heroes (FREE)"
+],
+[
 "io.syncapps.lemmy_sync",
 "Brealorg",
 "Disable ads"
@@ -64023,6 +64728,11 @@
 "me.pou.app",
 "MightyMich",
 "Unlock everything"
+],
+[
+"me.proton.android.lumo",
+"Hxreborn",
+"Fix input spacing"
 ],
 [
 "me.proton.android.lumo",
@@ -69525,6 +70235,16 @@
 "Enable Pro"
 ],
 [
+"pl.tablica",
+"RikoDEV",
+"Block telemetry"
+],
+[
+"pl.tablica",
+"RikoDEV",
+"Hide ads"
+],
+[
 "pl.wykop.droid",
 "HagiaHaya",
 "Fix sidebar layout"
@@ -69808,6 +70528,11 @@
 "reddit.news",
 "DrBushyTop",
 "Fix GIF sound"
+],
+[
+"reddit.news",
+"DrBushyTop",
+"Fix share links after login refresh"
 ],
 [
 "reddit.news",
@@ -71120,6 +71845,11 @@
 "No Limit"
 ],
 [
+"tv.medal.recorder",
+"Hxreborn",
+"Remove feed promotion"
+],
+[
 "tv.pluto.android",
 "Android TV",
 "Skip ads (v17)"
@@ -72176,6 +72906,61 @@
 ],
 [
 "tv.twitch.android.app",
+"ViolaTV",
+"App name and icon"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"Block ads"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"Channel points and Drops"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"Chat"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"Danmaku chat"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"Interface"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"Playback"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"Privacy"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"Separate app"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"Third-party emotes"
+],
+[
+"tv.twitch.android.app",
+"ViolaTV",
+"ViolaTV"
+],
+[
+"tv.twitch.android.app",
 "aRandomHooman",
 "Fix notifications"
 ],
@@ -72183,6 +72968,11 @@
 "tv.wuaki.apptv",
 "Semicoloncolonel TV",
 "Skip ads"
+],
+[
+"ua.kino",
+"rareMaxim",
+"Disable ads"
 ],
 [
 "uk.co.lrb.mag",
